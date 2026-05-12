@@ -1,0 +1,25 @@
+{
+  "podcasts": [
+    {
+      "name": "Twenty Thousand Hertz",
+      "rss": null
+    },
+    {
+      "name": "99% Invisible",
+      "rss": null
+    },
+    {
+      "name": "People I (Mostly) Admire",
+      "rss": null
+    },
+    {
+      "name": "Black T-Shirts",
+      "rss": null
+    },
+    {
+      "name": "Founders",
+      "rss": null
+    }
+  ],
+  "note": "If 'rss' is null, the fetcher auto-discovers the feed via iTunes Search API by show name. Set 'rss' explicitly to lock to a specific URL."
+}

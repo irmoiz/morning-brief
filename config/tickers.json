@@ -1,0 +1,14 @@
+{
+  "tickers": [
+    "VOO",
+    "NVDA",
+    "MU",
+    "GOOGL",
+    "META",
+    "ASML",
+    "TSM",
+    "CCJ",
+    "PLTR"
+  ],
+  "note": "Edit this list to change which tickers are covered in the markets segment."
+}

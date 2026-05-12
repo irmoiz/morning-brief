@@ -1,0 +1,13 @@
+# Secrets — NEVER commit these
+.env
+*.key
+*.pem
+
+# Local state
+state.json
+*.mp3
+audio_segments/
+__pycache__/
+*.pyc
+.venv/
+venv/
