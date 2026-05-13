@@ -6,6 +6,7 @@
 # Local state
 state.json
 *.mp3
+!docs/episodes/*.mp3
 audio_segments/
 __pycache__/
 *.pyc
