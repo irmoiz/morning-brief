@@ -1,182 +1,102 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you catch that UN warning about the potential for a hunger crisis if tensions in the Strait of Hormuz escalate?"
+    "text": "Good morning, Moiz! Have you heard about the latest summit between Trump and Xi? It seems like they're trying to prioritize business over their longstanding issues."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, that’s pretty alarming! The idea that a conflict could disrupt food and fertilizer supplies globally is quite concerning."
+    "text": "Yeah, that’s wild! They didn’t even manage to tackle the big topics like Iran and Taiwan. It looks like they’re just trying to keep the peace for economic reasons."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. And speaking of global issues, let’s dive into some world news."
+    "text": "Right? The summit has been described as a move towards a more business-first relationship. But considering they didn’t resolve any critical issues, it makes you wonder how lasting this truce will be."
   },
   {
     "speaker": "Eve",
-    "text": "A federal judge has temporarily blocked US sanctions against UN rapporteur Francesca Albanese that were imposed during the Trump administration."
+    "text": "Exactly! And aside from that, the U.S. is seeking an indictment of former Cuban leader Raul Castro. This is linked to the tragic downing of humanitarian planes back in '96, which is a huge historical case."
   },
   {
     "speaker": "Adam",
-    "text": "That’s significant! It highlights ongoing tensions over international oversight and human rights."
+    "text": "That really is a significant move. It seems like the U.S. is still dealing with the ramifications of that incident decades later."
   },
   {
     "speaker": "Eve",
-    "text": "Meanwhile, in the UK, local elections have revealed a troubling trend where Muslim political participation is being treated with suspicion."
+    "text": "And speaking of history, today is Nakba Day, marking 78 years since the Palestinian exodus. Millions are commemorating it, which serves as a powerful reminder of the ongoing struggle for justice and self-determination."
   },
   {
     "speaker": "Adam",
-    "text": "Huh, that’s wild. It seems like there’s a bigger conversation about inclusion and representation happening there."
+    "text": "True, it's a day of both remembrance and activism. The topic of the Palestinian diaspora is also getting some attention lately, especially with Nadim Bawalsa's insights on Latin American identity."
   },
   {
     "speaker": "Eve",
-    "text": "It definitely is. In other news, on the sports front, Lionel Messi scored two goals for Inter Miami, leading them to their fifth consecutive away victory in the MLS."
+    "text": "Yes! He highlights how early Palestinian migrants formed their national identity long before 1948, which is fascinating."
   },
   {
     "speaker": "Adam",
-    "text": "Messi just keeps delivering! It’s impressive how he’s impacting the league."
+    "text": "On a lighter note, scientists recently discovered a massive new dinosaur in Thailand, named Nagatitan chaiyaphumensis. It's always exciting to see how paleontology continues to surprise us."
   },
   {
     "speaker": "Eve",
-    "text": "For sure! And in a different realm, Japanese snack company Calbee is planning to switch to black-and-white packaging for some products due to a shortage of printing ink linked to the Iran situation."
+    "text": "Oh wow, that’s amazing! New species are still being identified, which shows how much we still don’t know about our planet’s history."
   },
   {
     "speaker": "Adam",
-    "text": "That’s an unexpected consequence of international conflict! It really shows how interconnected everything is."
+    "text": "Shifting gears to sports, Kylian Mbappé has found himself benched at Real Madrid, which he described as being the fourth-choice forward. That's quite the fall from grace for such a talented player."
   },
   {
     "speaker": "Eve",
-    "text": "Speaking of global politics, Trump recently praised China while dodging questions about Taiwan."
+    "text": "I can't believe that! He’s been a star player, and now he's jeered by fans. That must be tough for him."
   },
   {
     "speaker": "Adam",
-    "text": "Classic Trump move, right? It’s like he knows how to stir the pot."
+    "text": "Now, let’s take a look at the markets. The Vanguard S&P 500 ETF, or VOO, closed yesterday at $687.73, up 0.78%. Analysts are buzzing about potential highs ahead."
   },
   {
     "speaker": "Eve",
-    "text": "Right? And over in the UK, artist Matthew Collings is defending his show \"Drawings Against Genocide\" after it faced cancellation."
+    "text": "Interesting! And NVIDIA, trading at $235.74, surged by 4.39%. It’s rated a strong buy with a mean target price of about $270, which is pretty optimistic."
   },
   {
     "speaker": "Adam",
-    "text": "Sounds like a heated topic there. Art can often provoke strong reactions, can't it?"
+    "text": "Definitely! NVIDIA’s making headlines for its impressive growth. On the flipside, Micron Technology is down 3.44%, closing at $776.01, but still holds a strong buy rating with a mean target of around $574."
   },
   {
     "speaker": "Eve",
-    "text": "It really can. Now, shifting gears a bit, Nepal is caught in a bind as the US-China drone war extends to the Everest region."
+    "text": "That's quite a drop! Meanwhile, Alphabet Inc., or GOOGL, dipped 0.38% to $401.07, but analysts still rate it a strong buy with a target of $427."
   },
   {
     "speaker": "Adam",
-    "text": "That’s quite a scenario for Nepal, navigating superpower interests on its soil."
+    "text": "And Meta Platforms also saw a slight increase of 0.29%, closing at $618.43. Its target price is much higher, at $826."
   },
   {
     "speaker": "Eve",
-    "text": "Exactly. And California is questioning FIFA about potential violations in World Cup ticket sales, particularly regarding ticket category changes after purchase."
+    "text": "Then there’s ASML, which edged up 0.19% to $1584.51 and also has a strong buy rating with a mean target of $1661."
   },
   {
     "speaker": "Adam",
-    "text": "It’s interesting how ticketing issues can spiral into larger legal and ethical conversations."
+    "text": "Taiwan Semiconductor jumped 4.48% to $417.72. They have a mean target of around $463, which looks promising."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely. In other news, a Philippine politician wanted by the ICC reportedly fled the Senate, which is a big development."
+    "text": "Cameco Corporation, however, is down 2.5% at $112.51 but still rated a buy with a target of $138."
   },
   {
     "speaker": "Adam",
-    "text": "Wow, that’s quite the political drama unfolding! And lastly, Fatah is holding its 8th general congress, which has been delayed for years."
+    "text": "Finally, Palantir Technologies saw a rise of 2.83% to $133.73, with analysts suggesting it could reach $183 in the future."
   },
   {
     "speaker": "Eve",
-    "text": "It sounds like it could be a critical moment for the movement’s future."
+    "text": "That's a solid outlook! Now, let’s wrap up with what’s new in your podcasts today, but it looks like there’s nothing on the list for new episodes."
   },
   {
     "speaker": "Adam",
-    "text": "Now, let’s take a look at the markets. The Vanguard S&P 500 ETF, or VOO, closed up 0.55%."
+    "text": "Yeah, a quiet day on that front. But, it’s always good to keep an ear out for anything that pops up."
   },
   {
     "speaker": "Eve",
-    "text": "Right, so no major surprises there."
+    "text": "Absolutely! Well, that’s about it for today, Moiz. Drive safely and enjoy your day!"
   },
   {
     "speaker": "Adam",
-    "text": "NVIDIA, on the other hand, saw a significant jump of 2.29%, with analysts rating it a strong buy and a mean price target of about $270."
-  },
-  {
-    "speaker": "Eve",
-    "text": "That’s a solid endorsement. What’s driving that interest?"
-  },
-  {
-    "speaker": "Adam",
-    "text": "It appears to be linked to the ongoing demand for tech stocks, particularly with AI advancements."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Makes sense. Micron Technology also performed well, up nearly 4.83% with a strong buy rating and a target mean of around $574."
-  },
-  {
-    "speaker": "Adam",
-    "text": "There’s a lot of buzz around AI demand in the chip sector, it seems."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Absolutely. Over at Alphabet, shares closed up 3.94% with a strong buy rating and a target mean of about $428."
-  },
-  {
-    "speaker": "Adam",
-    "text": "It’s impressive how tech stocks are rebounding right now."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Meta Platforms also had a notable day, rising 2.26% and rated as a strong buy, with a target of about $827."
-  },
-  {
-    "speaker": "Adam",
-    "text": "The AI focus is definitely helping Meta as well."
-  },
-  {
-    "speaker": "Eve",
-    "text": "ASML Holding saw a rise of 3.99%, with a strong buy recommendation and a target mean of $1,672."
-  },
-  {
-    "speaker": "Adam",
-    "text": "They’re benefiting from increased demand for semiconductors too, right?"
-  },
-  {
-    "speaker": "Eve",
-    "text": "Exactly! Taiwan Semiconductor closed up 0.63%, with a target mean of around $463."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Cameco Corporation, however, dipped by 1.32% but still holds a buy recommendation with a target mean of about $138."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Some fluctuations there, but they’re still viewed positively overall."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Palantir Technologies is another one to note, down 4.37% but still rated a buy with a target mean of $184."
-  },
-  {
-    "speaker": "Eve",
-    "text": "It’ll be interesting to see how they navigate this dip, especially with all the AI conversations happening."
-  },
-  {
-    "speaker": "Adam",
-    "text": "For sure, it’s a dynamic landscape."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Now, moving on to new episodes in your podcasts, it looks like we don't have any new episodes today."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Sometimes it’s nice to take a break from the podcast overload."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Exactly! And that wraps up today’s news."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Thanks for joining us, Moiz! Drive safely!"
+    "text": "Take care, Moiz!"
   }
 ]
