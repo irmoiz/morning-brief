@@ -1,102 +1,154 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Have you heard about the latest summit between Trump and Xi? It seems like they're trying to prioritize business over their longstanding issues."
+    "text": "Good morning, Moiz! Did you hear about the shark attack in Australia? That's wild!"
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, that’s wild! They didn’t even manage to tackle the big topics like Iran and Taiwan. It looks like they’re just trying to keep the peace for economic reasons."
+    "text": "I know, right? A 38-year-old man was bitten at a popular diving spot near Perth. Just goes to show how unpredictable nature can be."
   },
   {
     "speaker": "Adam",
-    "text": "Right? The summit has been described as a move towards a more business-first relationship. But considering they didn’t resolve any critical issues, it makes you wonder how lasting this truce will be."
+    "text": "Speaking of unpredictability, let's dive into some global news. The situation in Iran continues to escalate as day 78 of the war unfolds. Iran claims that Trump signaled openness to talks, but there's still a deadlock over Tehran's nuclear program."
   },
   {
     "speaker": "Eve",
-    "text": "Exactly! And aside from that, the U.S. is seeking an indictment of former Cuban leader Raul Castro. This is linked to the tragic downing of humanitarian planes back in '96, which is a huge historical case."
+    "text": "Yeah, and this situation is compounded by the truce extension in Lebanon, which gives a glimmer of hope amid all the chaos. It’s a complex web of geopolitics that's hard to untangle."
   },
   {
     "speaker": "Adam",
-    "text": "That really is a significant move. It seems like the U.S. is still dealing with the ramifications of that incident decades later."
+    "text": "Absolutely. Over in Nigeria, reports have surfaced about gunmen kidnapping dozens of students in Borno State. No one has claimed responsibility yet, but it bears the hallmark of Boko Haram, which is quite concerning."
   },
   {
     "speaker": "Eve",
-    "text": "And speaking of history, today is Nakba Day, marking 78 years since the Palestinian exodus. Millions are commemorating it, which serves as a powerful reminder of the ongoing struggle for justice and self-determination."
+    "text": "It’s heartbreaking to see this happening again. Kidnappings have become a tragic norm in that region."
   },
   {
     "speaker": "Adam",
-    "text": "True, it's a day of both remembrance and activism. The topic of the Palestinian diaspora is also getting some attention lately, especially with Nadim Bawalsa's insights on Latin American identity."
+    "text": "In a somewhat related vein, the Spanish PM is defending the country's boycott of Eurovision over Israel's participation. It's stirring quite a debate about politics and entertainment."
   },
   {
     "speaker": "Eve",
-    "text": "Yes! He highlights how early Palestinian migrants formed their national identity long before 1948, which is fascinating."
+    "text": "It really raises questions about whether events like Eurovision can truly remain apolitical, especially given the current climate."
   },
   {
     "speaker": "Adam",
-    "text": "On a lighter note, scientists recently discovered a massive new dinosaur in Thailand, named Nagatitan chaiyaphumensis. It's always exciting to see how paleontology continues to surprise us."
+    "text": "Meanwhile, in Australia, that shark attack has overshadowed another disturbing headline: at least seven Palestinians were killed in Israeli air strikes on Gaza City."
   },
   {
     "speaker": "Eve",
-    "text": "Oh wow, that’s amazing! New species are still being identified, which shows how much we still don’t know about our planet’s history."
+    "text": "That’s devastating news. The violence seems to be escalating in that region, which rarely sees a break from conflict."
   },
   {
     "speaker": "Adam",
-    "text": "Shifting gears to sports, Kylian Mbappé has found himself benched at Real Madrid, which he described as being the fourth-choice forward. That's quite the fall from grace for such a talented player."
+    "text": "And speaking of distressing updates, the outbreak of a rare strain of Ebola in the Democratic Republic of Congo has claimed at least 65 lives."
   },
   {
     "speaker": "Eve",
-    "text": "I can't believe that! He’s been a star player, and now he's jeered by fans. That must be tough for him."
+    "text": "That’s alarming. With 246 suspected cases, it’s a reminder of how quickly diseases can spread, especially in vulnerable areas."
   },
   {
     "speaker": "Adam",
-    "text": "Now, let’s take a look at the markets. The Vanguard S&P 500 ETF, or VOO, closed yesterday at $687.73, up 0.78%. Analysts are buzzing about potential highs ahead."
+    "text": "In some lighter news, Aston Villa just trounced Liverpool 4-2 to secure a spot in the Champions League."
   },
   {
     "speaker": "Eve",
-    "text": "Interesting! And NVIDIA, trading at $235.74, surged by 4.39%. It’s rated a strong buy with a mean target price of about $270, which is pretty optimistic."
+    "text": "Liverpool's had a tough season, and this loss won't help. Ollie Watkins scored a brace, and it sounds like Villa is really on a roll!"
   },
   {
     "speaker": "Adam",
-    "text": "Definitely! NVIDIA’s making headlines for its impressive growth. On the flipside, Micron Technology is down 3.44%, closing at $776.01, but still holds a strong buy rating with a mean target of around $574."
+    "text": "And in the NBA, Wembanyama's Spurs have made it to the Western Conference Finals. They beat the Timberwolves, while the Pistons managed to stay alive by leveling their series against Cleveland."
   },
   {
     "speaker": "Eve",
-    "text": "That's quite a drop! Meanwhile, Alphabet Inc., or GOOGL, dipped 0.38% to $401.07, but analysts still rate it a strong buy with a target of $427."
+    "text": "Exciting times for basketball fans! It’s always thrilling to watch the playoffs unfold like this."
   },
   {
     "speaker": "Adam",
-    "text": "And Meta Platforms also saw a slight increase of 0.29%, closing at $618.43. Its target price is much higher, at $826."
+    "text": "Now, let's switch gears and check the markets. The Vanguard S&P 500 ETF, or VOO, closed at $679.44, down about 1.21%."
   },
   {
     "speaker": "Eve",
-    "text": "Then there’s ASML, which edged up 0.19% to $1584.51 and also has a strong buy rating with a mean target of $1661."
+    "text": "Not surprising, given the market fluctuations recently. There’s speculation about potential highs ahead for the S&P 500, according to analysts."
   },
   {
     "speaker": "Adam",
-    "text": "Taiwan Semiconductor jumped 4.48% to $417.72. They have a mean target of around $463, which looks promising."
+    "text": "Right, and NVIDIA stock has taken a hit, closing at $225.32, a drop of 4.42%. Analysts still have a \"strong buy\" recommendation, with a target mean price of around $273."
   },
   {
     "speaker": "Eve",
-    "text": "Cameco Corporation, however, is down 2.5% at $112.51 but still rated a buy with a target of $138."
+    "text": "That's quite a gap, isn't it? Investors must be weighing the potential despite the downturn."
   },
   {
     "speaker": "Adam",
-    "text": "Finally, Palantir Technologies saw a rise of 2.83% to $133.73, with analysts suggesting it could reach $183 in the future."
+    "text": "For Micron Technology, the stock closed at $724.66, down 6.62%. Analysts are still bullish with a strong buy rating and a target mean of $584."
   },
   {
     "speaker": "Eve",
-    "text": "That's a solid outlook! Now, let’s wrap up with what’s new in your podcasts today, but it looks like there’s nothing on the list for new episodes."
+    "text": "That’s notable, especially with the chip market being so volatile."
   },
   {
     "speaker": "Adam",
-    "text": "Yeah, a quiet day on that front. But, it’s always good to keep an ear out for anything that pops up."
+    "text": "Alphabet, or GOOGL, closed at $396.78, down 1.07%. Analysts are also holding a strong buy with a target mean of roughly $428."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely! Well, that’s about it for today, Moiz. Drive safely and enjoy your day!"
+    "text": "The tech sector seems to be facing some pressure, but it’s interesting to see the analysts maintain their confidence."
   },
   {
     "speaker": "Adam",
-    "text": "Take care, Moiz!"
+    "text": "Meta Platforms fell slightly, closing at $614.23, down 0.68%. Again, a strong buy recommendation persists, with a target mean of $827."
+  },
+  {
+    "speaker": "Eve",
+    "text": "It’s a similar story across the board, isn’t it? It seems like there's room for rebound in these stocks."
+  },
+  {
+    "speaker": "Adam",
+    "text": "ASML closed at $1501.81, down 5.22%. Despite the dip, it's still rated as a strong buy with a target mean of about $1661."
+  },
+  {
+    "speaker": "Eve",
+    "text": "That’s a significant target; it suggests that analysts see potential long-term growth despite short-term fluctuations."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Taiwan Semiconductor closed at $404.35, down 3.2% with a target mean of $463, showing a cautious outlook."
+  },
+  {
+    "speaker": "Eve",
+    "text": "And Cameco Corporation’s stock is down 4.44% to $107.51. It’s rated a buy with a target mean of $138, indicating some optimism there."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Finally, Palantir Technologies closed at $133.99, slightly up by 0.19%. The buy recommendation remains with a target mean of $184."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Quite a mixed bag in the markets today!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "Now for something a little different. We’ve got a new episode of \"People I (Mostly) Admire\" featuring Sal Khan, the founder of Khan Academy."
+  },
+  {
+    "speaker": "Eve",
+    "text": "He discusses his journey from online math tutorials for family to a global platform used by over 115 million people. He even shares his vision for reinventing in-school learning. Sounds intriguing!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "It does, and it originally aired in April 2021, but it’s always relevant given the ongoing discussions around education reform."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Definitely worth a listen for anyone interested in education or innovation!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "Well, that wraps up today’s headlines, Moiz."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Stay safe on your drive, and we’ll catch you next time!"
   }
 ]
