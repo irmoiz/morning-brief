@@ -19,6 +19,16 @@
     <itunes:type>episodic</itunes:type>
 
     <item>
+      <title>Morning Brief — 2026-05-17</title>
+      <description>A daily 10-minute personal news brief covering Al Jazeera top stories, market moves on a personal watchlist, and new-episode summaries from a hand-picked set of podcasts.</description>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://irmoiz.github.io/morning-brief/episodes/2026-05-17.mp3" length="5231661" type="audio/mpeg" />
+      <guid isPermaLink="false">morning-brief-2026-05-17</guid>
+      <itunes:author>Moiz</itunes:author>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Morning Brief — 2026-05-16</title>
       <description>A daily 10-minute personal news brief covering Al Jazeera top stories, market moves on a personal watchlist, and new-episode summaries from a hand-picked set of podcasts.</description>
       <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
