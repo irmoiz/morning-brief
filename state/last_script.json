@@ -1,186 +1,154 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you catch the news about Bulgaria winning Eurovision for the first time?"
+    "text": "Hey Moiz, have you heard about that drone nearly hitting the Barakah nuclear plant in the UAE?"
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, that’s wild! And the whole political boycott surrounding it adds such a dramatic twist, doesn't it?"
+    "text": "Oh wow, that sounds intense! I mean, a nuclear facility and drones? That's a recipe for some serious headlines!"
   },
   {
     "speaker": "Adam",
-    "text": "It really does! Let’s dive into some of the world news. Al Jazeera is reporting from the Strait of Hormuz, focusing on Iran's new plans to manage shipping in the region."
+    "text": "Right? The Barakah plant is actually crucial for the UAE, providing about a quarter of its electricity. It’s fascinating yet alarming how close that could have been."
   },
   {
     "speaker": "Eve",
-    "text": "Right, and with tensions still high due to the ongoing conflict, this could have major implications for international trade routes."
+    "text": "Speaking of alarming, there are some major global issues hitting the news this morning. Let’s dive into some world headlines."
   },
   {
     "speaker": "Adam",
-    "text": "Exactly. And speaking of international matters, in a surprising outcome, Bulgaria took home the Eurovision trophy, while Israel finished second amidst significant political boycotts from countries like Spain and the Netherlands over the Gaza war."
+    "text": "For sure. First up, we have a report on maternal and child health, highlighting how cuts in aid, debt, and ongoing conflicts are really pushing these vital areas to their breaking point."
   },
   {
     "speaker": "Eve",
-    "text": "It’s interesting how the contest became a platform for political statements rather than just a music competition."
+    "text": "It’s really heartbreaking to think about, especially when so many women and children depend on these services for their survival."
   },
   {
     "speaker": "Adam",
-    "text": "Definitely. In sports news, Iran announced their World Cup 2026 squad, and notable striker Sardar Azmoun was left out."
+    "text": "Absolutely. And in another alarming development, experts are questioning the world's preparedness for the next pandemic. With funding cuts in health research and the rise of the antivaccine movement, there are serious concerns about our ability to respond effectively."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, that’s quite a decision! With the squad needing to be trimmed to 26 by June 1, it’ll be interesting to see how that unfolds."
+    "text": "Wow, that’s a tough pill to swallow. It feels like we’re still reeling from COVID-19. It’s hard to believe we might not be ready for the next wave of viruses."
   },
   {
     "speaker": "Adam",
-    "text": "In the U.S., there's a bit of a political scandal brewing with federal funding for a Trump ballroom becoming a hot topic after a Senate ruling."
+    "text": "Exactly. On another front, the Iranian stock market is gearing up for a reopening after a long war closure. While it’s not the main financing engine for the economy, it holds political and psychological significance."
   },
   {
     "speaker": "Eve",
-    "text": "Oh, it seems like the political landscape is always shifting. And over in the Premier League, Chelsea has appointed Xabi Alonso as their new manager."
+    "text": "That’s interesting! It shows how crucial the stock market can be, even in times of crisis."
   },
   {
     "speaker": "Adam",
-    "text": "That’ll be a big change for them after a tough season."
+    "text": "And in more urgent news, several activists from the Global Sumud Flotilla, who were abducted, have released pre-recorded messages calling for help."
   },
   {
     "speaker": "Eve",
-    "text": "For sure! Switching gears, modest fashion is booming globally, projected to hit a $433 billion market by 2028."
+    "text": "That's truly distressing. It’s a stark reminder of the dangers people face for standing up for their beliefs."
   },
   {
     "speaker": "Adam",
-    "text": "That's impressive! It really shows how diverse fashion trends are becoming."
+    "text": "For sure. And lastly, Iran has responded to a U.S. proposal to end the war through a mediator. They’re demanding the release of frozen assets and lifting of sanctions, which shows how complex this situation really is."
   },
   {
     "speaker": "Eve",
-    "text": "Meanwhile, India’s Tata has signed a semiconductor deal with Dutch giant ASML during Modi’s visit to the Netherlands."
+    "text": "Yeah, the geopolitical landscape is always shifting. It’s important to keep an eye on these developments."
   },
   {
     "speaker": "Adam",
-    "text": "The implications for technology and manufacturing there could be huge, especially as global demand for semiconductors continues to rise."
+    "text": "Now, let's switch gears and check on the markets."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely! Shifting back to the Middle East, there's a question posed about whether a leadership change in Israel could undo its international isolation."
+    "text": "Sounds good! Let’s start with the Vanguard S&P 500 ETF, VOO. It closed at $678.25, down 0.18%."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a complex issue, especially given the ongoing policies towards Palestinians."
+    "text": "There’s not much news impacting it directly, but it’s worth noting that there’s a buzz about investing in ETFs this month."
   },
   {
     "speaker": "Eve",
-    "text": "Indeed. And in a concerning development, the WHO has declared an Ebola outbreak in the DR Congo and Uganda a global health emergency."
+    "text": "Moving on to NVIDIA, ticker NVDA, which closed at $221.97, down 1.49%. Analysts still have a strong buy recommendation for it, with a mean price target of around $272.94."
   },
   {
     "speaker": "Adam",
-    "text": "That’s alarming! With the DR Congo reporting most of the cases, it underscores how vulnerable the region is to health crises."
+    "text": "Right, and with earnings coming up, there’s a lot of chatter about how it’ll perform."
   },
   {
     "speaker": "Eve",
-    "text": "It sure does. And in sports, FIFA is holding positive talks with Iranian football officials regarding the World Cup."
+    "text": "Micron Technology, or MU, closed at $704.25, down 2.82%. It also carries a strong buy recommendation, with a price target of about $584.24."
   },
   {
     "speaker": "Adam",
-    "text": "Good to hear! They’re looking to address Iran's concerns ahead of the games."
+    "text": "There’s been some buzz around Nvidia’s earnings affecting Micron as well, so that’s definitely something to watch."
   },
   {
     "speaker": "Eve",
-    "text": "And on a lighter note, ‘Timmy’ the rescued humpback whale has sadly been confirmed dead off the Danish coast."
+    "text": "Alphabet, GOOGL, closed at $404.20, up 1.87%. Analysts are also bullish here, with a target of $427.89."
   },
   {
     "speaker": "Adam",
-    "text": "That’s heartbreaking. Timmy’s story touched many hearts around the world."
+    "text": "Google I/O is around the corner, and expectations are high for new AI integrations, which could boost the stock further."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, it did. Now, let’s take a look at the markets."
+    "text": "Meta, or META, closed at $608.66, down 0.91%. It’s still labeled a strong buy, with a target mean of $826.69."
   },
   {
     "speaker": "Adam",
-    "text": "Starting with the Vanguard S&P 500 ETF, it closed at $679.44, down 1.21%."
+    "text": "They’ve announced some significant job cuts this week, which could be a double-edged sword in terms of market reaction."
   },
   {
     "speaker": "Eve",
-    "text": "There’s been a lot of buzz around potential highs for the S&P 500, but it seems investors are still cautious."
+    "text": "Yeah, it’ll be interesting to see how that plays out. ASML, ticker ASML, closed at $1,478.26, down 1.57%. It’s still a strong buy, with a price target of $1,664.39."
   },
   {
     "speaker": "Adam",
-    "text": "Moving on to NVIDIA, it closed at $225.32, down 4.42%."
+    "text": "Good to see ASML partnering on chip manufacturing projects in India—that could enhance their market position."
   },
   {
     "speaker": "Eve",
-    "text": "Analysts still rate it as a strong buy, with a mean target of about $272, which suggests there’s still potential upside."
+    "text": "Lastly, Taiwan Semiconductor, TSM, closed at $395.27, down 2.24%. It’s also rated a strong buy, with a target mean of $463.45."
   },
   {
     "speaker": "Adam",
-    "text": "Micron Technology saw a significant drop, closing at $724.66, down 6.62%, but it retains a strong buy recommendation."
+    "text": "There’s a lot of speculation about how the semiconductor market will evolve, especially with increased competition."
   },
   {
     "speaker": "Eve",
-    "text": "Their target mean is around $584, but with the AI boom, they’re still expected to perform well in the long run."
+    "text": "And Cameco Corporation, CCJ, closed at $104.92, down 2.41%. Analysts are still recommending it as a buy, with a target mean of $137.97."
   },
   {
     "speaker": "Adam",
-    "text": "Alphabet, or GOOGL, closed at $396.78, down 1.07%."
+    "text": "It’s interesting to see how energy stocks are becoming more popular as the world grapples with energy crises."
   },
   {
     "speaker": "Eve",
-    "text": "Analysts also maintain a strong buy rating, with a target mean of $427, indicating confidence despite recent fluctuations."
+    "text": "Definitely! Now, let’s move on to what's new in your podcasts."
   },
   {
     "speaker": "Adam",
-    "text": "Meta Platforms closed at $614.23, down just 0.68%, but still holds a strong buy recommendation."
+    "text": "There’s a fascinating new episode from Twenty Thousand Hertz titled \"Age of Audio: The Inside Story of Podcasting.\" It dives into the history of podcasting, covering everything from the inception of RSS feeds to the rise of celebrity podcasts."
   },
   {
     "speaker": "Eve",
-    "text": "Their target mean is quite optimistic at $826."
+    "text": "That sounds like a must-listen, especially for anyone interested in the medium. The insights from notable figures like Ira Glass and Marc Maron should be really enlightening."
   },
   {
     "speaker": "Adam",
-    "text": "ASML Holding closed at $1501.81, down 5.22%."
+    "text": "Absolutely, it’s a rich topic with so much history."
   },
   {
     "speaker": "Eve",
-    "text": "Analysts are also bullish on ASML, suggesting a target mean of $1661, which highlights their significant growth potential."
+    "text": "And that wraps up our podcast for today, Moiz."
   },
   {
     "speaker": "Adam",
-    "text": "Taiwan Semiconductor Manufacturing closed at $404.35, down 3.2%, with a mean target of $463."
+    "text": "Thanks for tuning in!"
   },
   {
     "speaker": "Eve",
-    "text": "And Cameco Corporation finished at $107.51, down 4.44%, but analysts have a buy recommendation with a target mean of $137."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Finally, Palantir Technologies closed at $133.99, up slightly by 0.19%, with a target mean of $183."
-  },
-  {
-    "speaker": "Eve",
-    "text": "They’ve been in the news a lot lately, especially with some recent controversies surrounding their leadership."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Now, before we wrap up, there’s a new episode from the podcast \"Founders.\""
-  },
-  {
-    "speaker": "Eve",
-    "text": "The latest episode features Kelly Johnson, discussing his innovative contributions to engineering and organizational design."
-  },
-  {
-    "speaker": "Adam",
-    "text": "It sounds fascinating, especially with insights from his long career."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Definitely worth a listen if you’re interested in engineering history and problem-solving strategies."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Well, that's all the news for today, Moiz."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Thanks for tuning in! Have a great day ahead!"
+    "text": "Have a great day at work!"
   }
 ]
