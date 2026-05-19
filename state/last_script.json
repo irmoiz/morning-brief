@@ -1,154 +1,122 @@
 [
   {
     "speaker": "Adam",
-    "text": "Hey Moiz, have you heard about that drone nearly hitting the Barakah nuclear plant in the UAE?"
+    "text": "Good morning, Moiz! Did you hear about Xi Jinping hosting Vladimir Putin right after Donald Trump's visit to Beijing? That's quite the diplomatic shuffle!"
   },
   {
     "speaker": "Eve",
-    "text": "Oh wow, that sounds intense! I mean, a nuclear facility and drones? That's a recipe for some serious headlines!"
+    "text": "I know, right? It's like a high-stakes game of chess, and China seems to be making some bold moves lately."
   },
   {
     "speaker": "Adam",
-    "text": "Right? The Barakah plant is actually crucial for the UAE, providing about a quarter of its electricity. It’s fascinating yet alarming how close that could have been."
+    "text": "Speaking of bold moves, let’s dive into some world news. First up, Xi Jinping is indeed strengthening ties with Putin during this visit. This comes just days after Trump was in Beijing, highlighting China's central role in global diplomacy."
   },
   {
     "speaker": "Eve",
-    "text": "Speaking of alarming, there are some major global issues hitting the news this morning. Let’s dive into some world headlines."
+    "text": "That’s wild! And it seems both leaders are trying to present a united front, especially with the ongoing tensions in the West."
   },
   {
     "speaker": "Adam",
-    "text": "For sure. First up, we have a report on maternal and child health, highlighting how cuts in aid, debt, and ongoing conflicts are really pushing these vital areas to their breaking point."
+    "text": "Absolutely. In other news, Trump stated that military actions against Iran are on hold, but negotiations are still rocky. Iran insists on lifting sanctions as part of any peace deal, but there are significant sticking points."
   },
   {
     "speaker": "Eve",
-    "text": "It’s really heartbreaking to think about, especially when so many women and children depend on these services for their survival."
+    "text": "Oh man, it’s like a diplomatic tug-of-war! Meanwhile, Thailand is also making headlines by slashing tourist visa-free stays. They’re introducing a tiered visa system to manage tourism better."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. And in another alarming development, experts are questioning the world's preparedness for the next pandemic. With funding cuts in health research and the rise of the antivaccine movement, there are serious concerns about our ability to respond effectively."
+    "text": "It’s interesting to see how countries are adjusting their approaches post-pandemic. Shifting gears, there’s a concerning situation with a Gaza aid flotilla. Organizers claim 41 boats have been intercepted by Israel, with 10 still managing to sail."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, that’s a tough pill to swallow. It feels like we’re still reeling from COVID-19. It’s hard to believe we might not be ready for the next wave of viruses."
+    "text": "That’s a serious violation of international law, according to foreign ministers of 10 countries. It’s a tough situation for everyone involved."
   },
   {
     "speaker": "Adam",
-    "text": "Exactly. On another front, the Iranian stock market is gearing up for a reopening after a long war closure. While it’s not the main financing engine for the economy, it holds political and psychological significance."
+    "text": "And shifting to the tech world, Elon Musk is up against Sam Altman in a legal battle regarding OpenAI, and Musk’s planned appeal suggests this saga is far from over."
   },
   {
     "speaker": "Eve",
-    "text": "That’s interesting! It shows how crucial the stock market can be, even in times of crisis."
+    "text": "Right? It’s turning into quite the courtroom drama! Meanwhile, in Spain, former Prime Minister Zapatero is facing a corruption probe. The high court is investigating him over airline aid, which puts pressure on the current PM."
   },
   {
     "speaker": "Adam",
-    "text": "And in more urgent news, several activists from the Global Sumud Flotilla, who were abducted, have released pre-recorded messages calling for help."
+    "text": "Seems like political scandals are never-ending. On a more concerning note, the WHO is holding an emergency committee meeting as the Ebola death toll has risen to 131."
   },
   {
     "speaker": "Eve",
-    "text": "That's truly distressing. It’s a stark reminder of the dangers people face for standing up for their beliefs."
+    "text": "That’s alarming. They’ll need to discuss vaccine options to tackle this new epidemic."
   },
   {
     "speaker": "Adam",
-    "text": "For sure. And lastly, Iran has responded to a U.S. proposal to end the war through a mediator. They’re demanding the release of frozen assets and lifting of sanctions, which shows how complex this situation really is."
+    "text": "Meanwhile, in Iran, the local football league has been suspended since March due to the ongoing war, creating a race against time for their squad to be ready for the World Cup."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, the geopolitical landscape is always shifting. It’s important to keep an eye on these developments."
+    "text": "It’s tough to keep morale up when the players aren’t even getting to play regularly. And speaking of tough times, Khartoum is slowly recovering, but residents are hesitant to return due to fragile services and a shaky economy."
   },
   {
     "speaker": "Adam",
-    "text": "Now, let's switch gears and check on the markets."
+    "text": "It’s a fragile situation there. We’ve also got a bit of a scandal brewing in South Korea. The CEO of Starbucks Korea was fired over a promotion that evoked memories of a military crackdown."
   },
   {
     "speaker": "Eve",
-    "text": "Sounds good! Let’s start with the Vanguard S&P 500 ETF, VOO. It closed at $678.25, down 0.18%."
+    "text": "Wow, that’s a serious backlash! It’s amazing how the past can come back to haunt companies in their marketing strategies."
   },
   {
     "speaker": "Adam",
-    "text": "There’s not much news impacting it directly, but it’s worth noting that there’s a buzz about investing in ETFs this month."
+    "text": "Right! Now, let’s shift gears and talk about the markets. Starting with the Vanguard S&P 500 ETF, it closed down slightly at $678.91, a drop of 0.08%. No significant news affecting it today."
   },
   {
     "speaker": "Eve",
-    "text": "Moving on to NVIDIA, ticker NVDA, which closed at $221.97, down 1.49%. Analysts still have a strong buy recommendation for it, with a mean price target of around $272.94."
+    "text": "Moving on to NVIDIA, which closed at $222.32, down 1.33%. Analysts are still bullish, giving it a strong buy recommendation with a mean price target of over $275."
   },
   {
     "speaker": "Adam",
-    "text": "Right, and with earnings coming up, there’s a lot of chatter about how it’ll perform."
+    "text": "That’s a substantial upside! Micron Technology saw a larger drop, closing at $681.54, down nearly 6%. However, they also have a strong buy recommendation, with analysts targeting around $613."
   },
   {
     "speaker": "Eve",
-    "text": "Micron Technology, or MU, closed at $704.25, down 2.82%. It also carries a strong buy recommendation, with a price target of about $584.24."
+    "text": "Interesting that despite the drop, they’re still getting favorable ratings. Alphabet, or GOOGL, closed at $396.94, barely moving up by 0.04%. Analysts rate it as a strong buy with a target price of about $428."
   },
   {
     "speaker": "Adam",
-    "text": "There’s been some buzz around Nvidia’s earnings affecting Micron as well, so that’s definitely something to watch."
+    "text": "On the other hand, Meta Platforms fell to $611.21, down 0.49%, but analysts are also bullish, aiming for a target of $826."
   },
   {
     "speaker": "Eve",
-    "text": "Alphabet, GOOGL, closed at $404.20, up 1.87%. Analysts are also bullish here, with a target of $427.89."
+    "text": "And ASML Holding dipped to $1,472.39, down nearly 2%, but it’s still rated as a strong buy with a target price of over $1,661."
   },
   {
     "speaker": "Adam",
-    "text": "Google I/O is around the corner, and expectations are high for new AI integrations, which could boost the stock further."
+    "text": "Taiwan Semiconductor also took a hit, closing at $395.95, down 2.08%, with a strong buy recommendation aimed at $468."
   },
   {
     "speaker": "Eve",
-    "text": "Meta, or META, closed at $608.66, down 0.91%. It’s still labeled a strong buy, with a target mean of $826.69."
+    "text": "Cameco Corporation dropped 2.2%, now at $105.14, but analysts are still pretty optimistic, recommending it as a buy with a target of about $133."
   },
   {
     "speaker": "Adam",
-    "text": "They’ve announced some significant job cuts this week, which could be a double-edged sword in terms of market reaction."
+    "text": "Lastly, Palantir Technologies rose a bit by 0.86%, closing at $135.14, and it’s also rated as a buy with a target price of $183."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, it’ll be interesting to see how that plays out. ASML, ticker ASML, closed at $1,478.26, down 1.57%. It’s still a strong buy, with a price target of $1,664.39."
+    "text": "Quite a mixed bag in the market today! Now, let’s check out the new episodes in your podcasts."
   },
   {
     "speaker": "Adam",
-    "text": "Good to see ASML partnering on chip manufacturing projects in India—that could enhance their market position."
+    "text": "There’s a new episode from \"99% Invisible\" titled \"100 Objects #1: The Century Safe.\" It dives into a locked iron safe that’s sealed for 100 years."
   },
   {
     "speaker": "Eve",
-    "text": "Lastly, Taiwan Semiconductor, TSM, closed at $395.27, down 2.24%. It’s also rated a strong buy, with a target mean of $463.45."
+    "text": "That sounds intriguing! It explores what objects Americans chose to remember. Definitely worth a listen if you’re into history and culture!"
   },
   {
     "speaker": "Adam",
-    "text": "There’s a lot of speculation about how the semiconductor market will evolve, especially with increased competition."
+    "text": "And that’s a wrap for today’s news, Moiz. Safe travels on your way to work!"
   },
   {
     "speaker": "Eve",
-    "text": "And Cameco Corporation, CCJ, closed at $104.92, down 2.41%. Analysts are still recommending it as a buy, with a target mean of $137.97."
-  },
-  {
-    "speaker": "Adam",
-    "text": "It’s interesting to see how energy stocks are becoming more popular as the world grapples with energy crises."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Definitely! Now, let’s move on to what's new in your podcasts."
-  },
-  {
-    "speaker": "Adam",
-    "text": "There’s a fascinating new episode from Twenty Thousand Hertz titled \"Age of Audio: The Inside Story of Podcasting.\" It dives into the history of podcasting, covering everything from the inception of RSS feeds to the rise of celebrity podcasts."
-  },
-  {
-    "speaker": "Eve",
-    "text": "That sounds like a must-listen, especially for anyone interested in the medium. The insights from notable figures like Ira Glass and Marc Maron should be really enlightening."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Absolutely, it’s a rich topic with so much history."
-  },
-  {
-    "speaker": "Eve",
-    "text": "And that wraps up our podcast for today, Moiz."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Thanks for tuning in!"
-  },
-  {
-    "speaker": "Eve",
-    "text": "Have a great day at work!"
+    "text": "Take care, and we’ll catch you next time!"
   }
 ]
