@@ -1,122 +1,174 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you hear about Xi Jinping hosting Vladimir Putin right after Donald Trump's visit to Beijing? That's quite the diplomatic shuffle!"
+    "text": "Good morning, Moiz! Did you see that Thomas Massie, a notable Trump critic, just lost his primary in Kentucky?"
   },
   {
     "speaker": "Eve",
-    "text": "I know, right? It's like a high-stakes game of chess, and China seems to be making some bold moves lately."
+    "text": "Yeah, that's pretty shocking! It looks like AIPAC-backed candidate Gallrein came out on top."
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of bold moves, let’s dive into some world news. First up, Xi Jinping is indeed strengthening ties with Putin during this visit. This comes just days after Trump was in Beijing, highlighting China's central role in global diplomacy."
+    "text": "Right? That primary was part of a larger election night that saw several key races across the country."
   },
   {
     "speaker": "Eve",
-    "text": "That’s wild! And it seems both leaders are trying to present a united front, especially with the ongoing tensions in the West."
+    "text": "Speaking of elections, let’s dive into some world news."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. In other news, Trump stated that military actions against Iran are on hold, but negotiations are still rocky. Iran insists on lifting sanctions as part of any peace deal, but there are significant sticking points."
+    "text": "Sure thing. In South Korea, nearly 50,000 Samsung workers are gearing up for a strike that could last for 18 days."
   },
   {
     "speaker": "Eve",
-    "text": "Oh man, it’s like a diplomatic tug-of-war! Meanwhile, Thailand is also making headlines by slashing tourist visa-free stays. They’re introducing a tiered visa system to manage tourism better."
+    "text": "Wow, that’s a massive number! The workers' union is protesting over bonus disputes."
   },
   {
     "speaker": "Adam",
-    "text": "It’s interesting to see how countries are adjusting their approaches post-pandemic. Shifting gears, there’s a concerning situation with a Gaza aid flotilla. Organizers claim 41 boats have been intercepted by Israel, with 10 still managing to sail."
+    "text": "And in the U.S., the primaries were quite eventful. Besides Massie, there were key races in Alabama, Georgia, Idaho, and other states."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a serious violation of international law, according to foreign ministers of 10 countries. It’s a tough situation for everyone involved."
+    "text": "It’s interesting how these local races can reflect the national sentiment, isn’t it?"
   },
   {
     "speaker": "Adam",
-    "text": "And shifting to the tech world, Elon Musk is up against Sam Altman in a legal battle regarding OpenAI, and Musk’s planned appeal suggests this saga is far from over."
+    "text": "Absolutely. On a different note, have you heard about the UK easing sanctions on Russian oil imports?"
   },
   {
     "speaker": "Eve",
-    "text": "Right? It’s turning into quite the courtroom drama! Meanwhile, in Spain, former Prime Minister Zapatero is facing a corruption probe. The high court is investigating him over airline aid, which puts pressure on the current PM."
+    "text": "Yes! They’re now allowing the import of Russian crude oil refined in other countries, like India and Turkiye."
   },
   {
     "speaker": "Adam",
-    "text": "Seems like political scandals are never-ending. On a more concerning note, the WHO is holding an emergency committee meeting as the Ebola death toll has risen to 131."
+    "text": "It seems to be a response to soaring fuel prices."
   },
   {
     "speaker": "Eve",
-    "text": "That’s alarming. They’ll need to discuss vaccine options to tackle this new epidemic."
+    "text": "That makes sense, especially with global energy markets so volatile right now."
   },
   {
     "speaker": "Adam",
-    "text": "Meanwhile, in Iran, the local football league has been suspended since March due to the ongoing war, creating a race against time for their squad to be ready for the World Cup."
+    "text": "In the Philippines, the top court has rejected a bid to block the arrest of a senator wanted by the ICC."
   },
   {
     "speaker": "Eve",
-    "text": "It’s tough to keep morale up when the players aren’t even getting to play regularly. And speaking of tough times, Khartoum is slowly recovering, but residents are hesitant to return due to fragile services and a shaky economy."
+    "text": "That senator played a significant role in Duterte's controversial 'war on drugs,' right?"
   },
   {
     "speaker": "Adam",
-    "text": "It’s a fragile situation there. We’ve also got a bit of a scandal brewing in South Korea. The CEO of Starbucks Korea was fired over a promotion that evoked memories of a military crackdown."
+    "text": "Exactly. His whereabouts are currently unknown, adding another layer of complexity to the situation."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, that’s a serious backlash! It’s amazing how the past can come back to haunt companies in their marketing strategies."
+    "text": "That’s wild. Meanwhile, in Kenya, a transport strike was paused following deadly protests over fuel price hikes."
   },
   {
     "speaker": "Adam",
-    "text": "Right! Now, let’s shift gears and talk about the markets. Starting with the Vanguard S&P 500 ETF, it closed down slightly at $678.91, a drop of 0.08%. No significant news affecting it today."
+    "text": "I heard about that. It's tragic when protests escalate to violence."
   },
   {
     "speaker": "Eve",
-    "text": "Moving on to NVIDIA, which closed at $222.32, down 1.33%. Analysts are still bullish, giving it a strong buy recommendation with a mean price target of over $275."
+    "text": "It really is, Adam. And in sports news, Arsenal just clinched their first Premier League title in 22 years!"
   },
   {
     "speaker": "Adam",
-    "text": "That’s a substantial upside! Micron Technology saw a larger drop, closing at $681.54, down nearly 6%. However, they also have a strong buy recommendation, with analysts targeting around $613."
+    "text": "That's a huge achievement for them! Their set pieces and defense were key factors in their success."
   },
   {
     "speaker": "Eve",
-    "text": "Interesting that despite the drop, they’re still getting favorable ratings. Alphabet, or GOOGL, closed at $396.94, barely moving up by 0.04%. Analysts rate it as a strong buy with a target price of about $428."
+    "text": "Definitely! Now, shifting gears to some financial news."
   },
   {
     "speaker": "Adam",
-    "text": "On the other hand, Meta Platforms fell to $611.21, down 0.49%, but analysts are also bullish, aiming for a target of $826."
+    "text": "Let’s take a look at the markets. The Vanguard S&P 500 ETF, symbol VOO, closed down by 0.64%."
   },
   {
     "speaker": "Eve",
-    "text": "And ASML Holding dipped to $1,472.39, down nearly 2%, but it’s still rated as a strong buy with a target price of over $1,661."
+    "text": "It seems like there's some concern regarding private equity fees affecting retail investors’ returns."
   },
   {
     "speaker": "Adam",
-    "text": "Taiwan Semiconductor also took a hit, closing at $395.95, down 2.08%, with a strong buy recommendation aimed at $468."
+    "text": "Moving on to NVIDIA, or NVDA, it’s down 0.77%, but analysts are still very bullish with a ‘strong buy’ rating."
   },
   {
     "speaker": "Eve",
-    "text": "Cameco Corporation dropped 2.2%, now at $105.14, but analysts are still pretty optimistic, recommending it as a buy with a target of about $133."
+    "text": "Their mean price target is quite high at 275.30, especially considering the competitive chip market."
   },
   {
     "speaker": "Adam",
-    "text": "Lastly, Palantir Technologies rose a bit by 0.86%, closing at $135.14, and it’s also rated as a buy with a target price of $183."
+    "text": "Exactly. Micron Technology, symbol MU, has had a solid day, up 2.52% with a strong buy recommendation."
   },
   {
     "speaker": "Eve",
-    "text": "Quite a mixed bag in the market today! Now, let’s check out the new episodes in your podcasts."
+    "text": "Analysts are targeting a mean price of about 612.66, so that's promising for investors."
   },
   {
     "speaker": "Adam",
-    "text": "There’s a new episode from \"99% Invisible\" titled \"100 Objects #1: The Century Safe.\" It dives into a locked iron safe that’s sealed for 100 years."
+    "text": "Alphabet, or GOOGL, is down 2.34% today, but analysts maintain a strong buy rating."
   },
   {
     "speaker": "Eve",
-    "text": "That sounds intriguing! It explores what objects Americans chose to remember. Definitely worth a listen if you’re into history and culture!"
+    "text": "Their target price is 427.89, which is significantly higher than its current price."
   },
   {
     "speaker": "Adam",
-    "text": "And that’s a wrap for today’s news, Moiz. Safe travels on your way to work!"
+    "text": "Meta Platforms, or META, is also down, by 1.41%, but with a strong buy recommendation as well."
   },
   {
     "speaker": "Eve",
-    "text": "Take care, and we’ll catch you next time!"
+    "text": "Their target mean price is 826.69, so there’s still a lot of optimism there."
+  },
+  {
+    "speaker": "Adam",
+    "text": "ASML Holding, symbol ASML, is down 0.88%, but it remains a strong buy with a mean target of 1658.40."
+  },
+  {
+    "speaker": "Eve",
+    "text": "There’s been some bullish sentiment following their recognition as a top semiconductor pick in Europe."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Taiwan Semiconductor, TSM, is down 0.84% with a strong buy rating as well."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Analysts are targeting a mean price of about 467.84, which is still quite encouraging."
+  },
+  {
+    "speaker": "Adam",
+    "text": "On to Cameco Corporation, CCJ, it’s down 1.54%, but analysts are still recommending it as a buy."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Their mean target of 132.66 suggests they’re optimistic about future growth despite the current dip."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Finally, Palantir Technologies, symbol PLTR, is barely up, just 0.09%, with a buy recommendation."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Their mean target is 183.73, so they have some room for growth based on those predictions."
+  },
+  {
+    "speaker": "Adam",
+    "text": "That wraps up our market segment."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Before we go, we had no new podcast episodes to share today."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Alright, Moiz, that's a wrap for today."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Have a great day at work!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "Catch you later!"
   }
 ]
