@@ -1,174 +1,122 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you see that Thomas Massie, a notable Trump critic, just lost his primary in Kentucky?"
+    "text": "Good morning, Moiz! Have you heard about the Gaza sisters turning war rubble into bricks? That’s such an inspiring story amid all the chaos."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, that's pretty shocking! It looks like AIPAC-backed candidate Gallrein came out on top."
+    "text": "Right? It’s amazing how creativity can emerge from destruction. Let’s dive into some world news today."
   },
   {
     "speaker": "Adam",
-    "text": "Right? That primary was part of a larger election night that saw several key races across the country."
+    "text": "Israel is facing global backlash as it begins deporting activists from the Gaza aid flotilla. Several countries, including some key allies, have condemned how the detainees are being treated."
   },
   {
     "speaker": "Eve",
-    "text": "Speaking of elections, let’s dive into some world news."
+    "text": "That’s a significant development. And it gets wilder with National Security Minister Itamar Ben Gvir. He released a video showing bound activists, which has sparked outrage and further condemnation."
   },
   {
     "speaker": "Adam",
-    "text": "Sure thing. In South Korea, nearly 50,000 Samsung workers are gearing up for a strike that could last for 18 days."
+    "text": "Absolutely. The juxtaposition of his actions and the international response highlights the growing divide on this issue. Meanwhile, in Gaza, sisters Tala and Farah Mousa have won the Earth Prize for their innovative project turning rubble into reusable bricks."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, that’s a massive number! The workers' union is protesting over bonus disputes."
+    "text": "It’s heartwarming to see such resilience. Their project represents hope amidst adversity. In other news, Canada is reportedly using its borders to police Palestine solidarity, leading to increased interrogations and visa denials for critics of Israel’s actions."
   },
   {
     "speaker": "Adam",
-    "text": "And in the U.S., the primaries were quite eventful. Besides Massie, there were key races in Alabama, Georgia, Idaho, and other states."
+    "text": "That’s quite troubling. It seems like a significant step toward stifling dissent. On a different note, let’s shift gears and talk about the situation in Ukraine, where it’s reported that Chinese and Iranian companies are profiting in Russian-occupied regions."
   },
   {
     "speaker": "Eve",
-    "text": "It’s interesting how these local races can reflect the national sentiment, isn’t it?"
+    "text": "Huh, that’s interesting. It’s a complex situation, given the geopolitical implications. And speaking of political drama, the Philippines has ordered the arrest of a fugitive senator wanted by the ICC."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. On a different note, have you heard about the UK easing sanctions on Russian oil imports?"
+    "text": "Yes, Senator Ronald 'Bato' dela Rosa is on the run, and Justice Secretary is warning anyone aiding him will face consequences. It’s quite a tense atmosphere there."
   },
   {
     "speaker": "Eve",
-    "text": "Yes! They’re now allowing the import of Russian crude oil refined in other countries, like India and Turkiye."
+    "text": "On another front, we have some analysts speculating about how Cuba would defend itself against a potential US military operation."
   },
   {
     "speaker": "Adam",
-    "text": "It seems to be a response to soaring fuel prices."
+    "text": "Right, analysts are suggesting that Havana is not entirely defenseless, which could lead to serious implications for US-Cuba relations."
   },
   {
     "speaker": "Eve",
-    "text": "That makes sense, especially with global energy markets so volatile right now."
+    "text": "It’s a delicate balance. And in sports news, dropped Iranian forward Sardar Azmoun has expressed his unwavering support for his national team, even after being excluded from the World Cup squad."
   },
   {
     "speaker": "Adam",
-    "text": "In the Philippines, the top court has rejected a bid to block the arrest of a senator wanted by the ICC."
+    "text": "That shows a lot of character. Switching topics, let’s talk about a heartwarming gesture: a kite carrying messages from Palestinian children reached the summit of Mount Everest."
   },
   {
     "speaker": "Eve",
-    "text": "That senator played a significant role in Duterte's controversial 'war on drugs,' right?"
+    "text": "Wow, that’s a powerful symbol of hope. It’s incredible how people can connect even in the most challenging circumstances."
   },
   {
     "speaker": "Adam",
-    "text": "Exactly. His whereabouts are currently unknown, adding another layer of complexity to the situation."
+    "text": "And if we look at environmental issues, heavy flooding in southern China has caused significant damage, washing away cars and destroying infrastructure."
   },
   {
     "speaker": "Eve",
-    "text": "That’s wild. Meanwhile, in Kenya, a transport strike was paused following deadly protests over fuel price hikes."
+    "text": "Nature’s fury can be so destructive. Now, let’s check in on the markets and see how things are moving today."
   },
   {
     "speaker": "Adam",
-    "text": "I heard about that. It's tragic when protests escalate to violence."
+    "text": "Starting with the Vanguard S&P 500 ETF, VOO closed at 681.57, up 1.03%. Analysts haven't released any new targets, but it's still a solid choice for investors."
   },
   {
     "speaker": "Eve",
-    "text": "It really is, Adam. And in sports news, Arsenal just clinched their first Premier League title in 22 years!"
+    "text": "NVIDIA Corporation, on the other hand, closed at 223.47, up 1.3%. It has a strong buy recommendation with a mean price target of about 278, which is interesting considering their recent $80 billion stock buyback."
   },
   {
     "speaker": "Adam",
-    "text": "That's a huge achievement for them! Their set pieces and defense were key factors in their success."
+    "text": "Micron Technology saw a nice jump, closing at 731.99 with a 4.76% gain. Analysts are bullish, rating it as a strong buy with a target mean of 613."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely! Now, shifting gears to some financial news."
+    "text": "Alphabet Inc. is also in the spotlight, closing at 388.91, up 0.32%. Analysts have given it a strong buy recommendation with a target mean of 428.96, which is good news for investors."
   },
   {
     "speaker": "Adam",
-    "text": "Let’s take a look at the markets. The Vanguard S&P 500 ETF, symbol VOO, closed down by 0.64%."
+    "text": "Meanwhile, Meta Platforms closed at 605.06, up 0.41%. It also holds a strong buy recommendation, with analysts expecting the stock to rise to around 826."
   },
   {
     "speaker": "Eve",
-    "text": "It seems like there's some concern regarding private equity fees affecting retail investors’ returns."
+    "text": "ASML Holding jumped 6.21% to close at 1550.13. It’s another strong buy with a target mean of 1658, which is impressive."
   },
   {
     "speaker": "Adam",
-    "text": "Moving on to NVIDIA, or NVDA, it’s down 0.77%, but analysts are still very bullish with a ‘strong buy’ rating."
+    "text": "Taiwan Semiconductor Manufacturing closed at 401.62, up 2.29%. They’re rated as a strong buy with a mean target of 467.84."
   },
   {
     "speaker": "Eve",
-    "text": "Their mean price target is quite high at 275.30, especially considering the competitive chip market."
+    "text": "Cameco Corporation closed at 104.02, gaining 0.48%. Analysts suggest it’s a good buy with a target mean of 132.58."
   },
   {
     "speaker": "Adam",
-    "text": "Exactly. Micron Technology, symbol MU, has had a solid day, up 2.52% with a strong buy recommendation."
+    "text": "Lastly, Palantir Technologies saw a 1.4% rise, closing at 137.15. Analysts are somewhat optimistic, giving it a buy rating and a target mean of 183.73."
   },
   {
     "speaker": "Eve",
-    "text": "Analysts are targeting a mean price of about 612.66, so that's promising for investors."
+    "text": "Quite a variety of movements in the market today!"
   },
   {
     "speaker": "Adam",
-    "text": "Alphabet, or GOOGL, is down 2.34% today, but analysts maintain a strong buy rating."
+    "text": "Absolutely, Moiz. If you’re looking for some new podcast episodes, we didn’t have any new releases today."
   },
   {
     "speaker": "Eve",
-    "text": "Their target price is 427.89, which is significantly higher than its current price."
+    "text": "That’s okay! There’s still plenty to catch up on."
   },
   {
     "speaker": "Adam",
-    "text": "Meta Platforms, or META, is also down, by 1.41%, but with a strong buy recommendation as well."
+    "text": "And that’s a wrap for today’s news, Moiz. Drive safe out there!"
   },
   {
     "speaker": "Eve",
-    "text": "Their target mean price is 826.69, so there’s still a lot of optimism there."
-  },
-  {
-    "speaker": "Adam",
-    "text": "ASML Holding, symbol ASML, is down 0.88%, but it remains a strong buy with a mean target of 1658.40."
-  },
-  {
-    "speaker": "Eve",
-    "text": "There’s been some bullish sentiment following their recognition as a top semiconductor pick in Europe."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Taiwan Semiconductor, TSM, is down 0.84% with a strong buy rating as well."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Analysts are targeting a mean price of about 467.84, which is still quite encouraging."
-  },
-  {
-    "speaker": "Adam",
-    "text": "On to Cameco Corporation, CCJ, it’s down 1.54%, but analysts are still recommending it as a buy."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Their mean target of 132.66 suggests they’re optimistic about future growth despite the current dip."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Finally, Palantir Technologies, symbol PLTR, is barely up, just 0.09%, with a buy recommendation."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Their mean target is 183.73, so they have some room for growth based on those predictions."
-  },
-  {
-    "speaker": "Adam",
-    "text": "That wraps up our market segment."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Before we go, we had no new podcast episodes to share today."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Alright, Moiz, that's a wrap for today."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Have a great day at work!"
-  },
-  {
-    "speaker": "Adam",
-    "text": "Catch you later!"
+    "text": "Have a great day!"
   }
 ]
