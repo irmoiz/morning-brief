@@ -27,7 +27,11 @@ def _git(cmd: list[str], cwd: Path) -> subprocess.CompletedProcess[str]:
 
 
 def commit_and_push(repo_dir: Path, message: str) -> bool:
-    """Stage everything, commit if there are changes, push. Returns True if pushed."""
+    """Stage everything, commit if there are changes, push.
+
+    Handles the race where `main` advances during a long workflow run by
+    rebasing onto the latest remote before pushing. Returns True if pushed.
+    """
     _git(["add", "-A"], repo_dir)
     status = subprocess.run(
         ["git", "diff", "--cached", "--quiet"], cwd=repo_dir,
@@ -36,7 +40,23 @@ def commit_and_push(repo_dir: Path, message: str) -> bool:
         logger.info("No changes to commit")
         return False
     _git(["commit", "-m", message], repo_dir)
-    _git(["push"], repo_dir)
+
+    # Pull-rebase to absorb any commits that landed on main since checkout.
+    # Without this, a code update arriving during the workflow run causes
+    # `git push` to fail with a non-fast-forward rejection.
+    _git(["fetch", "origin", "main"], repo_dir)
+    rebase = subprocess.run(
+        ["git", "rebase", "origin/main"], cwd=repo_dir, text=True, capture_output=True,
+    )
+    if rebase.returncode != 0:
+        logger.warning("Rebase failed (%s); aborting and retrying with force-with-lease",
+                       rebase.stderr.strip().splitlines()[-1] if rebase.stderr else "?")
+        subprocess.run(["git", "rebase", "--abort"], cwd=repo_dir)
+        # Fallback: force-with-lease respects a remote ref we have a record of,
+        # so it's safer than a blind --force.
+        _git(["push", "--force-with-lease"], repo_dir)
+    else:
+        _git(["push"], repo_dir)
     return True
 
 
