@@ -14,7 +14,9 @@ import logging
 import os
 import sys
 import tempfile
+from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 THIS_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = THIS_DIR.parent
@@ -27,6 +29,11 @@ from src.publish import publish_episode  # noqa: E402
 
 logger = logging.getLogger("morning-brief")
 
+# Episode dates use the listener's local timezone so a 22:00 UTC cron run
+# produces tomorrow's commute episode in GST — matches the day the user
+# will actually listen on, not the UTC calendar day.
+LOCAL_TZ = ZoneInfo("Asia/Dubai")
+
 
 def main() -> int:
     logging.basicConfig(
@@ -35,6 +42,21 @@ def main() -> int:
     )
 
     settings = json.loads((PROJECT_ROOT / "config" / "settings.json").read_text())
+
+    # Idempotency: if today's episode already exists, exit before any API call.
+    # This lets us safely schedule the workflow multiple times per night to
+    # work around GitHub's unreliable cron — the first run that fires wins,
+    # all later runs that day are zero-cost no-ops.
+    today_str = datetime.now(LOCAL_TZ).strftime("%Y-%m-%d")
+    target_mp3 = PROJECT_ROOT / "docs" / "episodes" / f"{today_str}.mp3"
+    if target_mp3.exists():
+        logger.info(
+            "Episode for %s already exists — skipping (no API calls made).",
+            today_str,
+        )
+        return 0
+
+    logger.info("Generating episode for %s", today_str)
 
     # 1. Fetch sources
     logger.info("=== Step 1: fetching sources ===")
@@ -75,7 +97,7 @@ def main() -> int:
             )
             base_url = f"https://{owner}.github.io/{repo}"
         logger.info("Publishing with base URL: %s", base_url)
-        publish_episode(PROJECT_ROOT, mp3_path, settings, base_url)
+        publish_episode(PROJECT_ROOT, mp3_path, settings, base_url, date_str=today_str)
 
     logger.info("=== Done ===")
     return 0
