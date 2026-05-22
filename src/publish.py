@@ -103,9 +103,16 @@ def publish_episode(
     mp3_source: Path,
     settings: dict[str, Any],
     base_url: str,
+    date_str: str | None = None,
 ) -> None:
-    """Place the new mp3, rebuild the feed, commit + push."""
-    date_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    """Place the new mp3, rebuild the feed, commit + push.
+
+    `date_str` (YYYY-MM-DD) controls the episode filename and feed entry.
+    Pass the listener's local-tz date for sensible filenames; falls back
+    to UTC if not provided.
+    """
+    if date_str is None:
+        date_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     docs_dir = repo_dir / "docs"
     episodes_dir = docs_dir / "episodes"
     episodes_dir.mkdir(parents=True, exist_ok=True)
