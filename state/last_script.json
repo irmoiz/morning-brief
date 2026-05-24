@@ -1,146 +1,178 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you hear about the funerals for medics killed in the airstrikes in southern Lebanon? That’s just heartbreaking."
+    "text": "Good morning, Moiz! Did you hear about Ecuador's president Noboa pledging to extradite criminals in his State of the Union speech?"
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, it's tragic. The violence just seems to keep escalating there."
+    "text": "Yeah, that's quite a bold move, especially with the critics warning about potential abuses."
   },
   {
     "speaker": "Adam",
-    "text": "Right? So, in other world news, violence and overcrowding have been hampering the Ebola response in the Democratic Republic of Congo."
+    "text": "Right? Let's dive into some world news. Starting with Ecuador, Noboa's speech highlighted his administration's anti-crime operations alongside claims of economic progress amidst rising crime rates."
   },
   {
     "speaker": "Eve",
-    "text": "That’s really concerning. The situation is getting worse, impacting medical teams' ability to manage the outbreak effectively."
+    "text": "It's interesting how he’s trying to balance these tough measures with a message of economic improvement. But, of course, with such pledges come worries about human rights abuses."
   },
   {
     "speaker": "Adam",
-    "text": "And speaking of global tensions, President Trump announced that the Iran agreement is “largely negotiated” and just awaiting finalization."
+    "text": "Moving over to Cuba, the situation is quite dire. The island has thanked China for a rice shipment as they face worsening humanitarian conditions due to a fuel blockade."
   },
   {
     "speaker": "Eve",
-    "text": "I didn't expect that development! It sounds like it could have significant implications, especially with the reopening of the Strait of Hormuz."
+    "text": "Ugh, that’s tough. A fuel blockade really hits hard, especially for a country that relies on imports for essential supplies."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. Additionally, in Serbia, tens of thousands rallied for antigovernment demonstrations, pushing for early elections after the Novi Sad disaster."
+    "text": "Absolutely. And speaking of struggles, in Lebanon, there’s a poignant story about a barbershop that has survived nearly two decades of war and crisis, run by Mario Habib."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, that’s a massive turnout! It shows how strongly people feel about the current leadership."
+    "text": "Wow, that’s a testament to resilience. It’s fascinating how small businesses like that can reflect the broader social and political struggles of a region."
   },
   {
     "speaker": "Adam",
-    "text": "Meanwhile, over in India, a satirical political movement called the “Cockroach Janta Party” has gone viral among Gen Z."
+    "text": "Shifting gears, in the U.S., Muslim Americans are channeling their grief into activism following the San Diego shooting. Over 25,000 gathered for the annual ICNA conference to discuss ways to take action."
   },
   {
     "speaker": "Eve",
-    "text": "Oh, that’s wild! It’s refreshing to see young people engaging with politics in such a creative way."
+    "text": "That’s powerful. It's always inspiring to see communities come together in the face of trauma."
   },
   {
     "speaker": "Adam",
-    "text": "And in sports news, Barcelona just beat Lyon 4-0 to win the Women’s Champions League."
+    "text": "Meanwhile, in Pakistan, livestock traders are facing challenges as the war on Iran pushes up prices ahead of Eid al-Adha."
   },
   {
     "speaker": "Eve",
-    "text": "That’s impressive! They’re really on a roll this season with their fourth trophy."
+    "text": "That’s unfortunate timing. Eid is usually a busy time for traders, and rising costs can really impact their sales."
   },
   {
     "speaker": "Adam",
-    "text": "Switching gears to the market updates, starting with Vanguard S&P 500 ETF, or VOO, which closed at 685.55, up 0.4%."
+    "text": "In Senegal, political tensions are escalating as the parliament speaker has stepped down, paving the way for a former premier to potentially reclaim his position."
   },
   {
     "speaker": "Eve",
-    "text": "Analysts haven't provided a new recommendation yet, but it looks like it's maintaining steady performance."
+    "text": "Politics can be so unpredictable. That move could definitely change the dynamics in their parliament."
   },
   {
     "speaker": "Adam",
-    "text": "NVIDIA, on the other hand, closed at 215.33, down 1.9%."
+    "text": "Now, on to some U.S. news, Harlan Ullman recently stated that Trump is seeking any Iran deal to relieve the pressure he's facing at home."
   },
   {
     "speaker": "Eve",
-    "text": "That's a bit of a dip, but the analysts are still rating it a strong buy with a target mean price of 294.22."
+    "text": "It’s interesting how international relations can be influenced by domestic politics."
   },
   {
     "speaker": "Adam",
-    "text": "Right, and Micron Technology also had a tough day, closing at 751.00, down 1.46%."
+    "text": "Definitely. And in the Democratic Republic of the Congo, the Ebola outbreak is spreading, with cases confirmed in Uganda."
   },
   {
     "speaker": "Eve",
-    "text": "Even so, they have a strong buy rating with a mean target of 613.23, so there's still potential there."
+    "text": "That’s alarming. It’s tough to see health crises like this emerging again, especially in regions that are already struggling."
   },
   {
     "speaker": "Adam",
-    "text": "Alphabet, or GOOGL, ended at 382.97, down 1.21%, but it's also rated a strong buy with a target mean of 429.12."
+    "text": "In the context of the Iran war, there's speculation on how the fallout might affect the upcoming U.S. elections."
   },
   {
     "speaker": "Eve",
-    "text": "I guess investors are still optimistic despite the recent drops."
+    "text": "That’s right. It’s always intriguing to see how foreign policy can impact domestic political landscapes."
   },
   {
     "speaker": "Adam",
-    "text": "Meta Platforms, or META, is also in a similar boat, closing at 610.26, up slightly by 0.47%, with a strong buy recommendation and a target mean of 826.60."
+    "text": "Over in Israel, strikes in southern Lebanon have resulted in casualties amid fresh evacuation orders, despite claims of a ceasefire."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a good sign for them, especially with all the buzz around AI lately."
+    "text": "Wow, it seems like that situation is getting increasingly complex and dangerous."
   },
   {
     "speaker": "Adam",
-    "text": "ASML closed at 1632.90, up 2.57%, rated as a strong buy as well."
+    "text": "And lastly, Ukrainian President Zelenskyy spoke to Al Jazeera at the site of major Russian attacks in Kyiv, marking one of the largest offensives since the conflict began."
   },
   {
     "speaker": "Eve",
-    "text": "And they’ve got a target mean of 1659.71, which sounds promising!"
+    "text": "That's chilling. The ongoing violence there is heartbreaking, and the toll it takes on civilians is immense."
   },
   {
     "speaker": "Adam",
-    "text": "Taiwan Semiconductor, TSM, closed at 404.52, down 0.65%, but still holding a strong buy rating with a target mean price of 467.84."
+    "text": "In market news, the Vanguard S&P 500 ETF, or VOO, saw a slight uptick of 0.4% in its last close at $685.55."
   },
   {
     "speaker": "Eve",
-    "text": "It’s interesting how the semiconductor sector is fluctuating."
+    "text": "There’s been some discussion around why retirees are drawn to this ETF, which is interesting given the current market conditions."
   },
   {
     "speaker": "Adam",
-    "text": "Cameco Corporation, or CCJ, closed at 104.75, down 0.55%."
+    "text": "Definitely worth looking into. Moving on to NVIDIA, it dropped by 1.9%, closing at $215.33. Analysts still rate it as a strong buy with a mean price target of about $294."
   },
   {
     "speaker": "Eve",
-    "text": "They’re rated a buy with a target mean of 129.84, so there's still some positive sentiment there."
+    "text": "Sounds like there’s still a lot of confidence in NVIDIA, despite the recent dip."
   },
   {
     "speaker": "Adam",
-    "text": "Lastly, Palantir Technologies, or PLTR, closed at 136.88, down 0.39%, but is also rated a buy with a mean target of 183.73."
+    "text": "Right. Micron Technology also saw a decline of 1.46%, closing at $751. Analysts are bullish on it as well, with a mean target of $613."
   },
   {
     "speaker": "Eve",
-    "text": "It's intriguing how these stocks are being impacted by market conditions but still have strong buy recommendations."
+    "text": "That’s intriguing, especially considering the competitive landscape in the tech sector."
   },
   {
     "speaker": "Adam",
-    "text": "Moving on to new podcasts today, we have an episode from “People I (Mostly) Admire.”"
+    "text": "Alphabet Inc. dipped by 1.21%, closing at $382.97, but it still holds a strong buy recommendation with a mean target of around $429."
   },
   {
     "speaker": "Eve",
-    "text": "This one features Greg Norman and Mark Broadie discussing data in golf. It’s a fun crossover of sports and analytics."
+    "text": "A lot of movement around these big tech stocks lately."
   },
   {
     "speaker": "Adam",
-    "text": "Sounds like a great listen for golf fans, especially with Steve Levitt’s unique perspective."
+    "text": "Meta Platforms had a small gain of 0.47%, closing at $610.26, with analysts projecting a mean target of $826."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely! That should wrap up our news today."
+    "text": "That's promising for investors watching Meta's performance!"
   },
   {
     "speaker": "Adam",
-    "text": "Thanks for tuning in, Moiz."
+    "text": "ASML Holding saw a notable increase of 2.57%, closing at $1,632.90, with a strong buy recommendation and a mean target of nearly $1,666."
   },
   {
     "speaker": "Eve",
-    "text": "Drive safe out there!"
+    "text": "It’s great to see some companies thriving, especially in such a challenging environment."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Taiwan Semiconductor dipped slightly by 0.65%, closing at $404.52, with a strong buy recommendation and a mean target of around $468."
+  },
+  {
+    "speaker": "Eve",
+    "text": "It’s fascinating how TSM continues to be in demand despite the fluctuations."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Cameco Corporation experienced a minor decline of 0.55%, closing at $104.75, but analysts still rate it as a buy with a mean target of $130."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Seems like a stable option for investors in the nuclear sector."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Finally, Palantir Technologies fell by 0.39%, closing at $136.88, but it also has a buy recommendation with a mean target of $184."
+  },
+  {
+    "speaker": "Eve",
+    "text": "That’s interesting for those keeping an eye on AI-related stocks."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Alright, Moiz, that wraps up today’s news."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Drive safe, and have a great day!"
   }
 ]
