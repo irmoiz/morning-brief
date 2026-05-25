@@ -1,178 +1,162 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you hear about Ecuador's president Noboa pledging to extradite criminals in his State of the Union speech?"
+    "text": "Oh, did you see that Trump is pushing again for the White House ballroom project?"
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, that's quite a bold move, especially with the critics warning about potential abuses."
+    "text": "Yeah, it's interesting! He's citing security concerns from a nearby shooting. That's quite a way to frame it."
   },
   {
     "speaker": "Adam",
-    "text": "Right? Let's dive into some world news. Starting with Ecuador, Noboa's speech highlighted his administration's anti-crime operations alongside claims of economic progress amidst rising crime rates."
+    "text": "Right? He’s requesting nearly a billion in taxpayer funds to complete it. That’s a hefty price tag for a ballroom."
   },
   {
     "speaker": "Eve",
-    "text": "It's interesting how he’s trying to balance these tough measures with a message of economic improvement. But, of course, with such pledges come worries about human rights abuses."
+    "text": "Definitely. It's almost like he's trying to tie the project to a broader security narrative."
   },
   {
     "speaker": "Adam",
-    "text": "Moving over to Cuba, the situation is quite dire. The island has thanked China for a rice shipment as they face worsening humanitarian conditions due to a fuel blockade."
+    "text": "Speaking of security, there’s a developing situation in Europe. Czech police have detained a Russian priest over a mysterious 'white substance.'"
   },
   {
     "speaker": "Eve",
-    "text": "Ugh, that’s tough. A fuel blockade really hits hard, especially for a country that relies on imports for essential supplies."
+    "text": "That’s wild! Moscow is calling it a provocation. You have to wonder how this will escalate."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. And speaking of struggles, in Lebanon, there’s a poignant story about a barbershop that has survived nearly two decades of war and crisis, run by Mario Habib."
+    "text": "Absolutely. And over in Israel, Prime Minister Netanyahu ordered to intensify the offensive against Hezbollah, despite a recently agreed ceasefire with Lebanon."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, that’s a testament to resilience. It’s fascinating how small businesses like that can reflect the broader social and political struggles of a region."
+    "text": "Hmm, that’s pretty contradictory. It makes you think about the stability of that region."
   },
   {
     "speaker": "Adam",
-    "text": "Shifting gears, in the U.S., Muslim Americans are channeling their grief into activism following the San Diego shooting. Over 25,000 gathered for the annual ICNA conference to discuss ways to take action."
+    "text": "For sure. Meanwhile, in Bolivia, President Rodrigo Paz is cutting his salary by 50% amid protests."
   },
   {
     "speaker": "Eve",
-    "text": "That’s powerful. It's always inspiring to see communities come together in the face of trauma."
+    "text": "That’s a bold move! It seems like he’s trying to show solidarity with the people."
   },
   {
     "speaker": "Adam",
-    "text": "Meanwhile, in Pakistan, livestock traders are facing challenges as the war on Iran pushes up prices ahead of Eid al-Adha."
+    "text": "Exactly. It’s quite the gesture, especially with the ongoing unrest."
   },
   {
     "speaker": "Eve",
-    "text": "That’s unfortunate timing. Eid is usually a busy time for traders, and rising costs can really impact their sales."
+    "text": "And on a different note, Trump paid tribute to U.S. troops at Arlington National Cemetery for Memorial Day, specifically those lost in the war on Iran."
   },
   {
     "speaker": "Adam",
-    "text": "In Senegal, political tensions are escalating as the parliament speaker has stepped down, paving the way for a former premier to potentially reclaim his position."
+    "text": "It’s a poignant reminder of the costs of war, especially on a day dedicated to honoring service members."
   },
   {
     "speaker": "Eve",
-    "text": "Politics can be so unpredictable. That move could definitely change the dynamics in their parliament."
+    "text": "In other news, the ex-leader of Scotland's National Party, Peter Murrell, pleaded guilty to embezzling funds."
   },
   {
     "speaker": "Adam",
-    "text": "Now, on to some U.S. news, Harlan Ullman recently stated that Trump is seeking any Iran deal to relieve the pressure he's facing at home."
+    "text": "Wow, that’s a significant fall from grace. It’ll be interesting to see how this impacts the party moving forward."
   },
   {
     "speaker": "Eve",
-    "text": "It’s interesting how international relations can be influenced by domestic politics."
+    "text": "And speaking of politics, Trump is also hinting at normalization with Israel, despite criticism about a potential Iran deal."
   },
   {
     "speaker": "Adam",
-    "text": "Definitely. And in the Democratic Republic of the Congo, the Ebola outbreak is spreading, with cases confirmed in Uganda."
+    "text": "That’s a complex web he’s weaving there."
   },
   {
     "speaker": "Eve",
-    "text": "That’s alarming. It’s tough to see health crises like this emerging again, especially in regions that are already struggling."
+    "text": "Totally. Shifting gears a bit, let’s take a look at the markets today."
   },
   {
     "speaker": "Adam",
-    "text": "In the context of the Iran war, there's speculation on how the fallout might affect the upcoming U.S. elections."
+    "text": "Starting with the Vanguard S&P 500 ETF, it closed up 0.4%. No major news driving that, but it’s consistent movement."
   },
   {
     "speaker": "Eve",
-    "text": "That’s right. It’s always intriguing to see how foreign policy can impact domestic political landscapes."
+    "text": "For NVIDIA, however, things aren’t looking as rosy. It dropped 1.9% but maintains a strong buy recommendation from analysts, with a mean target of around $295."
   },
   {
     "speaker": "Adam",
-    "text": "Over in Israel, strikes in southern Lebanon have resulted in casualties amid fresh evacuation orders, despite claims of a ceasefire."
+    "text": "That’s a significant gap from its current price at about $215. Definitely something to keep an eye on."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, it seems like that situation is getting increasingly complex and dangerous."
+    "text": "Micron Technology also took a hit, down 1.46% but still has a strong buy recommendation with a target mean of around $613."
   },
   {
     "speaker": "Adam",
-    "text": "And lastly, Ukrainian President Zelenskyy spoke to Al Jazeera at the site of major Russian attacks in Kyiv, marking one of the largest offensives since the conflict began."
+    "text": "It’s interesting to see how the semiconductor market is reacting lately."
   },
   {
     "speaker": "Eve",
-    "text": "That's chilling. The ongoing violence there is heartbreaking, and the toll it takes on civilians is immense."
+    "text": "Alphabet, on the other hand, fell 1.21%. Analysts still view it as a strong buy with a target mean close to $429."
   },
   {
     "speaker": "Adam",
-    "text": "In market news, the Vanguard S&P 500 ETF, or VOO, saw a slight uptick of 0.4% in its last close at $685.55."
+    "text": "They’re facing some scrutiny, too. There are reports of potential heavy fines from the EU."
   },
   {
     "speaker": "Eve",
-    "text": "There’s been some discussion around why retirees are drawn to this ETF, which is interesting given the current market conditions."
+    "text": "I bet that’s weighing on investor sentiment. Speaking of sentiment, Meta is up slightly by 0.47%, with a strong buy rating."
   },
   {
     "speaker": "Adam",
-    "text": "Definitely worth looking into. Moving on to NVIDIA, it dropped by 1.9%, closing at $215.33. Analysts still rate it as a strong buy with a mean price target of about $294."
+    "text": "Its target mean is about $826, so there's quite an upside potential there."
   },
   {
     "speaker": "Eve",
-    "text": "Sounds like there’s still a lot of confidence in NVIDIA, despite the recent dip."
+    "text": "ASML had a solid day, rising 2.57% with a strong buy rating as well. Analysts see it reaching around $1,664."
   },
   {
     "speaker": "Adam",
-    "text": "Right. Micron Technology also saw a decline of 1.46%, closing at $751. Analysts are bullish on it as well, with a mean target of $613."
+    "text": "That's impressive growth, especially in this market."
   },
   {
     "speaker": "Eve",
-    "text": "That’s intriguing, especially considering the competitive landscape in the tech sector."
+    "text": "Taiwan Semiconductor dipped a bit, down 0.65%, but still holds a strong buy recommendation."
   },
   {
     "speaker": "Adam",
-    "text": "Alphabet Inc. dipped by 1.21%, closing at $382.97, but it still holds a strong buy recommendation with a mean target of around $429."
+    "text": "They have a target mean of about $468, so there’s room for recovery."
   },
   {
     "speaker": "Eve",
-    "text": "A lot of movement around these big tech stocks lately."
+    "text": "Cameco Corporation is also down slightly by 0.55%, but analysts still see it as a buy with a target of around $130."
   },
   {
     "speaker": "Adam",
-    "text": "Meta Platforms had a small gain of 0.47%, closing at $610.26, with analysts projecting a mean target of $826."
+    "text": "And lastly, Palantir Technologies is down 0.39%, yet it still has a buy recommendation with a mean target of $183."
   },
   {
     "speaker": "Eve",
-    "text": "That's promising for investors watching Meta's performance!"
+    "text": "It’s fascinating how these tech stocks are performing, especially in the AI market."
   },
   {
     "speaker": "Adam",
-    "text": "ASML Holding saw a notable increase of 2.57%, closing at $1,632.90, with a strong buy recommendation and a mean target of nearly $1,666."
+    "text": "Now, let’s pivot to some new podcast episodes."
   },
   {
     "speaker": "Eve",
-    "text": "It’s great to see some companies thriving, especially in such a challenging environment."
+    "text": "There’s one from Twenty Thousand Hertz titled \"Age of Audio: The Future of Podcasting.\""
   },
   {
     "speaker": "Adam",
-    "text": "Taiwan Semiconductor dipped slightly by 0.65%, closing at $404.52, with a strong buy recommendation and a mean target of around $468."
+    "text": "Sounds intriguing! Filmmaker Shaun Michael Colón discusses the evolution of podcasting and its future."
   },
   {
     "speaker": "Eve",
-    "text": "It’s fascinating how TSM continues to be in demand despite the fluctuations."
+    "text": "It’s definitely worth a listen if you’re into the podcasting world and want some insider insights."
   },
   {
     "speaker": "Adam",
-    "text": "Cameco Corporation experienced a minor decline of 0.55%, closing at $104.75, but analysts still rate it as a buy with a mean target of $130."
+    "text": "Alright, Moiz, that's your news for today!"
   },
   {
     "speaker": "Eve",
-    "text": "Seems like a stable option for investors in the nuclear sector."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Finally, Palantir Technologies fell by 0.39%, closing at $136.88, but it also has a buy recommendation with a mean target of $184."
-  },
-  {
-    "speaker": "Eve",
-    "text": "That’s interesting for those keeping an eye on AI-related stocks."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Alright, Moiz, that wraps up today’s news."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Drive safe, and have a great day!"
+    "text": "Drive safe out there!"
   }
 ]
