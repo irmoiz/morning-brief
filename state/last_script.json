@@ -1,147 +1,171 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! You know, I just heard about this new political party in India called the Cockroach Janta Party, and apparently, they’re posing a threat to Modi’s government. That’s wild!"
+    "text": "Good morning, Moiz! Did you catch the news about Jill Biden worrying her husband Joe might have had a stroke during the debate?"
   },
   {
     "speaker": "Eve",
-    "text": "Right? It sounds bizarre but intriguing! Al Jazeera did a piece on it, which I think is worth checking out. The rise of this party could signal some significant shifts in Indian politics."
+    "text": "Yeah, that’s pretty alarming! She said she had never seen him act that way before."
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of shifts, let’s dive into some world news. There’s been a tragic incident in Washington state where a chemical tank ruptured, resulting in multiple fatalities and several injuries from chemical burns."
+    "text": "Right? It really raises questions about his health. Speaking of health, let’s dive into some world news."
   },
   {
     "speaker": "Eve",
-    "text": "That’s heartbreaking. Safety regulations in industrial settings need to be reexamined. On another note, the aftermath of recent Israeli strikes in southern Lebanon has shown widespread destruction in Maarakeh. It’s a shocking reminder of the ongoing tensions in that region."
+    "text": "Absolutely. In Bolivia, President Luis Arce is warning that “time is running out” amid ongoing protests. This standoff has been dragging on for weeks, and tensions are high."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. And in Belgium, there was a horrific accident where a minibus collided with a train, claiming four lives. It’s a stark reminder of how quickly things can turn tragic during rush hour."
+    "text": "It’s a critical moment for Bolivia, especially with the protesters demanding changes regarding government policies and economic conditions."
   },
   {
     "speaker": "Eve",
-    "text": "It really is. Switching gears, I found an uplifting story about a climber carrying a kite symbolizing Palestinian children’s dreams to the summit of Everest. It’s a beautiful gesture amidst all the chaos."
+    "text": "Meanwhile, markets seem to be responding positively to potential negotiations between the US and Iran."
   },
   {
     "speaker": "Adam",
-    "text": "That’s such a powerful image. And back in the U.S., the Trump administration is making headlines again, this time with a plan to utilize Cold War-era plutonium for fuel. They’re hoping to partner with U.S. power firms to make that happen."
+    "text": "Yes, traders are betting that a deal might finally reopen the Strait of Hormuz, which could ease some of that global economic uncertainty."
   },
   {
     "speaker": "Eve",
-    "text": "That’s definitely a controversial move. And speaking of Trump, his efforts to redraw Congressional maps in Southern states are facing setbacks as lawmakers reject new proposals."
+    "text": "That’s a huge deal considering how much oil passes through that strait!"
   },
   {
     "speaker": "Adam",
-    "text": "It seems like there’s a lot of pushback happening. Also, the U.S. Senate has confirmed Frank Garcia as the top envoy for Africa, signaling a shift towards more trade-focused policies."
+    "text": "Definitely. In another part of the world, former assistant to TV star Matthew Perry, Kenneth Iwamasa, has been sentenced to 41 months in prison."
   },
   {
     "speaker": "Eve",
-    "text": "That's an important step. Meanwhile, there’s speculation about whether Trump may have oversold a ceasefire deal with Iran. It sounds like negotiations are still quite rocky."
+    "text": "It’s a sad conclusion to what was a tragic situation surrounding Perry’s death from drug ketamine."
   },
   {
     "speaker": "Adam",
-    "text": "Yeah, and amid all this, children in Gaza are performing a 'mini Hajj' because many are blocked from making the pilgrimage this year. It’s a creative way to cope with the situation."
+    "text": "It really is. And on a different note, Israel is ramping up attacks in Lebanon despite a ceasefire, which seems counterintuitive given the ongoing US-Iran negotiations."
   },
   {
     "speaker": "Eve",
-    "text": "It really highlights the resilience of those kids. In more domestic news, the White House is proposing NDAs for all federal workers to curb leaks, which could lead to some serious implications for transparency."
+    "text": "Yeah, that’s wild. It’s like they’re trying to send a message during a very sensitive time in the region."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a huge shift in policy. And Russia has slammed the U.S. for not granting a visa to one of its diplomats for a UN meeting, claiming it’s a violation of commitments."
+    "text": "Exactly. And Trump is also making headlines, saying he won’t allow Iran to control the Strait of Hormuz in any future deal."
   },
   {
     "speaker": "Eve",
-    "text": "It’s interesting to see how diplomatic relations are constantly evolving. Now, let's switch gears to the markets, shall we?"
+    "text": "It’s a strong statement, especially considering the geopolitical stakes involved."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely! Let’s start with the Vanguard S&P 500 ETF, or VOO, which closed at $690.01, up by 0.65%. It’s been performing well this year, outperforming the S&P 500 overall."
+    "text": "Speaking of tensions, Ghana has welcomed its first group of refugees fleeing the recent anti-immigration protests in South Africa."
   },
   {
     "speaker": "Eve",
-    "text": "That’s impressive! Analysts are noting significant inflows into this fund, totaling $25.2 billion recently, which is no small feat."
+    "text": "That’s a significant humanitarian effort. It’s heartbreaking to see such unrest leading to people needing to flee their homes."
   },
   {
     "speaker": "Adam",
-    "text": "Next up, we have NVIDIA Corporation, or NVDA, which closed at $214.86, down slightly by 0.22%. Analysts are still bullish with a strong buy rating and a mean price target of around $295.34."
+    "text": "In the US, Alabama is pushing the Supreme Court to approve a congressional map for the midterms that was previously rejected for racial discrimination."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a significant upside potential, especially with all the buzz around AI and tech markets."
+    "text": "It’s fascinating how these legal battles can shape the political landscape."
   },
   {
     "speaker": "Adam",
-    "text": "Right? Now, let’s talk about Micron Technology, or MU. Their stock closed at $895.88, up a whopping 19.29%. Analysts are also rating it as a strong buy, with a mean price target of $613.23."
+    "text": "And lastly, Trump has also been threatening Oman over the Strait of Hormuz impasse, warning they “will behave just like everybody else, or we will have to blow them up.”"
   },
   {
     "speaker": "Eve",
-    "text": "Incredible surge! They’ve reached a $1 trillion market cap as they’re expected to become a major player in the AI sector."
+    "text": "Wow, those are some intense words! It’s a tense moment in international relations right now."
   },
   {
     "speaker": "Adam",
-    "text": "Moving on to Alphabet Inc., or GOOGL, which closed at $388.88, up by 1.54%. Analysts hold a strong buy recommendation with a target mean of $429.11."
+    "text": "Now, let’s switch gears and take a look at the markets."
   },
   {
     "speaker": "Eve",
-    "text": "They’re definitely riding the wave of tech stock excitement lately."
+    "text": "Sure thing! Starting with the Vanguard S&P 500 ETF, or VOO, it closed at $689.96, down a smidge at -0.01%."
   },
   {
     "speaker": "Adam",
-    "text": "Meta Platforms, or META, closed at $612.34, up by 0.34%, also with a strong buy recommendation and an ambitious price target of $826.60."
+    "text": "There’s been some chatter suggesting investors might want to consider alternatives to VOO, even though it’s tracking the S&P 500."
   },
   {
     "speaker": "Eve",
-    "text": "Interesting to see how they’re navigating legal challenges while still being seen positively by analysts."
+    "text": "Moving on to NVIDIA, or NVDA, it closed at $212.60, down 1.05%. Analysts have a strong buy rating with a mean price target around $295."
   },
   {
     "speaker": "Adam",
-    "text": "Then we have ASML Holding, which closed at $1632.03, down slightly by 0.05%, but still holds a strong buy recommendation. The mean price target is $1664.92."
+    "text": "That’s quite a gap! Especially given the excitement around AI and tech."
   },
   {
     "speaker": "Eve",
-    "text": "It’s a solid company, but it seems the market is being a bit cautious right now."
+    "text": "Speaking of tech, Micron Technology, or MU, is seeing a rise of 3.63%, closing at $928.41. Analysts also rate it as a strong buy with a mean target of $652."
   },
   {
     "speaker": "Adam",
-    "text": "Taiwan Semiconductor Manufacturing, or TSM, closed at $412.32, up by an impressive 1.93%. Analysts are quite optimistic with a strong buy consensus and a mean target of $467.84."
+    "text": "That’s interesting, especially as Micron has been highlighted in the AI boom alongside NVIDIA."
   },
   {
     "speaker": "Eve",
-    "text": "That’s quite promising, especially with the semiconductor demand rising globally!"
+    "text": "Alphabet Inc., or GOOGL, closed at $388.83, down a tiny 0.01%. It’s rated as a strong buy, with an average target of $429."
   },
   {
     "speaker": "Adam",
-    "text": "Now, Cameco Corporation, or CCJ, closed at $108.17, up by 3.26%. Analysts recommend it as a buy, aiming for a mean target of $130."
+    "text": "There’s some drama surrounding Google too, with a couple of insider trading charges making headlines."
   },
   {
     "speaker": "Eve",
-    "text": "With uranium becoming more critical, it’s no surprise this stock is gaining traction."
+    "text": "Yes, that’s definitely something to keep an eye on. Now, Meta Platforms, known as META, closed up 3.74% at $635.26, also rated a strong buy with a target mean close to $827."
   },
   {
     "speaker": "Adam",
-    "text": "Lastly, Palantir Technologies, or PLTR, closed at $136.60, down a tad by 0.2%, but still holds a buy recommendation with a target mean of $183.73."
+    "text": "They must be feeling optimistic with their recent strategies, especially regarding AI funding!"
   },
   {
     "speaker": "Eve",
-    "text": "The discussion around AI stocks is heating up, and it’ll be interesting to see how they navigate competition."
+    "text": "ASML Holding, or ASML, closed at $1597.87, down 2.09%, but still has a strong buy rating overall."
   },
   {
     "speaker": "Adam",
-    "text": "Now, let’s look at the new episodes in your podcasts. There's a new episode of \"99% Invisible\" titled \"Drug Story: Ivermectin.\" It explores how a treatment for river blindness turned into a much messier story."
+    "text": "And Taiwan Semiconductor, or TSM, gained 2.52%, closing at $422.73. Analysts are optimistic, with a mean price target of $467."
   },
   {
     "speaker": "Eve",
-    "text": "Sounds fascinating! It’s definitely worth a listen if you’re interested in the complexities of medical narratives."
+    "text": "It seems like there’s a lot of bullish sentiment around the semiconductor sector right now."
   },
   {
     "speaker": "Adam",
-    "text": "Alright, Moiz, that wraps up today’s news."
+    "text": "Finally, Cameco Corporation, or CCJ, closed at $107.44, down 0.67%, but analysts still recommend it as a buy."
   },
   {
     "speaker": "Eve",
-    "text": "Have a great day at work!"
+    "text": "And Palantir Technologies, or PLTR, is down 2.99% at $132.51, with a buy rating and a price target of $183."
+  },
+  {
+    "speaker": "Adam",
+    "text": "That’s a wrap on the market update!"
+  },
+  {
+    "speaker": "Eve",
+    "text": "Now, let’s see what’s new in your podcasts today."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Actually, it looks like there are no new episodes to highlight today."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Oh, that’s a bummer! But there’s always something interesting coming up in the podcast world."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Indeed, Moiz! That brings us to the end of today’s news brief."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Drive safe, and have a great day at work!"
   },
   {
     "speaker": "Adam",
