@@ -1,174 +1,178 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you catch the news about Jill Biden worrying her husband Joe might have had a stroke during the debate?"
+    "text": "Good morning, Moiz! Did you catch that chaos over the Iran football team's visa issues?"
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, that’s pretty alarming! She said she had never seen him act that way before."
+    "text": "Yeah, it’s wild. The Iranian ambassador is really firing shots at the U.S. regarding the World Cup."
   },
   {
     "speaker": "Adam",
-    "text": "Right? It really raises questions about his health. Speaking of health, let’s dive into some world news."
+    "text": "Right? They’re saying their team isn’t competing on equal terms. It’s definitely heating up as the tournament approaches."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely. In Bolivia, President Luis Arce is warning that “time is running out” amid ongoing protests. This standoff has been dragging on for weeks, and tensions are high."
+    "text": "Speaking of tension, there’s been a lot of unrest in the U.S. too. Protests erupted outside the Delaney Hall immigrant detention center in New Jersey."
   },
   {
     "speaker": "Adam",
-    "text": "It’s a critical moment for Bolivia, especially with the protesters demanding changes regarding government policies and economic conditions."
+    "text": "Exactly, a hunger strike is putting the spotlight on conditions within those facilities, and a lot of questions are being raised."
   },
   {
     "speaker": "Eve",
-    "text": "Meanwhile, markets seem to be responding positively to potential negotiations between the US and Iran."
+    "text": "It seems like every week there’s a new protest in the U.S. regarding immigration."
   },
   {
     "speaker": "Adam",
-    "text": "Yes, traders are betting that a deal might finally reopen the Strait of Hormuz, which could ease some of that global economic uncertainty."
+    "text": "And over in Europe, they’re dealing with a record-breaking heatwave! Just what everyone needs, right?"
   },
   {
     "speaker": "Eve",
-    "text": "That’s a huge deal considering how much oil passes through that strait!"
+    "text": "Ugh, I can’t even imagine how folks are coping with that. But it’s not just the weather that’s making headlines. We’ve got some sports news too."
   },
   {
     "speaker": "Adam",
-    "text": "Definitely. In another part of the world, former assistant to TV star Matthew Perry, Kenneth Iwamasa, has been sentenced to 41 months in prison."
+    "text": "Yes! The UEFA Champions League final is set, with PSG taking on Arsenal. Exciting match-up for sure."
   },
   {
     "speaker": "Eve",
-    "text": "It’s a sad conclusion to what was a tragic situation surrounding Perry’s death from drug ketamine."
+    "text": "Absolutely! Al Jazeera has a rundown of ten things to know about the final. Perfect for any football fan."
   },
   {
     "speaker": "Adam",
-    "text": "It really is. And on a different note, Israel is ramping up attacks in Lebanon despite a ceasefire, which seems counterintuitive given the ongoing US-Iran negotiations."
+    "text": "And while we're on the topic of celebrations, did you see that Indians are celebrating Eid al-Adha, albeit with some prayer restrictions?"
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, that’s wild. It’s like they’re trying to send a message during a very sensitive time in the region."
+    "text": "Yeah, that’s a tough situation. It’s always challenging when cultural practices collide with regulations."
   },
   {
     "speaker": "Adam",
-    "text": "Exactly. And Trump is also making headlines, saying he won’t allow Iran to control the Strait of Hormuz in any future deal."
+    "text": "Meanwhile, Ireland is facing calls to boycott their upcoming matches against Israel. It’s all part of a bigger protest movement."
   },
   {
     "speaker": "Eve",
-    "text": "It’s a strong statement, especially considering the geopolitical stakes involved."
+    "text": "Right, and it's interesting how sports can become intertwined with political statements."
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of tensions, Ghana has welcomed its first group of refugees fleeing the recent anti-immigration protests in South Africa."
+    "text": "Moving back to the Americas, Colombia’s first left-wing government has reduced poverty but is now struggling under a massive debt."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a significant humanitarian effort. It’s heartbreaking to see such unrest leading to people needing to flee their homes."
+    "text": "That’s a critical balance to strike—improving social conditions while managing debt is no easy task."
   },
   {
     "speaker": "Adam",
-    "text": "In the US, Alabama is pushing the Supreme Court to approve a congressional map for the midterms that was previously rejected for racial discrimination."
+    "text": "And Guatemala is in the news too, denying any agreement with the U.S. to conduct strikes against drug traffickers."
   },
   {
     "speaker": "Eve",
-    "text": "It’s fascinating how these legal battles can shape the political landscape."
+    "text": "That’s definitely a tense situation. It seems like a lot of nations are grappling with external influences."
   },
   {
     "speaker": "Adam",
-    "text": "And lastly, Trump has also been threatening Oman over the Strait of Hormuz impasse, warning they “will behave just like everybody else, or we will have to blow them up.”"
+    "text": "Speaking of external factors, a U.S. judge recently rejected an immediate block on Trump’s mail-in voting executive order."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, those are some intense words! It’s a tense moment in international relations right now."
+    "text": "That’s quite significant! It seems like the legal battles over voting rights are far from over."
   },
   {
     "speaker": "Adam",
-    "text": "Now, let’s switch gears and take a look at the markets."
+    "text": "And let’s not forget about the families in Tyre, Lebanon. They’re refusing to evacuate after their homes were bombed."
   },
   {
     "speaker": "Eve",
-    "text": "Sure thing! Starting with the Vanguard S&P 500 ETF, or VOO, it closed at $689.96, down a smidge at -0.01%."
+    "text": "It’s heartbreaking to see such resilience in the face of devastation."
   },
   {
     "speaker": "Adam",
-    "text": "There’s been some chatter suggesting investors might want to consider alternatives to VOO, even though it’s tracking the S&P 500."
+    "text": "In the world of business and finance, let's switch gears to the markets."
   },
   {
     "speaker": "Eve",
-    "text": "Moving on to NVIDIA, or NVDA, it closed at $212.60, down 1.05%. Analysts have a strong buy rating with a mean price target around $295."
+    "text": "Sure thing! The Vanguard S&P 500 ETF, or VOO, is up by 0.57%. Analysts have been weighing in on its potential amidst the market highs."
   },
   {
     "speaker": "Adam",
-    "text": "That’s quite a gap! Especially given the excitement around AI and tech."
+    "text": "Right, there’s some buzz around whether it’s a good buy at these elevated levels, but no strong recommendations yet."
   },
   {
     "speaker": "Eve",
-    "text": "Speaking of tech, Micron Technology, or MU, is seeing a rise of 3.63%, closing at $928.41. Analysts also rate it as a strong buy with a mean target of $652."
+    "text": "NVIDIA, on the other hand, is seeing a 0.78% increase, with a strong buy rating from analysts."
   },
   {
     "speaker": "Adam",
-    "text": "That’s interesting, especially as Micron has been highlighted in the AI boom alongside NVIDIA."
+    "text": "And their target price is quite aggressive at nearly $296, given the hype around AI."
   },
   {
     "speaker": "Eve",
-    "text": "Alphabet Inc., or GOOGL, closed at $388.83, down a tiny 0.01%. It’s rated as a strong buy, with an average target of $429."
+    "text": "Micron Technology is down slightly, 0.53%, but still holds a strong buy recommendation."
   },
   {
     "speaker": "Adam",
-    "text": "There’s some drama surrounding Google too, with a couple of insider trading charges making headlines."
+    "text": "They also have a target mean of about $653, which is interesting considering the market fluctuations."
   },
   {
     "speaker": "Eve",
-    "text": "Yes, that’s definitely something to keep an eye on. Now, Meta Platforms, known as META, closed up 3.74% at $635.26, also rated a strong buy with a target mean close to $827."
+    "text": "Alphabet is inching up at 0.33% with a strong buy recommendation as well, and they’re making headlines with their new AI model release."
   },
   {
     "speaker": "Adam",
-    "text": "They must be feeling optimistic with their recent strategies, especially regarding AI funding!"
+    "text": "Oh, and Meta is holding steady at $635, no change, but still a strong buy."
   },
   {
     "speaker": "Eve",
-    "text": "ASML Holding, or ASML, closed at $1597.87, down 2.09%, but still has a strong buy rating overall."
+    "text": "Their target mean is up there too, at around $827. It’s wild how resilient these tech giants are."
   },
   {
     "speaker": "Adam",
-    "text": "And Taiwan Semiconductor, or TSM, gained 2.52%, closing at $422.73. Analysts are optimistic, with a mean price target of $467."
+    "text": "ASML is also performing well, up 0.49%, with a strong buy rating and a target mean of around $1667."
   },
   {
     "speaker": "Eve",
-    "text": "It seems like there’s a lot of bullish sentiment around the semiconductor sector right now."
+    "text": "Sounds like semiconductor stocks are still in demand, right?"
   },
   {
     "speaker": "Adam",
-    "text": "Finally, Cameco Corporation, or CCJ, closed at $107.44, down 0.67%, but analysts still recommend it as a buy."
+    "text": "Exactly! And Taiwan Semiconductor is up too, 0.5%, with a target mean of about $468."
   },
   {
     "speaker": "Eve",
-    "text": "And Palantir Technologies, or PLTR, is down 2.99% at $132.51, with a buy rating and a price target of $183."
+    "text": "They’re definitely a key player in that market."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a wrap on the market update!"
+    "text": "Cameco Corporation is also on the rise, up nearly 3%, and analysts are rating it as a buy."
   },
   {
     "speaker": "Eve",
-    "text": "Now, let’s see what’s new in your podcasts today."
+    "text": "That’s a solid gain! And lastly, Palantir is soaring by 8.17% today."
   },
   {
     "speaker": "Adam",
-    "text": "Actually, it looks like there are no new episodes to highlight today."
+    "text": "Incredible! They’re getting some attention with their recent developments and a strong buy recommendation."
   },
   {
     "speaker": "Eve",
-    "text": "Oh, that’s a bummer! But there’s always something interesting coming up in the podcast world."
+    "text": "All these fluctuations and recommendations make for an interesting landscape in the stock market!"
   },
   {
     "speaker": "Adam",
-    "text": "Indeed, Moiz! That brings us to the end of today’s news brief."
+    "text": "For sure! Before we wrap up, there are no new episodes to highlight this morning, but it looks like we’ve covered a lot."
   },
   {
     "speaker": "Eve",
-    "text": "Drive safe, and have a great day at work!"
+    "text": "Absolutely, there’s always something happening in the world, isn’t there?"
   },
   {
     "speaker": "Adam",
-    "text": "Take care!"
+    "text": "Well, Moiz, that’s it for today. Drive safe!"
+  },
+  {
+    "speaker": "Eve",
+    "text": "Have a great day, Moiz!"
   }
 ]
