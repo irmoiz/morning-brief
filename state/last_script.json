@@ -1,206 +1,154 @@
 [
   {
     "speaker": "Adam",
-    "text": "Wow, Moiz, did you hear about Trump’s latest move regarding the Kennedy Center?"
+    "text": "Good morning, Moiz! Did you see that the U.S. Congress is pushing for a military integration plan with Israel?"
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, it’s wild! A court just struck down his bid to add his name to the building, and now he's pledging to withdraw altogether."
+    "text": "Oh, that's wild! It seems like this could really strengthen the ties between the two countries' weapons industries, doesn't it?"
   },
   {
     "speaker": "Adam",
-    "text": "That's right! Judge Christopher Cooper ruled against him and ordered the theater to close for two years. It’s quite a turn of events."
+    "text": "Absolutely. This provision is part of the 2027 draft defense bill, and it might change the dynamics of military cooperation significantly."
   },
   {
     "speaker": "Eve",
-    "text": "Speaking of court rulings, there’s been a serious incident involving U.S. immigration. An ICE agent has been arrested over the shooting of a Venezuelan man during a raid in Minneapolis."
+    "text": "Speaking of significant changes, let's take a look at what's happening around the world."
   },
   {
     "speaker": "Adam",
-    "text": "Right, that shooting happened back in January during Operation Metro Surge. It’s raising a lot of questions about law enforcement practices right now."
+    "text": "Right, starting with the conflict in Colombia. FARC dissidents have announced they've returned to war after the peace deal failed to provide security."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, and Lula, the president of Brazil, is really upset about the U.S. labeling Brazilian gangs as terrorists. He argues it could undermine local law enforcement efforts."
+    "text": "That's heartbreaking. After all the effort that went into the peace process, it's disappointing to see it unravel like this."
   },
   {
     "speaker": "Adam",
-    "text": "That’s an interesting point. The implications of such a designation can be massive in terms of international relations and local policing."
+    "text": "Yeah, and in Lebanon, the army is reportedly \"overly stretched\" as Israeli troops expand their occupation."
   },
   {
     "speaker": "Eve",
-    "text": "For sure. Meanwhile, in the DRC, workers are rebuilding an Ebola treatment center that was torched by protesters just earlier this month."
+    "text": "It sounds like there's a lot of pressure on Lebanon's military right now."
   },
   {
     "speaker": "Adam",
-    "text": "It's heartbreaking to see healthcare facilities targeted like that. The need for these centers is so critical."
+    "text": "It is concerning. Meanwhile, in Ukraine, NATO has stated it's ready to defend allied territory against Russian attacks."
   },
   {
     "speaker": "Eve",
-    "text": "It really is. On another note, the UN has made a bold statement saying “100% of Gaza” should belong to Palestinians."
+    "text": "That indicates some serious tensions are still bubbling over there."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a powerful stance. It certainly adds more fuel to the already heated discussions around the region."
+    "text": "Definitely. And speaking of conflicts, Putin has claimed that a drone that crashed in Romania is likely of Ukrainian origin."
   },
   {
     "speaker": "Eve",
-    "text": "And Iran has denied that any ceasefire deal with the U.S. is finalized yet, which keeps the tension high."
+    "text": "That adds another layer to the ongoing situation in Eastern Europe."
   },
   {
     "speaker": "Adam",
-    "text": "It seems like every day there’s a new twist in the story. On a different note, Alberta is gaining momentum for separatist sentiments which some are calling Canada’s Brexit moment."
+    "text": "Shifting gears, did you hear about the tragic accident in Afghanistan? A truck carrying refugees overturned, resulting in 22 deaths."
   },
   {
     "speaker": "Eve",
-    "text": "That’s pretty shocking! With all the unity crises Canada is experiencing, it’ll be interesting to see how this unfolds."
+    "text": "That’s just devastating. Refugees are already in such a vulnerable position, and this just adds to their suffering."
   },
   {
     "speaker": "Adam",
-    "text": "Right? And on the international front, Poland's president is threatening to strip Ukraine’s Zelenskyy of a top state honor due to outrage over Ukraine’s renaming an army unit."
+    "text": "It’s heartbreaking. And in Malta, voters are heading to the polls for early elections after PM Robert Abela called a snap election."
   },
   {
     "speaker": "Eve",
-    "text": "It’s fascinating how historical grievances can resurface and impact current politics."
+    "text": "That'll be interesting to watch. It's always intriguing to see how political dynamics shift in such situations."
   },
   {
     "speaker": "Adam",
-    "text": "Meanwhile, Canada is feeling sidelined in USMCA renegotiations as their economy dips, which is another layer of complexity to their trade relations."
+    "text": "Absolutely. Now, let's check in on the markets."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely. And on a different note, former U.S. Attorney General Pam Bondi is testifying in the Epstein files probe, defending the release of those records."
+    "text": "Starting with the Vanguard S&P 500 ETF, VOO, which closed up 0.23%."
   },
   {
     "speaker": "Adam",
-    "text": "This is a case that keeps evolving. It’ll be intriguing to see the fallout from that testimony."
+    "text": "There’s been a lot of buzz around ETF filings, especially with SpaceX gearing up for its IPO."
   },
   {
     "speaker": "Eve",
-    "text": "And lastly, Israeli Prime Minister Netanyahu confirmed that Israeli forces have crossed the Litani River into southern Lebanon."
+    "text": "That’s definitely something to watch. Moving on to NVIDIA, which saw a decline of 1.45%."
   },
   {
     "speaker": "Adam",
-    "text": "That’s significant. It certainly escalates the situation there."
+    "text": "Analysts are still recommending it as a strong buy, with a mean price target of nearly $297."
   },
   {
     "speaker": "Eve",
-    "text": "Let’s pivot to the markets now, shall we?"
+    "text": "Fascinating. And Micron Technology is having a good day, up 5.14% and also holds a strong buy recommendation."
   },
   {
     "speaker": "Adam",
-    "text": "Definitely. Starting with the Vanguard S&P 500 ETF, or VOO, it closed at $695.49, experiencing a slight increase of 0.23%."
+    "text": "Their target mean is around $674, which is quite a jump from its current price."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a stable movement, no big surprises there. Any noteworthy news around it?"
+    "text": "Indeed! Now, Alphabet, or GOOGL, is down 2.51%, but still a strong buy with a target mean of about $431."
   },
   {
     "speaker": "Adam",
-    "text": "Yes, several ETF filings are piling into SpaceX ahead of its IPO, which might be drawing attention to VOO."
+    "text": "Sounds like there's a mixed picture in tech. Meta is also down slightly by 0.44% with a strong buy recommendation."
   },
   {
     "speaker": "Eve",
-    "text": "Interesting! Now, NVIDIA, ticker NVDA, closed at $211.14, but it’s down 1.45%. Still, analysts rate it a strong buy with a mean price target of about $296.81."
+    "text": "Their target mean is around $827. Seems like a good long-term hold despite the dip."
   },
   {
     "speaker": "Adam",
-    "text": "That’s quite a discrepancy from where it’s currently trading! What’s driving that?"
+    "text": "Next up is ASML, which is up 0.44% and also has a strong buy rating, targeting around $1,667."
   },
   {
     "speaker": "Eve",
-    "text": "There’s a lot of buzz around Computex 2026, where NVIDIA and other chip makers are in focus."
+    "text": "And Taiwan Semiconductor is down 1.51% but still a strong buy, with a target mean of about $468."
   },
   {
     "speaker": "Adam",
-    "text": "Moving on to Micron Technology, ticker MU, it closed at $971.00, up 5.14% with a strong buy recommendation. Its target mean price is $674.23."
+    "text": "Cameco Corporation is on the rise, up 1.87%, and analysts are giving it a \"buy\" rating."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a surprising rise! Any news fueling that?"
+    "text": "Their target mean is around $130, which indicates some confidence in growth."
   },
   {
     "speaker": "Adam",
-    "text": "Yes, AI server sales are pushing stocks higher, including Dell’s, which has been performing exceptionally well."
+    "text": "Lastly, Palantir is having a big day, surging 9.21% and also rated as a buy, with a target mean of about $184."
   },
   {
     "speaker": "Eve",
-    "text": "Next, Alphabet, or GOOGL, closed at $380.34, down 2.51%, but also rated a strong buy. Its mean target is around $430.72."
+    "text": "That’s impressive! Their partnership with Dell seems to be paying off."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a solid target. It seems like they’re facing some competition, though, which is impacting performance."
+    "text": "Alright, let’s take a quick break from the markets. Do we have any new podcast episodes to check out?"
   },
   {
     "speaker": "Eve",
-    "text": "Right? Meta, or META, closed at $632.51, slightly down by 0.44% but still rated a strong buy. Its mean target is $826.75."
+    "text": "Yes! There's a replay episode of \"People I (Mostly) Admire\" where Amaryllis Fox discusses threats from a new kind of terror."
   },
   {
     "speaker": "Adam",
-    "text": "There’s definitely significant interest in AI spending related to Meta, which is crucial for its future growth."
+    "text": "She offers a unique perspective, especially with her background as a former CIA operative."
   },
   {
     "speaker": "Eve",
-    "text": "ASML Holding closed at $1612.76, up 0.44%, and still holds a strong buy recommendation with a target of $1667.45."
+    "text": "Definitely worth a listen, especially if you're interested in intelligence and security topics."
   },
   {
     "speaker": "Adam",
-    "text": "Solid performance there. What’s the buzz around ASML?"
+    "text": "Well, that's a wrap for today’s news, Moiz."
   },
   {
     "speaker": "Eve",
-    "text": "Analysts are weighing the competition with TSMC and the implications for future semiconductor stocks."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Speaking of which, Taiwan Semiconductor, or TSM, closed at $418.45, down 1.51%, but still rated strong buy with a target mean of $467.84."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Interesting to see that dip. What’s the news surrounding TSM?"
-  },
-  {
-    "speaker": "Adam",
-    "text": "They’re focusing on AI power constraints in their future chip strategy, which could impact their market position."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Cameco Corporation, or CCJ, closed at $112.70, up 1.87%, with a buy recommendation and a mean target of $130.09."
-  },
-  {
-    "speaker": "Adam",
-    "text": "That’s encouraging news! Analysts are optimistic about their output recovery."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Finally, Palantir Technologies, ticker PLTR, had an impressive close at $156.54, up 9.21%, rated a buy with a target mean of $183.73."
-  },
-  {
-    "speaker": "Adam",
-    "text": "That’s quite a surge! What’s driving that increase?"
-  },
-  {
-    "speaker": "Eve",
-    "text": "There’s a buzz around their role in AI and cybersecurity, which is capturing investor interest."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Let’s quickly touch on some new podcast episodes. There’s a new one from \"99% Invisible\" titled \"100 Objects #2: 60-Degree Screw.\""
-  },
-  {
-    "speaker": "Eve",
-    "text": "It’s about how a tiny screw and a precise angle contributed to building a hidden empire in America. Sounds intriguing!"
-  },
-  {
-    "speaker": "Adam",
-    "text": "Absolutely, worth checking out for those interested in design and history."
-  },
-  {
-    "speaker": "Eve",
-    "text": "And that wraps it up for today’s podcast, Moiz."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Safe travels to work, Moiz!"
+    "text": "Drive safe, and have a great day ahead!"
   }
 ]
