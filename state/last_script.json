@@ -1,118 +1,210 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you see the news about the Colombian presidential election? It looks like there’s going to be a runoff between a left-wing senator and a far-right newcomer."
+    "text": "Good morning, Moiz! Did you see that in 2026, China has hosted 26 world leaders?"
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, that’s really interesting! Security is a top issue for them, which makes this race even more critical. It’s going to be fascinating to see how that plays out on June 21st."
+    "text": "Wow, that’s a big number! It really highlights China’s growing influence in global politics, huh?"
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of critical issues, let’s dive into some world news. Starting with Colombia, as you mentioned, this election is pivotal. The candidates represent a stark contrast in policies and visions for the country's future."
+    "text": "Absolutely! It shows how much countries are looking to strengthen ties with China. Speaking of international affairs, let’s dive into some world news."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely, Adam. In fact, the outcome could reshape Colombia’s approach to various challenges, especially concerning security and social inequality."
+    "text": "Sure thing! Starting off with the Middle East, Israel has reportedly killed five people in attacks on Lebanon, just as Trump announced a de-escalation agreement."
   },
   {
     "speaker": "Adam",
-    "text": "That's right. Meanwhile, in Nicaragua, there's been a tragic development. The Indigenous leader Brooklyn Rivera has died in custody after nearly three years of detention. Advocates were really worried about his welfare during that time."
+    "text": "That’s wild. It's alarming to see such violence after a supposed agreement aimed at reducing hostilities. The situation is incredibly tense."
   },
   {
     "speaker": "Eve",
-    "text": "That’s just heartbreaking. Rivera's death highlights ongoing human rights concerns in Nicaragua, which have increasingly drawn international scrutiny."
+    "text": "And right alongside that, Trump has stated that both Israel and Hezbollah are supposed to stop fighting. Netanyahu has agreed to halt operations near Beirut, while Hezbollah is to cease attacks on Israel."
   },
   {
     "speaker": "Adam",
-    "text": "In South Korea, there’s an innovative approach to a growing issue—loneliness among seniors. AI-powered companion dolls are being introduced to help alleviate this problem."
+    "text": "It’s a precarious situation. With the latest attacks, one wonders how stable that truce will actually be."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, that’s wild! It’s amazing to see how technology is being utilized to combat social isolation, especially in an aging population."
+    "text": "Exactly. Meanwhile, turning our gaze to Africa, there’s an insightful piece on how social media is reshaping life across the continent."
   },
   {
     "speaker": "Adam",
-    "text": "Moving to the U.S., New Jersey has imposed a curfew following escalating immigration protests. It’s a tense situation, highlighting the ongoing debates around immigration policies."
+    "text": "Oh, really? How so?"
   },
   {
     "speaker": "Eve",
-    "text": "Right, and the state's response indicates the level of unrest surrounding this issue. It’s a reflection of how deeply divided the public is on immigration matters."
+    "text": "It’s fascinating! The article discusses how social media is redefining politics, culture, and even identity, blurring the lines between community and performance."
   },
   {
     "speaker": "Adam",
-    "text": "Meanwhile, Ethiopia is gearing up for its first elections since the Tigray peace deal. This vote is significant, especially given the country's complex internal conflicts."
+    "text": "That’s such an interesting angle. I can see how it could have both positive and negative effects."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely. It’s a pivotal moment for Ethiopian democracy, although there are ongoing human rights concerns that overshadow the electoral process."
+    "text": "Definitely. And in the Central African Republic, refugee women are facing serious risks during childbirth due to cuts in US funding. They are often forced to give birth at home."
   },
   {
     "speaker": "Adam",
-    "text": "Switching gears, sports fans will be excited to know that Virat Kohli led Bengaluru to back-to-back IPL titles. They defeated the Gujarat Titans in what he described as the “stuff of dreams.”"
+    "text": "That’s heartbreaking. Access to proper healthcare is crucial, especially in vulnerable communities."
   },
   {
     "speaker": "Eve",
-    "text": "That’s such a great achievement! Kohli's performance seems to be a huge morale booster for the team and fans alike."
+    "text": "It really is. On a different note, the war in Iran is exacerbating its water crisis, with attacks on desalination plants worsening the situation."
   },
   {
     "speaker": "Adam",
-    "text": "Now, let’s take a quick look at the markets. Starting with the Vanguard S&P 500 ETF, it closed at $695.49, up 0.23%. There’s no specific news driving this movement, just general market trends."
+    "text": "That’s a dire consequence of conflict. Water scarcity can lead to a myriad of other issues."
   },
   {
     "speaker": "Eve",
-    "text": "Next up is NVIDIA, which closed at $211.14, down 1.45%. Analysts still have a \"strong buy\" rating on it, with a mean price target of $296.81. Despite the dip, the long-term outlook seems solid."
+    "text": "And in the U.S., a tragic incident unfolded where a gunman killed six family members before taking his own life."
   },
   {
     "speaker": "Adam",
-    "text": "Exactly! Moving on to Micron Technology, it saw a nice jump of 5.14%, closing at $971. Analysts are very optimistic with a \"strong buy\" rating and a target mean of $702.98."
+    "text": "It’s just devastating to hear about such violence within families. It’s hard to understand what drives someone to that point."
   },
   {
     "speaker": "Eve",
-    "text": "That’s interesting, especially considering the ongoing demand for AI-driven memory solutions."
+    "text": "Absolutely. Shifting gears to sports, there’s a World Cup happening in Los Angeles. Federal agents will be present, but there won’t be any immigration enforcement during the games."
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of strong buys, Alphabet closed at $380.34, down 2.51%, but with a target mean of $430.72."
+    "text": "That’s interesting. It seems like they’re trying to ensure that the focus remains on the event itself, rather than political issues."
   },
   {
     "speaker": "Eve",
-    "text": "Meta also had a slight decline, closing at $632.51, down 0.44%, but it maintains a \"strong buy\" rating with a target mean of $826.75."
+    "text": "Exactly. Meanwhile, in Jakarta, a massive fire has left hundreds homeless after engulfing a market."
   },
   {
     "speaker": "Adam",
-    "text": "ASML Holding closed at $1612.76, up 0.44%, and it also holds a \"strong buy\" recommendation with a mean price target of $1668.48."
+    "text": "That’s truly unfortunate. A disaster like that can have such a ripple effect on the community."
   },
   {
     "speaker": "Eve",
-    "text": "Taiwan Semiconductor Manufacturing had a rough day, closing at $418.45, down 1.51%, but still a \"strong buy\" with a target mean of $467.84."
+    "text": "And there’s a growing conversation in Australia regarding the distinction between anti-Semitism and criticism of Israel."
   },
   {
     "speaker": "Adam",
-    "text": "Cameco Corporation saw a positive movement, up 1.87% at $112.70. Analysts suggest buying with a target mean of $130.08."
+    "text": "That’s a complex topic. It’s important to protect against hatred while also allowing for accountability."
   },
   {
     "speaker": "Eve",
-    "text": "And Palantir surged 9.21%, closing at $156.54. It’s been getting a lot of buzz lately with a \"buy\" recommendation and a mean price target of $183.73."
+    "text": "For sure. And lastly, there’s a discussion about the need for a political settlement in Somalia, as it faces a dangerous moment without a clear path to elections."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a solid performance! Now, let’s check in on new podcast episodes. Actually, it looks like there aren’t any new episodes to discuss today."
+    "text": "Somalia’s situation is quite precarious. It’s crucial for them to establish stability."
   },
   {
     "speaker": "Eve",
-    "text": "Sometimes it’s just a quiet morning in the podcast world."
+    "text": "Now, let’s take a look at the markets, starting with the Vanguard S&P 500 ETF, symbol VOO. It closed at $697.30, up 0.26%."
   },
   {
     "speaker": "Adam",
-    "text": "Yeah, it happens! Well, that wraps up our news for today, Moiz."
+    "text": "There are some interesting discussions around VOO, including two signals investors should watch before summer. It’s a good time to keep an eye on that."
   },
   {
     "speaker": "Eve",
-    "text": "Thanks for joining us on your drive, and take care out there!"
+    "text": "Moving on to NVIDIA, symbol NVDA, it closed at $224.36 with a significant jump of 6.26%."
   },
   {
     "speaker": "Adam",
-    "text": "Have a great day!"
+    "text": "Analysts are giving it a strong buy rating, with a mean price target of around $296.81. That’s quite a leap!"
+  },
+  {
+    "speaker": "Eve",
+    "text": "It is! There’s buzz around new AI chips for personal computers, which has fueled this surge."
+  },
+  {
+    "speaker": "Adam",
+    "text": "And Micron Technology, symbol MU, closed at $1035.50, up 6.64%, also rated as a strong buy."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Their mean price target is $726.23, suggesting a strong upside potential."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Right? And they’re in the spotlight due to the chip shortage that’s helping to drive an AI boom."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Next is Alphabet, GOOGL, which closed at $376.37, but it dipped 1.04%."
+  },
+  {
+    "speaker": "Adam",
+    "text": "They’re still rated as a strong buy, with a mean target of $429.97. Uncertainty over US-Iran peace talks seems to be weighing on the stock a bit."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Definitely. And then there’s Meta, symbol META, which closed at $600.47, down 5.07%."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Despite that drop, it’s still rated as a strong buy, with a mean target of $826.75. Analysts are concerned about their debt to fuel AI growth, though."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Right. Moving on, ASML closed at $1628.57, up 0.98%, and it also has a strong buy recommendation."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Their price target is $1667.89. Analysts are optimistic about the AI revolution's early stages."
+  },
+  {
+    "speaker": "Eve",
+    "text": "And Taiwan Semiconductor, TSM, closed at $435.63, up 4.11%, also rated as a strong buy with a target of $467.84."
+  },
+  {
+    "speaker": "Adam",
+    "text": "They’re in the news due to partnerships with NVIDIA. Exciting times for the semiconductor industry!"
+  },
+  {
+    "speaker": "Eve",
+    "text": "Lastly, Cameco, CCJ, closed at $112.59, down slightly by 0.1%, but still rated a buy."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Their target is $129.94. They’ve been increasing their stake in Cigar Lake, which is positive news for them."
+  },
+  {
+    "speaker": "Eve",
+    "text": "And Palantir, PLTR, closed at $160.65, up 2.63%, rated a buy with a target mean of $183.73."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Analysts are noting a significant uptick after some new partnerships."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Now shifting to what’s new in your podcasts!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "The latest from “Twenty Thousand Hertz” is titled “John Williams: A Composer’s Life.” It explores his early career and iconic film scores."
+  },
+  {
+    "speaker": "Eve",
+    "text": "If you’re a fan of film music, this episode is definitely worth your time."
+  },
+  {
+    "speaker": "Adam",
+    "text": "And “99% Invisible” has a new episode titled “The MAPL Test,” discussing how a quirky radio rule reshaped Canada’s music industry."
+  },
+  {
+    "speaker": "Eve",
+    "text": "That sounds fascinating! It’s always interesting to see how policies can impact culture."
+  },
+  {
+    "speaker": "Adam",
+    "text": "That wraps up our news today. Thanks for tuning in, Moiz!"
+  },
+  {
+    "speaker": "Eve",
+    "text": "Drive safe out there!"
   }
 ]
