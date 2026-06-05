@@ -1,154 +1,134 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Wow, did you see that? The Ivory Coast just beat France in a World Cup warm-up match."
+    "text": "Good morning, Moiz! You won’t believe the latest from Trump—he’s making a pitch to farmers in Wisconsin who have been hit hard by tariffs and high prices."
   },
   {
     "speaker": "Eve",
-    "text": "Oh, that’s wild! A 2-1 victory, right? That’s a serious warning shot to one of the favorites going into the tournament."
+    "text": "Oh wow, that’s interesting! It seems he’s trying to shore up support among rural voters, especially with the economic fallout from the ongoing tensions with Iran."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely! Now, let’s dive into the world news."
+    "text": "Yeah, it’s a crucial demographic for him, especially with the election cycle heating up. Speaking of international issues, let’s dive into some world news."
   },
   {
     "speaker": "Eve",
-    "text": "Starting off in the U.S., Congressman Ro Khanna's attempt to block a measure deepening military cooperation with Israel has failed."
+    "text": "For sure! In Ukraine, President Zelenskyy accused Putin of choosing war after he rejected an offer for in-person talks. That’s a pretty significant escalation, don’t you think?"
   },
   {
     "speaker": "Adam",
-    "text": "Right. Khanna argued that this integration only strengthens Netanyahu's government, but his push didn't gain enough traction. This measure seems to be moving forward despite the controversy."
+    "text": "Absolutely! It’s a clear indication that diplomatic avenues are closing. Meanwhile, in the Middle East, the situation continues to be tense."
   },
   {
     "speaker": "Eve",
-    "text": "In related news, support is growing for a bill aimed at restricting arms sales to Israel. Advocates say they're getting backing from 73 co-sponsors, but it sounds like there’s a long road ahead."
+    "text": "Right, and despite a ceasefire, there’s “pervasive fear” in Gaza with reports of Israeli airstrikes still happening."
   },
   {
     "speaker": "Adam",
-    "text": "Meanwhile, the situation in Lebanon is heating up. Hezbollah has rejected a U.S.-brokered ceasefire deal, as Israel continues its attacks."
+    "text": "Exactly, and families are reported to be clearing rubble after those overnight attacks. It’s heartbreaking to see."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, Al Jazeera reported that diplomatic efforts are falling short, and violence remains pervasive in the region."
+    "text": "It really is. And shifting gears, in sports news, Flavio Cobolli has made it to the French Open final after Matteo Arnaldi pulled out due to a virus."
   },
   {
     "speaker": "Adam",
-    "text": "Switching gears to Africa, Kenyan President William Ruto is defending the establishment of a U.S. Ebola quarantine facility amidst deadly protests."
+    "text": "That’s wild! It’s unfortunate for Arnaldi, but Cobolli must be thrilled."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a tough situation. Ruto insists it's the right move for public health, but the protests indicate a significant level of unrest."
+    "text": "Definitely! Switching topics again, there’s some interesting news coming out of Iran as well. The White House announced that Iranian footballers received U.S. visas just ten days before their World Cup match against New Zealand."
   },
   {
     "speaker": "Adam",
-    "text": "Back in the U.S., Democrats are forcing a vote on Trump's $1.8 billion settlement fund during a procedural marathon, or “vote-a-rama.”"
+    "text": "That’s big news! It’ll be interesting to see how they perform in their first match on June 15."
   },
   {
     "speaker": "Eve",
-    "text": "Sounds like a chaotic session! Republicans are pushing for $70 billion in immigration enforcement funding, but they'll have to navigate through a range of contentious issues first."
+    "text": "For sure! Now, let’s talk about the markets. The Vanguard S&P 500 ETF, or VOO, saw a drop of 2.59% in its last closing."
   },
   {
     "speaker": "Adam",
-    "text": "And over in Colombia, there's a lot of U.S. interest in the presidential elections. Al Jazeera’s Hala Al Shami highlights the stakes involved for American officials."
+    "text": "Right, and it seems there’s a lot of discussion around whether it’s still worth buying right now."
   },
   {
     "speaker": "Eve",
-    "text": "It's fascinating how these elections can have ripple effects beyond borders."
+    "text": "Exactly. Analysts are keeping a close eye on it, but no solid recommendation right now."
   },
   {
     "speaker": "Adam",
-    "text": "In sports, we just mentioned that Ivory Coast victory, but it seems like the World Cup is shaping up to be quite competitive!"
+    "text": "Moving on, NVIDIA’s stock, symbol NVDA, fell 6.2%. That’s a significant drop!"
   },
   {
     "speaker": "Eve",
-    "text": "Definitely! Now, let's take a look at the markets."
+    "text": "Yes, and it’s being labeled as a strong buy by analysts, with a mean price target around $298. It’ll be interesting to see if it rebounds."
   },
   {
     "speaker": "Adam",
-    "text": "Kicking off with VOO, the Vanguard S&P 500 ETF, it closed up by about 0.39%."
+    "text": "Also, Micron Technology, symbol MU, dropped 13.25%. That’s quite the hit."
   },
   {
     "speaker": "Eve",
-    "text": "Analysts are keeping an eye on this one, but there’s no significant news that would change its outlook right now."
+    "text": "Yeah, but it’s also rated as a strong buy, with a mean target of $739.475. Lots of volatility in that sector!"
   },
   {
     "speaker": "Adam",
-    "text": "Moving to NVIDIA, or NVDA, it saw a nice bump of 1.82% after closing at $218.66."
+    "text": "For sure. Alphabet, GOOGL, also saw a decline of 0.98%."
   },
   {
     "speaker": "Eve",
-    "text": "Analysts rate it as a strong buy with a mean target of $298.07. That’s a pretty ambitious target, considering the current price."
+    "text": "They’re still rated as a strong buy, with a target mean of $431.193. Analysts must see some potential there."
   },
   {
     "speaker": "Adam",
-    "text": "Micron Technology, ticker MU, unfortunately took a hit, down 7.74% to $996."
+    "text": "Moving on to Meta, symbol META, which dropped 5.51% but is still rated strong buy with a target mean of $828.798."
   },
   {
     "speaker": "Eve",
-    "text": "Ouch! But they’re still rated as a strong buy, with a mean target significantly higher at $739.48."
+    "text": "It’s interesting to see how tech stocks are behaving lately."
   },
   {
     "speaker": "Adam",
-    "text": "Yeah, it looks like analysts are optimistic despite the recent sell-off in the semiconductor sector."
+    "text": "Definitely, and ASML saw a drop of 6.59% as well, with a strong buy recommendation."
   },
   {
     "speaker": "Eve",
-    "text": "Alphabet, or GOOGL, is also making waves, rising 3.68% to close at $372.19."
+    "text": "Right, their target mean is around $1,676. It’s all part of that ongoing tech sell-off."
   },
   {
     "speaker": "Adam",
-    "text": "That’s right! Analysts are bullish on this one too, with a strong buy recommendation and a mean target of $429.87."
+    "text": "Exactly. Now, Taiwan Semiconductor, TSM, also experienced a decline of 6.69%."
   },
   {
     "speaker": "Eve",
-    "text": "Meta Platforms, symbol META, slipped a bit, up only 0.74% to $627.57."
+    "text": "They’re still rated strong buy, with a target mean of $467.84."
   },
   {
     "speaker": "Adam",
-    "text": "The analysts still have a strong buy on it, though, aiming for a mean target of $828.80."
+    "text": "And Cameco Corporation, CCJ, dropped 9.28%, but is still rated a buy with a target mean of 129."
   },
   {
     "speaker": "Eve",
-    "text": "ASML Holding had a solid day, closing up 1.80% at $1757.47."
+    "text": "A lot of movement in the markets right now! Now, let’s quickly touch on what’s new in your podcasts."
   },
   {
     "speaker": "Adam",
-    "text": "It’s also rated as a strong buy, with a target mean of $1689.32."
+    "text": "There’s a new episode of “99% Invisible” titled “100 Objects #3: The Pension Files.”"
   },
   {
     "speaker": "Eve",
-    "text": "Taiwan Semiconductor, TSM, gained 1.88% and closed at $444.92, with a strong buy recommendation as well."
+    "text": "It’s about uncovering a remarkable slave rebellion through dusty Civil War paperwork. That sounds intriguing!"
   },
   {
     "speaker": "Adam",
-    "text": "And Cameco Corporation, CCJ, dipped slightly by 0.47%, but it's still a buy with a mean target of $129.31."
+    "text": "Absolutely, it’s worth your time if you enjoy history and storytelling."
   },
   {
     "speaker": "Eve",
-    "text": "Finally, Palantir, PLTR, saw a small decline, down 0.35% to $141.70, but analysts still see potential with a mean target of $183.73."
+    "text": "Well, that wraps up our news for today."
   },
   {
     "speaker": "Adam",
-    "text": "That wraps up the market updates!"
-  },
-  {
-    "speaker": "Eve",
-    "text": "Now, let's move on to new podcasts, but it looks like there aren’t any new episodes today."
-  },
-  {
-    "speaker": "Adam",
-    "text": "That’s right, so we can skip that section."
-  },
-  {
-    "speaker": "Eve",
-    "text": "And with that, we’ll wrap things up."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Thanks for joining us this morning, Moiz."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Drive safe, and we’ll catch you next time!"
+    "text": "Thanks for tuning in, Moiz! Safe travels to work!"
   }
 ]
