@@ -1,146 +1,154 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you see the news from Ireland? The Black community is opening up about racism following a tragic incident."
+    "text": "Good morning, Moiz! Wow, did you see that? The Ivory Coast just beat France in a World Cup warm-up match."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, that's wild. It's crazy to think that a moment similar to George Floyd's has resonated in a place like Ireland."
+    "text": "Oh, that’s wild! A 2-1 victory, right? That’s a serious warning shot to one of the favorites going into the tournament."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. It seems Yves Sakila's death has sparked a much-needed conversation about racism in Ireland, which many believe has been overlooked for too long."
+    "text": "Absolutely! Now, let’s dive into the world news."
   },
   {
     "speaker": "Eve",
-    "text": "And speaking of urgent discussions, Israel and Lebanon have reportedly agreed on a ceasefire framework in US-led talks. But there's a catch—Hezbollah wasn't involved in those discussions."
+    "text": "Starting off in the U.S., Congressman Ro Khanna's attempt to block a measure deepening military cooperation with Israel has failed."
   },
   {
     "speaker": "Adam",
-    "text": "Right, that's a significant detail. Without Hezbollah's participation, the enforcement of this ceasefire could be quite shaky."
+    "text": "Right. Khanna argued that this integration only strengthens Netanyahu's government, but his push didn't gain enough traction. This measure seems to be moving forward despite the controversy."
   },
   {
     "speaker": "Eve",
-    "text": "On another note, the US House of Representatives has voted to end Trump’s military engagement in Iran. It's rare to see Republicans breaking ranks like this."
+    "text": "In related news, support is growing for a bill aimed at restricting arms sales to Israel. Advocates say they're getting backing from 73 co-sponsors, but it sounds like there’s a long road ahead."
   },
   {
     "speaker": "Adam",
-    "text": "For sure, but it’s important to note that while this vote is a rebuke, Congress still seems far from being able to halt any further attacks."
+    "text": "Meanwhile, the situation in Lebanon is heating up. Hezbollah has rejected a U.S.-brokered ceasefire deal, as Israel continues its attacks."
   },
   {
     "speaker": "Eve",
-    "text": "Then there's Germany, which lost its bid for a UN Security Council seat. Some are speculating that their support for Israel played a role in that decision."
+    "text": "Yeah, Al Jazeera reported that diplomatic efforts are falling short, and violence remains pervasive in the region."
   },
   {
     "speaker": "Adam",
-    "text": "Yeah, that’s an interesting angle. Austria and Portugal snatched those seats, which has raised eyebrows in the international community."
+    "text": "Switching gears to Africa, Kenyan President William Ruto is defending the establishment of a U.S. Ebola quarantine facility amidst deadly protests."
   },
   {
     "speaker": "Eve",
-    "text": "Switching gears a bit, there’s some good news from Nepal! A missing Mount Everest guide, Dawa Sherpa, has been found alive after six days."
+    "text": "That’s a tough situation. Ruto insists it's the right move for public health, but the protests indicate a significant level of unrest."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a relief! He was last seen descending the mountain, and it’s fortunate he’s safe."
+    "text": "Back in the U.S., Democrats are forcing a vote on Trump's $1.8 billion settlement fund during a procedural marathon, or “vote-a-rama.”"
   },
   {
     "speaker": "Eve",
-    "text": "Definitely a happy ending there. And in other news, Khalilur Rahman has been elected as the president of the UN General Assembly, beating out Cyprus’s ambassador."
+    "text": "Sounds like a chaotic session! Republicans are pushing for $70 billion in immigration enforcement funding, but they'll have to navigate through a range of contentious issues first."
   },
   {
     "speaker": "Adam",
-    "text": "That’s impressive for Rahman, especially with his extensive diplomatic background."
+    "text": "And over in Colombia, there's a lot of U.S. interest in the presidential elections. Al Jazeera’s Hala Al Shami highlights the stakes involved for American officials."
   },
   {
     "speaker": "Eve",
-    "text": "Now, let's take a look at the markets. The Vanguard S&P 500 ETF, or VOO, closed down 0.7% recently."
+    "text": "It's fascinating how these elections can have ripple effects beyond borders."
   },
   {
     "speaker": "Adam",
-    "text": "That's right. While there's no specific analyst rating available, it’s noteworthy that VOO has become the first $1 trillion ETF."
+    "text": "In sports, we just mentioned that Ivory Coast victory, but it seems like the World Cup is shaping up to be quite competitive!"
   },
   {
     "speaker": "Eve",
-    "text": "Moving on, NVIDIA Corporation, symbol NVDA, saw a significant drop of 3.62% and holds a strong buy recommendation from analysts."
+    "text": "Definitely! Now, let's take a look at the markets."
   },
   {
     "speaker": "Adam",
-    "text": "Analysts are quite bullish, with a mean price target hovering around $298, which is significantly above its current price."
+    "text": "Kicking off with VOO, the Vanguard S&P 500 ETF, it closed up by about 0.39%."
   },
   {
     "speaker": "Eve",
-    "text": "Then we have Micron Technology, ticker MU, which rose 1.45%. It’s also rated as a strong buy."
+    "text": "Analysts are keeping an eye on this one, but there’s no significant news that would change its outlook right now."
   },
   {
     "speaker": "Adam",
-    "text": "Exactly. Analysts have set a mean target around $739, indicating confidence in Micron's future prospects."
+    "text": "Moving to NVIDIA, or NVDA, it saw a nice bump of 1.82% after closing at $218.66."
   },
   {
     "speaker": "Eve",
-    "text": "Alphabet Inc., or GOOGL, dipped slightly by 0.79%, but it still has a strong buy rating with a mean target of about $429."
+    "text": "Analysts rate it as a strong buy with a mean target of $298.07. That’s a pretty ambitious target, considering the current price."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a healthy gap from its current price, suggesting potential upside."
+    "text": "Micron Technology, ticker MU, unfortunately took a hit, down 7.74% to $996."
   },
   {
     "speaker": "Eve",
-    "text": "Now let’s talk about Meta Platforms, or META. It increased by 4.24% and also holds a strong buy recommendation."
+    "text": "Ouch! But they’re still rated as a strong buy, with a mean target significantly higher at $739.48."
   },
   {
     "speaker": "Adam",
-    "text": "Analysts are expecting it to reach around $829 on average, which is compelling."
+    "text": "Yeah, it looks like analysts are optimistic despite the recent sell-off in the semiconductor sector."
   },
   {
     "speaker": "Eve",
-    "text": "ASML Holding, ticker ASML, saw a small rise of 1.23% and maintains a strong buy rating as well."
+    "text": "Alphabet, or GOOGL, is also making waves, rising 3.68% to close at $372.19."
   },
   {
     "speaker": "Adam",
-    "text": "Their mean price target sits around $1,692, which could be interesting for investors."
+    "text": "That’s right! Analysts are bullish on this one too, with a strong buy recommendation and a mean target of $429.87."
   },
   {
     "speaker": "Eve",
-    "text": "Taiwan Semiconductor Manufacturing, or TSM, unfortunately fell 2.24%. It still holds a strong buy rating from analysts though."
+    "text": "Meta Platforms, symbol META, slipped a bit, up only 0.74% to $627.57."
   },
   {
     "speaker": "Adam",
-    "text": "Analysts see potential there, with a mean target of about $468, suggesting long-term growth."
+    "text": "The analysts still have a strong buy on it, though, aiming for a mean target of $828.80."
   },
   {
     "speaker": "Eve",
-    "text": "Cameco Corporation, CCJ, dropped almost 5% recently but has a buy recommendation."
+    "text": "ASML Holding had a solid day, closing up 1.80% at $1757.47."
   },
   {
     "speaker": "Adam",
-    "text": "Analysts are optimistic about its future, with a mean target of around $129."
+    "text": "It’s also rated as a strong buy, with a target mean of $1689.32."
   },
   {
     "speaker": "Eve",
-    "text": "Lastly, Palantir Technologies, symbol PLTR, took a hit, dropping 6.55%. It’s rated as a buy."
+    "text": "Taiwan Semiconductor, TSM, gained 1.88% and closed at $444.92, with a strong buy recommendation as well."
   },
   {
     "speaker": "Adam",
-    "text": "Analysts project a mean target of about $184, so there’s hope for recovery there."
+    "text": "And Cameco Corporation, CCJ, dipped slightly by 0.47%, but it's still a buy with a mean target of $129.31."
   },
   {
     "speaker": "Eve",
-    "text": "Now let’s shift to new episodes in your podcasts. There’s a new episode of the show \"Founders\" titled \"#420 The Lost Years of Steve Jobs.\""
+    "text": "Finally, Palantir, PLTR, saw a small decline, down 0.35% to $141.70, but analysts still see potential with a mean target of $183.73."
   },
   {
     "speaker": "Adam",
-    "text": "This episode dives into what the host learned from reading about Steve Jobs' time with NeXT."
+    "text": "That wraps up the market updates!"
   },
   {
     "speaker": "Eve",
-    "text": "Sounds intriguing, especially for those interested in tech history and entrepreneurship."
+    "text": "Now, let's move on to new podcasts, but it looks like there aren’t any new episodes today."
   },
   {
     "speaker": "Adam",
-    "text": "And that wraps up our news for today, Moiz."
+    "text": "That’s right, so we can skip that section."
   },
   {
     "speaker": "Eve",
-    "text": "Drive safely, and have a great day at work!"
+    "text": "And with that, we’ll wrap things up."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Thanks for joining us this morning, Moiz."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Drive safe, and we’ll catch you next time!"
   }
 ]
