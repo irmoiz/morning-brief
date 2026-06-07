@@ -1,118 +1,94 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you hear about the Pentagon raising the threat level on Israel spying to 'critical'? That’s pretty intense."
+    "text": "Good morning, Moiz! Did you catch the news about North Korea’s Kim Jong Un inspecting munitions? Seems like they’re ramping things up again."
   },
   {
     "speaker": "Eve",
-    "text": "I know, right? It really highlights the escalating tensions amid the ongoing US-Israeli war with Iran. Let’s dive into that and more in today’s news."
+    "text": "Oh, that's wild! Always an interesting development when it comes to North Korea. It must be quite the sight to see those huge munitions in person."
   },
   {
     "speaker": "Adam",
-    "text": "So, first up, the Pentagon's report indicates increased espionage activity related to Israel, raising significant concerns. This comes at a time when ceasefire talks are ongoing, which makes it even more critical."
+    "text": "Definitely. Let's dive into some world news. Starting with the ongoing tensions in the Middle East, Iran has fired missiles into Israel following an attack that they say crossed all red lines."
   },
   {
     "speaker": "Eve",
-    "text": "It’s fascinating, though alarming, how geopolitical events are interlinked. Meanwhile, in Tunisia, there have been widespread protests calling for press freedom and the release of political prisoners. This reflects the ongoing struggle for democracy in the region."
+    "text": "Right, and it's been reported that Iranian state media broadcast celebrations in Tehran as these missiles flew overhead. That kind of news really emphasizes the rising tensions in the region."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. The fight for freedom of the press is so vital. Switching gears a bit, we have Raul Castro making his first public appearance in Havana since being indicted by the US. That’s a significant moment considering his history."
+    "text": "It’s a stark reminder of how quickly things can escalate. Iran’s also expressing frustration with the U.S. and Israel over ceasefire violations, indicating they feel their patience has run out."
   },
   {
     "speaker": "Eve",
-    "text": "It definitely is! Speaking of significant events, a tragic drone strike in central Sudan reportedly killed 11 people in a market, with dozens more wounded. It’s a grim reminder of the ongoing conflict there."
+    "text": "It’s quite concerning, especially with the continuous threats and military actions. And on a related note, there are videos circulating of missiles being launched from Iran towards Israel."
   },
   {
     "speaker": "Adam",
-    "text": "And in health news, a US doctor has recovered from Ebola in Germany, while cases in the Democratic Republic of Congo have surged to 488. That’s concerning, especially with the outbreak spreading."
+    "text": "That’s right. This situation seems to be intensifying by the hour. Meanwhile, on another front, Italy has recovered ten bodies after a boat capsized off Malta, which adds to the tragic statistic of nearly 990 migrants who have died this year attempting to cross the Mediterranean."
   },
   {
     "speaker": "Eve",
-    "text": "Huh, that's wild. And there's been some disturbing footage out of the West Bank, showing an Israeli soldier along with settlers assaulting two Palestinians. It’s a stark illustration of the violence continuing in that area."
+    "text": "It’s heartbreaking, really. The ongoing refugee crisis is so complex and fraught with peril. It’s important to keep this in mind while we discuss other news, like Alexander Zverev winning the French Open."
   },
   {
     "speaker": "Adam",
-    "text": "Right, and just recently, a Palestinian father buried his seven-month-old son who was killed by Israeli gunfire. It’s heartbreaking to see the human cost of these conflicts."
+    "text": "Exactly! Zverev’s victory makes him the first German man to win a Grand Slam in 30 years. That’s quite a milestone for him!"
   },
   {
     "speaker": "Eve",
-    "text": "It really is. In other news, an Israeli attack on a Gaza City tent camp has also resulted in casualties. The situation in Gaza continues to be dire."
+    "text": "A huge achievement for sure! Switching gears, there’s also a lawsuit aiming to stop Trump's planned UFC match at the White House. The legal challenge claims he didn’t seek proper approval."
   },
   {
     "speaker": "Adam",
-    "text": "Moving west, Peru's Keiko Fujimori is making headlines again. She’s attempting her fourth bid for the presidency, and this time, the stakes seem higher, given her past scandals."
+    "text": "That’ll definitely stir up some controversy. Now, shifting to the markets, let’s take a look at how things are moving today."
   },
   {
     "speaker": "Eve",
-    "text": "It’ll be interesting to see how that plays out. Now, shifting to the Caribbean, Jamaica recently experienced a rare island-wide blackout. Minister Daryl Vaz called it an \"unacceptable situation,\" but power has since been restored."
+    "text": "Sure! Starting with the Vanguard S&P 500 ETF, VOO, which closed at $678, dropping 2.59%. It seems like there’s a wave of negative sentiment in the market."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a relief for the residents there. On a different front, Armenia’s upcoming elections are attracting international attention from Russia, the US, and the EU. It’s indicative of the geopolitical stakes involved."
+    "text": "For NVIDIA, NVDA, it closed at $205.10, down 6.2%. Analysts still rate it a strong buy with a mean price target of about $298. That’s quite a gap, so it’s worth monitoring."
   },
   {
     "speaker": "Eve",
-    "text": "Speaking of stakes, the war on Iran has now hit the 100-day mark, and analysts say that President Trump’s failure to rally US support might have electoral implications for Republicans."
+    "text": "Micron Technology, MU, also took a hit, closing at $864.01, down 13.25%. It remains a strong buy, but with a target price of $739.475, which is significantly lower than current levels."
   },
   {
     "speaker": "Adam",
-    "text": "Quite the situation globally! Now, let’s take a look at the markets, shall we?"
+    "text": "Alphabet, GOOGL, closed at $368.53, down slightly at 0.98%. Analysts also rate it a strong buy with a price target around $431, indicating some potential for recovery."
   },
   {
     "speaker": "Eve",
-    "text": "Sure thing! Starting with the Vanguard S&P 500 ETF, VOO, it closed down 2.59%. There hasn't been much news that stands out, but it's worth keeping an eye on."
+    "text": "Meta Platforms, META, closed at $593, down 5.51%. It’s rated a strong buy too, with a target mean price of $828. So there’s still some optimism there."
   },
   {
     "speaker": "Adam",
-    "text": "Moving on to NVIDIA, symbol NVDA, it’s down 6.2% but still has a strong buy rating, with a mean price target of about $298. Analysts seem to believe there's a lot of upside potential here."
+    "text": "ASML Holding, ASML, closed at $1,641.74, down 6.59%. Analysts recommend it as a strong buy, with a target mean of about $1,694."
   },
   {
     "speaker": "Eve",
-    "text": "Micron Technology, ticker MU, is also in the news, closing down 13.25%. Despite this drop, it has a strong buy recommendation and a mean target price of around $739."
+    "text": "Taiwan Semiconductor Manufacturing, TSM, also dropped 6.69% to close at $415.17, but it’s rated a strong buy as well, with a mean target of $467."
   },
   {
     "speaker": "Adam",
-    "text": "Interesting! Alphabet, GOOGL, is down slightly at 0.98%, but analysts still rate it as a strong buy with a price target of $431."
+    "text": "Cameco Corporation, CCJ, fell 9.28% to $103.44, but analysts still recommend it as a buy with a target mean of $129."
   },
   {
     "speaker": "Eve",
-    "text": "Meta Platforms, META, is also seeing a similar trend, down 5.51%, but with a strong buy rating and a mean target of about $829."
+    "text": "And finally, Palantir Technologies, PLTR, closed at $135.53, down 4.35%. It’s rated a buy with a target mean of $183.73."
   },
   {
     "speaker": "Adam",
-    "text": "ASML, ticker ASML, is down 6.59% but remains a strong buy with a target mean price of around $1,695."
+    "text": "Lots of movement today in the markets! Now, let’s wrap up this morning’s podcast."
   },
   {
     "speaker": "Eve",
-    "text": "Taiwan Semiconductor, TSM, has dropped 6.69% yet is rated a strong buy with a target mean of about $468."
+    "text": "Sounds good! Stay informed and drive safe, Moiz."
   },
   {
     "speaker": "Adam",
-    "text": "Cameco Corporation, CCJ, is down 9.28% but analysts still recommend a buy with a target mean of approximately $129."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Finally, Palantir Technologies, PLTR, is down 4.35% but has a buy rating and a target mean price of about $184."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Quite the fluctuations in the markets lately! Now, let’s take a quick look at something new in podcasts."
-  },
-  {
-    "speaker": "Eve",
-    "text": "There’s a new episode from \"People I (Mostly) Admire\" featuring Sam Harris. He discusses spirituality from a skeptic’s perspective while sharing insights on meditation."
-  },
-  {
-    "speaker": "Adam",
-    "text": "It sounds intriguing! That episode originally aired back in April of 2021, so it should be a refreshing listen for fans."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Absolutely! That wraps up our news for today, Moiz."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Thanks for tuning in, and drive safely!"
+    "text": "That’s all for today."
   }
 ]
