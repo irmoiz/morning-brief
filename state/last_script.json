@@ -1,162 +1,178 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you see that OpenAI just filed for an IPO? That's huge news in the tech world."
+    "text": "Good morning, Moiz! You won't believe this—there have been anti-immigration protests in Belfast following a knife attack."
   },
   {
     "speaker": "Eve",
-    "text": "I know, right? It'll be interesting to see how that unfolds. But first, let's dive into the headlines from around the globe."
+    "text": "Oh wow, that’s wild! It seems like tensions are really escalating over there."
   },
   {
     "speaker": "Adam",
-    "text": "Starting with the midterm primaries in the U.S., four states are holding votes today: Maine, Nevada, South Carolina, and North Dakota. It's a crucial moment as candidates gear up for the upcoming November elections."
+    "text": "Right? Northern Ireland’s political leaders are calling for calm, but it’s concerning to see how quickly things can spiral."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely, and in Maine, all eyes are on the incumbent, Platner, as he faces his own challenges. These primaries could shape the political landscape significantly."
+    "text": "Absolutely. And speaking of unrest, Gaza continues to face challenges as well. A tech incubator there is trying to rise from the rubble despite the devastation caused by the ongoing conflict."
   },
   {
     "speaker": "Adam",
-    "text": "Meanwhile, former President Trump has nominated Todd Blanche as attorney general. Blanche, currently the acting AG, has been in hot water lately, especially regarding his handling of the Epstein files and events surrounding January 6."
+    "text": "Yes, it’s remarkable how resilient people can be in the face of such adversity. The tech sector there has suffered tremendously."
   },
   {
     "speaker": "Eve",
-    "text": "That’s bound to spark some heated discussions in the Senate. Trump’s nominations always seem to come with a dose of controversy."
+    "text": "It really puts things into perspective, doesn’t it? Now, shifting gears a bit—did you see that a spidercam crashed onto the pitch during a football match in Hungary?"
   },
   {
     "speaker": "Adam",
-    "text": "Over in Gaza, survivors of a tragic Israeli raid are recalling the events that led to the deaths of 274 people back in June 2024. It’s a stark reminder of the ongoing conflict and its human toll."
+    "text": "Huh, that sounds chaotic! I can only imagine the players' reactions."
   },
   {
     "speaker": "Eve",
-    "text": "It's heartbreaking to hear stories like that. The impact of such violence lingers long after the headlines fade."
+    "text": "It was during a friendly against Kazakhstan. Hopefully, everyone was okay!"
   },
   {
     "speaker": "Adam",
-    "text": "Switching gears, the UN's human rights chief Volker Turk has called for an immediate lifting of sanctions on Cuba, stating that children are suffering due to the U.S. oil blockade."
+    "text": "Speaking of chaos, there was a tragic mass shooting in Johannesburg that left twelve dead, and now there’s a manhunt for over ten suspects."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a bold stance, especially coming from the UN. It raises important questions about the balance between sanctions and humanitarian needs."
+    "text": "That’s just heartbreaking. It seems like gun violence is a persistent issue in many places."
   },
   {
     "speaker": "Adam",
-    "text": "In sports news, the U.S. has confirmed that it denied entry to Somali referee Omar Artan, who was set to officiate at the World Cup. They cited vetting concerns, which is quite unfortunate for him."
+    "text": "It is. And in geopolitical news, the Baltic states are on high alert due to drone incursions, raising fears of a possible spillover from the Russia-Ukraine war."
   },
   {
     "speaker": "Eve",
-    "text": "It’s disappointing, especially considering the hard work referees put in to reach that level."
+    "text": "Yeah, I can see why there would be anxiety about that. The situation feels very precarious right now."
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of events, Pope Leo made a visit to Spain’s Almudena Cathedral, delighting crowds. It’s nice to see public figures engaging with communities in this way."
+    "text": "It definitely does. Meanwhile, the FIFA World Cup is just around the corner, and Al Jazeera has a detailed breakdown of the teams and stadiums involved."
   },
   {
     "speaker": "Eve",
-    "text": "Yes, those moments can really uplift people, especially in challenging times."
+    "text": "That’s exciting! It’ll be interesting to see how everything unfolds in the tournament."
   },
   {
     "speaker": "Adam",
-    "text": "And on the geopolitical front, the EU plans to expand its sanctions on Russia, targeting military sectors and human rights violators. It’s part of a larger effort to hold accountable those responsible for ongoing conflicts."
+    "text": "On a more concerning note, there was an explosion in Bahrain after what authorities say was an Iranian missile strike targeting U.S. bases."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a significant move, especially given the already substantial sanctions in place."
+    "text": "Wow, that’s alarming. It seems like tensions in that region are really high right now."
   },
   {
     "speaker": "Adam",
-    "text": "Italy is also stepping up, launching a probe into Israeli minister Ben-Gvir regarding alleged abuses tied to the flotilla incident. This is the second investigation in Europe related to this issue."
+    "text": "For sure, and it’s not just there. Ukrainian drones have also struck key oil refineries, leading to a fuel crisis in Russia."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, that’s a clear signal that these matters are being taken seriously on an international level."
+    "text": "That’s a significant escalation. It’s like a chess game with high stakes."
   },
   {
     "speaker": "Adam",
-    "text": "Now, let’s take a look at the markets. The Vanguard S&P 500 ETF, or VOO, closed at $679.68, moving up slightly by 0.25%."
+    "text": "Right, and with the U.S. having struck back after a helicopter was shot down, it’s clear we’re in a cycle of tit-for-tat attacks."
   },
   {
     "speaker": "Eve",
-    "text": "There hasn't been any specific analyst rating for VOO, but it seems to be holding steady in this market climate."
+    "text": "The analysts are warning about further escalation, which is concerning."
   },
   {
     "speaker": "Adam",
-    "text": "NVIDIA, on the other hand, closed at $208.64, with a notable rise of 1.73%. Analysts are really bullish on this one, giving it a strong buy rating with a mean target price of about $298.42."
+    "text": "Meanwhile in Indonesia, four military officers have been jailed for an acid attack on a rights activist."
   },
   {
     "speaker": "Eve",
-    "text": "That’s quite a significant upside potential, especially as NVIDIA continues to lead in AI and gaming technologies."
+    "text": "That’s shocking. It’s a reminder of the struggles activists face in many countries."
   },
   {
     "speaker": "Adam",
-    "text": "Micron Technology saw a big jump, closing at $949.28, up by nearly 10%. This strong buy rating suggests that analysts are optimistic about its recovery alongside the broader chip sector."
+    "text": "Definitely. And in the world of finance, the prediction platform Kalshi is looking to collect employment information to combat insider trading."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely a rebound after the tech sector faced some tough days."
+    "text": "That could be a game changer if it helps maintain market integrity."
   },
   {
     "speaker": "Adam",
-    "text": "Alphabet, however, closed at $363.31, down 1.42%. It’s still rated as a strong buy, with a mean target price of around $431.19."
+    "text": "Speaking of markets, let’s take a look at some stock movements today."
   },
   {
     "speaker": "Eve",
-    "text": "That’s interesting, especially given the fluctuations in tech stocks lately."
+    "text": "Sure thing! First up is the Vanguard S&P 500 ETF, VOO. There’s no significant movement reported, but it’s still worth keeping an eye on."
   },
   {
     "speaker": "Adam",
-    "text": "Meta Platforms was also down slightly, closing at $585.39, a decrease of 1.28%. They still have a strong buy recommendation, with a target mean price of $828.80."
+    "text": "Right, and NVIDIA, symbol NVDA, remains a strong buy with a mean price target around $298, but analysts are optimistic it could reach as high as $500."
   },
   {
     "speaker": "Eve",
-    "text": "It’s fascinating how even with the dips, analysts still see significant potential for growth."
+    "text": "That’s quite a bullish forecast! Micron Technology, or MU, is also a strong buy with a target mean of $788."
   },
   {
     "speaker": "Adam",
-    "text": "ASML closed at $1,749.04, up 6.54%, and it’s rated as a strong buy as well, with a target mean of $1,696.03."
+    "text": "Exactly, and analysts are seeing the potential for it to hit $1,750."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a nice rally for them, especially given the ongoing demand for semiconductors."
+    "text": "Moving on to Alphabet, GOOGL, which also carries a strong buy recommendation. The target mean is about $431."
   },
   {
     "speaker": "Adam",
-    "text": "Taiwan Semiconductor is also on the rise, closing at $426.80 and up 2.8%. Analysts are bullish, with a target mean of $467.84."
+    "text": "And it could go as high as $515 according to analysts."
   },
   {
     "speaker": "Eve",
-    "text": "It seems like the semiconductor sector is really bouncing back."
+    "text": "Meta Platforms, or META, is similarly rated with a strong buy and a mean target of approximately $828."
   },
   {
     "speaker": "Adam",
-    "text": "Cameco Corporation closed at $105.44, up 1.93%, and is rated as a buy with a target mean of $128.94."
+    "text": "That’s a solid outlook! ASML Holding, symbol ASML, also has a strong buy rating, with a target mean of just under $1,700."
   },
   {
     "speaker": "Eve",
-    "text": "It looks like there’s optimism in the uranium market as well."
+    "text": "And it could potentially reach over $2,200, which is impressive."
   },
   {
     "speaker": "Adam",
-    "text": "Lastly, Palantir Technologies closed at $136.47, rising just under 1%. It’s also rated as a buy with a mean target price of $183.73."
+    "text": "Taiwan Semiconductor Manufacturing, or TSM, is rated strong buy as well, with a target mean of around $468."
   },
   {
     "speaker": "Eve",
-    "text": "All in all, it seems like a mixed day for the markets, but there are definite pockets of strength, especially in tech."
+    "text": "They’ve had 30% sales growth, which is quite notable! Cameco Corporation, CCJ, is rated a buy with a mean target of about $129."
   },
   {
     "speaker": "Adam",
-    "text": "Before we wrap up, there aren’t any new podcast episodes to highlight today."
+    "text": "There’s definitely interest in uranium stocks lately. Palantir Technologies, PLTR, has a buy rating as well, with a target mean of about $184."
   },
   {
     "speaker": "Eve",
-    "text": "Got it, thanks for that update."
+    "text": "It’s fascinating how these companies are navigating the market."
   },
   {
     "speaker": "Adam",
-    "text": "Well, that’s it for today's news, Moiz."
+    "text": "Now, Moiz, if you're looking for something new to listen to, \"99% Invisible\" has a fresh episode titled \"Karaoke Videos.\""
   },
   {
     "speaker": "Eve",
-    "text": "Have a great day at work!"
+    "text": "That sounds interesting! It dives into the surprising filmmaking ambition behind those cheesy karaoke tracks."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Definitely worth a listen."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Well, that wraps up today’s news."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Take care, Moiz!"
+  },
+  {
+    "speaker": "Eve",
+    "text": "Drive safely!"
   }
 ]
