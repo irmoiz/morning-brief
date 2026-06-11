@@ -1,178 +1,170 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! You won't believe this—there have been anti-immigration protests in Belfast following a knife attack."
+    "text": "Hey Moiz, did you see that article about universities becoming supply chains for AI? That's a pretty wild take."
   },
   {
     "speaker": "Eve",
-    "text": "Oh wow, that’s wild! It seems like tensions are really escalating over there."
+    "text": "Right? It’s such a complex issue. Cash-strapped universities being pushed to prioritize AI by those selling it feels a bit like a conflict of interest!"
   },
   {
     "speaker": "Adam",
-    "text": "Right? Northern Ireland’s political leaders are calling for calm, but it’s concerning to see how quickly things can spiral."
+    "text": "Absolutely. Shifting gears, let’s dive into some world news."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely. And speaking of unrest, Gaza continues to face challenges as well. A tech incubator there is trying to rise from the rubble despite the devastation caused by the ongoing conflict."
+    "text": "Starting with Ethiopia, there are hardliners from the TPLF threatening to drag the country back into conflict. It’s alarming given how much the people have already suffered."
   },
   {
     "speaker": "Adam",
-    "text": "Yes, it’s remarkable how resilient people can be in the face of such adversity. The tech sector there has suffered tremendously."
+    "text": "Yeah, and with Eritrea backing them, it’s a dangerous situation that could escalate quickly. The international community is definitely watching closely."
   },
   {
     "speaker": "Eve",
-    "text": "It really puts things into perspective, doesn’t it? Now, shifting gears a bit—did you see that a spidercam crashed onto the pitch during a football match in Hungary?"
+    "text": "In breaking news, Britain's defense minister, Ben Healey, has resigned over defense spending issues. That has to shake things up for their military strategies going forward."
   },
   {
     "speaker": "Adam",
-    "text": "Huh, that sounds chaotic! I can only imagine the players' reactions."
+    "text": "Definitely! This kind of instability can lead to bigger questions about national security and budget allocations in the UK."
   },
   {
     "speaker": "Eve",
-    "text": "It was during a friendly against Kazakhstan. Hopefully, everyone was okay!"
+    "text": "Meanwhile, a tragic story from Gaza has emerged. A video surfaced showing a 15-year-old fisherman, Mohammad Abu Giab, being killed by Israeli forces. It's heartbreaking."
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of chaos, there was a tragic mass shooting in Johannesburg that left twelve dead, and now there’s a manhunt for over ten suspects."
+    "text": "That’s just devastating. It reinforces the ongoing tensions in that region, where daily life is marked by violence and loss."
   },
   {
     "speaker": "Eve",
-    "text": "That’s just heartbreaking. It seems like gun violence is a persistent issue in many places."
+    "text": "And the refugee crisis is worsening globally. Reports show that 117.8 million people have been forced from their homes, with Lebanon's shelter crisis getting worse."
   },
   {
     "speaker": "Adam",
-    "text": "It is. And in geopolitical news, the Baltic states are on high alert due to drone incursions, raising fears of a possible spillover from the Russia-Ukraine war."
+    "text": "It's a staggering number and highlights the humanitarian crisis unfolding in so many parts of the world."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, I can see why there would be anxiety about that. The situation feels very precarious right now."
+    "text": "Iran is also making headlines, claiming they hit 18 targets across US bases in Kuwait, Bahrain, and Jordan. Plus, the Strait of Hormuz is closed!"
   },
   {
     "speaker": "Adam",
-    "text": "It definitely does. Meanwhile, the FIFA World Cup is just around the corner, and Al Jazeera has a detailed breakdown of the teams and stadiums involved."
+    "text": "That’s a significant escalation! It raises concerns about maritime security and stability in the region."
   },
   {
     "speaker": "Eve",
-    "text": "That’s exciting! It’ll be interesting to see how everything unfolds in the tournament."
+    "text": "On a different note, in India, workers are actually training AI robots to take their jobs. That must be a surreal experience for them."
   },
   {
     "speaker": "Adam",
-    "text": "On a more concerning note, there was an explosion in Bahrain after what authorities say was an Iranian missile strike targeting U.S. bases."
+    "text": "Huh, that’s a twist! It’s fascinating but also kind of daunting, right? The implications for the job market could be massive."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, that’s alarming. It seems like tensions in that region are really high right now."
+    "text": "Speaking of massive events, Mexico’s iconic Azteca Stadium is all set to host matches for the World Cup opener. It’s the first venue to do so for three different World Cups!"
   },
   {
     "speaker": "Adam",
-    "text": "For sure, and it’s not just there. Ukrainian drones have also struck key oil refineries, leading to a fuel crisis in Russia."
+    "text": "That’s historic! Azteca has such a rich football legacy. It’ll be exciting to see how it all unfolds."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a significant escalation. It’s like a chess game with high stakes."
+    "text": "Unfortunately, it’s not all good news. In a recent US strike, three Indian sailors were killed on an oil tanker accused of transporting Iranian oil."
   },
   {
     "speaker": "Adam",
-    "text": "Right, and with the U.S. having struck back after a helicopter was shot down, it’s clear we’re in a cycle of tit-for-tat attacks."
+    "text": "That’s tragic. Strikes like these often have far-reaching consequences, especially in such tense geopolitical climates."
   },
   {
     "speaker": "Eve",
-    "text": "The analysts are warning about further escalation, which is concerning."
+    "text": "And while the world celebrates the World Cup, the situation in Gaza is starkly different, with local footballers feeling erased from the global stage."
   },
   {
     "speaker": "Adam",
-    "text": "Meanwhile in Indonesia, four military officers have been jailed for an acid attack on a rights activist."
+    "text": "Yeah, it’s a stark contrast. It’s hard to imagine the disconnect they must feel while the rest of the world cheers on."
   },
   {
     "speaker": "Eve",
-    "text": "That’s shocking. It’s a reminder of the struggles activists face in many countries."
+    "text": "Now, let’s shift gears to the markets. How did the stocks fare today?"
   },
   {
     "speaker": "Adam",
-    "text": "Definitely. And in the world of finance, the prediction platform Kalshi is looking to collect employment information to combat insider trading."
+    "text": "The Vanguard S&P 500 ETF, VOO, closed at $667.05, down 1.57%. No specific news driving that, but analysts are certainly keeping an eye on interest rate hikes."
   },
   {
     "speaker": "Eve",
-    "text": "That could be a game changer if it helps maintain market integrity."
+    "text": "Speaking of moves, NVIDIA, or NVDA, closed at $200.42, down 3.73%. It’s rated a strong buy with a mean price target of around $298."
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of markets, let’s take a look at some stock movements today."
+    "text": "Interesting! That’s quite a gap. Analysts seem to have faith in its future potential despite the recent decline."
   },
   {
     "speaker": "Eve",
-    "text": "Sure thing! First up is the Vanguard S&P 500 ETF, VOO. There’s no significant movement reported, but it’s still worth keeping an eye on."
+    "text": "Micron Technology, MU, also saw a drop, closing at $891.88, down 4.7%. It holds a strong buy recommendation with a mean target of $788."
   },
   {
     "speaker": "Adam",
-    "text": "Right, and NVIDIA, symbol NVDA, remains a strong buy with a mean price target around $298, but analysts are optimistic it could reach as high as $500."
+    "text": "That’s a significant pushback from its high valuations. It’ll be interesting to see if analysts adjust their outlook in light of recent trends."
   },
   {
     "speaker": "Eve",
-    "text": "That’s quite a bullish forecast! Micron Technology, or MU, is also a strong buy with a target mean of $788."
+    "text": "Alphabet, GOOGL, closed at $356.38, down 2.16%, rated as strong buy with a target of $431."
   },
   {
     "speaker": "Adam",
-    "text": "Exactly, and analysts are seeing the potential for it to hit $1,750."
+    "text": "Wow, $2 trillion lost among the 'Magnificent 7' stocks this month. That’s pretty stark!"
   },
   {
     "speaker": "Eve",
-    "text": "Moving on to Alphabet, GOOGL, which also carries a strong buy recommendation. The target mean is about $431."
+    "text": "Meta, META, followed suit, closing at $570.98, down 2.33%. It’s also rated as a strong buy, with a target mean of $829."
   },
   {
     "speaker": "Adam",
-    "text": "And it could go as high as $515 according to analysts."
+    "text": "There seems to be a pattern here. It’ll be intriguing to watch how these tech giants navigate the current market dynamics."
   },
   {
     "speaker": "Eve",
-    "text": "Meta Platforms, or META, is similarly rated with a strong buy and a mean target of approximately $828."
+    "text": "ASML closed at $1734.19, down 2.45%, with a strong buy recommendation and a mean target of $1697."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a solid outlook! ASML Holding, symbol ASML, also has a strong buy rating, with a target mean of just under $1,700."
+    "text": "They’re definitely a key player in the chip-making game right now."
   },
   {
     "speaker": "Eve",
-    "text": "And it could potentially reach over $2,200, which is impressive."
+    "text": "Taiwan Semiconductor, TSM, is down 4.48%, closing at $408.75. Analysts are still bullish, with a target of $467."
   },
   {
     "speaker": "Adam",
-    "text": "Taiwan Semiconductor Manufacturing, or TSM, is rated strong buy as well, with a target mean of around $468."
+    "text": "And Cameco Corporation, CCJ, took a bigger hit, down 7.08% to $95.03, but still has a buy rating and a target of $129."
   },
   {
     "speaker": "Eve",
-    "text": "They’ve had 30% sales growth, which is quite notable! Cameco Corporation, CCJ, is rated a buy with a mean target of about $129."
+    "text": "That’s quite a drop! It might be an opportunity for some investors depending on their outlook."
   },
   {
     "speaker": "Adam",
-    "text": "There’s definitely interest in uranium stocks lately. Palantir Technologies, PLTR, has a buy rating as well, with a target mean of about $184."
+    "text": "Finally, Palantir, PLTR, is down 1.41%, closing at $130.21. It has a buy rating with a target price of $184."
   },
   {
     "speaker": "Eve",
-    "text": "It’s fascinating how these companies are navigating the market."
+    "text": "So, a mixed bag of market movements today. Now, let’s take a moment for some new podcast episodes."
   },
   {
     "speaker": "Adam",
-    "text": "Now, Moiz, if you're looking for something new to listen to, \"99% Invisible\" has a fresh episode titled \"Karaoke Videos.\""
+    "text": "There’s a new episode of “Founders” featuring Jony Ive. It dives into insights from the book about him by Leander Kahney."
   },
   {
     "speaker": "Eve",
-    "text": "That sounds interesting! It dives into the surprising filmmaking ambition behind those cheesy karaoke tracks."
+    "text": "Sounds engaging! If you're into design and innovation, it might just be worth a listen."
   },
   {
     "speaker": "Adam",
-    "text": "Definitely worth a listen."
+    "text": "That wraps up our news for today, Moiz. Drive safe out there!"
   },
   {
     "speaker": "Eve",
-    "text": "Well, that wraps up today’s news."
-  },
-  {
-    "speaker": "Adam",
     "text": "Take care, Moiz!"
-  },
-  {
-    "speaker": "Eve",
-    "text": "Drive safely!"
   }
 ]
