@@ -1,146 +1,174 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! You won't believe this, but the UAE is unlocking frozen Iranian funds."
+    "text": "Good morning, Moiz! Did you hear about the anti-racism rally that took place in Belfast? Thousands showed up."
   },
   {
     "speaker": "Eve",
-    "text": "Oh wow, that’s significant! It seems they're doing this to ease tensions and avoid crossing any “red lines.”"
+    "text": "Yeah, that's wild! It’s a significant reaction, especially after the recent unrest surrounding immigration issues in the UK."
   },
   {
     "speaker": "Adam",
-    "text": "Exactly! This move comes amid a US push for a ceasefire. It’s a pretty strategic play, especially with the ongoing complexities in the region."
+    "text": "Right? Speaking of immigration, the EU has just rolled out a new migration policy."
   },
   {
     "speaker": "Eve",
-    "text": "Speaking of geopolitical shifts, the EU has just agreed to launch the accession process for Ukraine and Moldova."
+    "text": "That’ll be interesting to see how it plays out, especially given the ongoing discussions about global migration trends."
   },
   {
     "speaker": "Adam",
-    "text": "Right! That’s huge for Kyiv, especially since Hungary lifted its veto. It could really change the dynamics in Eastern Europe."
+    "text": "Absolutely. Let’s dive into world news."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely. And with tensions high, Ukraine has been hitting Russian assets pretty hard lately."
+    "text": "Starting with the EU migration policy, it officially came into force yesterday. This policy aims to streamline the process for migrants seeking asylum and address the ongoing crisis."
   },
   {
     "speaker": "Adam",
-    "text": "Yes, and Putin himself admitted that these attacks are impacting the Russian economy and society. It’s a real turning point."
+    "text": "It’s quite a bold move, especially given the backlash from various member states. Some countries are already voicing their concerns about the potential impact."
   },
   {
     "speaker": "Eve",
-    "text": "And let’s not forget the Pope’s recent statements on migration. He warned people smugglers that they’ll face God's wrath during his tour in Spain."
+    "text": "Totally. And in Canada, Prime Minister Carney warned that the “rules-based” global order is breaking down as we approach the G7 summit."
   },
   {
     "speaker": "Adam",
-    "text": "That’s intense! Migration continues to be a hot-button issue, and the Pope isn't holding back."
+    "text": "That’s a strong statement! He’s calling for unity between Canada and the EU to tackle these global challenges."
   },
   {
     "speaker": "Eve",
-    "text": "Meanwhile, World Cup fever is sweeping across cities like New York and Los Angeles. Fans are buzzing with excitement ahead of the US's first match."
+    "text": "Meanwhile, on the ground in the UK, thousands joined the anti-racism demonstrations in Belfast. This movement seems to be gaining traction, especially in light of anti-immigration sentiments."
   },
   {
     "speaker": "Adam",
-    "text": "Oh, for sure! With over a million visitors expected in NYC, it's bound to be a wild time despite the chaos and high costs."
+    "text": "It’s a powerful response. Switching gears, Viktor Orban, Hungary’s former PM, was re-elected as party leader despite a recent election loss."
   },
   {
     "speaker": "Eve",
-    "text": "And on that note, a congressman mentioned that Trump won’t be sending loads of money to Iran, even though there’s talk of a deal."
+    "text": "Huh, interesting. He ran unopposed and acknowledged his party's defeat, which is quite rare in politics."
   },
   {
     "speaker": "Adam",
-    "text": "Right, Ryan Zinke stated that Trump wants an agreement but is cautious about financial commitments. That's a tricky balance."
+    "text": "And Ukraine is continuing its aggressive stance against Russian energy targets, claiming responsibility for recent attacks on a Russian sea terminal."
   },
   {
     "speaker": "Eve",
-    "text": "Plus, there were some violent clashes in the DRC recently over a rally against presidential term-limit changes."
+    "text": "That’s a significant escalation. They’re clearly sending a message that they’re not backing down."
   },
   {
     "speaker": "Adam",
-    "text": "Yeah, the police used tear gas to disperse crowds. The political climate there is really heating up."
+    "text": "In a lighter note, there was an amusing moment at a World Cup event in Boston where a cop impressed fans with his football skills."
   },
   {
     "speaker": "Eve",
-    "text": "It’s a lot happening around the world right now. Let’s shift gears and see how the markets are shaping up today."
+    "text": "I saw that! It’s always nice to see some levity during tense times."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. Starting with the Vanguard S&P 500 ETF, or VOO. It’s up about 0.55%."
+    "text": "Now, let’s take a look at the markets."
   },
   {
     "speaker": "Eve",
-    "text": "That’s nice to see! There’s been some interesting news around ETFs, with Vanguard gaining assets while BlackRock is shedding them."
+    "text": "The Vanguard S&P 500 ETF, or VOO, closed up 0.55%. There’s been a lot of discussion about ETF performance lately, especially as Vanguard saw gains while BlackRock shed some assets."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a fascinating shift in the ETF landscape. Now, moving on to NVIDIA, which is currently up 0.16%, and analysts are still giving it a “strong buy” rating."
+    "text": "Right, and it’s interesting to see how that competitive space is evolving."
   },
   {
     "speaker": "Eve",
-    "text": "Their target mean price is $298.93, which is quite a leap from its current price. It seems there's a lot of optimism around AI trades."
+    "text": "Moving on to NVIDIA, it’s up slightly at 0.16%. Analysts are pretty bullish with a strong buy rating and a mean target price of nearly $299, which is quite a jump."
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of tech, Micron is down about 1.43%. They also have a “strong buy” recommendation though, with a mean target of $828.73."
+    "text": "Definitely! They’re seen as a leader in AI technology right now."
   },
   {
     "speaker": "Eve",
-    "text": "Interesting! They’re facing some mixed news in the chip sector, kind of reflecting the overall volatility in the market."
+    "text": "Micron Technology is down 1.43% today, but it still has a strong buy recommendation with a mean target of about $829."
   },
   {
     "speaker": "Adam",
-    "text": "Exactly. Alphabet, or GOOGL, is showing a slight increase of 0.53%, and analysts recommend it as a “strong buy” as well."
+    "text": "That’s quite a spread!"
   },
   {
     "speaker": "Eve",
-    "text": "Their target mean is around $432.83, which indicates some serious confidence in their future performance."
+    "text": "Alphabet, or GOOGL, is also seeing a slight increase at 0.53% with a strong buy recommendation and a target mean of around $433."
   },
   {
     "speaker": "Adam",
-    "text": "Then there’s Meta, down just a tad at 0.26%, but it still holds a “strong buy” rating with a target mean of $828.80."
+    "text": "They’re making significant moves in their tech space, especially with their latest partnerships."
   },
   {
     "speaker": "Eve",
-    "text": "And ASML is also taking a hit, down 1.89%, yet analysts are still bullish on it with a target mean of $1,701.91."
+    "text": "Meta Platforms is down a bit, at -0.26%, but still holds a strong buy rating with a target mean of approximately $827."
   },
   {
     "speaker": "Adam",
-    "text": "Next is TSM, which is up 0.68%, and they’re also rated as a “strong buy.” Their target mean is around $467.84."
+    "text": "It's interesting how the market reacts to their developments lately, especially with ongoing scrutiny."
   },
   {
     "speaker": "Eve",
-    "text": "Great to see some movement there! Cameco is actually up 2.01%. They’re rated as a “buy” with a mean target of $128.63."
+    "text": "ASML is also experiencing a decline, down 1.89%, but remains a strong buy with a target mean of about $1,702."
   },
   {
     "speaker": "Adam",
-    "text": "There's certainly a lot of interest in uranium stocks lately. And Palantir is down 2.36% but also has a “buy” recommendation with a target mean of $183.73."
+    "text": "It seems like the tech sector is a mixed bag today."
   },
   {
     "speaker": "Eve",
-    "text": "It looks like the tech sector is a bit mixed today, but there's still plenty of optimism in certain areas."
+    "text": "Taiwan Semiconductor is up 0.68% with a strong buy rating and a target mean of around $468."
   },
   {
     "speaker": "Adam",
-    "text": "Now, let's quickly touch on something new in your podcasts. There's an episode from \"99% Invisible\" titled \"100 Objects #4: Lowe's Gas Bag.\""
+    "text": "They've been performing well overall, especially with advancements in AI."
   },
   {
     "speaker": "Eve",
-    "text": "This episode dives into how a gas bag filled with hydrogen sparked America's obsession with exploration back in 1861. It sounds fascinating!"
+    "text": "Cameco Corporation is the star today, up 2.01% with a buy rating and a mean target of about $129."
   },
   {
     "speaker": "Adam",
-    "text": "Yeah, it could be an intriguing listen for those interested in history and innovation."
+    "text": "That’s impressive, especially considering the energy sector's volatility."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely! And that wraps up our news for today."
+    "text": "Palantir is down 2.36%, but still has a buy recommendation with a target mean of around $184."
   },
   {
     "speaker": "Adam",
-    "text": "Thanks for joining us, Moiz."
+    "text": "They’ve had some interesting developments recently, so it’ll be worth keeping an eye on them."
   },
   {
     "speaker": "Eve",
-    "text": "Drive safely!"
+    "text": "Now, let’s quickly touch on new episodes in your podcasts."
+  },
+  {
+    "speaker": "Adam",
+    "text": "There’s a new episode of \"People I (Mostly) Admire\" featuring memory champion Nelson Dellis."
+  },
+  {
+    "speaker": "Eve",
+    "text": "It’s about his memory techniques and how anyone can learn them. Sounds fascinating!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "It aired originally back in May 2021, so it’s a nice revisit to those memory tricks."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Definitely worth checking out if you’re looking to sharpen your memory skills!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "Well, that wraps up today’s news, Moiz."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Drive safe out there!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "Until next time!"
   }
 ]
