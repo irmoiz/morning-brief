@@ -1,130 +1,166 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you hear about the Swiss voters rejecting that population cap?"
+    "text": "Good morning, Moiz! Did you hear about the journalist who was hit by shrapnel while covering the Israeli attacks in Lebanon?"
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, capping the population at 10 million is a bold move. It’s interesting to see the pushback from voters."
+    "text": "Yeah, that's wild! It's heartbreaking to see journalists risking their lives to bring us the news."
   },
   {
     "speaker": "Adam",
-    "text": "Right? It seems like such a loaded issue—population control and all that. Let’s jump into some world news!"
+    "text": "Absolutely. This incident highlights the ongoing conflict in the region. Now, let's dive into some world news."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely! Starting with the Democratic Republic of Congo, confirmed Ebola cases have surged to 782. This has caused significant mistrust among families of the victims towards medical teams in Goma."
+    "text": "Right! Starting with the situation in Lebanon, a journalist for Press TV was injured while filming. This reminds us of the dangers reporters face in war zones."
   },
   {
     "speaker": "Adam",
-    "text": "That’s alarming. With such a spike in cases, you can see why families might be hesitant. Trust in healthcare is crucial during an outbreak."
+    "text": "Meanwhile, in Gaza, a seven-year-old is mourning the loss of his father and brother due to an Israeli strike. It's a tragic reminder of the human cost of conflict."
   },
   {
     "speaker": "Eve",
-    "text": "For sure. In Brazil, six people were killed when two helicopters collided over Rio de Janeiro. They crashed into a car park of an electric vehicle dealership."
+    "text": "It really is heartbreaking. In other news, Egypt managed to draw 1-1 with Belgium in their World Cup group game. Emam Ashour scored his first international goal!"
   },
   {
     "speaker": "Adam",
-    "text": "Oh, that’s wild! Imagine witnessing that from the ground. I hope the investigation sheds light on what went wrong."
+    "text": "That's a great moment for him and for Egypt! The World Cup always brings excitement. Speaking of which, Iran is currently facing New Zealand in a live match."
   },
   {
     "speaker": "Eve",
-    "text": "It definitely raises questions about air traffic safety in busy urban areas. Meanwhile, in sports, Lewis Hamilton celebrated a major comeback, winning his first Formula 1 race with Ferrari in Barcelona!"
+    "text": "Yes, and you can follow all the updates on Al Jazeera's live blog!"
   },
   {
     "speaker": "Adam",
-    "text": "After nearly two years without a win, that must feel like a huge relief for him. Ferrari has such a storied history in F1."
+    "text": "Let's switch gears for a moment. The UK government announced a ban on social media access for users under 16."
   },
   {
     "speaker": "Eve",
-    "text": "It really does! Speaking of history, Israel recently welcomed Somaliland’s president in a landmark visit, acknowledging Somaliland as an independent state."
+    "text": "Huh, I wonder if that will actually protect young users or just push them to other platforms."
   },
   {
     "speaker": "Adam",
-    "text": "That’s significant! Recognizing Somaliland is a big step in international relations. And on a more serious note, Israel has expanded its military control by 1,000 square kilometers across Gaza, Lebanon, and Syria."
+    "text": "That's a valid point. In Europe, the EU has officially launched the accession process for Ukraine and Moldova. This could significantly impact their future relations with the West."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, that’s quite concerning. It signals deeper tensions in the region."
+    "text": "Definitely a big step for both countries. Meanwhile, Hungary's MPs have approved limits to the Prime Minister's powers to block any potential return of Viktor Orbán."
   },
   {
     "speaker": "Adam",
-    "text": "It does. Switching gears, there was a tragic plane crash in Missouri that killed twelve people. The plane went down near Butler Memorial Airport, and reports indicate there were skydivers on board."
+    "text": "It's interesting to see how political dynamics are shifting in Europe. Over in the U.S., Trump is touting the Iran deal as a peace step as he arrives at the G7."
   },
   {
     "speaker": "Eve",
-    "text": "That’s heartbreaking. It’s a reminder of how dangerous aviation can be, especially in recreational situations."
+    "text": "That’s fascinating. It seems like he's trying to highlight his foreign policy successes amid the G7 tensions."
   },
   {
     "speaker": "Adam",
-    "text": "And in sports, Germany opened their World Cup campaign with an impressive 7-1 victory over debutants Curacao. That’s quite a statement from the four-time winners!"
+    "text": "Yes, and Israeli Prime Minister Netanyahu has stated that Israel will not leave occupied land in Lebanon, despite the U.S. deal with Iran."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely! It’s a strong start, and they’ll be looking to build on that momentum as the tournament progresses."
+    "text": "It looks like the tensions in that region aren't easing up anytime soon."
   },
   {
     "speaker": "Adam",
-    "text": "Now, let’s check in on the markets. The Vanguard S&P 500 ETF, or VOO, is up 0.55%. Analysts haven't made any significant changes in their recommendations lately."
+    "text": "Now, let's take a look at the markets. Starting with the VOO, the Vanguard S&P 500 ETF, which closed at $693.83, up 1.74%."
   },
   {
     "speaker": "Eve",
-    "text": "That’s right. The market is always reacting to new information. Speaking of which, NVIDIA is seeing a slight uptick of 0.16% and remains a strong buy with a mean price target of nearly $299."
+    "text": "That's a nice bump! It seems there’s some positive momentum in the markets lately."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a promising outlook. And Micron Technology, despite a drop of 1.43%, is also rated as a strong buy with a target mean of around $829."
+    "text": "Moving on to NVIDIA, which saw a significant gain of 3.54%, closing at $212.45. Analysts are rating it as a strong buy with a mean price target of about $298.93."
   },
   {
     "speaker": "Eve",
-    "text": "It’s interesting how these stocks fluctuate based on market sentiment. Alphabet, or GOOGL, is also on the rise, up 0.53% and with a strong buy recommendation."
+    "text": "Wow, that's quite a difference from its current price! What’s driving that enthusiasm?"
   },
   {
     "speaker": "Adam",
-    "text": "They have a mean price target of about $433. There’s a lot of buzz around AI stocks lately, influencing the market."
+    "text": "Analysts believe it’s due to the continued demand for AI technologies. Now, Micron Technology surged by 10.84%, closing at $1,087.99, also rated a strong buy with a target mean of $866.60."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely. Meta Platforms, despite a slight dip of 0.26%, is still a strong buy with a target mean of $827, which is optimistic given their recent challenges."
+    "text": "That’s impressive! The chip market seems to be on fire lately."
   },
   {
     "speaker": "Adam",
-    "text": "Right, and ASML is down by 1.89%, but still holds a strong buy recommendation with a target mean of around $1,862."
+    "text": "And Alphabet, or GOOGL, saw a 2.69% increase, closing at $369.35, with a strong buy rating and a target mean of $432.83."
   },
   {
     "speaker": "Eve",
-    "text": "Taiwan Semiconductor Manufacturing is seeing a slight increase of 0.68%, with analysts suggesting it's a strong buy, targeting $468."
+    "text": "It looks like tech stocks are definitely leading the charge today."
   },
   {
     "speaker": "Adam",
-    "text": "And Cameco Corporation is up 2.01%, rated a buy with a mean target of approximately $129. There’s definitely interest in uranium stocks right now."
+    "text": "Meta Platforms is also performing well, with a 4.67% rise to $593.48 and a strong buy rating, targeting around $827.32."
   },
   {
     "speaker": "Eve",
-    "text": "It’s intriguing how energy markets are shifting. Finally, Palantir Technologies is down 2.36% but is still labeled a buy, with a target mean of around $184."
+    "text": "The continued growth in social media and AI is certainly fueling that."
   },
   {
     "speaker": "Adam",
-    "text": "It’s fascinating how these tech stocks are navigating the market landscape."
+    "text": "Over to ASML, which closed at $1,892.66, up 1.56%, also rated as a strong buy with a target of $1,704.87."
   },
   {
     "speaker": "Eve",
-    "text": "It really is! And that wraps up our market overview for today."
+    "text": "It seems semiconductor stocks are really benefiting from recent market trends."
   },
   {
     "speaker": "Adam",
-    "text": "Since there are no new podcast episodes to highlight today, we’ll skip that section."
+    "text": "Taiwan Semiconductor closed at $441.40, up 4.12%, with a strong buy rating and a target mean of $467.84."
   },
   {
     "speaker": "Eve",
-    "text": "Sounds good!"
+    "text": "All these gains make it look like there's optimism in the tech sector."
   },
   {
     "speaker": "Adam",
-    "text": "Alright, Moiz, that's all for today. Drive safely to work!"
+    "text": "Cameco Corporation, CCJ, rose 6% to $107.02, rated as a buy with a target mean of $133.70."
   },
   {
     "speaker": "Eve",
-    "text": "Have a great day, Moiz!"
+    "text": "Looks like nuclear energy might be getting a little more attention these days."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Lastly, Palantir Technologies jumped 5.25%, closing at $134.71, rated as a buy with a target mean of $182.75."
+  },
+  {
+    "speaker": "Eve",
+    "text": "A good day for these stocks overall! Now, let's see what's new in your podcasts."
+  },
+  {
+    "speaker": "Adam",
+    "text": "There’s a fresh episode of \"Twenty Thousand Hertz\" titled \"John Williams: A Composer’s Legacy.\""
+  },
+  {
+    "speaker": "Eve",
+    "text": "This episode explores John Williams’ incredible career from his early days through his iconic scores for films like \"Jurassic Park\" and \"Schindler's List.\""
+  },
+  {
+    "speaker": "Adam",
+    "text": "That sounds like a must-listen for anyone interested in film music!"
+  },
+  {
+    "speaker": "Eve",
+    "text": "Absolutely. It’s fascinating to learn about how he revived orchestral scores and created melodies that resonate with so many people."
+  },
+  {
+    "speaker": "Adam",
+    "text": "And now, it’s time to wrap things up."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Have a great day at work, Moiz!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "Take care, Moiz!"
   }
 ]
