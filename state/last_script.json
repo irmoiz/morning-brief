@@ -1,166 +1,118 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you hear about the journalist who was hit by shrapnel while covering the Israeli attacks in Lebanon?"
+    "text": "Good morning, Moiz! Did you hear about Thomas Partey? He’s officially out of Canada for Ghana’s World Cup match against Panama."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, that's wild! It's heartbreaking to see journalists risking their lives to bring us the news."
+    "text": "Oh wow, that’s a tough break for the team! They really needed him. Let’s dive into that and more in today’s news."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. This incident highlights the ongoing conflict in the region. Now, let's dive into some world news."
+    "text": "Starting with the World Cup, Kylian Mbappé kicked off the tournament with a bang, scoring a brace in France’s 3-1 victory over Senegal. With that performance, he became France's all-time top scorer."
   },
   {
     "speaker": "Eve",
-    "text": "Right! Starting with the situation in Lebanon, a journalist for Press TV was injured while filming. This reminds us of the dangers reporters face in war zones."
+    "text": "That's incredible! He’s just two goals shy of Miroslav Klose’s World Cup record. It seems like he’s ready to make this tournament his own."
   },
   {
     "speaker": "Adam",
-    "text": "Meanwhile, in Gaza, a seven-year-old is mourning the loss of his father and brother due to an Israeli strike. It's a tragic reminder of the human cost of conflict."
+    "text": "Meanwhile, Ghana’s Thomas Partey has lost his appeal to enter Canada. He won’t be available for their first match, which could be a significant setback for them."
   },
   {
     "speaker": "Eve",
-    "text": "It really is heartbreaking. In other news, Egypt managed to draw 1-1 with Belgium in their World Cup group game. Emam Ashour scored his first international goal!"
+    "text": "For sure! And speaking of setbacks, South Korea's World Cup squad is reportedly at odds with the media over some mockery directed at star player Son Heung-min. They’re refraining from speaking outside official commitments."
   },
   {
     "speaker": "Adam",
-    "text": "That's a great moment for him and for Egypt! The World Cup always brings excitement. Speaking of which, Iran is currently facing New Zealand in a live match."
+    "text": "That’s interesting. Keeping a low profile might help them focus, but it’s always tricky to manage media relationships during such a high-profile event."
   },
   {
     "speaker": "Eve",
-    "text": "Yes, and you can follow all the updates on Al Jazeera's live blog!"
+    "text": "Absolutely. In other news, Palestinian Bedouins in Beersheba are demolishing their own homes following Israeli demolition orders. This situation continues to highlight the ongoing tensions in the region."
   },
   {
     "speaker": "Adam",
-    "text": "Let's switch gears for a moment. The UK government announced a ban on social media access for users under 16."
+    "text": "It’s heartbreaking to see communities facing such challenges. On the international front, the US Justice Department has accused 15 Minnesota activists of ‘antifa’ activities, alleging they aimed to disrupt lawful immigration enforcement."
   },
   {
     "speaker": "Eve",
-    "text": "Huh, I wonder if that will actually protect young users or just push them to other platforms."
+    "text": "That’s quite serious. The political climate continues to heat up, and it’s impacting many communities."
   },
   {
     "speaker": "Adam",
-    "text": "That's a valid point. In Europe, the EU has officially launched the accession process for Ukraine and Moldova. This could significantly impact their future relations with the West."
+    "text": "And over in Lebanon, many are returning to their homes in the south, only to confront the destruction that has disrupted their lives."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely a big step for both countries. Meanwhile, Hungary's MPs have approved limits to the Prime Minister's powers to block any potential return of Viktor Orbán."
+    "text": "That’s a tough reality. Speaking of the international scene, the G7 summit just wrapped up, with Iran and Ukraine dominating discussions."
   },
   {
     "speaker": "Adam",
-    "text": "It's interesting to see how political dynamics are shifting in Europe. Over in the U.S., Trump is touting the Iran deal as a peace step as he arrives at the G7."
+    "text": "Definitely significant topics on the world stage. On a lighter note, Iranian fans at the World Cup honored Minab victims with banners during their match against New Zealand."
   },
   {
     "speaker": "Eve",
-    "text": "That’s fascinating. It seems like he's trying to highlight his foreign policy successes amid the G7 tensions."
+    "text": "That’s a poignant way to remember those lost, especially in such a celebratory context."
   },
   {
     "speaker": "Adam",
-    "text": "Yes, and Israeli Prime Minister Netanyahu has stated that Israel will not leave occupied land in Lebanon, despite the U.S. deal with Iran."
+    "text": "Shifting gears, let’s talk about the markets. Vanguard S&P 500 ETF, ticker VOO, closed at $689.75, down about 0.59%. No major news driving that movement today."
   },
   {
     "speaker": "Eve",
-    "text": "It looks like the tensions in that region aren't easing up anytime soon."
+    "text": "Right. NVIDIA, or NVDA, saw a bigger drop of 2.37%, closing at $207.41. Analysts still rate it as a strong buy with a mean price target of about $298.93."
   },
   {
     "speaker": "Adam",
-    "text": "Now, let's take a look at the markets. Starting with the VOO, the Vanguard S&P 500 ETF, which closed at $693.83, up 1.74%."
+    "text": "That’s quite a gap! Micron Technology, ticker MU, took a significant hit as well, down 6.18% to $1,020.76. Analysts are bullish, giving it a strong buy rating with an average target of $866.60."
   },
   {
     "speaker": "Eve",
-    "text": "That's a nice bump! It seems there’s some positive momentum in the markets lately."
+    "text": "Interesting spread there! Alphabet Inc., or GOOGL, closed up 1.06% at $373.25 and also has a strong buy rating, with a mean target of $432.83."
   },
   {
     "speaker": "Adam",
-    "text": "Moving on to NVIDIA, which saw a significant gain of 3.54%, closing at $212.45. Analysts are rating it as a strong buy with a mean price target of about $298.93."
+    "text": "Meta Platforms, ticker META, rose slightly by 1.13%, closing at $600.21. They have a strong buy rating as well, with a target mean of $827.32."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, that's quite a difference from its current price! What’s driving that enthusiasm?"
+    "text": "It seems like the tech sector continues to attract attention! ASML Holding, ticker ASML, dropped 4.69% to $1,803.89 but maintains a strong buy recommendation with an average target of $1,708.04."
   },
   {
     "speaker": "Adam",
-    "text": "Analysts believe it’s due to the continued demand for AI technologies. Now, Micron Technology surged by 10.84%, closing at $1,087.99, also rated a strong buy with a target mean of $866.60."
+    "text": "And Taiwan Semiconductor Manufacturing, TSM, is also down 3.53% to $425.83, yet analysts are still optimistic, rating it as a strong buy with a target mean of $467.84."
   },
   {
     "speaker": "Eve",
-    "text": "That’s impressive! The chip market seems to be on fire lately."
+    "text": "The stocks are definitely experiencing a shake-up. Cameco Corporation, ticker CCJ, saw a small gain of 0.8%, closing at $107.88 with a buy recommendation."
   },
   {
     "speaker": "Adam",
-    "text": "And Alphabet, or GOOGL, saw a 2.69% increase, closing at $369.35, with a strong buy rating and a target mean of $432.83."
+    "text": "Lastly, Palantir Technologies, ticker PLTR, fell 1.08% to $133.25 despite a buy rating from analysts, who have a target mean of $182.75."
   },
   {
     "speaker": "Eve",
-    "text": "It looks like tech stocks are definitely leading the charge today."
+    "text": "That rounds out our market check! Now, let’s move on to the new episodes. There’s a fresh one from \"99% Invisible\" titled \"The Horn That Divided the World Cup.\""
   },
   {
     "speaker": "Adam",
-    "text": "Meta Platforms is also performing well, with a 4.67% rise to $593.48 and a strong buy rating, targeting around $827.32."
+    "text": "It sounds intriguing! They’re diving into how a buzzing horn changed the sound of the World Cup forever."
   },
   {
     "speaker": "Eve",
-    "text": "The continued growth in social media and AI is certainly fueling that."
+    "text": "Definitely worth a listen, especially with the tournament buzzing around us right now."
   },
   {
     "speaker": "Adam",
-    "text": "Over to ASML, which closed at $1,892.66, up 1.56%, also rated as a strong buy with a target of $1,704.87."
+    "text": "That’s our podcast for today, Moiz!"
   },
   {
     "speaker": "Eve",
-    "text": "It seems semiconductor stocks are really benefiting from recent market trends."
+    "text": "Drive safe out there!"
   },
   {
     "speaker": "Adam",
-    "text": "Taiwan Semiconductor closed at $441.40, up 4.12%, with a strong buy rating and a target mean of $467.84."
-  },
-  {
-    "speaker": "Eve",
-    "text": "All these gains make it look like there's optimism in the tech sector."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Cameco Corporation, CCJ, rose 6% to $107.02, rated as a buy with a target mean of $133.70."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Looks like nuclear energy might be getting a little more attention these days."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Lastly, Palantir Technologies jumped 5.25%, closing at $134.71, rated as a buy with a target mean of $182.75."
-  },
-  {
-    "speaker": "Eve",
-    "text": "A good day for these stocks overall! Now, let's see what's new in your podcasts."
-  },
-  {
-    "speaker": "Adam",
-    "text": "There’s a fresh episode of \"Twenty Thousand Hertz\" titled \"John Williams: A Composer’s Legacy.\""
-  },
-  {
-    "speaker": "Eve",
-    "text": "This episode explores John Williams’ incredible career from his early days through his iconic scores for films like \"Jurassic Park\" and \"Schindler's List.\""
-  },
-  {
-    "speaker": "Adam",
-    "text": "That sounds like a must-listen for anyone interested in film music!"
-  },
-  {
-    "speaker": "Eve",
-    "text": "Absolutely. It’s fascinating to learn about how he revived orchestral scores and created melodies that resonate with so many people."
-  },
-  {
-    "speaker": "Adam",
-    "text": "And now, it’s time to wrap things up."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Have a great day at work, Moiz!"
-  },
-  {
-    "speaker": "Adam",
-    "text": "Take care, Moiz!"
+    "text": "Until next time!"
   }
 ]
