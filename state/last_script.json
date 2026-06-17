@@ -1,111 +1,191 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you hear about Thomas Partey? He’s officially out of Canada for Ghana’s World Cup match against Panama."
+    "text": "Good morning, Moiz! Did you hear about the Al Jazeera journalist who was reunited with his family in Khartoum after years apart?"
   },
   {
     "speaker": "Eve",
-    "text": "Oh wow, that’s a tough break for the team! They really needed him. Let’s dive into that and more in today’s news."
+    "text": "I saw that! It’s such a heartwarming story amidst all the chaos. Three years of separation must have been incredibly tough for him and his family."
   },
   {
     "speaker": "Adam",
-    "text": "Starting with the World Cup, Kylian Mbappé kicked off the tournament with a bang, scoring a brace in France’s 3-1 victory over Senegal. With that performance, he became France's all-time top scorer."
+    "text": "Absolutely. It's a powerful reminder of the personal stories behind the headlines. Now, let's dive into some world news."
   },
   {
     "speaker": "Eve",
-    "text": "That's incredible! He’s just two goals shy of Miroslav Klose’s World Cup record. It seems like he’s ready to make this tournament his own."
+    "text": "Starting in Sudan, where that same journalist, Al-Tahir al-Mardi, finally returned home. After years of conflict, it’s a glimmer of hope for many families affected by the ongoing turmoil there."
   },
   {
     "speaker": "Adam",
-    "text": "Meanwhile, Ghana’s Thomas Partey has lost his appeal to enter Canada. He won’t be available for their first match, which could be a significant setback for them."
+    "text": "Right, and while that story is touching, there are also troubling developments elsewhere. In the U.S., a judge ruled that Huawei’s CFO, Meng Wanzhou's admissions can be used in her criminal trial."
   },
   {
     "speaker": "Eve",
-    "text": "For sure! And speaking of setbacks, South Korea's World Cup squad is reportedly at odds with the media over some mockery directed at star player Son Heung-min. They’re refraining from speaking outside official commitments."
+    "text": "Oh wow, that’s significant. She previously admitted to Huawei conducting illegal business in Iran. This is likely to have major implications for the case."
   },
   {
     "speaker": "Adam",
-    "text": "That’s interesting. Keeping a low profile might help them focus, but it’s always tricky to manage media relationships during such a high-profile event."
+    "text": "It certainly is a game-changer. Meanwhile, in a bizarre twist, thieves in the UK pulled off an ATM heist using a bulldozer in just four minutes!"
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely. In other news, Palestinian Bedouins in Beersheba are demolishing their own homes following Israeli demolition orders. This situation continues to highlight the ongoing tensions in the region."
+    "text": "That’s wild! I can’t believe they managed to execute that so quickly. I wonder how they planned it out."
   },
   {
     "speaker": "Adam",
-    "text": "It’s heartbreaking to see communities facing such challenges. On the international front, the US Justice Department has accused 15 Minnesota activists of ‘antifa’ activities, alleging they aimed to disrupt lawful immigration enforcement."
+    "text": "It’s crazy what people come up with. Now shifting gears to sports, DR Congo’s Yoane Wissa scored the nation’s first-ever goal at a World Cup."
   },
   {
     "speaker": "Eve",
-    "text": "That’s quite serious. The political climate continues to heat up, and it’s impacting many communities."
+    "text": "That’s historic! Especially considering he nearly lost his sight just a couple of years ago. What a comeback story!"
   },
   {
     "speaker": "Adam",
-    "text": "And over in Lebanon, many are returning to their homes in the south, only to confront the destruction that has disrupted their lives."
+    "text": "Definitely a moment to celebrate for DR Congo. Now, on a darker note, the Gilgo Beach serial killer, Rex Heuermann, was sentenced to life without parole for the murders of eight women."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a tough reality. Speaking of the international scene, the G7 summit just wrapped up, with Iran and Ukraine dominating discussions."
+    "text": "That’s a relief for the victims' families, but it’s heart-wrenching to think about what those families endured during the trial."
   },
   {
     "speaker": "Adam",
-    "text": "Definitely significant topics on the world stage. On a lighter note, Iranian fans at the World Cup honored Minab victims with banners during their match against New Zealand."
+    "text": "Absolutely. In lighter news, Croatia fans turned downtown Dallas into a sea of red and white ahead of their match against England."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a poignant way to remember those lost, especially in such a celebratory context."
+    "text": "It sounds like they really know how to celebrate! That kind of spirit is contagious."
   },
   {
     "speaker": "Adam",
-    "text": "Shifting gears, let’s talk about the markets. Vanguard S&P 500 ETF, ticker VOO, closed at $689.75, down about 0.59%. No major news driving that movement today."
+    "text": "Speaking of sports, Brazilian President Lula has called on Trump to stay out of Brazil’s elections as he faces a tight race against Flavio Bolsonaro."
   },
   {
     "speaker": "Eve",
-    "text": "Right. NVIDIA, or NVDA, saw a bigger drop of 2.37%, closing at $207.41. Analysts still rate it as a strong buy with a mean price target of about $298.93."
+    "text": "That’s an interesting move. It’s always tricky when foreign influences come into play during elections."
   },
   {
     "speaker": "Adam",
-    "text": "That’s quite a gap! Micron Technology, ticker MU, took a significant hit as well, down 6.18% to $1,020.76. Analysts are bullish, giving it a strong buy rating with an average target of $866.60."
+    "text": "For sure. And in India, the founder of the Cockroach Janta Party was attacked, raising questions about political violence in the country."
   },
   {
     "speaker": "Eve",
-    "text": "Interesting spread there! Alphabet Inc., or GOOGL, closed up 1.06% at $373.25 and also has a strong buy rating, with a mean target of $432.83."
+    "text": "That sounds alarming. Political tensions seem to be escalating there."
   },
   {
     "speaker": "Adam",
-    "text": "Meta Platforms, ticker META, rose slightly by 1.13%, closing at $600.21. They have a strong buy rating as well, with a target mean of $827.32."
+    "text": "Shifting to Iran, a U.S. official gave an account of a 14-point ceasefire memorandum set to be signed between the U.S. and Iran this Friday."
   },
   {
     "speaker": "Eve",
-    "text": "It seems like the tech sector continues to attract attention! ASML Holding, ticker ASML, dropped 4.69% to $1,803.89 but maintains a strong buy recommendation with an average target of $1,708.04."
+    "text": "That could be a significant turning point for relations between the two countries. I hope it leads to some stability."
   },
   {
     "speaker": "Adam",
-    "text": "And Taiwan Semiconductor Manufacturing, TSM, is also down 3.53% to $425.83, yet analysts are still optimistic, rating it as a strong buy with a target mean of $467.84."
+    "text": "In the West Bank, Palestinian residents were shocked by the devastation in the Tulkarem refugee camp after returning following more than a year of displacement."
   },
   {
     "speaker": "Eve",
-    "text": "The stocks are definitely experiencing a shake-up. Cameco Corporation, ticker CCJ, saw a small gain of 0.8%, closing at $107.88 with a buy recommendation."
+    "text": "That’s heartbreaking. The human cost of conflict is often overlooked, and it’s devastating to see those images."
   },
   {
     "speaker": "Adam",
-    "text": "Lastly, Palantir Technologies, ticker PLTR, fell 1.08% to $133.25 despite a buy rating from analysts, who have a target mean of $182.75."
+    "text": "It really puts everything into perspective. Meanwhile, in Europe, chants of \"send them back\" erupted in the EU Parliament after an anti-migrant bill passed."
   },
   {
     "speaker": "Eve",
-    "text": "That rounds out our market check! Now, let’s move on to the new episodes. There’s a fresh one from \"99% Invisible\" titled \"The Horn That Divided the World Cup.\""
+    "text": "That’s concerning. It reflects a growing sentiment that can have dangerous implications for migrant rights."
   },
   {
     "speaker": "Adam",
-    "text": "It sounds intriguing! They’re diving into how a buzzing horn changed the sound of the World Cup forever."
+    "text": "Definitely something to keep an eye on. In sports again, Cape Verde goalkeeper Vozinha's mother recently got a visa to attend the World Cup."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely worth a listen, especially with the tournament buzzing around us right now."
+    "text": "That’s such a beautiful moment. It's great that she’ll be there to support him on the big stage!"
   },
   {
     "speaker": "Adam",
-    "text": "That’s our podcast for today, Moiz!"
+    "text": "Now, let’s take a look at the markets. The Vanguard S&P 500 ETF, or VOO, closed at $681.41, down about 1.21%."
+  },
+  {
+    "speaker": "Eve",
+    "text": "There’s been quite a buzz around ETFs lately. Looks like Vanguard is still leading the pack according to various reports."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Right. NVIDIA, or NVDA, also took a dip, closing down 1.33% at $204.65, but analysts still have a strong buy rating with a mean price target of around $298.93."
+  },
+  {
+    "speaker": "Eve",
+    "text": "That shows confidence in their long-term growth despite the recent drop."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Micron Technology, on the other hand, had a positive day, closing up 2.2% at $1,043.19. They also have a strong buy recommendation."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Interesting that analysts are considering Micron's recent performance to be part of a new AI reality."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Exactly. Alphabet, ticker GOOGL, fell 2.53% to $363.79, but it still holds a strong buy rating with a target of $432.83."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Seems like there’s a lot of faith in their future despite the current slump."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Meta Platforms, also taking a hit, closed down 5.44% at $567.58, yet analysts still rate it as a strong buy."
+  },
+  {
+    "speaker": "Eve",
+    "text": "That’s notable given the recent market instability."
+  },
+  {
+    "speaker": "Adam",
+    "text": "ASML saw a rise of 3.54%, closing at $1,867.83, with a strong buy recommendation and a mean price target of $1,692.51."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Good for them! It looks like they’re leading the charge in the chip-making sector."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Taiwan Semiconductor Manufacturing Company, or TSM, also performed well, up 1.48% at $432.15, with analysts seeing a target mean of $473.40."
+  },
+  {
+    "speaker": "Eve",
+    "text": "That’s solid news for them, especially with the demand for semiconductors growing."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Cameco Corporation closed down 2.05% at $105.67 but still has a buy rating with a target mean of $132.89."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Nuclear energy seems to be getting some attention this year, which might play into that."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Lastly, Palantir Technologies, or PLTR, also saw a drop of 1.97%, closing at $130.63, but is still rated a buy."
+  },
+  {
+    "speaker": "Eve",
+    "text": "They’ve had some interesting developments lately, especially in the AI sector."
+  },
+  {
+    "speaker": "Adam",
+    "text": "That wraps up our market overview."
+  },
+  {
+    "speaker": "Eve",
+    "text": "And since there are no new podcast episodes to share today, we’ll skip that segment."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Thanks for joining us this morning, Moiz."
   },
   {
     "speaker": "Eve",
@@ -113,6 +193,6 @@
   },
   {
     "speaker": "Adam",
-    "text": "Until next time!"
+    "text": "Take care!"
   }
 ]
