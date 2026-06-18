@@ -1,198 +1,114 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you hear about the Al Jazeera journalist who was reunited with his family in Khartoum after years apart?"
+    "text": "Good morning, Moiz! So, Donald Trump's claiming that oil prices are dropping in the U.S. since the peace deal. Oh, that's wild!"
   },
   {
     "speaker": "Eve",
-    "text": "I saw that! It’s such a heartwarming story amidst all the chaos. Three years of separation must have been incredibly tough for him and his family."
+    "text": "Yeah, it’s definitely a bold statement. But is it true? Let’s dive into the world news and find out what's really happening."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. It's a powerful reminder of the personal stories behind the headlines. Now, let's dive into some world news."
+    "text": "Right. Starting off, there’s been a significant airstrike in Myanmar, where at least seven civilians were killed. This attack occurred in Rakhine state, and it’s just another tragic event in the ongoing conflict there."
   },
   {
     "speaker": "Eve",
-    "text": "Starting in Sudan, where that same journalist, Al-Tahir al-Mardi, finally returned home. After years of conflict, it’s a glimmer of hope for many families affected by the ongoing turmoil there."
+    "text": "That’s heartbreaking. And shifting gears, Cuba’s Communist Party just approved an emergency economic package aimed at opening up the economy, which is quite unprecedented, especially given the recent pressure from the U.S."
   },
   {
     "speaker": "Adam",
-    "text": "Right, and while that story is touching, there are also troubling developments elsewhere. In the U.S., a judge ruled that Huawei’s CFO, Meng Wanzhou's admissions can be used in her criminal trial."
+    "text": "Wow, that’s a big move! It seems like they’re trying to adapt to the ongoing challenges. Speaking of challenges, Brazil is also in the news as a warrant was executed against a close ally of Lula amid a financial scandal involving Banco Master."
   },
   {
     "speaker": "Eve",
-    "text": "Oh wow, that’s significant. She previously admitted to Huawei conducting illegal business in Iran. This is likely to have major implications for the case."
+    "text": "There seems to be a lot of political turbulence down there. Meanwhile, in Saudi Arabia, Filipino conjoined twins Olivia and Gianna were successfully separated in a six-hour surgery. That’s quite a remarkable medical achievement!"
   },
   {
     "speaker": "Adam",
-    "text": "It certainly is a game-changer. Meanwhile, in a bizarre twist, thieves in the UK pulled off an ATM heist using a bulldozer in just four minutes!"
+    "text": "Absolutely! And on a sports note, Neymar won’t be playing in Brazil’s World Cup match against Haiti due to injuries. That’s a significant blow for the team, especially with the World Cup excitement building."
   },
   {
     "speaker": "Eve",
-    "text": "That’s wild! I can’t believe they managed to execute that so quickly. I wonder how they planned it out."
+    "text": "It’s tough to see such a key player sidelined. In other sports news, Elye Wahi from Ivory Coast has been granted a Canadian visa just hours after it was initially denied. He’ll be able to join his team in Toronto for their match against Germany."
   },
   {
     "speaker": "Adam",
-    "text": "It’s crazy what people come up with. Now shifting gears to sports, DR Congo’s Yoane Wissa scored the nation’s first-ever goal at a World Cup."
+    "text": "That's a rapid turnaround! And on the political front, Israeli Prime Minister Netanyahu emphasized the importance of preserving Israel’s relationship with the U.S., amid growing tensions with Iran."
   },
   {
     "speaker": "Eve",
-    "text": "That’s historic! Especially considering he nearly lost his sight just a couple of years ago. What a comeback story!"
+    "text": "It seems like the regional dynamics are quite complex. Speaking of Iran, their supreme leader approved a U.S. deal despite expressing a different perspective. They’ve also suspended transit charges for vessels in the Strait of Hormuz for 60 days."
   },
   {
     "speaker": "Adam",
-    "text": "Definitely a moment to celebrate for DR Congo. Now, on a darker note, the Gilgo Beach serial killer, Rex Heuermann, was sentenced to life without parole for the murders of eight women."
+    "text": "That’s a strategic move, especially given the geopolitical implications. Meanwhile, in Gaza, fans are trying to enjoy the World Cup amidst ongoing war and displacement. It’s a stark reminder of how sports can provide a brief escape from harsh realities."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a relief for the victims' families, but it’s heart-wrenching to think about what those families endured during the trial."
+    "text": "It really puts things into perspective. And in lighter news, Lionel Messi’s father is currently undergoing treatment for health issues, just days after Messi had an emotional moment during a match."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. In lighter news, Croatia fans turned downtown Dallas into a sea of red and white ahead of their match against England."
+    "text": "It’s always tough when family health issues come into play, especially in such a high-pressure environment."
   },
   {
     "speaker": "Eve",
-    "text": "It sounds like they really know how to celebrate! That kind of spirit is contagious."
+    "text": "Now, let’s take a look at the markets and see how things are shaping up today."
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of sports, Brazilian President Lula has called on Trump to stay out of Brazil’s elections as he faces a tight race against Flavio Bolsonaro."
+    "text": "Sure! Starting with the Vanguard S&P 500 ETF, it closed at $688.11, up nearly 1%. Analysts haven’t issued a specific rating, but it’s still considered a solid choice for many investors."
   },
   {
     "speaker": "Eve",
-    "text": "That’s an interesting move. It’s always tricky when foreign influences come into play during elections."
+    "text": "Moving on to NVIDIA, it’s up about 2.95%, currently at $210.69. Analysts are rating it as a strong buy with a mean price target of nearly $299. That’s quite a gap from its current price!"
   },
   {
     "speaker": "Adam",
-    "text": "For sure. And in India, the founder of the Cockroach Janta Party was attacked, raising questions about political violence in the country."
+    "text": "It really is! Then there's Micron Technology, which saw a significant jump of 8.7% and is sitting at $1,133.99. Analysts also view it as a strong buy, with a target mean of around $879."
   },
   {
     "speaker": "Eve",
-    "text": "That sounds alarming. Political tensions seem to be escalating there."
+    "text": "That’s impressive growth! Alphabet is up 1.17%, sitting at $368.03, with a strong buy recommendation and a target mean of about $432."
   },
   {
     "speaker": "Adam",
-    "text": "Shifting to Iran, a U.S. official gave an account of a 14-point ceasefire memorandum set to be signed between the U.S. and Iran this Friday."
+    "text": "And Meta Platforms is also performing well, up 1.7% at $577.22, with a strong buy rating and a target mean of approximately $827."
   },
   {
     "speaker": "Eve",
-    "text": "That could be a significant turning point for relations between the two countries. I hope it leads to some stability."
+    "text": "ASML Holding is up 3.31%, closing at $1,929.68, and also has a strong buy recommendation. The target mean is around $1,687."
   },
   {
     "speaker": "Adam",
-    "text": "In the West Bank, Palestinian residents were shocked by the devastation in the Tulkarem refugee camp after returning following more than a year of displacement."
+    "text": "Taiwan Semiconductor Manufacturing is up nearly 6.94%, priced at $462.12, with a strong buy rating and a target mean of about $473."
   },
   {
     "speaker": "Eve",
-    "text": "That’s heartbreaking. The human cost of conflict is often overlooked, and it’s devastating to see those images."
+    "text": "Cameco Corporation is slowly climbing too, with a 0.78% increase at $106.49, rated as a buy with a target mean of around $133."
   },
   {
     "speaker": "Adam",
-    "text": "It really puts everything into perspective. Meanwhile, in Europe, chants of \"send them back\" erupted in the EU Parliament after an anti-migrant bill passed."
+    "text": "Finally, Palantir Technologies is down 1.65%, now at $128.47, still rated as a buy with a target mean of about $183."
   },
   {
     "speaker": "Eve",
-    "text": "That’s concerning. It reflects a growing sentiment that can have dangerous implications for migrant rights."
+    "text": "Quite a mix in the markets today! Now, moving on to some new episodes in your podcast feeds..."
   },
   {
     "speaker": "Adam",
-    "text": "Definitely something to keep an eye on. In sports again, Cape Verde goalkeeper Vozinha's mother recently got a visa to attend the World Cup."
+    "text": "Actually, it looks like there aren’t any new episodes to highlight today."
   },
   {
     "speaker": "Eve",
-    "text": "That’s such a beautiful moment. It's great that she’ll be there to support him on the big stage!"
+    "text": "Got it! Well, that wraps up our news for you this morning, Moiz."
   },
   {
     "speaker": "Adam",
-    "text": "Now, let’s take a look at the markets. The Vanguard S&P 500 ETF, or VOO, closed at $681.41, down about 1.21%."
+    "text": "Have a great day at work!"
   },
   {
     "speaker": "Eve",
-    "text": "There’s been quite a buzz around ETFs lately. Looks like Vanguard is still leading the pack according to various reports."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Right. NVIDIA, or NVDA, also took a dip, closing down 1.33% at $204.65, but analysts still have a strong buy rating with a mean price target of around $298.93."
-  },
-  {
-    "speaker": "Eve",
-    "text": "That shows confidence in their long-term growth despite the recent drop."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Micron Technology, on the other hand, had a positive day, closing up 2.2% at $1,043.19. They also have a strong buy recommendation."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Interesting that analysts are considering Micron's recent performance to be part of a new AI reality."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Exactly. Alphabet, ticker GOOGL, fell 2.53% to $363.79, but it still holds a strong buy rating with a target of $432.83."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Seems like there’s a lot of faith in their future despite the current slump."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Meta Platforms, also taking a hit, closed down 5.44% at $567.58, yet analysts still rate it as a strong buy."
-  },
-  {
-    "speaker": "Eve",
-    "text": "That’s notable given the recent market instability."
-  },
-  {
-    "speaker": "Adam",
-    "text": "ASML saw a rise of 3.54%, closing at $1,867.83, with a strong buy recommendation and a mean price target of $1,692.51."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Good for them! It looks like they’re leading the charge in the chip-making sector."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Taiwan Semiconductor Manufacturing Company, or TSM, also performed well, up 1.48% at $432.15, with analysts seeing a target mean of $473.40."
-  },
-  {
-    "speaker": "Eve",
-    "text": "That’s solid news for them, especially with the demand for semiconductors growing."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Cameco Corporation closed down 2.05% at $105.67 but still has a buy rating with a target mean of $132.89."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Nuclear energy seems to be getting some attention this year, which might play into that."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Lastly, Palantir Technologies, or PLTR, also saw a drop of 1.97%, closing at $130.63, but is still rated a buy."
-  },
-  {
-    "speaker": "Eve",
-    "text": "They’ve had some interesting developments lately, especially in the AI sector."
-  },
-  {
-    "speaker": "Adam",
-    "text": "That wraps up our market overview."
-  },
-  {
-    "speaker": "Eve",
-    "text": "And since there are no new podcast episodes to share today, we’ll skip that segment."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Thanks for joining us this morning, Moiz."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Drive safe out there!"
-  },
-  {
-    "speaker": "Adam",
     "text": "Take care!"
   }
 ]
