@@ -1,114 +1,106 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! So, Donald Trump's claiming that oil prices are dropping in the U.S. since the peace deal. Oh, that's wild!"
+    "text": "Good morning, Moiz! You know, I was reading about this political shake-up in the UK. It seems like Prime Minister Keir Starmer is facing some serious pressure after Andy Burnham's by-election win."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, it’s definitely a bold statement. But is it true? Let’s dive into the world news and find out what's really happening."
+    "text": "Oh, that's wild! It’s always interesting to see how political tides change so quickly. I wonder how this will impact Starmer's leadership moving forward."
   },
   {
     "speaker": "Adam",
-    "text": "Right. Starting off, there’s been a significant airstrike in Myanmar, where at least seven civilians were killed. This attack occurred in Rakhine state, and it’s just another tragic event in the ongoing conflict there."
+    "text": "Absolutely. Let’s dive into some world news. In the UK, the political scene is heating up. Starmer has been under scrutiny, especially after Burnham’s win, which could signify a shift in public sentiment."
   },
   {
     "speaker": "Eve",
-    "text": "That’s heartbreaking. And shifting gears, Cuba’s Communist Party just approved an emergency economic package aimed at opening up the economy, which is quite unprecedented, especially given the recent pressure from the U.S."
+    "text": "And it’s not just the UK facing political challenges. Over in Iran, Deputy Foreign Minister Khatibzadeh recently stated that they are ready to move forward in negotiations with the US, provided certain conditions regarding Israel’s actions in Lebanon are met."
   },
   {
     "speaker": "Adam",
-    "text": "Wow, that’s a big move! It seems like they’re trying to adapt to the ongoing challenges. Speaking of challenges, Brazil is also in the news as a warrant was executed against a close ally of Lula amid a financial scandal involving Banco Master."
+    "text": "Right, and that’s quite a balancing act. Iran’s diplomacy hinges on external factors, which adds a layer of complexity to the talks."
   },
   {
     "speaker": "Eve",
-    "text": "There seems to be a lot of political turbulence down there. Meanwhile, in Saudi Arabia, Filipino conjoined twins Olivia and Gianna were successfully separated in a six-hour surgery. That’s quite a remarkable medical achievement!"
+    "text": "Speaking of complexity, Norway is stepping up its stance on Israel by seeking to ban trade with illegal settlements in Palestine. This move indicates a hardening of policies regarding what they consider unlawful activities."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely! And on a sports note, Neymar won’t be playing in Brazil’s World Cup match against Haiti due to injuries. That’s a significant blow for the team, especially with the World Cup excitement building."
+    "text": "It’s a bold step for Norway, for sure. Meanwhile, in the Democratic Republic of Congo, fears are growing as more than 70 medics have been infected with Ebola amidst an outbreak that is spreading quickly."
   },
   {
     "speaker": "Eve",
-    "text": "It’s tough to see such a key player sidelined. In other sports news, Elye Wahi from Ivory Coast has been granted a Canadian visa just hours after it was initially denied. He’ll be able to join his team in Toronto for their match against Germany."
+    "text": "That’s alarming! Poor sanitation and aid cuts are exacerbating the situation, especially in displacement camps. We really hope they can contain it soon."
   },
   {
     "speaker": "Adam",
-    "text": "That's a rapid turnaround! And on the political front, Israeli Prime Minister Netanyahu emphasized the importance of preserving Israel’s relationship with the U.S., amid growing tensions with Iran."
+    "text": "Indeed. Switching gears, there was also a dramatic scene in Japan where a fire broke out in a school, forcing students onto narrow ledges for safety. Eyewitness accounts describe a chaotic rescue operation."
   },
   {
     "speaker": "Eve",
-    "text": "It seems like the regional dynamics are quite complex. Speaking of Iran, their supreme leader approved a U.S. deal despite expressing a different perspective. They’ve also suspended transit charges for vessels in the Strait of Hormuz for 60 days."
+    "text": "That sounds terrifying! It’s amazing how quickly emergencies can escalate."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a strategic move, especially given the geopolitical implications. Meanwhile, in Gaza, fans are trying to enjoy the World Cup amidst ongoing war and displacement. It’s a stark reminder of how sports can provide a brief escape from harsh realities."
+    "text": "In other news, Italy's top diplomat has canceled a US trip after Prime Minister Meloni accused Trump of fabricating a story about her. It’s fascinating to see these international relationships get tested."
   },
   {
     "speaker": "Eve",
-    "text": "It really puts things into perspective. And in lighter news, Lionel Messi’s father is currently undergoing treatment for health issues, just days after Messi had an emotional moment during a match."
+    "text": "Absolutely. And in a more light-hearted vein, a UK MP is facing backlash for linking the England World Cup result to women's safety. It’s surprising how these comments can stir up public opinion."
   },
   {
     "speaker": "Adam",
-    "text": "It’s always tough when family health issues come into play, especially in such a high-pressure environment."
+    "text": "Definitely! Moving on to some market news, let’s talk about stocks. The Vanguard S&P 500 ETF, or VOO, is up nearly 1% at $688.11, but the news suggests that its low fee might be masking some costlier truths about taxes."
   },
   {
     "speaker": "Eve",
-    "text": "Now, let’s take a look at the markets and see how things are shaping up today."
+    "text": "Interesting. And NVIDIA, which closed at $210.69, saw a notable increase of about 3% with analysts calling it a strong buy, targeting a mean price of nearly $299."
   },
   {
     "speaker": "Adam",
-    "text": "Sure! Starting with the Vanguard S&P 500 ETF, it closed at $688.11, up nearly 1%. Analysts haven’t issued a specific rating, but it’s still considered a solid choice for many investors."
+    "text": "That’s a significant upside potential! On the other hand, Micron Technology is also making waves, closing at $1,133.99 with an 8.7% increase. They have a strong buy recommendation and a mean target of $945.60."
   },
   {
     "speaker": "Eve",
-    "text": "Moving on to NVIDIA, it’s up about 2.95%, currently at $210.69. Analysts are rating it as a strong buy with a mean price target of nearly $299. That’s quite a gap from its current price!"
+    "text": "Wow, that’s quite the jump! Meanwhile, Alphabet Inc., with a close of $368.03, is also labeled a strong buy, with a mean target of $432.83."
   },
   {
     "speaker": "Adam",
-    "text": "It really is! Then there's Micron Technology, which saw a significant jump of 8.7% and is sitting at $1,133.99. Analysts also view it as a strong buy, with a target mean of around $879."
+    "text": "Right, and Meta Platforms is looking strong as well, closing at $577.22, up 1.7%. Analysts are projecting a mean target of about $827."
   },
   {
     "speaker": "Eve",
-    "text": "That’s impressive growth! Alphabet is up 1.17%, sitting at $368.03, with a strong buy recommendation and a target mean of about $432."
+    "text": "It seems like tech stocks are really on the rise. ASML is up over 3% and holds a strong buy rating, with analysts expecting a target mean of $1,719."
   },
   {
     "speaker": "Adam",
-    "text": "And Meta Platforms is also performing well, up 1.7% at $577.22, with a strong buy rating and a target mean of approximately $827."
+    "text": "And Taiwan Semiconductor is not far behind, with a 6.94% increase at $462.12. They have a strong buy rating, with a target mean just above $473."
   },
   {
     "speaker": "Eve",
-    "text": "ASML Holding is up 3.31%, closing at $1,929.68, and also has a strong buy recommendation. The target mean is around $1,687."
+    "text": "Sounds like there’s a lot of confidence in the semiconductor market. Cameco Corporation is also worth mentioning, up slightly at $106.49 with a buy recommendation."
   },
   {
     "speaker": "Adam",
-    "text": "Taiwan Semiconductor Manufacturing is up nearly 6.94%, priced at $462.12, with a strong buy rating and a target mean of about $473."
+    "text": "Lastly, Palantir Technologies has dipped a bit, down 1.65% to $128.47, but still holds a buy recommendation with a target mean of $182.75."
   },
   {
     "speaker": "Eve",
-    "text": "Cameco Corporation is slowly climbing too, with a 0.78% increase at $106.49, rated as a buy with a target mean of around $133."
+    "text": "Quite the mixed bag in the markets! Now, let’s quickly touch on some new episodes in your podcast lineup."
   },
   {
     "speaker": "Adam",
-    "text": "Finally, Palantir Technologies is down 1.65%, now at $128.47, still rated as a buy with a target mean of about $183."
+    "text": "There's a new episode from “99% Invisible” titled \"100 Objects #5: Blue Back Speller.\" It explores why a seemingly ordinary schoolbook became so treasured that enslaved people risked their lives to possess it."
   },
   {
     "speaker": "Eve",
-    "text": "Quite a mix in the markets today! Now, moving on to some new episodes in your podcast feeds..."
+    "text": "That sounds captivating! It’s amazing how everyday objects can carry such profound histories."
   },
   {
     "speaker": "Adam",
-    "text": "Actually, it looks like there aren’t any new episodes to highlight today."
+    "text": "Indeed! Well, Moiz, that's a wrap for today's news."
   },
   {
     "speaker": "Eve",
-    "text": "Got it! Well, that wraps up our news for you this morning, Moiz."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Have a great day at work!"
-  },
-  {
-    "speaker": "Eve",
-    "text": "Take care!"
+    "text": "Drive safe, and have a great day at work!"
   }
 ]
