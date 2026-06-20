@@ -1,106 +1,178 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! You know, I was reading about this political shake-up in the UK. It seems like Prime Minister Keir Starmer is facing some serious pressure after Andy Burnham's by-election win."
+    "text": "Good morning, Moiz! Did you hear about Bolivia declaring a state of emergency to deal with those protest blockades?"
   },
   {
     "speaker": "Eve",
-    "text": "Oh, that's wild! It’s always interesting to see how political tides change so quickly. I wonder how this will impact Starmer's leadership moving forward."
+    "text": "Yeah, that's pretty intense! It seems like the protests are over some austerity measures from President Rodrigo Paz."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. Let’s dive into some world news. In the UK, the political scene is heating up. Starmer has been under scrutiny, especially after Burnham’s win, which could signify a shift in public sentiment."
+    "text": "Right? It's a significant step for the government to take. Let’s dive into the world news today."
   },
   {
     "speaker": "Eve",
-    "text": "And it’s not just the UK facing political challenges. Over in Iran, Deputy Foreign Minister Khatibzadeh recently stated that they are ready to move forward in negotiations with the US, provided certain conditions regarding Israel’s actions in Lebanon are met."
+    "text": "Starting with Bolivia, the situation has escalated quite a bit. For weeks now, protests have been growing, disrupting daily life. The government’s decision to declare a state of emergency aims to clear these blockades."
   },
   {
     "speaker": "Adam",
-    "text": "Right, and that’s quite a balancing act. Iran’s diplomacy hinges on external factors, which adds a layer of complexity to the talks."
+    "text": "It’s interesting how these austerity measures can lead to such unrest. This isn’t just a local issue; it affects the region's stability too."
   },
   {
     "speaker": "Eve",
-    "text": "Speaking of complexity, Norway is stepping up its stance on Israel by seeking to ban trade with illegal settlements in Palestine. This move indicates a hardening of policies regarding what they consider unlawful activities."
+    "text": "Exactly! Meanwhile, tensions continue in the Middle East. Iran is warning that overplaying the Strait of Hormuz card could isolate it further on the international stage."
   },
   {
     "speaker": "Adam",
-    "text": "It’s a bold step for Norway, for sure. Meanwhile, in the Democratic Republic of Congo, fears are growing as more than 70 medics have been infected with Ebola amidst an outbreak that is spreading quickly."
+    "text": "That’s wild! The Strait is such a critical maritime passage. It's always a flashpoint for conflict."
   },
   {
     "speaker": "Eve",
-    "text": "That’s alarming! Poor sanitation and aid cuts are exacerbating the situation, especially in displacement camps. We really hope they can contain it soon."
+    "text": "Speaking of conflict, Ukraine reports that a recent Russian attack in Zaporizhzhia has resulted in five deaths. President Zelenskyy is concerned about a potential massive attack looming."
   },
   {
     "speaker": "Adam",
-    "text": "Indeed. Switching gears, there was also a dramatic scene in Japan where a fire broke out in a school, forcing students onto narrow ledges for safety. Eyewitness accounts describe a chaotic rescue operation."
+    "text": "That’s tragic. The ongoing conflict there continues to take a toll on civilians."
   },
   {
     "speaker": "Eve",
-    "text": "That sounds terrifying! It’s amazing how quickly emergencies can escalate."
+    "text": "Switching gears to sports, the Netherlands just had a stunning 5-1 victory over Sweden in the World Cup. Gakpo and Brobbey really shone in that match."
   },
   {
     "speaker": "Adam",
-    "text": "In other news, Italy's top diplomat has canceled a US trip after Prime Minister Meloni accused Trump of fabricating a story about her. It’s fascinating to see these international relationships get tested."
+    "text": "They’re looking strong in their group! It’s exciting to see how the tournament is shaping up."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely. And in a more light-hearted vein, a UK MP is facing backlash for linking the England World Cup result to women's safety. It’s surprising how these comments can stir up public opinion."
+    "text": "Now, let’s talk about the UK. There’s speculation about Prime Minister Keir Starmer’s political future as party pressure mounts for him to step aside."
   },
   {
     "speaker": "Adam",
-    "text": "Definitely! Moving on to some market news, let’s talk about stocks. The Vanguard S&P 500 ETF, or VOO, is up nearly 1% at $688.11, but the news suggests that its low fee might be masking some costlier truths about taxes."
+    "text": "That’s a big deal! Political dynamics in the UK are always shifting."
   },
   {
     "speaker": "Eve",
-    "text": "Interesting. And NVIDIA, which closed at $210.69, saw a notable increase of about 3% with analysts calling it a strong buy, targeting a mean price of nearly $299."
+    "text": "And in Gaza, the situation remains dire with tragic reports of an Al Jazeera cameraman being killed during an Israeli attack."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a significant upside potential! On the other hand, Micron Technology is also making waves, closing at $1,133.99 with an 8.7% increase. They have a strong buy recommendation and a mean target of $945.60."
+    "text": "It's really heartbreaking to hear. Media workers are often caught in the crossfire of these conflicts."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, that’s quite the jump! Meanwhile, Alphabet Inc., with a close of $368.03, is also labeled a strong buy, with a mean target of $432.83."
+    "text": "And there are also talks set to kick off between the US and Iran in Switzerland this Sunday. The backdrop of Israeli attacks adds significant tension to those discussions."
   },
   {
     "speaker": "Adam",
-    "text": "Right, and Meta Platforms is looking strong as well, closing at $577.22, up 1.7%. Analysts are projecting a mean target of about $827."
+    "text": "Absolutely, that context is crucial. Now, let's shift to the markets and see how our favorite stocks are doing today."
   },
   {
     "speaker": "Eve",
-    "text": "It seems like tech stocks are really on the rise. ASML is up over 3% and holds a strong buy rating, with analysts expecting a target mean of $1,719."
+    "text": "Kicking things off with the Vanguard S&P 500 ETF, or VOO, it closed at $688.11 with a modest increase of 0.98%."
   },
   {
     "speaker": "Adam",
-    "text": "And Taiwan Semiconductor is not far behind, with a 6.94% increase at $462.12. They have a strong buy rating, with a target mean just above $473."
+    "text": "There’s been a lot of buzz around VOO recently, right?"
   },
   {
     "speaker": "Eve",
-    "text": "Sounds like there’s a lot of confidence in the semiconductor market. Cameco Corporation is also worth mentioning, up slightly at $106.49 with a buy recommendation."
+    "text": "Yes! It’s been in the spotlight due to its popularity and some analysts are noting it as a solid investment option."
   },
   {
     "speaker": "Adam",
-    "text": "Lastly, Palantir Technologies has dipped a bit, down 1.65% to $128.47, but still holds a buy recommendation with a target mean of $182.75."
+    "text": "Now, NVIDIA, symbol NVDA, is up 2.95%, closing at $210.69 and analysts are rating it as a strong buy."
   },
   {
     "speaker": "Eve",
-    "text": "Quite the mixed bag in the markets! Now, let’s quickly touch on some new episodes in your podcast lineup."
+    "text": "The average price target is significantly higher at nearly $299, which shows a lot of confidence in their future growth."
   },
   {
     "speaker": "Adam",
-    "text": "There's a new episode from “99% Invisible” titled \"100 Objects #5: Blue Back Speller.\" It explores why a seemingly ordinary schoolbook became so treasured that enslaved people risked their lives to possess it."
+    "text": "Right! Moving on to Micron Technology, MU is up a hefty 8.7% at $1,133.99 with a strong buy recommendation as well."
   },
   {
     "speaker": "Eve",
-    "text": "That sounds captivating! It’s amazing how everyday objects can carry such profound histories."
+    "text": "Their average target is around $946, which is quite a drop from the current price, but it reflects some volatility in the sector."
   },
   {
     "speaker": "Adam",
-    "text": "Indeed! Well, Moiz, that's a wrap for today's news."
+    "text": "Next up is Alphabet, GOOGL, which closed at $368.03, up 1.17%, with a strong buy rating from analysts."
   },
   {
     "speaker": "Eve",
-    "text": "Drive safe, and have a great day at work!"
+    "text": "Their target mean is about $432, suggesting they have room to grow."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Meta, or META, is also performing well, closing at $577.22, increasing 1.7% with a similar strong buy recommendation."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Their targets are significantly higher, with the mean price around $827, which is promising."
+  },
+  {
+    "speaker": "Adam",
+    "text": "ASML is next, closing at $1,929.68, up 3.31%. Analysts are also recommending it as a strong buy."
+  },
+  {
+    "speaker": "Eve",
+    "text": "With a mean target of about $1,718, it gives a good outlook despite some recent scrutiny over exports to China."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Taiwan Semiconductor, TSM, is seeing a solid performance as well, closing at $462.12 and up nearly 7%."
+  },
+  {
+    "speaker": "Eve",
+    "text": "They’re rated strong buy too, with a target mean of about $473."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Cameco Corporation, CCJ, is also on the rise, closing at $106.49, up 0.78%. Analysts recommend buying it with a target mean of $132."
+  },
+  {
+    "speaker": "Eve",
+    "text": "And finally, Palantir Technologies, PLTR, is down slightly at $128.47 with a recommendation to buy and a target mean of around $183."
+  },
+  {
+    "speaker": "Adam",
+    "text": "It's interesting to see how varied the market performances are today."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Definitely! Now, let’s check out the new episodes in your podcasts."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Our first mention is from \"People I (Mostly) Admire,\" where Daniel Kahneman discusses flawed judgment in human decision-making."
+  },
+  {
+    "speaker": "Eve",
+    "text": "It’s a fascinating episode, especially since Kahneman is such a prominent figure in psychology."
+  },
+  {
+    "speaker": "Adam",
+    "text": "The other episode is from \"Founders,\" focusing on Joseph Pulitzer."
+  },
+  {
+    "speaker": "Eve",
+    "text": "It dives into the impact of Pulitzer’s life on politics and journalism, which is essential listening for anyone interested in media history."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Sounds like some great content to check out!"
+  },
+  {
+    "speaker": "Eve",
+    "text": "And with that, we wrap up today’s news."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Have a safe drive to work, Moiz!"
+  },
+  {
+    "speaker": "Eve",
+    "text": "Take care!"
   }
 ]
