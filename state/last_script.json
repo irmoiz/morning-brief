@@ -1,178 +1,110 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you hear about Bolivia declaring a state of emergency to deal with those protest blockades?"
+    "text": "Good morning, Moiz! Did you hear about the Lebanese conservationist who was killed in an Israeli attack?"
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, that's pretty intense! It seems like the protests are over some austerity measures from President Rodrigo Paz."
+    "text": "Yeah, that's really tragic. Mona Khalil was well-loved for her work with turtles. It's heartbreaking to see such a dedicated life cut short."
   },
   {
     "speaker": "Adam",
-    "text": "Right? It's a significant step for the government to take. Let’s dive into the world news today."
+    "text": "It really is. And it’s not the only story coming out of the region. There’s also been a gathering in Beirut to honor her memory."
   },
   {
     "speaker": "Eve",
-    "text": "Starting with Bolivia, the situation has escalated quite a bit. For weeks now, protests have been growing, disrupting daily life. The government’s decision to declare a state of emergency aims to clear these blockades."
+    "text": "Right, and it’s been a tough time for many in Lebanon, especially with the recent violence. Speaking of which, displaced residents returned to Nabatieh after Israel ordered a halt to fighting there."
   },
   {
     "speaker": "Adam",
-    "text": "It’s interesting how these austerity measures can lead to such unrest. This isn’t just a local issue; it affects the region's stability too."
+    "text": "It’s a mixed bag of emotions—people returning home to devastated areas. And on a broader scale, while Lebanon faces these challenges, Colombia is holding elections, with Abelardo de la Espriella leading the polls."
   },
   {
     "speaker": "Eve",
-    "text": "Exactly! Meanwhile, tensions continue in the Middle East. Iran is warning that overplaying the Strait of Hormuz card could isolate it further on the international stage."
+    "text": "It's interesting how different parts of the world are dealing with their own political climates. And then we have Japan celebrating a huge 4-0 victory in the World Cup against Tunisia!"
   },
   {
     "speaker": "Adam",
-    "text": "That’s wild! The Strait is such a critical maritime passage. It's always a flashpoint for conflict."
+    "text": "Sports definitely provide a moment of joy amidst all this heavy news. In fact, you can feel the excitement, especially in Tokyo."
   },
   {
     "speaker": "Eve",
-    "text": "Speaking of conflict, Ukraine reports that a recent Russian attack in Zaporizhzhia has resulted in five deaths. President Zelenskyy is concerned about a potential massive attack looming."
+    "text": "Absolutely! And let's not forget about the heatwave scorching cities across Europe. It’s affecting wildlife as well."
   },
   {
     "speaker": "Adam",
-    "text": "That’s tragic. The ongoing conflict there continues to take a toll on civilians."
+    "text": "It’s becoming increasingly concerning how climate change impacts our environment. Speaking of significant figures, Ramiro Valdes, one of Cuba's last revolutionary figures, has passed away at 94."
   },
   {
     "speaker": "Eve",
-    "text": "Switching gears to sports, the Netherlands just had a stunning 5-1 victory over Sweden in the World Cup. Gakpo and Brobbey really shone in that match."
+    "text": "That’s quite a notable loss for Cuba’s history. Valdes played a crucial role alongside the Castro brothers."
   },
   {
     "speaker": "Adam",
-    "text": "They’re looking strong in their group! It’s exciting to see how the tournament is shaping up."
+    "text": "Definitely a pivotal figure in shaping the island’s modern history. Now, shifting gears a bit, let's talk about the markets today."
   },
   {
     "speaker": "Eve",
-    "text": "Now, let’s talk about the UK. There’s speculation about Prime Minister Keir Starmer’s political future as party pressure mounts for him to step aside."
+    "text": "Sure! Starting with the Vanguard S&P 500 ETF, ticker VOO. It closed at $688.11, up about 0.98%."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a big deal! Political dynamics in the UK are always shifting."
+    "text": "No new developments for VOO, but it’s always worth keeping an eye on given its popularity."
   },
   {
     "speaker": "Eve",
-    "text": "And in Gaza, the situation remains dire with tragic reports of an Al Jazeera cameraman being killed during an Israeli attack."
+    "text": "Moving on to NVIDIA, ticker NVDA, which closed at $210.69, up 2.95%. Analysts are still high on it, giving it a strong buy rating with a mean price target of around $298.93."
   },
   {
     "speaker": "Adam",
-    "text": "It's really heartbreaking to hear. Media workers are often caught in the crossfire of these conflicts."
+    "text": "That’s quite a significant upside! Now, Micron Technologies, ticker MU, saw an impressive gain of 8.7%, closing at $1133.99, and is also rated as a strong buy."
   },
   {
     "speaker": "Eve",
-    "text": "And there are also talks set to kick off between the US and Iran in Switzerland this Sunday. The backdrop of Israeli attacks adds significant tension to those discussions."
+    "text": "Their mean price target stands at $945.60, which is interesting considering the current price."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely, that context is crucial. Now, let's shift to the markets and see how our favorite stocks are doing today."
+    "text": "Next up is Alphabet, ticker GOOGL, which closed at $368.03, up 1.17%, also rated as a strong buy. The analysts suggest a mean target of $432.83."
   },
   {
     "speaker": "Eve",
-    "text": "Kicking things off with the Vanguard S&P 500 ETF, or VOO, it closed at $688.11 with a modest increase of 0.98%."
+    "text": "It’s fascinating to see how analysts are responding to their AI strategies. Now, onto Meta Platforms, ticker META, which closed at $577.22, up 1.7%."
   },
   {
     "speaker": "Adam",
-    "text": "There’s been a lot of buzz around VOO recently, right?"
+    "text": "They also carry a strong buy rating, with a mean target of $827.32. Seems like they're still riding high after some market volatility."
   },
   {
     "speaker": "Eve",
-    "text": "Yes! It’s been in the spotlight due to its popularity and some analysts are noting it as a solid investment option."
+    "text": "And let's not overlook ASML, which closed at $1929.68, up 3.31%, with a strong buy recommendation and a target mean of $1725.56."
   },
   {
     "speaker": "Adam",
-    "text": "Now, NVIDIA, symbol NVDA, is up 2.95%, closing at $210.69 and analysts are rating it as a strong buy."
+    "text": "ASML has been a key player in the semiconductor industry. Lastly, let's look at Taiwan Semiconductor, ticker TSM, closing at $462.12, up an impressive 6.94%."
   },
   {
     "speaker": "Eve",
-    "text": "The average price target is significantly higher at nearly $299, which shows a lot of confidence in their future growth."
+    "text": "They are also rated as a strong buy, with a mean target of $473.40, which reflects the ongoing demand for semiconductors."
   },
   {
     "speaker": "Adam",
-    "text": "Right! Moving on to Micron Technology, MU is up a hefty 8.7% at $1,133.99 with a strong buy recommendation as well."
+    "text": "Now we’ve covered a bit of everything today! And, Moiz, if you’re looking for something new to listen to in your podcasts, it seems we don’t have any new episodes listed today."
   },
   {
     "speaker": "Eve",
-    "text": "Their average target is around $946, which is quite a drop from the current price, but it reflects some volatility in the sector."
+    "text": "Sometimes it’s good to catch up on existing favorites!"
   },
   {
     "speaker": "Adam",
-    "text": "Next up is Alphabet, GOOGL, which closed at $368.03, up 1.17%, with a strong buy rating from analysts."
+    "text": "Absolutely. Well, that wraps up our news for today, Moiz."
   },
   {
     "speaker": "Eve",
-    "text": "Their target mean is about $432, suggesting they have room to grow."
+    "text": "Drive safe out there!"
   },
   {
     "speaker": "Adam",
-    "text": "Meta, or META, is also performing well, closing at $577.22, increasing 1.7% with a similar strong buy recommendation."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Their targets are significantly higher, with the mean price around $827, which is promising."
-  },
-  {
-    "speaker": "Adam",
-    "text": "ASML is next, closing at $1,929.68, up 3.31%. Analysts are also recommending it as a strong buy."
-  },
-  {
-    "speaker": "Eve",
-    "text": "With a mean target of about $1,718, it gives a good outlook despite some recent scrutiny over exports to China."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Taiwan Semiconductor, TSM, is seeing a solid performance as well, closing at $462.12 and up nearly 7%."
-  },
-  {
-    "speaker": "Eve",
-    "text": "They’re rated strong buy too, with a target mean of about $473."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Cameco Corporation, CCJ, is also on the rise, closing at $106.49, up 0.78%. Analysts recommend buying it with a target mean of $132."
-  },
-  {
-    "speaker": "Eve",
-    "text": "And finally, Palantir Technologies, PLTR, is down slightly at $128.47 with a recommendation to buy and a target mean of around $183."
-  },
-  {
-    "speaker": "Adam",
-    "text": "It's interesting to see how varied the market performances are today."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Definitely! Now, let’s check out the new episodes in your podcasts."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Our first mention is from \"People I (Mostly) Admire,\" where Daniel Kahneman discusses flawed judgment in human decision-making."
-  },
-  {
-    "speaker": "Eve",
-    "text": "It’s a fascinating episode, especially since Kahneman is such a prominent figure in psychology."
-  },
-  {
-    "speaker": "Adam",
-    "text": "The other episode is from \"Founders,\" focusing on Joseph Pulitzer."
-  },
-  {
-    "speaker": "Eve",
-    "text": "It dives into the impact of Pulitzer’s life on politics and journalism, which is essential listening for anyone interested in media history."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Sounds like some great content to check out!"
-  },
-  {
-    "speaker": "Eve",
-    "text": "And with that, we wrap up today’s news."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Have a safe drive to work, Moiz!"
-  },
-  {
-    "speaker": "Eve",
     "text": "Take care!"
   }
 ]
