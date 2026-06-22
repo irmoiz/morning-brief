@@ -1,110 +1,154 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you hear about the Lebanese conservationist who was killed in an Israeli attack?"
+    "text": "Good morning, Moiz! Did you catch that Hungary's Prime Minister is launching a drive to free the country from Orbán's so-called \"mafia\"?"
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, that's really tragic. Mona Khalil was well-loved for her work with turtles. It's heartbreaking to see such a dedicated life cut short."
+    "text": "That's pretty wild! It sounds like he's proposing some major changes, including a new constitution and an anti-corruption office."
   },
   {
     "speaker": "Adam",
-    "text": "It really is. And it’s not the only story coming out of the region. There’s also been a gathering in Beirut to honor her memory."
+    "text": "Right? It’s quite a bold move, especially considering the political climate there. And speaking of political upheaval, there’s a similar situation in the Czech Republic where public media staff are striking over government threats to their independence."
   },
   {
     "speaker": "Eve",
-    "text": "Right, and it’s been a tough time for many in Lebanon, especially with the recent violence. Speaking of which, displaced residents returned to Nabatieh after Israel ordered a halt to fighting there."
+    "text": "Yeah, they’re concerned about funding being placed under direct government control. That could lead to significant political interference in their reporting."
   },
   {
     "speaker": "Adam",
-    "text": "It’s a mixed bag of emotions—people returning home to devastated areas. And on a broader scale, while Lebanon faces these challenges, Colombia is holding elections, with Abelardo de la Espriella leading the polls."
+    "text": "Exactly. It’s a classic case of trying to control the narrative. Meanwhile, in the U.S., a judge has blocked a Trump administration subpoena against Minnesota officials."
   },
   {
     "speaker": "Eve",
-    "text": "It's interesting how different parts of the world are dealing with their own political climates. And then we have Japan celebrating a huge 4-0 victory in the World Cup against Tunisia!"
+    "text": "That’s a setback for those investigations targeting state Democratic officials who criticized immigration raids. It's interesting to see how these legal battles unfold."
   },
   {
     "speaker": "Adam",
-    "text": "Sports definitely provide a moment of joy amidst all this heavy news. In fact, you can feel the excitement, especially in Tokyo."
+    "text": "And in the UK, there’s been a lot of buzz about Keir Starmer resigning as Prime Minister after just two years."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely! And let's not forget about the heatwave scorching cities across Europe. It’s affecting wildlife as well."
+    "text": "Yeah, the reactions from Londoners have been mixed, as you might expect. It seems like the leadership game in the UK is quite volatile right now."
   },
   {
     "speaker": "Adam",
-    "text": "It’s becoming increasingly concerning how climate change impacts our environment. Speaking of significant figures, Ramiro Valdes, one of Cuba's last revolutionary figures, has passed away at 94."
+    "text": "It really is. And in India, there’s been a tragic fire at an animation studio in Lucknow, claiming at least 14 lives, mostly students."
   },
   {
     "speaker": "Eve",
-    "text": "That’s quite a notable loss for Cuba’s history. Valdes played a crucial role alongside the Castro brothers."
+    "text": "Oh no, that’s heartbreaking. It’s so tragic when young lives are lost in such accidents."
   },
   {
     "speaker": "Adam",
-    "text": "Definitely a pivotal figure in shaping the island’s modern history. Now, shifting gears a bit, let's talk about the markets today."
+    "text": "And on a different note, the humanitarian situation in Palestine is getting worse, with NGOs being forced out of Gaza and the West Bank."
   },
   {
     "speaker": "Eve",
-    "text": "Sure! Starting with the Vanguard S&P 500 ETF, ticker VOO. It closed at $688.11, up about 0.98%."
+    "text": "That’s alarming. Without these organizations, many vulnerable populations, especially children, are left unprotected."
   },
   {
     "speaker": "Adam",
-    "text": "No new developments for VOO, but it’s always worth keeping an eye on given its popularity."
+    "text": "And speaking of unprotected, Lionel Messi scored a brace as Argentina beat Austria 2-0 at the World Cup, making him the all-time leading scorer in men’s World Cup history!"
   },
   {
     "speaker": "Eve",
-    "text": "Moving on to NVIDIA, ticker NVDA, which closed at $210.69, up 2.95%. Analysts are still high on it, giving it a strong buy rating with a mean price target of around $298.93."
+    "text": "Wow! That's an incredible achievement for him. It’s always exciting to see records being broken on such a big stage."
   },
   {
     "speaker": "Adam",
-    "text": "That’s quite a significant upside! Now, Micron Technologies, ticker MU, saw an impressive gain of 8.7%, closing at $1133.99, and is also rated as a strong buy."
+    "text": "Definitely. And in a more somber note from Canada, there was a shooting in Montreal that left three dead, including a police officer."
   },
   {
     "speaker": "Eve",
-    "text": "Their mean price target stands at $945.60, which is interesting considering the current price."
+    "text": "That’s tragic. It’s tough to see incidents like this happening so frequently."
   },
   {
     "speaker": "Adam",
-    "text": "Next up is Alphabet, ticker GOOGL, which closed at $368.03, up 1.17%, also rated as a strong buy. The analysts suggest a mean target of $432.83."
+    "text": "Alright, let’s pivot to the markets. The Vanguard S&P 500 ETF, VOO, closed down slightly by 0.29%."
   },
   {
     "speaker": "Eve",
-    "text": "It’s fascinating to see how analysts are responding to their AI strategies. Now, onto Meta Platforms, ticker META, which closed at $577.22, up 1.7%."
+    "text": "That’s a small dip, but nothing too concerning. Any news impacting that movement?"
   },
   {
     "speaker": "Adam",
-    "text": "They also carry a strong buy rating, with a mean target of $827.32. Seems like they're still riding high after some market volatility."
+    "text": "Not really, just general market fluctuations. Analysts don’t have a strong recommendation on it right now."
   },
   {
     "speaker": "Eve",
-    "text": "And let's not overlook ASML, which closed at $1929.68, up 3.31%, with a strong buy recommendation and a target mean of $1725.56."
+    "text": "Moving on to NVIDIA, it saw a decrease of about 0.97%. What’s the sentiment around that stock?"
   },
   {
     "speaker": "Adam",
-    "text": "ASML has been a key player in the semiconductor industry. Lastly, let's look at Taiwan Semiconductor, ticker TSM, closing at $462.12, up an impressive 6.94%."
+    "text": "They have a “strong buy” rating with a mean price target of nearly $299, which is pretty optimistic compared to its current price."
   },
   {
     "speaker": "Eve",
-    "text": "They are also rated as a strong buy, with a mean target of $473.40, which reflects the ongoing demand for semiconductors."
+    "text": "That’s intriguing, especially in light of recent market trends with tech stocks. What about Micron Technology?"
   },
   {
     "speaker": "Adam",
-    "text": "Now we’ve covered a bit of everything today! And, Moiz, if you’re looking for something new to listen to in your podcasts, it seems we don’t have any new episodes listed today."
+    "text": "Micron actually had a significant jump of 6.82% and also holds a “strong buy” recommendation with a mean target of about $946."
   },
   {
     "speaker": "Eve",
-    "text": "Sometimes it’s good to catch up on existing favorites!"
+    "text": "Wow, that’s a notable rise! Any specific reasons for that?"
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. Well, that wraps up our news for today, Moiz."
+    "text": "Just optimism around memory prices and upcoming earnings. Now, Alphabet, or GOOGL, had a rough day, closing down nearly 5%."
   },
   {
     "speaker": "Eve",
-    "text": "Drive safe out there!"
+    "text": "That’s quite a hit. They maintain a “strong buy” rating, but the market seems a bit jittery right now."
   },
   {
     "speaker": "Adam",
-    "text": "Take care!"
+    "text": "For sure. Meta also took a hit at 2.32% down, yet they have a strong buy recommendation too."
+  },
+  {
+    "speaker": "Eve",
+    "text": "It’s interesting how even strong companies are feeling the market pressure. What about ASML?"
+  },
+  {
+    "speaker": "Adam",
+    "text": "ASML was nearly flat, with a slight dip of 0.02%, but still has a “strong buy” rating."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Sounds like a solid hold. And Taiwan Semiconductor, TSM, is up 1.2% with a strong buy as well, right?"
+  },
+  {
+    "speaker": "Adam",
+    "text": "Correct! Their mean price target is around $473, which is exciting given the high expectations."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Cameco Corporation also moved up a bit, 0.54%, with a “buy” recommendation."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Yes, and they’re being looked at closely as nuclear demand increases. Lastly, Palantir dropped nearly 7%, but still has a buy rating."
+  },
+  {
+    "speaker": "Eve",
+    "text": "That’s a significant drop! It’ll be interesting to see how they recover from that."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Absolutely. So, no new podcast episodes to highlight today."
+  },
+  {
+    "speaker": "Eve",
+    "text": "No worries! There’s always something new on the horizon."
+  },
+  {
+    "speaker": "Adam",
+    "text": "And that wraps up our news for today, Moiz."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Drive safe, and we’ll catch you next time!"
   }
 ]
