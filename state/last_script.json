@@ -1,110 +1,170 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you see that Alibaba is suing the US military over being labeled a ‘Chinese military company’?"
+    "text": "Good morning, Moiz! Did you see that news about Iran's assistant coach being held up at an airport by US officials?"
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, that’s pretty wild! Alibaba claims those accusations have “no basis in fact or law.” It's a bold move, for sure."
+    "text": "Yeah, that's wild! The Iranian team was delayed by 25 minutes. I wonder what the story is behind that."
   },
   {
     "speaker": "Adam",
-    "text": "It really is. Let’s dive into some world news. Starting with Iran, President Trump is pushing back against their foreign ministry's claim that they won’t allow IAEA nuclear inspectors."
+    "text": "It’s interesting, especially with the backdrop of ongoing tensions. Speaking of tensions, let’s dive into the world news today."
   },
   {
     "speaker": "Eve",
-    "text": "Right! He disputes that categorization, which adds another layer to the already tense relationship. This follows a resolution passed by the US Senate aimed at restricting Trump’s war powers regarding Iran."
+    "text": "Absolutely! First up, the situation with Palestinian activist Abdullah Shatat. He collapsed right after being released from an Israeli prison."
   },
   {
     "speaker": "Adam",
-    "text": "And don’t forget about the ongoing developments in India. With monsoon rains currently 43% below average, the country is preparing contingency plans for potential crop impacts."
+    "text": "That's quite alarming. It raises questions about the conditions and treatment in those facilities."
   },
   {
     "speaker": "Eve",
-    "text": "That could really shake things up economically if their agricultural output is affected. Speaking of geopolitical maneuvering, Rubio is starting his Gulf visit in the UAE to advance a US-Iran peace deal."
+    "text": "It really does. Moving on, we have a lawsuit against Tesla. A family is suing for wrongful death claiming that Autopilot shortcomings led to a fatal crash in Texas."
   },
   {
     "speaker": "Adam",
-    "text": "It’s interesting seeing these diplomatic efforts unfold, especially with Iran's president also arriving in Pakistan for peace talks."
+    "text": "They’re seeking a million in damages. This could be significant for Tesla if it exposes more issues with their technology."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely. And in Peru, the left-wing candidate Sanchez is refusing to recognize the election results if the changes at consular offices aren't addressed. Another example of political tensions brewing."
+    "text": "Definitely. And in Zimbabwe, the Senate approved a constitutional amendment extending President Mnangagwa's term until 2030."
   },
   {
     "speaker": "Adam",
-    "text": "It seems like we have a lot of shifting dynamics happening globally right now. Moving on to some sports news, Cristiano Ronaldo made headlines by scoring twice in Portugal’s 5-0 thrashing of Uzbekistan at the World Cup."
+    "text": "Wow, that’s a long extension! It seems like a move to consolidate power."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, he’s really setting records! That makes him the first player to score in six World Cups."
+    "text": "For sure. Meanwhile, the US public health agency has announced the end of its hantavirus monitoring, as the outbreak appears to be easing."
   },
   {
     "speaker": "Adam",
-    "text": "Incredible! Meanwhile, on a different note, displaced Lebanese are returning south as a US-Iran backed ceasefire has paused the bombardment in that region."
+    "text": "That's a relief to hear, especially after all the health crises we've faced recently."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a small silver lining amidst the chaos. Switching gears to some economic news, the US Supreme Court has okayed ExxonMobil’s lawsuit regarding property seized during the Castro era in Cuba."
+    "text": "In Europe, top leaders are vowing strong support for Ukraine ahead of the upcoming NATO summit."
   },
   {
     "speaker": "Adam",
-    "text": "That could open the door for more companies to seek compensation. Now, let’s check in on the markets."
+    "text": "That’s crucial as the situation continues to unfold."
   },
   {
     "speaker": "Eve",
-    "text": "Sure! The Vanguard S&P 500 ETF, which is VOO, closed at $676.34, down 1.42%. There’s been some talk about its diversification issues in recent articles."
+    "text": "Right, and a US judge has blocked subpoenas from the Trump administration regarding transgender healthcare at New York hospitals."
   },
   {
     "speaker": "Adam",
-    "text": "Right, and NVIDIA, symbol NVDA, is down 4.13% to $200.04. Analysts still rate it a strong buy, with a mean target of about $299."
+    "text": "It’s a contentious issue, and the legal battles don’t seem to be slowing down."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a significant gap! Moving on to Micron Technology, symbol MU, it dropped 13.18% to $1,051.77, but it has a strong buy recommendation too, with a target mean of around $1,022."
+    "text": "There’s also been drone strikes in Horlivka, Russia, with at least three reported deaths from what authorities claim was a Ukrainian attack."
   },
   {
     "speaker": "Adam",
-    "text": "Sounds like the tech sector is having a rough time, especially with market concerns surrounding AI. Alphabet, or GOOGL, is also down 1.02% to $346.13, with a target mean of $432.83."
+    "text": "It’s tragic to hear about civilian casualties in the ongoing conflict."
   },
   {
     "speaker": "Eve",
-    "text": "And Meta Platforms, symbol META, is slightly down as well, 0.29% to $562.20, but with a strong buy recommendation and a target mean of $827.32."
+    "text": "And in diplomatic news, US Secretary of State Marco Rubio emphasized that the US is \"completely aligned\" with Gulf allies on Iran."
   },
   {
     "speaker": "Adam",
-    "text": "It seems the tech stocks are really experiencing turbulence lately. ASML, symbol ASML, closed at $1,778.46, down 7.82%, with a target mean slightly below its current price."
+    "text": "That alignment is important as they navigate these complex relationships."
   },
   {
     "speaker": "Eve",
-    "text": "Taiwan Semiconductor, TSM, is down 6.69% to $436.39, also a strong buy. Analysts see a target mean of $473.40."
+    "text": "Lastly, De la Espriella, Colombia's president-elect, has promised to restore relations with Israel after tensions under the previous administration."
   },
   {
     "speaker": "Adam",
-    "text": "Cameco Corporation, symbol CCJ, is one of the few that saw a rise, up 1.7% to $108.89, with a buy recommendation and a target mean of $131.84."
+    "text": "That’s notable, especially considering how relations can shift with new leadership."
   },
   {
     "speaker": "Eve",
-    "text": "And lastly, Palantir Technologies, symbol PLTR, fell 2.34% to $116.70 but still has a buy recommendation with a target mean of $182.75."
+    "text": "Absolutely, now shifting gears to the markets."
   },
   {
     "speaker": "Adam",
-    "text": "A bit of a mixed bag in the markets today. Now, moving on to new episodes in your podcasts—there’s a fresh one from \"99% Invisible\" titled \"The Most Exciting Change America Has Ever Seen.\""
+    "text": "Let’s start with the Vanguard S&P 500 ETF, which is down slightly, by 0.1%. No major changes to report, but it’s interesting to note its steady performance overall."
   },
   {
     "speaker": "Eve",
-    "text": "It dives into the fascinating story of how billions of state quarters disappeared from circulation, all as part of a planned strategy."
+    "text": "Right, and NVIDIA Corporation has seen a slight decline of 0.52%, but analysts are still giving it a \"strong buy\" rating with a target mean price of about $298."
   },
   {
     "speaker": "Adam",
-    "text": "Sounds intriguing! Looks like it could be worth a listen."
+    "text": "That's quite a gap from its current price. Analysts clearly see potential there."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely! Well, that wraps up today’s news, Moiz."
+    "text": "Micron Technology is also down 0.31%, holding a \"strong buy\" recommendation with a target mean of around $1,048."
   },
   {
     "speaker": "Adam",
-    "text": "Stay safe out there, and have a great day!"
+    "text": "Their recent earnings reports have been a hot topic, haven’t they?"
+  },
+  {
+    "speaker": "Eve",
+    "text": "Yes, they have! Alphabet Inc. is down 0.24% but still holds a \"strong buy\" rating with a target mean of about $432."
+  },
+  {
+    "speaker": "Adam",
+    "text": "It’s fascinating how tech stocks are fluctuating yet still have strong backing from analysts."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Absolutely! Meta Platforms has dipped by 0.81%, also with a \"strong buy\" rating and a target mean of $827."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Sounds like there’s some solid confidence in Meta despite the ups and downs."
+  },
+  {
+    "speaker": "Eve",
+    "text": "And ASML Holding is down 0.88%, maintaining a \"strong buy\" with a target mean around $1,741."
+  },
+  {
+    "speaker": "Adam",
+    "text": "They’ve been in the spotlight for a while, especially with the semiconductor industry’s growth."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Yes, and Taiwan Semiconductor is actually up by 1.02%, still a \"strong buy\" with a projected mean price of $473."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Nice to see some positive movement there."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Cameco Corporation is down 2.07% but still has a \"buy\" rating with a target mean of about $131."
+  },
+  {
+    "speaker": "Adam",
+    "text": "And finally, Palantir is down 2.74% but analysts predict it could double in value within the next year."
+  },
+  {
+    "speaker": "Eve",
+    "text": "That’s a bold prediction!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "For sure! Now, let’s take a quick look at new episodes in podcasts, but it seems there’s nothing fresh today."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Yeah, nothing new on the list!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "Well, that wraps up our morning news."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Have a great day, Moiz! Drive safe!"
   }
 ]
