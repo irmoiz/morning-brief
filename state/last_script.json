@@ -1,170 +1,186 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you see that news about Iran's assistant coach being held up at an airport by US officials?"
+    "text": "Good morning, Moiz! Did you see that Israeli Prime Minister Netanyahu is vowing to keep forces in Lebanon, Syria, and Gaza?"
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, that's wild! The Iranian team was delayed by 25 minutes. I wonder what the story is behind that."
+    "text": "Yeah, that’s pretty intense. It sounds like things are going to stay tense in that region for a while."
   },
   {
     "speaker": "Adam",
-    "text": "It’s interesting, especially with the backdrop of ongoing tensions. Speaking of tensions, let’s dive into the world news today."
+    "text": "Definitely. Let’s dive into today’s world news."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely! First up, the situation with Palestinian activist Abdullah Shatat. He collapsed right after being released from an Israeli prison."
+    "text": "Israeli Prime Minister Benjamin Netanyahu stated that Israeli forces will maintain a presence in southern Lebanon, Syria, and Gaza “as long as required.” This statement comes amid ongoing tensions and conflicts in the area."
   },
   {
     "speaker": "Adam",
-    "text": "That's quite alarming. It raises questions about the conditions and treatment in those facilities."
+    "text": "Right, and it highlights Israel's continued military engagement in the region. Meanwhile, in Iran, state-backed Ashura ceremonies are intertwining faith with support for the regime, showcasing leaders killed by the US and Israel as martyrs, much like Imam Hussein."
   },
   {
     "speaker": "Eve",
-    "text": "It really does. Moving on, we have a lawsuit against Tesla. A family is suing for wrongful death claiming that Autopilot shortcomings led to a fatal crash in Texas."
+    "text": "That’s an interesting angle. The Ashura events seem to be a way for the government to rally support by invoking historical figures and narratives."
   },
   {
     "speaker": "Adam",
-    "text": "They’re seeking a million in damages. This could be significant for Tesla if it exposes more issues with their technology."
+    "text": "Exactly. Shifting to Kenya, Kibiwott Kandie has received a seven-year ban from athletics due to doping violations. Initially, he faced an eight-year ban, but it was reduced by a year."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely. And in Zimbabwe, the Senate approved a constitutional amendment extending President Mnangagwa's term until 2030."
+    "text": "Seven years still feels pretty serious. Doping scandals can really overshadow athletic achievements, can't they?"
   },
   {
     "speaker": "Adam",
-    "text": "Wow, that’s a long extension! It seems like a move to consolidate power."
+    "text": "Absolutely, Eve. Speaking of serious matters, Marco Rubio's recent tour of the Gulf has raised questions about whether it reassured US allies regarding the Iran deal."
   },
   {
     "speaker": "Eve",
-    "text": "For sure. Meanwhile, the US public health agency has announced the end of its hantavirus monitoring, as the outbreak appears to be easing."
+    "text": "It seems like a critical time for US foreign relations in the Gulf. The implications of that deal are huge for their security."
   },
   {
     "speaker": "Adam",
-    "text": "That's a relief to hear, especially after all the health crises we've faced recently."
+    "text": "Moving to a more tragic note, Caracas is grappling with the aftermath of twin earthquakes that killed 188 people. Residents are sharing harrowing experiences of the moment the earthquakes struck."
   },
   {
     "speaker": "Eve",
-    "text": "In Europe, top leaders are vowing strong support for Ukraine ahead of the upcoming NATO summit."
+    "text": "That’s truly terrifying. Natural disasters can leave such a devastating mark on communities."
   },
   {
     "speaker": "Adam",
-    "text": "That’s crucial as the situation continues to unfold."
+    "text": "In Kenya, police have arrested over 350 people as demonstrators marked the second anniversary of a protest that resulted in 60 deaths. The tensions from that event still linger."
   },
   {
     "speaker": "Eve",
-    "text": "Right, and a US judge has blocked subpoenas from the Trump administration regarding transgender healthcare at New York hospitals."
+    "text": "Wow, the impact of those protests is still being felt. It’s concerning how these events can lead to ongoing conflict."
   },
   {
     "speaker": "Adam",
-    "text": "It’s a contentious issue, and the legal battles don’t seem to be slowing down."
+    "text": "In other protests, Bedouins are demonstrating against Israel’s home demolition policy in the Negev desert."
   },
   {
     "speaker": "Eve",
-    "text": "There’s also been drone strikes in Horlivka, Russia, with at least three reported deaths from what authorities claim was a Ukrainian attack."
+    "text": "That’s been a longstanding issue, hasn’t it? The struggle over land and homes is really a core issue in that conflict."
   },
   {
     "speaker": "Adam",
-    "text": "It’s tragic to hear about civilian casualties in the ongoing conflict."
+    "text": "And we can’t overlook the geopolitical importance of the Strait of Hormuz. Andreas Krieg has commented that for Iran, control over the strait is as much about the spoils of war as it is about security."
   },
   {
     "speaker": "Eve",
-    "text": "And in diplomatic news, US Secretary of State Marco Rubio emphasized that the US is \"completely aligned\" with Gulf allies on Iran."
+    "text": "That area is such a vital shipping route. It’s fascinating to see how military strategy intertwines with economic interests."
   },
   {
     "speaker": "Adam",
-    "text": "That alignment is important as they navigate these complex relationships."
+    "text": "Huh, and let’s not forget the aftermath of the earthquakes in Venezuela. Survivors are describing chilling experiences, and the government has loosened social media restrictions to help people search for missing loved ones."
   },
   {
     "speaker": "Eve",
-    "text": "Lastly, De la Espriella, Colombia's president-elect, has promised to restore relations with Israel after tensions under the previous administration."
+    "text": "It’s good to hear that they are allowing more open communication during such a crisis."
   },
   {
     "speaker": "Adam",
-    "text": "That’s notable, especially considering how relations can shift with new leadership."
+    "text": "Shifting gears to sports, Russia is set to return to FIFA competition at the inaugural U-15 World Cup this October."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely, now shifting gears to the markets."
+    "text": "That’s quite surprising, given the controversies surrounding Russia’s participation in international events."
   },
   {
     "speaker": "Adam",
-    "text": "Let’s start with the Vanguard S&P 500 ETF, which is down slightly, by 0.1%. No major changes to report, but it’s interesting to note its steady performance overall."
+    "text": "And in legal news, the US Supreme Court has scaled back Roundup cancer lawsuits in a significant victory for the company. Over 100,000 plaintiffs had filed cases alleging a link between the weedkiller and cancer."
   },
   {
     "speaker": "Eve",
-    "text": "Right, and NVIDIA Corporation has seen a slight decline of 0.52%, but analysts are still giving it a \"strong buy\" rating with a target mean price of about $298."
+    "text": "That’s a major development, especially for those who have been seeking justice in those cases."
   },
   {
     "speaker": "Adam",
-    "text": "That's quite a gap from its current price. Analysts clearly see potential there."
+    "text": "Lastly, a Ukrainian attack on Crimea reportedly killed five people, as tensions escalate further with Moscow expelling Romania’s consul general in a tit-for-tat move."
   },
   {
     "speaker": "Eve",
-    "text": "Micron Technology is also down 0.31%, holding a \"strong buy\" recommendation with a target mean of around $1,048."
+    "text": "The situation there continues to be volatile. It’s hard to see an end in sight, isn’t it?"
   },
   {
     "speaker": "Adam",
-    "text": "Their recent earnings reports have been a hot topic, haven’t they?"
+    "text": "It really is. Now, let’s check in on the markets."
   },
   {
     "speaker": "Eve",
-    "text": "Yes, they have! Alphabet Inc. is down 0.24% but still holds a \"strong buy\" rating with a target mean of about $432."
+    "text": "Sure! The Vanguard S&P 500 ETF, or VOO, closed at $675.71, remaining steady with no change."
   },
   {
     "speaker": "Adam",
-    "text": "It’s fascinating how tech stocks are fluctuating yet still have strong backing from analysts."
+    "text": "There’s also some buzz around VOO in articles discussing its potential investment in SpaceX and its performance compared to rivals."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely! Meta Platforms has dipped by 0.81%, also with a \"strong buy\" rating and a target mean of $827."
+    "text": "That’s interesting! Then we have NVIDIA Corporation, which closed at $195.74, down about 1.64%. It has a “strong buy” recommendation with a target mean price of nearly $299."
   },
   {
     "speaker": "Adam",
-    "text": "Sounds like there’s some solid confidence in Meta despite the ups and downs."
+    "text": "Analysts seem optimistic, especially with recent discussions around AI and semiconductor demand."
   },
   {
     "speaker": "Eve",
-    "text": "And ASML Holding is down 0.88%, maintaining a \"strong buy\" with a target mean around $1,741."
+    "text": "Exactly. Now, Micron Technology closed at $1213.56, jumping 15.74%, also under a “strong buy” rating, with a target mean of $1,365."
   },
   {
     "speaker": "Adam",
-    "text": "They’ve been in the spotlight for a while, especially with the semiconductor industry’s growth."
+    "text": "It seems like Micron is benefiting from a surge in demand related to AI."
   },
   {
     "speaker": "Eve",
-    "text": "Yes, and Taiwan Semiconductor is actually up by 1.02%, still a \"strong buy\" with a projected mean price of $473."
+    "text": "Yes, and Alphabet Inc. shares closed at $343.71, down slightly by 0.46%. It's also rated as a “strong buy” with a target mean price of around $433."
   },
   {
     "speaker": "Adam",
-    "text": "Nice to see some positive movement there."
+    "text": "Meta Platforms, on the other hand, closed at $542.87, down 2.65%, and has a target mean price of $827."
   },
   {
     "speaker": "Eve",
-    "text": "Cameco Corporation is down 2.07% but still has a \"buy\" rating with a target mean of about $131."
+    "text": "Analysts are still optimistic about Meta, especially its potential in the AI space."
   },
   {
     "speaker": "Adam",
-    "text": "And finally, Palantir is down 2.74% but analysts predict it could double in value within the next year."
+    "text": "Turning to ASML, it closed at $1,841.18, up by 4.45%, and holds a “strong buy” rating with a target mean of $1,744."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a bold prediction!"
+    "text": "That’s solid momentum for ASML, especially considering the ongoing demand for tech components."
   },
   {
     "speaker": "Adam",
-    "text": "For sure! Now, let’s take a quick look at new episodes in podcasts, but it seems there’s nothing fresh today."
+    "text": "Taiwan Semiconductor Manufacturing closed at $434.99, down 1.32%, but still maintains a “strong buy” recommendation with a target mean of nearly $479."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, nothing new on the list!"
+    "text": "And Cameco Corporation’s stock closed at $103.58, down 2.87%, while still being rated as a “buy.”"
   },
   {
     "speaker": "Adam",
-    "text": "Well, that wraps up our morning news."
+    "text": "Finally, Palantir Technologies closed at $107.27, down 5.49%, holding a “buy” rating with a target mean of $182."
   },
   {
     "speaker": "Eve",
-    "text": "Have a great day, Moiz! Drive safe!"
+    "text": "Quite a mix in the market today!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "That wraps up our market report."
+  },
+  {
+    "speaker": "Eve",
+    "text": "And that brings us to the end of today’s news, Moiz."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Thanks for tuning in!"
+  },
+  {
+    "speaker": "Eve",
+    "text": "Safe travels!"
   }
 ]
