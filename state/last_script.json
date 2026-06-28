@@ -1,222 +1,114 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you see that Donald Trump has nominated Lance Schroyer to be the ICE director?"
+    "text": "Good morning, Moiz! Did you see the news about the protests in Serbia? Thousands are gathering, and they’re skeptical about President Vucic’s promise to resign."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, that's a big move! It's been a long time coming since the agency has been without a Senate-confirmed director since 2017."
+    "text": "Yeah, it’s wild! After 12 years in power, people are doubting whether a resignation will really change anything. It’s definitely a moment to watch."
   },
   {
     "speaker": "Adam",
-    "text": "Right? It’s interesting because this could really shake things up in immigration policy."
+    "text": "Let’s dive into that and more. In world news, the situation in Serbia has escalated as demonstrators continue to voice their distrust. Despite Vucic’s pledge, many feel it's just a political maneuver rather than a genuine shift in leadership."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely! Speaking of shake-ups, let's dive into some world news."
+    "text": "Right, and the protests highlight a deeper discontent with the political climate in Serbia. People are calling for substantial change, not just a change of face in power."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. So, starting off in Colombia, they're facing off against Portugal in the FIFA World Cup today."
+    "text": "Meanwhile, in Venezuela, Pope Leo has expressed solidarity following two devastating earthquakes that have claimed at least 1,400 lives. The country is grappling with immense loss and a dire need for recovery."
   },
   {
     "speaker": "Eve",
-    "text": "That's going to be an exciting match! These two teams are the top contenders in Group K, and fans are buzzing."
+    "text": "That’s heartbreaking. And alongside this, the hope of finding more survivors is fading despite some late rescues. Tens of thousands are still unaccounted for, which is incredibly concerning."
   },
   {
     "speaker": "Adam",
-    "text": "And while sports are heating up, over in Serbia, President Aleksandar Vucic announced he will resign within weeks due to mounting pressure from ongoing protests."
+    "text": "In Gaza, Israeli forces have killed four Palestinians amid ongoing tensions. The situation continues to escalate, with restrictions on worshippers and reports of violence."
   },
   {
     "speaker": "Eve",
-    "text": "Huh, that’s wild. It sounds like the political climate there is really intense right now."
+    "text": "It’s a tragic cycle that seems to be perpetuating itself. The humanitarian conditions are worsening for those affected, particularly in areas like Al-Aqsa Mosque."
   },
   {
     "speaker": "Adam",
-    "text": "It is. And in Venezuela, another powerful earthquake struck, this time a 4.8 magnitude, as rescuers are still searching for survivors from earlier, stronger quakes."
+    "text": "Speaking of worsening conditions, displaced families in Gaza are facing appalling living situations, with reports of infestations and unsanitary conditions in camps."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, that’s devastating. The impact of those natural disasters can be really long-lasting."
+    "text": "It’s shocking to think about. The lack of sanitation is a breeding ground for disease, making an already dire situation even worse."
   },
   {
     "speaker": "Adam",
-    "text": "For sure. And on a different note, the DR Congo’s superfan, known for his iconic motionless tribute at games, has been denied a US visa to support his team at the World Cup."
+    "text": "In other news, the Democratic Republic of Congo is taking Rwanda to the International Court of Justice. This could have significant implications for regional stability."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a bummer! It’s sad to see someone so dedicated not being able to attend the event."
+    "text": "It’s a bold move, and it’ll be interesting to see how the international community responds to this situation."
   },
   {
     "speaker": "Adam",
-    "text": "Moving to the ongoing conflict in Ukraine, Ukraine is ramping up its attacks on Russian-controlled Crimea as part of its strategy to pressure Moscow."
+    "text": "Switching gears to sports, we’re now in the knockout stages of the 2026 World Cup. Exciting matchups are on the horizon, and fans are gearing up for some unforgettable moments."
   },
   {
     "speaker": "Eve",
-    "text": "That region has been crucial in the war, hasn’t it?"
+    "text": "Absolutely! It’s always a thrilling time when the competition heats up, and I can’t wait to see who advances."
   },
   {
     "speaker": "Adam",
-    "text": "Yes, it certainly is. And on the military front, Israel has ordered troops to prepare for an \"extended stay\" in Lebanon, which raises concerns about escalating tensions there."
+    "text": "Now, let’s take a look at the markets. Starting with the Vanguard S&P 500 ETF, or VOO, it closed down 0.81%. Analysts aren’t saying much on recommendations, but it’s worth keeping an eye on."
   },
   {
     "speaker": "Eve",
-    "text": "It seems like the Middle East is facing continuous turmoil."
+    "text": "Moving on to NVIDIA, which saw a decline of 1.64%. Despite the drop, analysts are still giving it a “strong buy” recommendation with a mean target of around $300. It’s fascinating how resilient the stock is despite short-term fluctuations."
   },
   {
     "speaker": "Adam",
-    "text": "Meanwhile, in Alaska, there's an unusual situation where a Senate challenger with the same name as the incumbent will appear on the ballot."
+    "text": "And then we have Micron Technology, which took a bigger hit at a 6.69% decline. It’s also rated as a “strong buy,” with a mean price target of about $1,410. Analysts seem to think it’s still a solid investment despite recent hurdles."
   },
   {
     "speaker": "Eve",
-    "text": "Oh wow, that could definitely confuse voters!"
+    "text": "Alphabet, or GOOGL, is down 1.84% and also carries a “strong buy” rating with a target mean of around $433. It’s a tough time for tech stocks, but many analysts remain optimistic."
   },
   {
     "speaker": "Adam",
-    "text": "It could lead to some interesting dynamics in the upcoming election."
+    "text": "Meta Platforms, on the other hand, is up 1.36% and also has a “strong buy” recommendation. The mean price target is around $827, which shows confidence in their growth strategy."
   },
   {
     "speaker": "Eve",
-    "text": "And in sports again, South Africa's coach is feeling both optimistic and tense as they prepare to face Canada in the knockout stages of the World Cup."
+    "text": "ASML Holding is down 2.53%. Analysts still rate it as a “strong buy,” with a mean target near $1,746. It’s interesting how technical companies are still being seen as viable investments despite market conditions."
   },
   {
     "speaker": "Adam",
-    "text": "It's their first time reaching this stage, so that should be thrilling for fans from both sides!"
+    "text": "Taiwan Semiconductor Manufacturing Company, or TSM, is also down 0.61% but remains a “strong buy” with an expected mean target of around $479. It seems like semiconductors are still where the action is."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely! And tragically, in Gaza, an Israeli strike on displacement tents has resulted in two fatalities and numerous injuries."
+    "text": "Cameco Corporation is making waves, up 0.88%, and is rated as a “buy” with an average price target of about $132. This is a stock to keep an eye on as nuclear energy discussions heat up."
   },
   {
     "speaker": "Adam",
-    "text": "That’s heartbreaking. The humanitarian crisis in that region continues to be severe."
+    "text": "And lastly, Palantir Technologies is seeing a notable rise of 5.28%, with a “buy” recommendation and a mean price target of $183. Investors seem optimistic about its future."
   },
   {
     "speaker": "Eve",
-    "text": "It really is. Lastly, in Kenya, reports are emerging that protesters have been found tortured after their arrests during memorial gatherings."
+    "text": "Now, let’s touch on something new in your podcasts. The latest episode from “Founders” features Soichiro Honda, discussing insights from the book “Honda: The Man and His Machines.”"
   },
   {
     "speaker": "Adam",
-    "text": "That’s shocking! The situation for human rights there sounds dire."
+    "text": "That sounds intriguing! If you’re interested in entrepreneurship and innovation, this might be a great listen."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely a lot happening globally today. Now, let’s take a quick look at the markets."
+    "text": "Definitely worth checking out!"
   },
   {
     "speaker": "Adam",
-    "text": "Sure thing! Starting with the Vanguard S&P 500 ETF, it closed at $670.26, down about 0.81%."
+    "text": "And that wraps up today’s news, Moiz. Drive safe out there!"
   },
   {
     "speaker": "Eve",
-    "text": "No major changes recently, right?"
-  },
-  {
-    "speaker": "Adam",
-    "text": "Exactly. Analysts are still cautious about market conditions."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Moving on to NVIDIA Corporation, it closed at $192.53, down 1.64%, but they still hold a \"strong buy\" rating with a mean target of around $300."
-  },
-  {
-    "speaker": "Adam",
-    "text": "It’s interesting to see that kind of confidence despite the dip."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Yes, there’s a lot of buzz around their growth potential. Now, Micron Technology had a significant drop of 6.69%, bringing it to $1132.33."
-  },
-  {
-    "speaker": "Adam",
-    "text": "They still maintain a \"strong buy\" rating, though, with a mean target of $1410.45."
-  },
-  {
-    "speaker": "Eve",
-    "text": "That’s quite a range!"
-  },
-  {
-    "speaker": "Adam",
-    "text": "It is. Alphabet Inc., on the other hand, closed at $337.39, down 1.84%, but also has a \"strong buy\" recommendation with a target of around $432.83."
-  },
-  {
-    "speaker": "Eve",
-    "text": "That’s a solid outlook. How about Meta Platforms?"
-  },
-  {
-    "speaker": "Adam",
-    "text": "Meta closed at $550.25, up 1.36%, and analysts are bullish with a target of $827.32."
-  },
-  {
-    "speaker": "Eve",
-    "text": "They’re really gaining traction lately."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Right? ASML Holding saw a drop of 2.53%, closing at $1794.62, but still has a strong buy rating."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Their technology is critical, so I can see why they’re still favored."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Taiwan Semiconductor Manufacturing also ended down at $432.35, but they’re rated strong buy as well."
-  },
-  {
-    "speaker": "Eve",
-    "text": "It seems like the semiconductor sector is still holding strong despite some fluctuations."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Yes, and Cameco Corporation saw a slight increase, closing at $104.49, with a buy rating and a target of $132.30."
-  },
-  {
-    "speaker": "Eve",
-    "text": "That should please their investors!"
-  },
-  {
-    "speaker": "Adam",
-    "text": "Finally, Palantir Technologies jumped by 5.28% to $112.93, still rated a buy with a target of $182.75."
-  },
-  {
-    "speaker": "Eve",
-    "text": "They’ve been making some smart moves lately, haven’t they?"
-  },
-  {
-    "speaker": "Adam",
-    "text": "Absolutely. Now, let’s wrap up with some new episodes in your podcasts."
-  },
-  {
-    "speaker": "Eve",
-    "text": "There’s a new episode of “People I (Mostly) Admire” featuring Professor Carl Hart, who argues for the legalization of all drugs."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Sounds intriguing! He discusses the societal impacts of decriminalizing substances."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Definitely worth a listen!"
-  },
-  {
-    "speaker": "Adam",
-    "text": "Well, that covers a lot of ground today."
-  },
-  {
-    "speaker": "Eve",
-    "text": "It sure does!"
-  },
-  {
-    "speaker": "Adam",
-    "text": "Thanks for joining us, Moiz."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Safe travels!"
-  },
-  {
-    "speaker": "Adam",
-    "text": "Take care!"
+    "text": "Take care, Moiz!"
   }
 ]
