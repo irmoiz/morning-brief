@@ -1,114 +1,162 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you see the news about the protests in Serbia? Thousands are gathering, and they’re skeptical about President Vucic’s promise to resign."
+    "text": "Good morning, Moiz! Did you see that late goal by Martinelli in the Brazil vs. Japan match? What a heartbreaker for the Japanese team!"
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, it’s wild! After 12 years in power, people are doubting whether a resignation will really change anything. It’s definitely a moment to watch."
+    "text": "I know, right? Brazil is always a powerhouse in the World Cup, but to win it in stoppage time? That’s just brutal for Japan."
   },
   {
     "speaker": "Adam",
-    "text": "Let’s dive into that and more. In world news, the situation in Serbia has escalated as demonstrators continue to voice their distrust. Despite Vucic’s pledge, many feel it's just a political maneuver rather than a genuine shift in leadership."
+    "text": "Speaking of intense situations, there’s also a significant anti-corruption crackdown happening in Iraq. Several senior politicians have been detained."
   },
   {
     "speaker": "Eve",
-    "text": "Right, and the protests highlight a deeper discontent with the political climate in Serbia. People are calling for substantial change, not just a change of face in power."
+    "text": "That’s definitely a big deal. It’s interesting to see how these events unfold, especially with the political landscape in Iraq being so complex."
   },
   {
     "speaker": "Adam",
-    "text": "Meanwhile, in Venezuela, Pope Leo has expressed solidarity following two devastating earthquakes that have claimed at least 1,400 lives. The country is grappling with immense loss and a dire need for recovery."
+    "text": "Alright, let’s dive into some world news headlines. In Iraq, as you mentioned, this crackdown could shake up the political scene, considering the power dynamics at play."
   },
   {
     "speaker": "Eve",
-    "text": "That’s heartbreaking. And alongside this, the hope of finding more survivors is fading despite some late rescues. Tens of thousands are still unaccounted for, which is incredibly concerning."
+    "text": "Absolutely. Corruption has been a longstanding issue there. These arrests signal a possible shift in governance, which could impact everything from security to economic policies."
   },
   {
     "speaker": "Adam",
-    "text": "In Gaza, Israeli forces have killed four Palestinians amid ongoing tensions. The situation continues to escalate, with restrictions on worshippers and reports of violence."
+    "text": "Meanwhile, in Italy and the Balkans, a deadly heatwave is putting older people at particularly high risk, leading to increased deaths across the region."
   },
   {
     "speaker": "Eve",
-    "text": "It’s a tragic cycle that seems to be perpetuating itself. The humanitarian conditions are worsening for those affected, particularly in areas like Al-Aqsa Mosque."
+    "text": "That’s heartbreaking. Extreme weather events seem to be happening more frequently, and it’s always the vulnerable populations that suffer the most."
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of worsening conditions, displaced families in Gaza are facing appalling living situations, with reports of infestations and unsanitary conditions in camps."
+    "text": "On a different note, in Gaza, Israeli attacks have killed eight people, including a teenager in the West Bank. This violence continues to escalate."
   },
   {
     "speaker": "Eve",
-    "text": "It’s shocking to think about. The lack of sanitation is a breeding ground for disease, making an already dire situation even worse."
+    "text": "It’s so tragic to hear about the loss of innocent lives, especially children. The cycle of violence there seems never-ending."
   },
   {
     "speaker": "Adam",
-    "text": "In other news, the Democratic Republic of Congo is taking Rwanda to the International Court of Justice. This could have significant implications for regional stability."
+    "text": "And in Afghanistan, Pakistani strikes have reportedly killed dozens of villagers. These military actions are stirring up a lot of fear in the region."
   },
   {
     "speaker": "Eve",
-    "text": "It’s a bold move, and it’ll be interesting to see how the international community responds to this situation."
+    "text": "It’s a harsh reality for those living near conflict zones. The impact of such strikes can be devastating for local communities."
   },
   {
     "speaker": "Adam",
-    "text": "Switching gears to sports, we’re now in the knockout stages of the 2026 World Cup. Exciting matchups are on the horizon, and fans are gearing up for some unforgettable moments."
+    "text": "Over in Venezuela, there’s a miraculous story of a 21-year-old man who was pulled from the rubble four days after a quake."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely! It’s always a thrilling time when the competition heats up, and I can’t wait to see who advances."
+    "text": "Wow, that’s incredible! It offers a glimmer of hope among all the devastation caused by natural disasters."
   },
   {
     "speaker": "Adam",
-    "text": "Now, let’s take a look at the markets. Starting with the Vanguard S&P 500 ETF, or VOO, it closed down 0.81%. Analysts aren’t saying much on recommendations, but it’s worth keeping an eye on."
+    "text": "And in South Africa, thousands of undocumented migrants are fleeing amidst rising anti-immigrant protests."
   },
   {
     "speaker": "Eve",
-    "text": "Moving on to NVIDIA, which saw a decline of 1.64%. Despite the drop, analysts are still giving it a “strong buy” recommendation with a mean target of around $300. It’s fascinating how resilient the stock is despite short-term fluctuations."
+    "text": "That’s alarming. It reflects the growing tensions around immigration issues globally, and the fear that drives people to leave their homes is palpable."
   },
   {
     "speaker": "Adam",
-    "text": "And then we have Micron Technology, which took a bigger hit at a 6.69% decline. It’s also rated as a “strong buy,” with a mean price target of about $1,410. Analysts seem to think it’s still a solid investment despite recent hurdles."
+    "text": "In the UK, frontrunner Andy Burnham is promising devolution and discipline if he becomes prime minister. He’s already facing criticism for not taking questions after outlining his vision."
   },
   {
     "speaker": "Eve",
-    "text": "Alphabet, or GOOGL, is down 1.84% and also carries a “strong buy” rating with a target mean of around $433. It’s a tough time for tech stocks, but many analysts remain optimistic."
+    "text": "Sounds like he’s stepping into a challenging role. The political climate in the UK has been turbulent, to say the least."
   },
   {
     "speaker": "Adam",
-    "text": "Meta Platforms, on the other hand, is up 1.36% and also has a “strong buy” recommendation. The mean price target is around $827, which shows confidence in their growth strategy."
+    "text": "Definitely. He’s pledging radical changes, which could shake up the status quo."
   },
   {
     "speaker": "Eve",
-    "text": "ASML Holding is down 2.53%. Analysts still rate it as a “strong buy,” with a mean target near $1,746. It’s interesting how technical companies are still being seen as viable investments despite market conditions."
+    "text": "It’s going to be interesting to see how these developments play out."
   },
   {
     "speaker": "Adam",
-    "text": "Taiwan Semiconductor Manufacturing Company, or TSM, is also down 0.61% but remains a “strong buy” with an expected mean target of around $479. It seems like semiconductors are still where the action is."
+    "text": "Moving on to the markets, let’s take a look at some key stocks today. The Vanguard S&P 500 ETF, or VOO, closed at $681.01, up 1.6%."
   },
   {
     "speaker": "Eve",
-    "text": "Cameco Corporation is making waves, up 0.88%, and is rated as a “buy” with an average price target of about $132. This is a stock to keep an eye on as nuclear energy discussions heat up."
+    "text": "That's notable, especially considering the recent news of Vanguard shedding $11.6 billion."
   },
   {
     "speaker": "Adam",
-    "text": "And lastly, Palantir Technologies is seeing a notable rise of 5.28%, with a “buy” recommendation and a mean price target of $183. Investors seem optimistic about its future."
+    "text": "Right? It seems investors are still optimistic despite some outflows."
   },
   {
     "speaker": "Eve",
-    "text": "Now, let’s touch on something new in your podcasts. The latest episode from “Founders” features Soichiro Honda, discussing insights from the book “Honda: The Man and His Machines.”"
+    "text": "Now, NVIDIA, with a strong buy rating, saw a slight increase of 1.27% to $194.97. Analysts are quite bullish, with a mean price target of over $300."
   },
   {
     "speaker": "Adam",
-    "text": "That sounds intriguing! If you’re interested in entrepreneurship and innovation, this might be a great listen."
+    "text": "That’s impressive. The tech sector continues to garner attention, especially with all the AI developments."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely worth checking out!"
+    "text": "Exactly! Speaking of tech, Micron also had a good day, up 1.14% to $1145.28, and they’re also rated as a strong buy."
   },
   {
     "speaker": "Adam",
-    "text": "And that wraps up today’s news, Moiz. Drive safe out there!"
+    "text": "Their target means a potential upside to $1410.45, which is quite encouraging."
   },
   {
     "speaker": "Eve",
-    "text": "Take care, Moiz!"
+    "text": "Alphabet, or GOOGL, jumped by 4.82% to $353.65, also rated as a strong buy. Analysts are optimistic, expecting a target of around $432."
+  },
+  {
+    "speaker": "Adam",
+    "text": "That’s significant growth potential. Tech stocks seem to be on a rally lately."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Meta Platforms also had a decent day, up 2.24% to $562.60, with a strong buy recommendation and a target mean of $827."
+  },
+  {
+    "speaker": "Adam",
+    "text": "And ASML saw a rise of 4.93% to $1883.11, rated as a strong buy too, which is great news for investors."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Definitely! It’s interesting to see how these tech giants are performing despite some market volatility."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Taiwan Semiconductor Manufacturing also gained 5.26%, closing at $455.10 with a strong buy rating as well."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Lots of action in the semiconductor sector! Meanwhile, Cameco Corporation dropped slightly by 0.98% to $103.47 but still has a buy recommendation."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Their adjusted EBITDA is up, which suggests that they might have more upside ahead, despite the dip."
+  },
+  {
+    "speaker": "Eve",
+    "text": "And lastly, Palantir Technologies rose 2.45% to $115.70, also rated a buy with a target mean of $182."
+  },
+  {
+    "speaker": "Adam",
+    "text": "The tech sector really seems resilient. Now, let’s wrap up with what’s new in your podcasts today."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Unfortunately, there are no new episodes to share today."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Alright, Moiz, that’s a wrap for today’s news. Drive safe on your way to work!"
+  },
+  {
+    "speaker": "Eve",
+    "text": "Have a great day, Moiz!"
   }
 ]
