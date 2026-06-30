@@ -1,162 +1,182 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you see that late goal by Martinelli in the Brazil vs. Japan match? What a heartbreaker for the Japanese team!"
+    "text": "Hey Moiz, did you hear about the school attack in Nigeria? More than 30 students are still missing."
   },
   {
     "speaker": "Eve",
-    "text": "I know, right? Brazil is always a powerhouse in the World Cup, but to win it in stoppage time? That’s just brutal for Japan."
+    "text": "Yeah, that's heartbreaking. It’s a tough situation in Borno State."
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of intense situations, there’s also a significant anti-corruption crackdown happening in Iraq. Several senior politicians have been detained."
+    "text": "Absolutely. Moving to Venezuela, they’re still recovering from a devastating event. Rescuers are finding more bodies under the rubble as the death toll rises."
   },
   {
     "speaker": "Eve",
-    "text": "That’s definitely a big deal. It’s interesting to see how these events unfold, especially with the political landscape in Iraq being so complex."
+    "text": "That’s really tragic. It seems like emergency teams are working around the clock, but the situation remains grim."
   },
   {
     "speaker": "Adam",
-    "text": "Alright, let’s dive into some world news headlines. In Iraq, as you mentioned, this crackdown could shake up the political scene, considering the power dynamics at play."
+    "text": "Right. And in South Sudan, five humanitarian workers were killed in a convoy ambush. The UN is calling for an investigation."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely. Corruption has been a longstanding issue there. These arrests signal a possible shift in governance, which could impact everything from security to economic policies."
+    "text": "Wow, that's incredibly sad. It’s always alarming when those trying to help become targets themselves."
   },
   {
     "speaker": "Adam",
-    "text": "Meanwhile, in Italy and the Balkans, a deadly heatwave is putting older people at particularly high risk, leading to increased deaths across the region."
+    "text": "Speaking of alarming, in other news, Norway edged out Ivory Coast 2-1 to enter the World Cup Round of 16."
   },
   {
     "speaker": "Eve",
-    "text": "That’s heartbreaking. Extreme weather events seem to be happening more frequently, and it’s always the vulnerable populations that suffer the most."
+    "text": "Haaland scored again! That’s his fifth goal in the tournament. They’ll face Brazil next, which will be quite a match."
   },
   {
     "speaker": "Adam",
-    "text": "On a different note, in Gaza, Israeli attacks have killed eight people, including a teenager in the West Bank. This violence continues to escalate."
+    "text": "For sure! Shifting gears a bit, there’s an article discussing the evolution of Iran’s \"axis of resistance\" in this post-war era."
   },
   {
     "speaker": "Eve",
-    "text": "It’s so tragic to hear about the loss of innocent lives, especially children. The cycle of violence there seems never-ending."
+    "text": "Sounds interesting. It’s a complex situation over there regarding their regional influence."
   },
   {
     "speaker": "Adam",
-    "text": "And in Afghanistan, Pakistani strikes have reportedly killed dozens of villagers. These military actions are stirring up a lot of fear in the region."
+    "text": "Indeed. Cuba’s foreign minister is also saying there’s been “no progress” in US negotiations, accusing the US of issuing continuous threats."
   },
   {
     "speaker": "Eve",
-    "text": "It’s a harsh reality for those living near conflict zones. The impact of such strikes can be devastating for local communities."
+    "text": "That’s a tough dynamic. It seems diplomatic relations are still rocky between the two countries."
   },
   {
     "speaker": "Adam",
-    "text": "Over in Venezuela, there’s a miraculous story of a 21-year-old man who was pulled from the rubble four days after a quake."
+    "text": "And in Germany, a heatwave melted tram tracks in Leipzig, disrupting public transport. Temperatures hit a staggering 41 degrees Celsius!"
   },
   {
     "speaker": "Eve",
-    "text": "Wow, that’s incredible! It offers a glimmer of hope among all the devastation caused by natural disasters."
+    "text": "That’s wild! Extreme weather is really causing chaos around the world."
   },
   {
     "speaker": "Adam",
-    "text": "And in South Africa, thousands of undocumented migrants are fleeing amidst rising anti-immigrant protests."
+    "text": "Speaking of chaos, in DR Congo, healthcare workers say the situation is improving amidst the ongoing Ebola crisis."
   },
   {
     "speaker": "Eve",
-    "text": "That’s alarming. It reflects the growing tensions around immigration issues globally, and the fear that drives people to leave their homes is palpable."
+    "text": "That’s a bit of good news at least. It’s good to hear they’re making some progress despite the challenges."
   },
   {
     "speaker": "Adam",
-    "text": "In the UK, frontrunner Andy Burnham is promising devolution and discipline if he becomes prime minister. He’s already facing criticism for not taking questions after outlining his vision."
+    "text": "And in South Africa, there have been protests after a deadline for undocumented migrants to leave. It’s sparked quite a reaction."
   },
   {
     "speaker": "Eve",
-    "text": "Sounds like he’s stepping into a challenging role. The political climate in the UK has been turbulent, to say the least."
+    "text": "It must be a tense situation for many there. The pressures of migration policy can lead to such unrest."
   },
   {
     "speaker": "Adam",
-    "text": "Definitely. He’s pledging radical changes, which could shake up the status quo."
+    "text": "Meanwhile, Russia’s fuel crisis is deepening, especially with the recent drone strikes from Ukraine intensifying."
   },
   {
     "speaker": "Eve",
-    "text": "It’s going to be interesting to see how these developments play out."
+    "text": "That’s another layer to an already critical situation. The impacts of these strikes could be significant for their economy."
   },
   {
     "speaker": "Adam",
-    "text": "Moving on to the markets, let’s take a look at some key stocks today. The Vanguard S&P 500 ETF, or VOO, closed at $681.01, up 1.6%."
+    "text": "Speaking of fragile situations, Lebanon’s ceasefire is facing scrutiny three months in."
   },
   {
     "speaker": "Eve",
-    "text": "That's notable, especially considering the recent news of Vanguard shedding $11.6 billion."
+    "text": "It’s always a delicate balance in such regions."
   },
   {
     "speaker": "Adam",
-    "text": "Right? It seems investors are still optimistic despite some outflows."
+    "text": "Now, onto the stock market updates. The Vanguard S&P 500 ETF, or VOO, closed at $686.81, up about 0.85%."
   },
   {
     "speaker": "Eve",
-    "text": "Now, NVIDIA, with a strong buy rating, saw a slight increase of 1.27% to $194.97. Analysts are quite bullish, with a mean price target of over $300."
+    "text": "There’s some buzz around it, but no specific recommendations right now."
   },
   {
     "speaker": "Adam",
-    "text": "That’s impressive. The tech sector continues to garner attention, especially with all the AI developments."
+    "text": "NVIDIA Corporation, or NVDA, is up 2.63% to $200.09 with a strong buy recommendation. Analysts have a mean target of $301.62."
   },
   {
     "speaker": "Eve",
-    "text": "Exactly! Speaking of tech, Micron also had a good day, up 1.14% to $1145.28, and they’re also rated as a strong buy."
+    "text": "That’s quite a gap. I wonder what’s impacting their outlook."
   },
   {
     "speaker": "Adam",
-    "text": "Their target means a potential upside to $1410.45, which is quite encouraging."
+    "text": "Micron Technology, or MU, closed at $1154.29, gaining 0.79%. It also has a strong buy recommendation with a mean target of $1454.13."
   },
   {
     "speaker": "Eve",
-    "text": "Alphabet, or GOOGL, jumped by 4.82% to $353.65, also rated as a strong buy. Analysts are optimistic, expecting a target of around $432."
+    "text": "Interesting. They seem to be holding steady among investors."
   },
   {
     "speaker": "Adam",
-    "text": "That’s significant growth potential. Tech stocks seem to be on a rally lately."
+    "text": "Alphabet, GOOGL, is up 1.05% to $357.37, with a strong buy rating and a mean target of $432.83."
   },
   {
     "speaker": "Eve",
-    "text": "Meta Platforms also had a decent day, up 2.24% to $562.60, with a strong buy recommendation and a target mean of $827."
+    "text": "Tech stocks seem to be recovering; it’s nice to see some positivity after the recent downturns."
   },
   {
     "speaker": "Adam",
-    "text": "And ASML saw a rise of 4.93% to $1883.11, rated as a strong buy too, which is great news for investors."
+    "text": "Meta Platforms, or META, closed at $563.29, up just 0.12%, but still carries a strong buy recommendation with a target of $827.32."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely! It’s interesting to see how these tech giants are performing despite some market volatility."
+    "text": "Definitely a solid investment in the long run, especially with their AI initiatives."
   },
   {
     "speaker": "Adam",
-    "text": "Taiwan Semiconductor Manufacturing also gained 5.26%, closing at $455.10 with a strong buy rating as well."
+    "text": "ASML Holding gained 5.65%, closing at $1989.44, and has a strong buy rating, although the target is lower than its current price."
   },
   {
     "speaker": "Eve",
-    "text": "Lots of action in the semiconductor sector! Meanwhile, Cameco Corporation dropped slightly by 0.98% to $103.47 but still has a buy recommendation."
+    "text": "That’s quite a jump! It’s interesting to see their growth trajectory."
   },
   {
     "speaker": "Adam",
-    "text": "Their adjusted EBITDA is up, which suggests that they might have more upside ahead, despite the dip."
+    "text": "Taiwan Semiconductor, TSM, is also on the rise, up nearly 5% at $477.57 with a strong buy recommendation and a target mean of $487.56."
   },
   {
     "speaker": "Eve",
-    "text": "And lastly, Palantir Technologies rose 2.45% to $115.70, also rated a buy with a target mean of $182."
+    "text": "They’re sure making waves in the semiconductor space, especially with the AI chip race heating up."
   },
   {
     "speaker": "Adam",
-    "text": "The tech sector really seems resilient. Now, let’s wrap up with what’s new in your podcasts today."
+    "text": "Cameco Corporation, CCJ, is down 1.56% at $101.86, but still has a buy recommendation with a mean target of $132.32."
   },
   {
     "speaker": "Eve",
-    "text": "Unfortunately, there are no new episodes to share today."
+    "text": "It looks like they’ve had some ups and downs lately in the market."
   },
   {
     "speaker": "Adam",
-    "text": "Alright, Moiz, that’s a wrap for today’s news. Drive safe on your way to work!"
+    "text": "Lastly, Palantir Technologies closed at $116.67, up 0.84%, with a buy rating and a target mean of $182.75."
   },
   {
     "speaker": "Eve",
-    "text": "Have a great day, Moiz!"
+    "text": "They’re definitely capturing attention with their partnerships in AI."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Now, there’s a new episode of \"99% Invisible\" titled \"Transatlantic Fiber-Optic Expialidocious.\""
+  },
+  {
+    "speaker": "Eve",
+    "text": "Sounds intriguing! It dives into how an undersea gamble made global internet possible."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Definitely worth a listen if you’re curious about the internet's history."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Alright, Moiz, that wraps up today’s news!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "Safe travels, and have a great day at work!"
   }
 ]
