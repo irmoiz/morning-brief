@@ -1,182 +1,94 @@
 [
   {
     "speaker": "Adam",
-    "text": "Hey Moiz, did you hear about the school attack in Nigeria? More than 30 students are still missing."
+    "text": "Good morning, Moiz! Did you hear about the U.S. signing a one-dollar lease with Israel for a permanent embassy in West Jerusalem?"
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, that's heartbreaking. It’s a tough situation in Borno State."
+    "text": "Yeah, that’s wild! It’s a bold move amid all the ongoing tensions. Let’s dive into today’s world news."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. Moving to Venezuela, they’re still recovering from a devastating event. Rescuers are finding more bodies under the rubble as the death toll rises."
+    "text": "Alright, first up, the U.S. Supreme Court has made headlines again, this time giving more power to wealthy donors in their latest decision. Critics are worried this might lead to increased corruption and more influence from special interest groups in politics."
   },
   {
     "speaker": "Eve",
-    "text": "That’s really tragic. It seems like emergency teams are working around the clock, but the situation remains grim."
+    "text": "It’s definitely a contentious issue. Meanwhile, tensions in the Middle East continue as an Israeli drone strike in Gaza reportedly killed three Palestinians, highlighting the fragility of the ceasefire."
   },
   {
     "speaker": "Adam",
-    "text": "Right. And in South Sudan, five humanitarian workers were killed in a convoy ambush. The UN is calling for an investigation."
+    "text": "That's so tragic. Over in Venezuela, it’s been a week since the deadly earthquakes hit. Reports say more than 1,900 people are confirmed dead, with many still missing. Citizens are stepping up to help, organizing aid in response to frustrations over the government's efforts."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, that's incredibly sad. It’s always alarming when those trying to help become targets themselves."
+    "text": "And speaking of crises, Bolivia is facing unrest too. President Paz declared a state of emergency as the currency plummets amid ongoing protests against his policies."
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of alarming, in other news, Norway edged out Ivory Coast 2-1 to enter the World Cup Round of 16."
+    "text": "It’s a tough time for many countries. On a lighter note, did you catch the story about a Russian couple who got arrested after scaling the Empire State Building? Apparently, it was part of an ambitious marriage proposal."
   },
   {
     "speaker": "Eve",
-    "text": "Haaland scored again! That’s his fifth goal in the tournament. They’ll face Brazil next, which will be quite a match."
+    "text": "Oh wow, that’s quite the way to pop the question! Not your average dinner and a movie, huh?"
   },
   {
     "speaker": "Adam",
-    "text": "For sure! Shifting gears a bit, there’s an article discussing the evolution of Iran’s \"axis of resistance\" in this post-war era."
+    "text": "Definitely not! Now, shifting gears, let’s take a look at how the markets are doing today."
   },
   {
     "speaker": "Eve",
-    "text": "Sounds interesting. It’s a complex situation over there regarding their regional influence."
+    "text": "Sounds good! Starting with the Vanguard S&P 500 ETF, or VOO, it closed at $685.46, down 0.2%. Analysts have some interesting insights about its long-term potential, though no specific targets were highlighted."
   },
   {
     "speaker": "Adam",
-    "text": "Indeed. Cuba’s foreign minister is also saying there’s been “no progress” in US negotiations, accusing the US of issuing continuous threats."
+    "text": "Next up, NVIDIA Corporation, ticker NVDA, closed at $197.58, down 1.25%. Despite the dip, it has a strong buy rating with a mean target of around $301.62, which could mean upside potential for investors."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a tough dynamic. It seems diplomatic relations are still rocky between the two countries."
+    "text": "That’s exciting! Then we have Micron Technology, or MU, which ended at $1032.28, taking a hit with a decline of 10.57%. It's also rated as a strong buy, with analysts suggesting a mean target of $1454.13."
   },
   {
     "speaker": "Adam",
-    "text": "And in Germany, a heatwave melted tram tracks in Leipzig, disrupting public transport. Temperatures hit a staggering 41 degrees Celsius!"
+    "text": "Now onto Alphabet Inc., GOOGL, which closed at $361.21, up 1.07%. It’s maintaining a strong buy with a mean target of $432.65."
   },
   {
     "speaker": "Eve",
-    "text": "That’s wild! Extreme weather is really causing chaos around the world."
+    "text": "Next is Meta Platforms, or META, which saw quite a jump, closing at $612.91, up 8.81%. Analysts are bullish here too, with a mean target of $828.13."
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of chaos, in DR Congo, healthcare workers say the situation is improving amidst the ongoing Ebola crisis."
+    "text": "ASML Holding closed at $1843.04, down 7.36%. Despite the dip, it’s still rated strongly, with a mean target of $1743.97."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a bit of good news at least. It’s good to hear they’re making some progress despite the challenges."
+    "text": "Taiwan Semiconductor Manufacturing, TSM, ended at $444.23, down 6.98%. Another strong buy recommendation, with a target mean of $487.56."
   },
   {
     "speaker": "Adam",
-    "text": "And in South Africa, there have been protests after a deadline for undocumented migrants to leave. It’s sparked quite a reaction."
+    "text": "Cameco Corporation, ticker CCJ, closed at $97.39, down 4.39%, but it’s still rated as a buy with a target mean of $132.22."
   },
   {
     "speaker": "Eve",
-    "text": "It must be a tense situation for many there. The pressures of migration policy can lead to such unrest."
+    "text": "Lastly, Palantir Technologies, or PLTR, closed at $125.73, up 7.77%. Analysts are suggesting a buy rating with a mean target of $182.75, which looks promising."
   },
   {
     "speaker": "Adam",
-    "text": "Meanwhile, Russia’s fuel crisis is deepening, especially with the recent drone strikes from Ukraine intensifying."
+    "text": "Quite a mixed bag in the markets today, for sure! Now, let’s shift to what’s new in your podcasts."
   },
   {
     "speaker": "Eve",
-    "text": "That’s another layer to an already critical situation. The impacts of these strikes could be significant for their economy."
+    "text": "Actually, it seems we don’t have any new episodes to share today."
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of fragile situations, Lebanon’s ceasefire is facing scrutiny three months in."
+    "text": "Alright then, let’s wrap it up."
   },
   {
     "speaker": "Eve",
-    "text": "It’s always a delicate balance in such regions."
+    "text": "Thanks for tuning in, Moiz. Drive safe out there!"
   },
   {
     "speaker": "Adam",
-    "text": "Now, onto the stock market updates. The Vanguard S&P 500 ETF, or VOO, closed at $686.81, up about 0.85%."
-  },
-  {
-    "speaker": "Eve",
-    "text": "There’s some buzz around it, but no specific recommendations right now."
-  },
-  {
-    "speaker": "Adam",
-    "text": "NVIDIA Corporation, or NVDA, is up 2.63% to $200.09 with a strong buy recommendation. Analysts have a mean target of $301.62."
-  },
-  {
-    "speaker": "Eve",
-    "text": "That’s quite a gap. I wonder what’s impacting their outlook."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Micron Technology, or MU, closed at $1154.29, gaining 0.79%. It also has a strong buy recommendation with a mean target of $1454.13."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Interesting. They seem to be holding steady among investors."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Alphabet, GOOGL, is up 1.05% to $357.37, with a strong buy rating and a mean target of $432.83."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Tech stocks seem to be recovering; it’s nice to see some positivity after the recent downturns."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Meta Platforms, or META, closed at $563.29, up just 0.12%, but still carries a strong buy recommendation with a target of $827.32."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Definitely a solid investment in the long run, especially with their AI initiatives."
-  },
-  {
-    "speaker": "Adam",
-    "text": "ASML Holding gained 5.65%, closing at $1989.44, and has a strong buy rating, although the target is lower than its current price."
-  },
-  {
-    "speaker": "Eve",
-    "text": "That’s quite a jump! It’s interesting to see their growth trajectory."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Taiwan Semiconductor, TSM, is also on the rise, up nearly 5% at $477.57 with a strong buy recommendation and a target mean of $487.56."
-  },
-  {
-    "speaker": "Eve",
-    "text": "They’re sure making waves in the semiconductor space, especially with the AI chip race heating up."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Cameco Corporation, CCJ, is down 1.56% at $101.86, but still has a buy recommendation with a mean target of $132.32."
-  },
-  {
-    "speaker": "Eve",
-    "text": "It looks like they’ve had some ups and downs lately in the market."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Lastly, Palantir Technologies closed at $116.67, up 0.84%, with a buy rating and a target mean of $182.75."
-  },
-  {
-    "speaker": "Eve",
-    "text": "They’re definitely capturing attention with their partnerships in AI."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Now, there’s a new episode of \"99% Invisible\" titled \"Transatlantic Fiber-Optic Expialidocious.\""
-  },
-  {
-    "speaker": "Eve",
-    "text": "Sounds intriguing! It dives into how an undersea gamble made global internet possible."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Definitely worth a listen if you’re curious about the internet's history."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Alright, Moiz, that wraps up today’s news!"
-  },
-  {
-    "speaker": "Adam",
-    "text": "Safe travels, and have a great day at work!"
+    "text": "Have a great day!"
   }
 ]
