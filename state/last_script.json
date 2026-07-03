@@ -1,150 +1,122 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you see that news about the UK’s likely next leader, Andy Burnham? He’s talking about fully funding defense plans despite a massive funding gap."
+    "text": "Good morning, Moiz! Did you catch that new ethnic unity law in China?"
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, that’s quite a bold move! He’s really stepping into some heavy shoes if he becomes Prime Minister. I wonder how that’ll play out with the current funding issues."
+    "text": "Yeah, I saw that! It claims to forge a shared national identity, but it raises concerns about forced assimilation. That's quite a controversial move."
   },
   {
     "speaker": "Adam",
-    "text": "Right? It seems like a big risk, especially with a potential £4.7 billion shortfall. It’ll be interesting to see how he plans to navigate that."
+    "text": "Absolutely! And on the topic of controversial matters, the US is facing a significant heatwave that’s putting a strain on energy demands—especially from AI data centers."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely! And speaking of bold moves, the Trump administration is aiming to cut regulations on US commercial fishing, which could shake things up, especially after the scallop fishing ban since 1994 in New England."
+    "text": "Oh, that’s wild! It really highlights how our growing reliance on technology is impacting infrastructure."
   },
   {
     "speaker": "Adam",
-    "text": "That’s wild! Overfishing is a serious concern, and relaxing regulations could lead to even more challenges. It’s a tough balance between economic needs and environmental protection."
+    "text": "Right? Let’s dive into some world news. The situation in China with the new ethnic unity law is drawing a lot of attention. Critics argue that it could lead to forced assimilation of ethnic minorities. The government, on the other hand, insists it’s aimed at creating a unified national identity."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely, and then there’s the situation in Albania. Violent clashes are continuing amidst anti-government protests. It sounds like tensions are really on the rise there."
+    "text": "That’s a big claim! Meanwhile, in the U.S., New York City Mayor Zohran Mamdani is calling for unity as the nation marks its 250th birthday. He’s reflecting on the founding ideals, which is a poignant reminder during such a divided time."
   },
   {
     "speaker": "Adam",
-    "text": "Yeah, it’s quite alarming. Protests can lead to significant unrest, and it’s concerning when violence escalates."
+    "text": "Then we have the alarming reports from the U.S. regarding the ongoing heatwave. It’s pushing power grids to their limits due to the rising energy demands of AI data centers. It’s a critical moment for energy infrastructure, isn’t it?"
   },
   {
     "speaker": "Eve",
-    "text": "On a lighter note, there’s some chaos in France as people scramble to buy discounted air conditioners during this heatwave."
+    "text": "Definitely! And shifting to the Middle East, there’s a troubling development with the Lebanon-Israel deal. Human rights organizations are warning that it might prevent victims of war crimes from seeking justice in international courts."
   },
   {
     "speaker": "Adam",
-    "text": "Oh man, I can just picture it! People racing into stores like it’s Black Friday. Makes you think about the lengths people will go to for comfort in this heat."
+    "text": "That’s concerning. On the ground, Israeli settlers have been attacking activists and Palestinians trying to access their farmland. It's just heartbreaking to hear these stories."
   },
   {
     "speaker": "Eve",
-    "text": "For sure! And in Thailand, a tragic incident occurred where nine Buddhist monks were killed by a truck driven by an 11-year-old boy. That’s just heartbreaking."
+    "text": "It is. And on a different note, Saudi Arabia’s Vice Foreign Minister attended the funeral of Iran's former Supreme Leader Khamenei, which is quite unexpected given the strained relations between the two countries."
   },
   {
     "speaker": "Adam",
-    "text": "It really is. Such a tragic event involving a child. It raises so many questions about child safety and responsibility."
+    "text": "Such a powerful gesture! Now, shifting gears to sports, Argentina is currently facing off against Cape Verde in the FIFA World Cup. It's exciting to see how Messi's team performs in the knockout stage."
   },
   {
     "speaker": "Eve",
-    "text": "Moving back to the UK, it seems the culture minister quit over abuse and misinformation on social media. That’s quite a statement!"
+    "text": "Right? And speaking of significant events, Iran is holding a week of funeral ceremonies for Khamenei, following his assassination earlier this year in a joint U.S.-Israeli strike."
   },
   {
     "speaker": "Adam",
-    "text": "Yeah, it shows how seriously they’re taking the issue. It’s becoming a huge conversation globally about the role of social media in spreading misinformation."
+    "text": "The political implications of that are enormous. In other news, the recent deal between Lebanon and Israel has sparked outrage, particularly from rights groups who feel it betrays victims of war crimes."
   },
   {
     "speaker": "Eve",
-    "text": "And let’s not forget about Sudan. There's rising concern about mass atrocities in el-Obeid as RSF troops continue their siege. That’s really frightening."
+    "text": "It’s a complex situation. And don’t forget about the buzz surrounding Taylor Swift and Travis Kelce’s wedding. They’re calling it America’s “royal wedding.”"
   },
   {
     "speaker": "Adam",
-    "text": "It’s heartbreaking to hear about civilians caught in such conflicts. It’s a dire situation that needs urgent attention."
+    "text": "Oh wow, that’s going to be a media frenzy! In Peru, Keiko Fujimori has been declared the winner of the presidential race, solidifying her position against left-wing candidate Roberto Sanchez."
   },
   {
     "speaker": "Eve",
-    "text": "Shifting gears a bit, did you see the FIFA World Cup updates? Portugal is facing Croatia today, and it sounds like a big match for them."
+    "text": "That’s a significant political shift in Peru! Now let’s transition into the markets."
   },
   {
     "speaker": "Adam",
-    "text": "Right! With Ronaldo in the lineup, it’s bound to be a thrilling game. I wonder how far Portugal can go this year."
+    "text": "Sure! Starting with the Vanguard S&P 500 ETF, VOO, it closed down just slightly by 0.09%. There’s no major news driving this move today."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely exciting! Now, let’s talk markets a bit. The Vanguard S&P 500 ETF, or VOO, closed down slightly at $684.84, a drop of about 0.09%."
+    "text": "Moving on to NVIDIA, or NVDA, it’s down 1.39% with a strong buy recommendation. Analysts have set a mean price target of around $301.62, which is significantly above its current price."
   },
   {
     "speaker": "Adam",
-    "text": "Not a significant drop, but it’s interesting to see how market sentiments are shifting. Analysts have been discussing diversification strategies lately."
+    "text": "That’s an interesting outlook! Micron Technology, on the other hand, saw a sharper decline of 5.49%. Analysts still rate it as a strong buy with a mean target of $1486."
   },
   {
     "speaker": "Eve",
-    "text": "For sure, and NVIDIA Corporation, or NVDA, saw a larger decline of 1.39%, closing at $194.83. But analysts still rate it as a strong buy with a mean target price of around $301.62."
+    "text": "That’s a big gap! Alphabet, trading under GOOGL, also dipped slightly by 0.36% but maintains a strong buy recommendation with a target mean of $432.65."
   },
   {
     "speaker": "Adam",
-    "text": "That’s noteworthy! With the AI sector booming, it makes sense why analysts are still optimistic about NVIDIA’s future."
+    "text": "Meta Platforms, or META, is down 4.9%, yet analysts are optimistic with a mean target of $828.13."
   },
   {
     "speaker": "Eve",
-    "text": "Micron Technology, or MU, is down even more, closing at $975.56, with a drop of 5.49%. But it also has a strong buy recommendation with a target mean of $1,486."
+    "text": "ASML Holding has also dropped 4% but remains a strong buy with a target mean of $1753. That’s quite the drop for such a key player."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a significant dip! But with a strong buy rating, it seems analysts believe in a rebound."
+    "text": "True! Taiwan Semiconductor, or TSM, is down 2.27%, with analysts giving it a strong buy and a target mean of around $487.56."
   },
   {
     "speaker": "Eve",
-    "text": "Alphabet, GOOGL, closed at $359.91, down 0.36%. It’s also rated as a strong buy with a target mean price of $432.65."
+    "text": "Cameco Corporation, or CCJ, is down 0.87%, but analysts still recommend a buy, with a target mean of $132.25."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a solid outlook. It’s interesting to see how the core tech stocks are performing amid market fluctuations."
+    "text": "Finally, Palantir Technologies, or PLTR, saw a nice uptick of 2.84% and is rated a buy, with a mean target of $182.75."
   },
   {
     "speaker": "Eve",
-    "text": "Meta Platforms, or META, is down 4.9% at $582.90, yet it holds a strong buy recommendation with a mean target of $828.13."
+    "text": "Lots of movement in the tech sector! Now, let’s check out what’s new in podcasts today."
   },
   {
     "speaker": "Adam",
-    "text": "Wow, sounds like some analysts are quite optimistic about META despite the downturn."
+    "text": "There’s a new episode of \"99% Invisible\" titled \"100 Objects #7: The Otis Pamphlet.\" Journalist Jack Hitt discusses the story behind a forgotten proto-founding father and his controversial pamphlet from 1764."
   },
   {
     "speaker": "Eve",
-    "text": "ASML Holding also dropped 4%, closing at $1,769.32, but it has a target mean of $1,753.55."
+    "text": "Sounds intriguing! It’s always fascinating how history shapes our present."
   },
   {
     "speaker": "Adam",
-    "text": "They must be facing some challenges. It’ll be interesting to see how they adapt to the shifting market landscape."
+    "text": "For sure! That wraps up our news for today, Moiz. Safe travels on your way to work!"
   },
   {
     "speaker": "Eve",
-    "text": "Taiwan Semiconductor Manufacturing, or TSM, closed down 2.27% at $434.16, with a mean target of $487.56."
-  },
-  {
-    "speaker": "Adam",
-    "text": "TSM is such a critical player in the chip market. Their performance will be closely watched."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Cameco Corporation, CCJ, saw a slight decline of 0.87% to $96.54 but still has a buy rating with a mean target of about $132.43."
-  },
-  {
-    "speaker": "Adam",
-    "text": "That’s reassuring for investors. And Palantir Technologies, or PLTR, bucked the trend, rising 2.84% to $129.30, with a mean target of $182.75."
-  },
-  {
-    "speaker": "Eve",
-    "text": "That’s impressive growth! It seems like they are gaining traction with analysts recognizing their potential."
-  },
-  {
-    "speaker": "Adam",
-    "text": "It’s clear that despite some market uncertainties, there are still opportunities out there."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Definitely! Well, Moiz, that wraps up our morning news for today."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Drive safe, Moiz!"
+    "text": "Have a great day ahead!"
   }
 ]
