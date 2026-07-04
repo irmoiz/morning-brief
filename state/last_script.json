@@ -1,122 +1,138 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you catch that new ethnic unity law in China?"
+    "text": "Good morning, Moiz! Did you see the news about the US Independence Day? Lebanon's president made a call for the US to stand by his country."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, I saw that! It claims to forge a shared national identity, but it raises concerns about forced assimilation. That's quite a controversial move."
+    "text": "Yeah, that's pretty interesting! Aoun is hoping for a \"new page of hope.\" It’s a significant message on such a symbolic day."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely! And on the topic of controversial matters, the US is facing a significant heatwave that’s putting a strain on energy demands—especially from AI data centers."
+    "text": "Speaking of significant, let's take a look at what's happening around the world."
   },
   {
     "speaker": "Eve",
-    "text": "Oh, that’s wild! It really highlights how our growing reliance on technology is impacting infrastructure."
+    "text": "Absolutely. In recent headlines, we have Morocco making a splash in the World Cup by beating Canada 3-0. Azzedine Ounahi scored two goals to help his team reach the quarterfinals."
   },
   {
     "speaker": "Adam",
-    "text": "Right? Let’s dive into some world news. The situation in China with the new ethnic unity law is drawing a lot of attention. Critics argue that it could lead to forced assimilation of ethnic minorities. The government, on the other hand, insists it’s aimed at creating a unified national identity."
+    "text": "That’s wild! Morocco's performance is a huge achievement, especially in a tournament like this."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a big claim! Meanwhile, in the U.S., New York City Mayor Zohran Mamdani is calling for unity as the nation marks its 250th birthday. He’s reflecting on the founding ideals, which is a poignant reminder during such a divided time."
+    "text": "On the other side of the world, the US is celebrating its 250th anniversary, but it's not all fireworks and parades. There's quite a bit of controversy brewing, especially with President Trump trying to exert his influence over the celebrations."
   },
   {
     "speaker": "Adam",
-    "text": "Then we have the alarming reports from the U.S. regarding the ongoing heatwave. It’s pushing power grids to their limits due to the rising energy demands of AI data centers. It’s a critical moment for energy infrastructure, isn’t it?"
+    "text": "Controversy seems to follow him wherever he goes. Also, in the U.S., discussions continue about the legacy of Indigenous peoples, and whether the nation has truly reckoned with its own history."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely! And shifting to the Middle East, there’s a troubling development with the Lebanon-Israel deal. Human rights organizations are warning that it might prevent victims of war crimes from seeking justice in international courts."
+    "text": "Right, Marc Lamont Hill had a conversation with Kimberle Crenshaw about civil rights, and it raises some important questions about progress."
   },
   {
     "speaker": "Adam",
-    "text": "That’s concerning. On the ground, Israeli settlers have been attacking activists and Palestinians trying to access their farmland. It's just heartbreaking to hear these stories."
+    "text": "Shifting gears to international affairs, there's concern about whether economic pressures might push the Kremlin toward talks with Kyiv. Ukraine's recent strikes on Russian refineries have reportedly sparked a fuel crisis in Russia."
   },
   {
     "speaker": "Eve",
-    "text": "It is. And on a different note, Saudi Arabia’s Vice Foreign Minister attended the funeral of Iran's former Supreme Leader Khamenei, which is quite unexpected given the strained relations between the two countries."
+    "text": "It's a complex situation that could significantly change the dynamics of the conflict."
   },
   {
     "speaker": "Adam",
-    "text": "Such a powerful gesture! Now, shifting gears to sports, Argentina is currently facing off against Cape Verde in the FIFA World Cup. It's exciting to see how Messi's team performs in the knockout stage."
+    "text": "Meanwhile, in the Democratic Republic of Congo, tragedy struck as a boat carrying students capsized, resulting in at least 20 drownings. Witnesses reported that the boat might have had over 200 passengers."
   },
   {
     "speaker": "Eve",
-    "text": "Right? And speaking of significant events, Iran is holding a week of funeral ceremonies for Khamenei, following his assassination earlier this year in a joint U.S.-Israeli strike."
+    "text": "That’s heartbreaking. It’s a stark reminder of the dangers faced during such events."
   },
   {
     "speaker": "Adam",
-    "text": "The political implications of that are enormous. In other news, the recent deal between Lebanon and Israel has sparked outrage, particularly from rights groups who feel it betrays victims of war crimes."
+    "text": "And on a different note, Russian official Dmitry Medvedev made a bold statement calling Iran's control over the Strait of Hormuz a \"nuclear weapon.\""
   },
   {
     "speaker": "Eve",
-    "text": "It’s a complex situation. And don’t forget about the buzz surrounding Taylor Swift and Travis Kelce’s wedding. They’re calling it America’s “royal wedding.”"
+    "text": "Wow, that's quite the assertion! It highlights the geopolitical tensions in the region."
   },
   {
     "speaker": "Adam",
-    "text": "Oh wow, that’s going to be a media frenzy! In Peru, Keiko Fujimori has been declared the winner of the presidential race, solidifying her position against left-wing candidate Roberto Sanchez."
+    "text": "In other news, Trump hinted that Israeli Prime Minister Benjamin Netanyahu could visit the U.S. next week, marking his seventh trip since Trump took office again."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a significant political shift in Peru! Now let’s transition into the markets."
+    "text": "That’s significant, especially considering the current dynamics in the Middle East."
   },
   {
     "speaker": "Adam",
-    "text": "Sure! Starting with the Vanguard S&P 500 ETF, VOO, it closed down just slightly by 0.09%. There’s no major news driving this move today."
+    "text": "And Turkish President Erdogan made comments about Israel not undermining the U.S.-Iran deal, which adds another layer to the ongoing discussions in that region."
   },
   {
     "speaker": "Eve",
-    "text": "Moving on to NVIDIA, or NVDA, it’s down 1.39% with a strong buy recommendation. Analysts have set a mean price target of around $301.62, which is significantly above its current price."
+    "text": "The interplay between those nations is always fascinating to watch."
   },
   {
     "speaker": "Adam",
-    "text": "That’s an interesting outlook! Micron Technology, on the other hand, saw a sharper decline of 5.49%. Analysts still rate it as a strong buy with a mean target of $1486."
+    "text": "Now, let’s pivot to the markets."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a big gap! Alphabet, trading under GOOGL, also dipped slightly by 0.36% but maintains a strong buy recommendation with a target mean of $432.65."
+    "text": "Yes! The Vanguard S&P 500 ETF, or VOO, closed at $684.84, down just 0.09%. Analysts haven’t issued any specific recommendations."
   },
   {
     "speaker": "Adam",
-    "text": "Meta Platforms, or META, is down 4.9%, yet analysts are optimistic with a mean target of $828.13."
+    "text": "NVIDIA, ticker NVDA, dropped 1.39% to close at $194.83. It still has a strong buy rating with a mean price target of over $301."
   },
   {
     "speaker": "Eve",
-    "text": "ASML Holding has also dropped 4% but remains a strong buy with a target mean of $1753. That’s quite the drop for such a key player."
+    "text": "Micron Technology, or MU, fell 5.49% and closed at $975.56, but it also carries a strong buy recommendation with a target mean of $1,486."
   },
   {
     "speaker": "Adam",
-    "text": "True! Taiwan Semiconductor, or TSM, is down 2.27%, with analysts giving it a strong buy and a target mean of around $487.56."
+    "text": "Alphabet, GOOGL, dipped slightly by 0.36% to $359.91. Analysts are bullish with a strong buy recommendation and a mean price target of $432."
   },
   {
     "speaker": "Eve",
-    "text": "Cameco Corporation, or CCJ, is down 0.87%, but analysts still recommend a buy, with a target mean of $132.25."
+    "text": "Meta Platforms, or META, saw a larger drop of 4.9%, closing at $582.90, with an impressive target mean of $828."
   },
   {
     "speaker": "Adam",
-    "text": "Finally, Palantir Technologies, or PLTR, saw a nice uptick of 2.84% and is rated a buy, with a mean target of $182.75."
+    "text": "ASML Holding, ticker ASML, declined 4% to $1,769.32. It also has a strong buy recommendation with a target mean around $1,783."
   },
   {
     "speaker": "Eve",
-    "text": "Lots of movement in the tech sector! Now, let’s check out what’s new in podcasts today."
+    "text": "Taiwan Semiconductor Manufacturing, or TSM, closed at $434.16, down 2.27%. Analysts rate it as a strong buy with a target mean of $490."
   },
   {
     "speaker": "Adam",
-    "text": "There’s a new episode of \"99% Invisible\" titled \"100 Objects #7: The Otis Pamphlet.\" Journalist Jack Hitt discusses the story behind a forgotten proto-founding father and his controversial pamphlet from 1764."
+    "text": "Cameco Corporation, CCJ, saw a slight decrease of 0.87% to $96.54, but it still has a buy recommendation and a mean target of $132."
   },
   {
     "speaker": "Eve",
-    "text": "Sounds intriguing! It’s always fascinating how history shapes our present."
+    "text": "Palantir Technologies, or PLTR, rose 2.84% closing at $129.30, and it holds a buy recommendation with a target mean of $183."
   },
   {
     "speaker": "Adam",
-    "text": "For sure! That wraps up our news for today, Moiz. Safe travels on your way to work!"
+    "text": "Quite a mix in the markets today!"
   },
   {
     "speaker": "Eve",
-    "text": "Have a great day ahead!"
+    "text": "Definitely! Now, let’s see what’s new in your podcasts today."
+  },
+  {
+    "speaker": "Adam",
+    "text": "There’s a new episode of \"People I (Mostly) Admire\" featuring Bruce Friedrich. He discusses a better way to eat meat and talks about the negative impacts of factory farming."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Sounds intriguing! If you're interested in food innovations and environmental issues, it could be worth a listen."
+  },
+  {
+    "speaker": "Adam",
+    "text": "And that wraps up our news for today, Moiz!"
+  },
+  {
+    "speaker": "Eve",
+    "text": "Drive safely, and have a great day!"
   }
 ]
