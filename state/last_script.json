@@ -1,138 +1,182 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you see the news about the US Independence Day? Lebanon's president made a call for the US to stand by his country."
+    "text": "Good morning, Moiz! Did you catch that story about the rise of right-wing populism in Latin America?"
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, that's pretty interesting! Aoun is hoping for a \"new page of hope.\" It’s a significant message on such a symbolic day."
+    "text": "I did! It seems like conservatives are really gaining ground in elections across the region. That’s bound to have some significant implications."
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of significant, let's take a look at what's happening around the world."
+    "text": "Absolutely! Let’s dive into today’s world news."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely. In recent headlines, we have Morocco making a splash in the World Cup by beating Canada 3-0. Azzedine Ounahi scored two goals to help his team reach the quarterfinals."
+    "text": "Starting off in New York City, a Fourth of July celebration turned tragic with a shooting injuring eight people, including four children. It’s a stark reminder of ongoing issues with gun violence in the U.S."
   },
   {
     "speaker": "Adam",
-    "text": "That’s wild! Morocco's performance is a huge achievement, especially in a tournament like this."
+    "text": "Right, it’s disheartening, especially during a holiday meant for celebration."
   },
   {
     "speaker": "Eve",
-    "text": "On the other side of the world, the US is celebrating its 250th anniversary, but it's not all fireworks and parades. There's quite a bit of controversy brewing, especially with President Trump trying to exert his influence over the celebrations."
+    "text": "Moving to Venezuela, rescue teams are relentless in their search for earthquake survivors in La Guaira State. Volunteers have pledged to continue the search despite the challenges."
   },
   {
     "speaker": "Adam",
-    "text": "Controversy seems to follow him wherever he goes. Also, in the U.S., discussions continue about the legacy of Indigenous peoples, and whether the nation has truly reckoned with its own history."
+    "text": "That’s inspiring, but it also highlights the dire situation there. The community's commitment speaks volumes."
   },
   {
     "speaker": "Eve",
-    "text": "Right, Marc Lamont Hill had a conversation with Kimberle Crenshaw about civil rights, and it raises some important questions about progress."
+    "text": "Over in Australia, they’ve just clinched a record seventh Women’s T20 World Cup title, thrashing England by seven wickets. Beth Mooney and Phoebe Litchfield were the stars of the match!"
   },
   {
     "speaker": "Adam",
-    "text": "Shifting gears to international affairs, there's concern about whether economic pressures might push the Kremlin toward talks with Kyiv. Ukraine's recent strikes on Russian refineries have reportedly sparked a fuel crisis in Russia."
+    "text": "What a performance! It’s great to see women's sports getting the recognition they deserve."
   },
   {
     "speaker": "Eve",
-    "text": "It's a complex situation that could significantly change the dynamics of the conflict."
+    "text": "Definitely! Now, in a more somber note, a 12-tonne whale has been removed from a beach in the Democratic Republic of Congo."
   },
   {
     "speaker": "Adam",
-    "text": "Meanwhile, in the Democratic Republic of Congo, tragedy struck as a boat carrying students capsized, resulting in at least 20 drownings. Witnesses reported that the boat might have had over 200 passengers."
+    "text": "That’s quite a sight! I wonder how it ended up there."
   },
   {
     "speaker": "Eve",
-    "text": "That’s heartbreaking. It’s a stark reminder of the dangers faced during such events."
+    "text": "In geopolitical news, Russia claims that Ukraine has rejected a local ceasefire over the contested city of Kostiantynivka, which is getting quite tense."
   },
   {
     "speaker": "Adam",
-    "text": "And on a different note, Russian official Dmitry Medvedev made a bold statement calling Iran's control over the Strait of Hormuz a \"nuclear weapon.\""
+    "text": "Yeah, the situation in Eastern Europe continues to be volatile."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, that's quite the assertion! It highlights the geopolitical tensions in the region."
+    "text": "And then there’s the aftermath of Iran's leader Ali Khamenei’s death, where massive crowds gathered in Tehran to mourn him, with some chanting for revenge against the U.S. and Israel."
   },
   {
     "speaker": "Adam",
-    "text": "In other news, Trump hinted that Israeli Prime Minister Benjamin Netanyahu could visit the U.S. next week, marking his seventh trip since Trump took office again."
+    "text": "Such a complex situation! The outpouring of emotion shows just how divided things are."
   },
   {
     "speaker": "Eve",
-    "text": "That’s significant, especially considering the current dynamics in the Middle East."
+    "text": "In sports, Naomi Osaka made headlines by knocking out top-seeded Aryna Sabalenka to reach the Wimbledon quarterfinals."
   },
   {
     "speaker": "Adam",
-    "text": "And Turkish President Erdogan made comments about Israel not undermining the U.S.-Iran deal, which adds another layer to the ongoing discussions in that region."
+    "text": "That’s a huge upset! She’s really making her mark at this tournament."
   },
   {
     "speaker": "Eve",
-    "text": "The interplay between those nations is always fascinating to watch."
+    "text": "Palestinians are also making their voices heard by rallying outside Al-Shifa hospital, demanding medical evacuations from Gaza as travel restrictions continue."
   },
   {
     "speaker": "Adam",
-    "text": "Now, let’s pivot to the markets."
+    "text": "It’s a significant issue that needs more attention."
   },
   {
     "speaker": "Eve",
-    "text": "Yes! The Vanguard S&P 500 ETF, or VOO, closed at $684.84, down just 0.09%. Analysts haven’t issued any specific recommendations."
+    "text": "Lastly, Trump expressed gratitude to FIFA for suspending a ban on player Balogun, allowing him to play in the World Cup match against Belgium."
   },
   {
     "speaker": "Adam",
-    "text": "NVIDIA, ticker NVDA, dropped 1.39% to close at $194.83. It still has a strong buy rating with a mean price target of over $301."
+    "text": "That’s quite a twist! It’s interesting how sports and politics intertwine."
   },
   {
     "speaker": "Eve",
-    "text": "Micron Technology, or MU, fell 5.49% and closed at $975.56, but it also carries a strong buy recommendation with a target mean of $1,486."
+    "text": "Now, shifting gears to the markets, let’s see how they’re faring today."
   },
   {
     "speaker": "Adam",
-    "text": "Alphabet, GOOGL, dipped slightly by 0.36% to $359.91. Analysts are bullish with a strong buy recommendation and a mean price target of $432."
+    "text": "Starting with VOO, the Vanguard S&P 500 ETF, it dipped just slightly by 0.09%. There are some discussions in the market about its performance relative to fees, but nothing too alarming."
   },
   {
     "speaker": "Eve",
-    "text": "Meta Platforms, or META, saw a larger drop of 4.9%, closing at $582.90, with an impressive target mean of $828."
+    "text": "And NVIDIA, or NVDA, saw a decline of 1.39%, but analysts are still rating it as a strong buy with a mean target price of about $301.62."
   },
   {
     "speaker": "Adam",
-    "text": "ASML Holding, ticker ASML, declined 4% to $1,769.32. It also has a strong buy recommendation with a target mean around $1,783."
+    "text": "That’s a significant difference from its current price! Investors seem to believe in its potential long-term growth."
   },
   {
     "speaker": "Eve",
-    "text": "Taiwan Semiconductor Manufacturing, or TSM, closed at $434.16, down 2.27%. Analysts rate it as a strong buy with a target mean of $490."
+    "text": "Micron Technology, or MU, dropped 5.49% but remains a strong buy with a mean target of $1486."
   },
   {
     "speaker": "Adam",
-    "text": "Cameco Corporation, CCJ, saw a slight decrease of 0.87% to $96.54, but it still has a buy recommendation and a mean target of $132."
+    "text": "That’s quite an optimistic outlook despite the recent dip."
   },
   {
     "speaker": "Eve",
-    "text": "Palantir Technologies, or PLTR, rose 2.84% closing at $129.30, and it holds a buy recommendation with a target mean of $183."
+    "text": "Alphabet, ticker GOOGL, is down 0.36%, but it still has a strong buy rating with a target mean of $432.29."
   },
   {
     "speaker": "Adam",
-    "text": "Quite a mix in the markets today!"
+    "text": "That’s interesting, especially with its recent doubling in value over the year."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely! Now, let’s see what’s new in your podcasts today."
+    "text": "Meta, or META, fell 4.9%, yet analysts are still bullish with a target mean around $828."
   },
   {
     "speaker": "Adam",
-    "text": "There’s a new episode of \"People I (Mostly) Admire\" featuring Bruce Friedrich. He discusses a better way to eat meat and talks about the negative impacts of factory farming."
+    "text": "It’s fascinating to see how these tech stocks are all intertwined with market sentiment."
   },
   {
     "speaker": "Eve",
-    "text": "Sounds intriguing! If you're interested in food innovations and environmental issues, it could be worth a listen."
+    "text": "ASML Holding saw a drop of 4.0%, maintaining a strong buy recommendation with its target mean at $1781."
   },
   {
     "speaker": "Adam",
-    "text": "And that wraps up our news for today, Moiz!"
+    "text": "Stocks like ASML are crucial in the tech supply chain, so that’ll be one to watch."
   },
   {
     "speaker": "Eve",
-    "text": "Drive safely, and have a great day!"
+    "text": "Taiwan Semiconductor, TSM, fell 2.27%. It’s also rated strongly, with a mean target of $490.34."
+  },
+  {
+    "speaker": "Adam",
+    "text": "That’s a solid target. With the demand for chips, they’re in a good position long-term."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Cameco Corporation, CCJ, slightly decreased by 0.87% but is rated a buy with a target mean of $132.25."
+  },
+  {
+    "speaker": "Adam",
+    "text": "There’s been some buzz lately about their mining operations, which could impact their stock."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Lastly, Palantir Technologies, PLTR, surged by 2.84% and has a buy rating with a target mean of $183.12."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Now that’s an interesting rise! Investors seem hopeful about its potential growth in AI."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Seems like there’s a lot of excitement around tech stocks lately."
+  },
+  {
+    "speaker": "Adam",
+    "text": "For sure! Now, let’s move on to new podcast episodes, but it looks like we don’t have anything new today."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Sometimes it’s nice to have a break, too!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "And that wraps up today's news, Moiz."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Drive safe, and we’ll catch you next time!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "Take care!"
   }
 ]
