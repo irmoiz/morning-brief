@@ -1,182 +1,114 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you catch that story about the rise of right-wing populism in Latin America?"
+    "text": "Good morning, Moiz! Did you hear about Macron visiting Syria? That’s quite a bold move."
   },
   {
     "speaker": "Eve",
-    "text": "I did! It seems like conservatives are really gaining ground in elections across the region. That’s bound to have some significant implications."
+    "text": "Yeah, it’s definitely a significant step, considering he’s the first leader from Western Europe to do so since the Assad regime was overthrown. It raises a lot of questions about international relations!"
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely! Let’s dive into today’s world news."
+    "text": "Speaking of international relations, let’s take a look at some of the top stories from around the world."
   },
   {
     "speaker": "Eve",
-    "text": "Starting off in New York City, a Fourth of July celebration turned tragic with a shooting injuring eight people, including four children. It’s a stark reminder of ongoing issues with gun violence in the U.S."
+    "text": "The US Supreme Court has cleared the way for Texas to enforce an app age verification law. This means parents will need to approve app downloads for minors."
   },
   {
     "speaker": "Adam",
-    "text": "Right, it’s disheartening, especially during a holiday meant for celebration."
+    "text": "Right, and this legal battle has been ongoing, so it’ll be interesting to see how it affects app usage among kids."
   },
   {
     "speaker": "Eve",
-    "text": "Moving to Venezuela, rescue teams are relentless in their search for earthquake survivors in La Guaira State. Volunteers have pledged to continue the search despite the challenges."
+    "text": "Meanwhile, NATO is urging its members to come up with credible plans to reach defense spending targets, especially with the upcoming summit in Turkiye."
   },
   {
     "speaker": "Adam",
-    "text": "That’s inspiring, but it also highlights the dire situation there. The community's commitment speaks volumes."
+    "text": "That’s right, and the US has warned of consequences for those who don’t comply. It’s a clear sign that they have high expectations from their allies."
   },
   {
     "speaker": "Eve",
-    "text": "Over in Australia, they’ve just clinched a record seventh Women’s T20 World Cup title, thrashing England by seven wickets. Beth Mooney and Phoebe Litchfield were the stars of the match!"
+    "text": "In other news, crowds in Pamplona displayed a \"Destroy Israel\" banner during the San Fermin bull run. That’s a pretty strong political statement amid the festivities."
   },
   {
     "speaker": "Adam",
-    "text": "What a performance! It’s great to see women's sports getting the recognition they deserve."
+    "text": "It really is. Shifting gears a bit, let’s talk about the world of sports. There’s a lot happening there as well!"
   },
   {
     "speaker": "Eve",
-    "text": "Definitely! Now, in a more somber note, a 12-tonne whale has been removed from a beach in the Democratic Republic of Congo."
+    "text": "Absolutely! Kylian Mbappe and the French Football Federation hit back at a Paraguayan senator who made a racist remark about him. This comes after Mbappe's performance helped France knock Paraguay out of the World Cup."
   },
   {
     "speaker": "Adam",
-    "text": "That’s quite a sight! I wonder how it ended up there."
+    "text": "It’s disheartening to see such comments, especially coming from a public figure. Sports should be about unity, not division."
   },
   {
     "speaker": "Eve",
-    "text": "In geopolitical news, Russia claims that Ukraine has rejected a local ceasefire over the contested city of Kostiantynivka, which is getting quite tense."
+    "text": "And in the FIFA World Cup, the USA is set to face Belgium in the last 16, but it's overshadowed by a suspension controversy surrounding Balogun."
   },
   {
     "speaker": "Adam",
-    "text": "Yeah, the situation in Eastern Europe continues to be volatile."
+    "text": "Definitely a lot of drama off the field as well. Now, let’s quickly touch on some business news."
   },
   {
     "speaker": "Eve",
-    "text": "And then there’s the aftermath of Iran's leader Ali Khamenei’s death, where massive crowds gathered in Tehran to mourn him, with some chanting for revenge against the U.S. and Israel."
+    "text": "Sure! The Vanguard S&P 500 ETF has seen a slight uptick of 0.84%. No significant news affecting this one right now."
   },
   {
     "speaker": "Adam",
-    "text": "Such a complex situation! The outpouring of emotion shows just how divided things are."
+    "text": "NVIDIA is still a strong buy, with a recent increase of 0.37%. Its mean target price is sitting at around $301.62, which is quite a jump from its current price of $195.55."
   },
   {
     "speaker": "Eve",
-    "text": "In sports, Naomi Osaka made headlines by knocking out top-seeded Aryna Sabalenka to reach the Wimbledon quarterfinals."
+    "text": "That’s a significant gap! Investors must be pretty optimistic about their future performance."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a huge upset! She’s really making her mark at this tournament."
+    "text": "Micron Technology had a 0.94% increase as well and has a strong buy recommendation, with a mean target of $1486. This suggests analysts are expecting major growth."
   },
   {
     "speaker": "Eve",
-    "text": "Palestinians are also making their voices heard by rallying outside Al-Shifa hospital, demanding medical evacuations from Gaza as travel restrictions continue."
+    "text": "Yes, and the stock is still recovering after recent fluctuations, so that could be a good sign for investors."
   },
   {
     "speaker": "Adam",
-    "text": "It’s a significant issue that needs more attention."
+    "text": "Alphabet Inc. saw a rise of 1.82% and is also rated a strong buy, with a mean target of $432.29. The tech sector really seems to be bouncing back."
   },
   {
     "speaker": "Eve",
-    "text": "Lastly, Trump expressed gratitude to FIFA for suspending a ban on player Balogun, allowing him to play in the World Cup match against Belgium."
+    "text": "Meta Platforms is following suit with a 2.98% increase, also rated strong buy, and targeting about $828.17. The tech sector’s resurgence is quite noticeable."
   },
   {
     "speaker": "Adam",
-    "text": "That’s quite a twist! It’s interesting how sports and politics intertwine."
+    "text": "It really is! ASML Holding is up 3.15%, and like the others, it carries a strong buy recommendation. Their mean price target is $1783.23."
   },
   {
     "speaker": "Eve",
-    "text": "Now, shifting gears to the markets, let’s see how they’re faring today."
+    "text": "And Taiwan Semiconductor is enjoying a 4.06% increase, also rated strong buy with a target mean of $490.34. It seems like semiconductor stocks are really heating up."
   },
   {
     "speaker": "Adam",
-    "text": "Starting with VOO, the Vanguard S&P 500 ETF, it dipped just slightly by 0.09%. There are some discussions in the market about its performance relative to fees, but nothing too alarming."
+    "text": "Definitely a sector to watch! Now, let’s wrap things up with a quick mention of Cameco Corporation, which is up 0.99% and has a buy rating with a target mean of $132.21."
   },
   {
     "speaker": "Eve",
-    "text": "And NVIDIA, or NVDA, saw a decline of 1.39%, but analysts are still rating it as a strong buy with a mean target price of about $301.62."
+    "text": "And finally, Palantir Technologies is seeing a 2.51% increase, also rated buy. Its target mean is around $183.12."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a significant difference from its current price! Investors seem to believe in its potential long-term growth."
+    "text": "That’s a lot of movement in the markets today!"
   },
   {
     "speaker": "Eve",
-    "text": "Micron Technology, or MU, dropped 5.49% but remains a strong buy with a mean target of $1486."
+    "text": "For sure, it’s going to be interesting to see how these trends develop."
   },
   {
     "speaker": "Adam",
-    "text": "That’s quite an optimistic outlook despite the recent dip."
+    "text": "Alright, Moiz, that’s your news for this morning!"
   },
   {
     "speaker": "Eve",
-    "text": "Alphabet, ticker GOOGL, is down 0.36%, but it still has a strong buy rating with a target mean of $432.29."
-  },
-  {
-    "speaker": "Adam",
-    "text": "That’s interesting, especially with its recent doubling in value over the year."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Meta, or META, fell 4.9%, yet analysts are still bullish with a target mean around $828."
-  },
-  {
-    "speaker": "Adam",
-    "text": "It’s fascinating to see how these tech stocks are all intertwined with market sentiment."
-  },
-  {
-    "speaker": "Eve",
-    "text": "ASML Holding saw a drop of 4.0%, maintaining a strong buy recommendation with its target mean at $1781."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Stocks like ASML are crucial in the tech supply chain, so that’ll be one to watch."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Taiwan Semiconductor, TSM, fell 2.27%. It’s also rated strongly, with a mean target of $490.34."
-  },
-  {
-    "speaker": "Adam",
-    "text": "That’s a solid target. With the demand for chips, they’re in a good position long-term."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Cameco Corporation, CCJ, slightly decreased by 0.87% but is rated a buy with a target mean of $132.25."
-  },
-  {
-    "speaker": "Adam",
-    "text": "There’s been some buzz lately about their mining operations, which could impact their stock."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Lastly, Palantir Technologies, PLTR, surged by 2.84% and has a buy rating with a target mean of $183.12."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Now that’s an interesting rise! Investors seem hopeful about its potential growth in AI."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Seems like there’s a lot of excitement around tech stocks lately."
-  },
-  {
-    "speaker": "Adam",
-    "text": "For sure! Now, let’s move on to new podcast episodes, but it looks like we don’t have anything new today."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Sometimes it’s nice to have a break, too!"
-  },
-  {
-    "speaker": "Adam",
-    "text": "And that wraps up today's news, Moiz."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Drive safe, and we’ll catch you next time!"
-  },
-  {
-    "speaker": "Adam",
-    "text": "Take care!"
+    "text": "Drive safe and have a great day at work!"
   }
 ]
