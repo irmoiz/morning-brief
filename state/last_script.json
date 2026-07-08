@@ -1,146 +1,198 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you hear about SpaceX joining the Nasdaq-100? They’re bypassing the usual three-month trading rule for inclusion."
+    "text": "Good morning, Moiz! You won’t believe this—Trump departed the NATO summit using an older Air Force One."
   },
   {
     "speaker": "Eve",
-    "text": "Oh wow, that’s pretty interesting! It’s exciting to see how they’re shaking things up in the stock market."
+    "text": "Oh wow, that's unexpected! He arrived on a new Qatar-gifted aircraft, so it's quite the contrast."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely! Speaking of shakes in the market, let’s dive into some world news today."
+    "text": "Right? It’s like arriving in a brand-new car but leaving in an old clunker. Speaking of NATO, there are some interesting global developments today."
   },
   {
     "speaker": "Eve",
-    "text": "Right, we’ve got a lot to cover. Starting with Venezuela—mass burials have begun for victims of a devastating earthquake, with the death toll rising to 3,535."
+    "text": "Absolutely! Let’s dive into the world news."
   },
   {
     "speaker": "Adam",
-    "text": "That’s heartbreaking. La Guaira’s La Esperanza Cemetery is seeing these mass burials. It’s a grim reminder of the disaster’s impact on the community."
+    "text": "Starting off, the U.S. is conducting a new wave of strikes on Iran as a ceasefire appears to be faltering. Trump declared the ceasefire “over,” suggesting that talks for lasting peace are still on the table."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, and in Europe, the controversy around French MEP Rima Hassan continues as she arrives at her trial for allegedly glorifying terrorism. She expressed a stark sentiment, saying, “No one is safe anymore.”"
+    "text": "That’s intense. It seems like tensions in the Gulf are escalating."
   },
   {
     "speaker": "Adam",
-    "text": "It’s a significant statement, reflecting the current tensions surrounding political discourse in Europe."
+    "text": "They really are. In other news, former Obama official Rahm Emanuel has been stirring the pot, indicating that Israel should no longer expect unconditional U.S. aid. This reflects a significant shift in Democratic sentiments."
   },
   {
     "speaker": "Eve",
-    "text": "Meanwhile, in the U.S., Senator Mitch McConnell has been hospitalized since June 14, and there are growing concerns about his health and when he might return to work."
+    "text": "That's a bold statement coming from someone potentially eyeing a presidential run in 2028."
   },
   {
     "speaker": "Adam",
-    "text": "That’s raised quite a few eyebrows. Keeping up with his health is crucial for the Senate's functionality."
+    "text": "Definitely. And in a completely different arena, a Venezuelan fashion designer has made a shocking career shift—he’s swapped designing dresses for making body bags."
   },
   {
     "speaker": "Eve",
-    "text": "On another note, the Canadian province is suing OpenAI, alleging that the company ignored warnings about violent ChatGPT prompts linked to a mass shooting suspect."
+    "text": "That’s wild! It really highlights the dire situation in Venezuela."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a serious accusation. It raises questions about the responsibilities of AI developers in monitoring user interactions."
+    "text": "For sure. Meanwhile, U.S. summer travel is taking a hit, with 45 percent of Americans skipping vacations due to soaring airfares and fuel costs."
   },
   {
     "speaker": "Eve",
-    "text": "And let’s not forget Trump’s recent comments at the NATO summit in Turkiye. He’s criticized NATO allies regarding their defense spending and support over the Iran conflict."
+    "text": "Wow, inflation is really affecting people’s travel plans."
   },
   {
     "speaker": "Adam",
-    "text": "His rhetoric is always polarizing. It’ll be interesting to see how this impacts international relations moving forward."
+    "text": "Speaking of which, Marine Le Pen has been cleared to run in France’s 2027 presidential election, which could shake things up."
   },
   {
     "speaker": "Eve",
-    "text": "Just as shocking, a deadly landslide in India has buried a tunnel construction site in Kerala, leading to at least five fatalities."
+    "text": "That’s interesting—her return to the political scene could have major implications for French politics!"
   },
   {
     "speaker": "Adam",
-    "text": "That’s terrible news. Natural disasters really highlight the unpredictability of life and work in those regions."
+    "text": "And in troubling news, there’s an ongoing search for the crew of a Pakistani cargo plane that crashed into the sea. Rescuers have found submerged wreckage, but details are still unfolding."
   },
   {
     "speaker": "Eve",
-    "text": "Switching gears, there was also a controversial moment in the World Cup match between Argentina and Egypt where VAR disallowed a goal, creating quite the stir among fans and players alike."
+    "text": "Those situations are always tough. I hope they find survivors."
   },
   {
     "speaker": "Adam",
-    "text": "Oh, that’s wild! Emotions must have been running high on the field."
+    "text": "Absolutely. Turning to sports, Argentina fans are facing accusations of violence and racism from Egypt and Cape Verde supporters."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely! And Argentina staged a stunning late comeback to win that match 3-2, advancing to the quarterfinals."
+    "text": "That’s unfortunate to hear, especially after such a high-stakes tournament."
   },
   {
     "speaker": "Adam",
-    "text": "A huge win for them! Now, let’s turn to the markets for a quick rundown."
+    "text": "In environmental news, there’s a mass cleanup underway in China’s Guangxi province after severe flooding has affected many residents."
   },
   {
     "speaker": "Eve",
-    "text": "Sure! The Vanguard S&P 500 ETF, or VOO, closed down 0.51%. Analysts are questioning whether it’s worth holding onto given recent market fluctuations."
+    "text": "It’s heartbreaking to see those kinds of natural disasters."
   },
   {
     "speaker": "Adam",
-    "text": "Right, and NVIDIA Corporation, symbol NVDA, saw a rise of 0.71%. It’s rated as a strong buy, with a mean price target of about $301.62, which is quite a jump from its current price."
+    "text": "Lastly, Trump recently made headlines again by stating that the U.S. \"may take over Kharg Island,\" which is crucial for Iran’s oil exports."
   },
   {
     "speaker": "Eve",
-    "text": "That’s promising for investors. Micron Technology, on the other hand, dropped 4.71%, but remains a strong buy with an analyst target of $1,486."
+    "text": "That’s a significant escalation. It puts a spotlight on the region’s geopolitics."
   },
   {
     "speaker": "Adam",
-    "text": "It’s interesting how market dynamics can shift so rapidly. Then we have Alphabet Inc. with a slight uptick of 0.16%, rated as a strong buy as well."
+    "text": "It really does. Now let’s shift gears to the markets, where some interesting movements have been taking place."
   },
   {
     "speaker": "Eve",
-    "text": "Their target mean is around $432.29. Definitely a stock to keep an eye on!"
+    "text": "Yes, what’s happening there?"
   },
   {
     "speaker": "Adam",
-    "text": "Meta Platforms closed up 2.55% and is also a strong buy, with a target of around $828.17."
+    "text": "Starting with the Vanguard S&P 500 ETF, or VOO, it closed at $685.26, down slightly by 0.26%."
   },
   {
     "speaker": "Eve",
-    "text": "Nice to see some positivity there. ASML Holding, however, dropped 4.26% but still holds a strong buy rating with a target mean of $1,778."
+    "text": "Not a huge drop, but concerning nonetheless. Any analysts weighing in on its future?"
   },
   {
     "speaker": "Adam",
-    "text": "And Taiwan Semiconductor saw a decline of 4.25%, yet analysts remain bullish with a mean target of $490.34."
+    "text": "Nothing major to report about VOO, but moving on to NVIDIA, which saw a gain of 3.65%, closing at $204.12. Analysts are still pushing a strong buy, with a mean price target of about $301.62."
   },
   {
     "speaker": "Eve",
-    "text": "Cameco Corporation is another one to watch. It fell 2.9% but has a buy recommendation and a target mean of $132.34."
+    "text": "That’s a significant upside! What’s driving that excitement?"
   },
   {
     "speaker": "Adam",
-    "text": "Last but not least, Palantir Technologies rose 1.38%, rated as a buy with a target of $183.12."
+    "text": "Analysts are focused on NVIDIA's growth potential in AI and data centers."
   },
   {
     "speaker": "Eve",
-    "text": "It’s fascinating to see the variety in stock performance."
+    "text": "Makes sense given the current tech landscape."
   },
   {
     "speaker": "Adam",
-    "text": "Now, let’s move on to something lighter. There’s a new episode out in the podcast world!"
+    "text": "Next up is Micron Technology, which climbed 1.11% to $948.80. It also has a strong buy recommendation, with a mean target of $1,486."
   },
   {
     "speaker": "Eve",
-    "text": "Yes! “99% Invisible” has a new episode titled “The Score.” It dives into how we keep score of everything these days and the implications of that."
+    "text": "Investors are clearly bullish on that one."
   },
   {
     "speaker": "Adam",
-    "text": "Sounds intriguing! It’s definitely worth a listen if you’re interested in the intersection of numbers and our values."
+    "text": "Alphabet, or GOOGL, saw a decline of 1.39%, closing at $361.92, but it's still rated as a strong buy with a target mean of $432."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely!"
+    "text": "That’s a slight dip, but analysts still see long-term value there."
   },
   {
     "speaker": "Adam",
-    "text": "Well, that wraps up our news for today, Moiz."
+    "text": "Exactly. Meta Platforms, Inc. also dipped by 2.02% to $603.12, but it still holds a strong buy recommendation."
   },
   {
     "speaker": "Eve",
-    "text": "Drive safe, and take care!"
+    "text": "That's curious! What’s the target for Meta?"
+  },
+  {
+    "speaker": "Adam",
+    "text": "The mean target is around $828.16."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Interesting. Moving on, ASML Holding went up by 1.22%, closing at $1,768.65, with a strong buy rating and a target mean of $1,833.16."
+  },
+  {
+    "speaker": "Adam",
+    "text": "There's a lot of excitement in the semiconductor sector!"
+  },
+  {
+    "speaker": "Eve",
+    "text": "Definitely! Taiwan Semiconductor Manufacturing also saw a gain of 1.02%, closing at $436.98, and it’s rated strong buy as well."
+  },
+  {
+    "speaker": "Adam",
+    "text": "That’s great news for the tech industry."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Cameco Corporation, CCJ, is rated as a buy and marginally up by 0.06%, closing at $94.73."
+  },
+  {
+    "speaker": "Adam",
+    "text": "It seems uranium stocks are gaining traction despite some volatility in the market."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Lastly, Palantir Technologies dropped by 1.6% to $132.22, but it still holds a buy recommendation."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Analysts are optimistic about its future despite the recent decline."
+  },
+  {
+    "speaker": "Eve",
+    "text": "That wraps up our market overview."
+  },
+  {
+    "speaker": "Adam",
+    "text": "And with that, we’ll conclude today’s episode."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Thanks for joining us, Moiz!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "Have a great day at work!"
   }
 ]
