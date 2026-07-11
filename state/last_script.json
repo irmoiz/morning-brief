@@ -1,106 +1,142 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! It’s July 10th, and it looks like there’s a lot going on around the globe today."
+    "text": "Good morning, Moiz! Did you see that Pakistan is deporting thousands of Afghans due to national security concerns? That's wild!"
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, I saw that Israel’s airstrikes have caused significant damage to historic sites in Lebanon. That’s just heartbreaking."
+    "text": "Yeah, it’s pretty intense. I’m curious about the implications of that move, especially for the Afghan families involved."
   },
   {
     "speaker": "Adam",
-    "text": "It really is. Let’s dive into that and other world news."
+    "text": "Right? And speaking of significant events, let’s dive into some world news."
   },
   {
     "speaker": "Eve",
-    "text": "Israeli air strikes on southern Lebanon have led to catastrophic destruction, damaging not only homes but also historic landmarks. This escalation is concerning, especially given the region's fragile status."
+    "text": "First up, thousands gathered in Srebrenica to commemorate the 31st anniversary of the genocide there. Ten newly identified victims were buried as they remembered the over 8,000 Bosnian Muslim men and boys who lost their lives. It’s heartbreaking that these memories are still so fresh for many."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. And shifting gears, Ukraine has been targeting Russia’s major oil refineries, which has caused chaos at fuel stations across Russia. It seems like the conflict is really affecting daily life there."
+    "text": "Absolutely. It’s a poignant reminder of the past and the ongoing struggles for justice. Meanwhile, in Venezuela, the situation is just as grim. The death toll from recent earthquakes has surged past 4,000, and families are still holding out hope to find their loved ones."
   },
   {
     "speaker": "Eve",
-    "text": "Right, and with this targeting, a nationwide fuel shortage has sparked panic among Russian citizens. It’s wild how warfare can disrupt basic necessities."
+    "text": "That’s devastating. The human toll during such natural disasters is often beyond comprehension."
   },
   {
     "speaker": "Adam",
-    "text": "Meanwhile, in the U.S., Donald Trump has removed the final members of the independent Election Commission. This has left the body vacant just as he’s pushing for changes to voting rules."
+    "text": "Shifting gears a bit, US Representative Ro Khanna has spoken out about being harassed during a visit to Israeli settlements. He accused the Israeli army of supporting the settlers in these incidents."
   },
   {
     "speaker": "Eve",
-    "text": "Huh, that could have significant implications for future elections. Speaking of significant, Egypt’s World Cup team has returned home to a hero’s welcome after their controversial exit from the tournament."
+    "text": "That’s a significant statement from a US lawmaker. It highlights the complexities and tensions in that region."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a remarkable story! They may have been eliminated, but the public support for them seems strong. Switching to politics, there’s also an interesting feature about how politicians and sanctioned states are embracing cryptocurrency."
+    "text": "It really does. In other news, the Trump administration has subpoenaed New York Times reporters over their coverage. This has raised alarms among press freedom advocates, who argue it's an attempt to intimidate journalists."
   },
   {
     "speaker": "Eve",
-    "text": "It’s fascinating, especially considering the volatility of Bitcoin recently. They’re moving beyond just investing and using it in politics and sanctions."
+    "text": "Wow, that’s concerning for the state of journalism in the US. Freedom of the press is critical for democracy."
   },
   {
     "speaker": "Adam",
-    "text": "Lastly, there was a rematch between France and Morocco in a World Cup semi-final. France came out on top, but Morocco’s focus now shifts to co-hosting the 2030 World Cup."
+    "text": "Next, we have some sad news from the sports world. South African footballer Jayden Adams passed away after playing in the FIFA World Cup. He was only 25 years old and had just helped his team reach the round of 32."
   },
   {
     "speaker": "Eve",
-    "text": "That’s right, and it’s a great opportunity for Morocco despite their exit. Now, let’s look at the markets."
+    "text": "That’s such a tragedy. It’s a stark reminder of how fleeting life can be, especially in high-pressure environments like professional sports."
   },
   {
     "speaker": "Adam",
-    "text": "Starting with the Vanguard S&P 500 ETF, it closed at $693.86, up about 0.46%. Analysts don't have a specific target mean for it right now."
+    "text": "Definitely. Moving on, US and Lebanese delegations are meeting to discuss the withdrawal of Israeli 'pilot zones.' This could be a significant step towards easing tensions in the region."
   },
   {
     "speaker": "Eve",
-    "text": "Then we have NVIDIA, which saw a significant jump of 4.03%, closing at $210.96. Analysts are giving it a strong buy recommendation, with a mean target price of around $301.62."
+    "text": "Fingers crossed that these discussions lead to positive outcomes. Meanwhile, in India, a landslide during heavy monsoon rains has forced evacuations in Shimla, as authorities blame a construction firm for the disaster."
   },
   {
     "speaker": "Adam",
-    "text": "Micron Technology, on the other hand, closed down by 1.24% at $979.30, but it still has a strong buy rating with a target mean of $1,486."
+    "text": "It’s worrying how environmental issues and human decisions can collide so dramatically."
   },
   {
     "speaker": "Eve",
-    "text": "Alphabet is also in the spotlight, closing at $357.18, down slightly by 0.48%. Analysts rate it as a strong buy with a target mean of $432.10."
+    "text": "On a lighter note, let’s talk about the latest from Wimbledon! Linda Noskova defeated Karolina Muchova to claim her first Grand Slam title."
   },
   {
     "speaker": "Adam",
-    "text": "Meta Platforms had a better day, up 5.97% at $669.21, and it holds a strong buy recommendation with a target mean of $827.91."
+    "text": "That’s impressive! She’s now the third Czech woman to win a singles championship in the last four years."
   },
   {
     "speaker": "Eve",
-    "text": "ASML Holding closed down by 0.38% at $1,797.32 but still has a strong buy rating, with a mean target of about $1,877."
+    "text": "And there's live coverage of the FIFA World Cup quarterfinal clash between England and Norway happening right now."
   },
   {
     "speaker": "Adam",
-    "text": "Taiwan Semiconductor Manufacturing also closed down by 0.65%, wrapping things up at $434.11, yet it remains a strong buy with a target mean of $490.34."
+    "text": "Exciting times for football fans!"
   },
   {
     "speaker": "Eve",
-    "text": "And finally, Cameco Corporation saw a slight increase of 0.26%, closing at $95.99, with a buy recommendation and a mean target of $132.85."
+    "text": "Now, let’s take a look at the markets."
   },
   {
     "speaker": "Adam",
-    "text": "Now, let’s jump into some new podcast episodes, starting with \"99% Invisible.\""
+    "text": "Starting with VOO, the Vanguard S&P 500 ETF, it closed at $693.86, up 0.46%. There’s no immediate news affecting it, so it looks stable for now."
   },
   {
     "speaker": "Eve",
-    "text": "They released an episode titled \"100 Objects #8: Billy Possum,\" which dives into the story of a viral stuffed animal that became a hit with President Wilson."
+    "text": "Moving on to NVIDIA, or NVDA, which saw a significant jump of 4.03% to close at $210.96. Analysts are rating it a strong buy with a mean price target of $301.62, which is quite a leap!"
   },
   {
     "speaker": "Adam",
-    "text": "Sounds quirky! And then there’s \"Founders,\" featuring Peter Thiel discussing how to build a creative monopoly based on his book \"Zero to One.\""
+    "text": "For Micron Technology, or MU, it closed at $979.30, down 1.24%. Analysts still consider it a strong buy with a mean target of $1,486, indicating potential for recovery."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely worth checking out if you’re into startup culture and entrepreneurship."
+    "text": "Alphabet Inc., or GOOGL, dipped slightly by 0.48% to $357.18. Analysts are still bullish with a strong buy recommendation and a mean target of $432.10."
   },
   {
     "speaker": "Adam",
-    "text": "That wraps up our news today, Moiz."
+    "text": "Meta Platforms, known as META, had a better day, rising 5.97% to close at $669.21, with a mean target of $827.91. Analysts are optimistic about its future."
   },
   {
     "speaker": "Eve",
-    "text": "Thanks for tuning in, and drive safely!"
+    "text": "ASML Holding closed at $1,797.32, down 0.38%. Despite that, it holds a strong buy rating with a mean target of $1,877.31."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Taiwan Semiconductor, TSM, fell 0.65% to $434.11 but remains a strong buy with a target mean of $490.34."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Lastly, Palantir Technologies, or PLTR, ended at $126.79, down 1.74%. Analysts give it a buy rating with a mean target of $183.12."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Quite the mix in the markets today!"
+  },
+  {
+    "speaker": "Eve",
+    "text": "Now let’s check out what's new in your podcasts."
+  },
+  {
+    "speaker": "Adam",
+    "text": "We have an episode from \"People I (Mostly) Admire\" featuring Dambisa Moyo, who discusses how foreign aid isn’t the solution to problems, but maybe corporations can make a difference. It’s an intriguing perspective from a well-known economist."
+  },
+  {
+    "speaker": "Eve",
+    "text": "She’s definitely a thought-provoking guest. This could be an enlightening listen for anyone interested in global economics."
+  },
+  {
+    "speaker": "Adam",
+    "text": "And that wraps up our morning news."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Thanks for tuning in, Moiz! Drive safely!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "Have a great day!"
   }
 ]
