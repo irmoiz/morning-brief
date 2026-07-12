@@ -1,142 +1,214 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you see that Pakistan is deporting thousands of Afghans due to national security concerns? That's wild!"
+    "text": "Good morning, Moiz! Wow, did you hear about Qatar’s former Emir passing away?"
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, it’s pretty intense. I’m curious about the implications of that move, especially for the Afghan families involved."
+    "text": "Yeah, that’s incredibly sad. He was remembered as a man of vision and courage."
   },
   {
     "speaker": "Adam",
-    "text": "Right? And speaking of significant events, let’s dive into some world news."
+    "text": "Absolutely, it’s a big moment for Qatar. He played such a significant role in the country’s development."
   },
   {
     "speaker": "Eve",
-    "text": "First up, thousands gathered in Srebrenica to commemorate the 31st anniversary of the genocide there. Ten newly identified victims were buried as they remembered the over 8,000 Bosnian Muslim men and boys who lost their lives. It’s heartbreaking that these memories are still so fresh for many."
+    "text": "Let’s dive into some of the key stories making headlines around the world."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. It’s a poignant reminder of the past and the ongoing struggles for justice. Meanwhile, in Venezuela, the situation is just as grim. The death toll from recent earthquakes has surged past 4,000, and families are still holding out hope to find their loved ones."
+    "text": "Starting with Qatar, thousands gathered in Doha to bid farewell to Sheikh Hamad bin Khalifa Al Thani, the Father Emir."
   },
   {
     "speaker": "Eve",
-    "text": "That’s devastating. The human toll during such natural disasters is often beyond comprehension."
+    "text": "Right, his passing has certainly left a mark, with many recalling his charismatic leadership style."
   },
   {
     "speaker": "Adam",
-    "text": "Shifting gears a bit, US Representative Ro Khanna has spoken out about being harassed during a visit to Israeli settlements. He accused the Israeli army of supporting the settlers in these incidents."
+    "text": "In other news, Mariano Rajoy, the former Prime Minister of Spain, is facing backlash for some xenophobic remarks about the French World Cup team."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a significant statement from a US lawmaker. It highlights the complexities and tensions in that region."
+    "text": "Huh, that’s really surprising, especially with the World Cup semifinal on the horizon."
   },
   {
     "speaker": "Adam",
-    "text": "It really does. In other news, the Trump administration has subpoenaed New York Times reporters over their coverage. This has raised alarms among press freedom advocates, who argue it's an attempt to intimidate journalists."
+    "text": "It’s wild how such comments can overshadow the excitement of the tournament."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, that’s concerning for the state of journalism in the US. Freedom of the press is critical for democracy."
+    "text": "Speaking of tensions, in Iran, explosions were reported on Qeshm Island due to what officials described as “enemy projectiles.”"
   },
   {
     "speaker": "Adam",
-    "text": "Next, we have some sad news from the sports world. South African footballer Jayden Adams passed away after playing in the FIFA World Cup. He was only 25 years old and had just helped his team reach the round of 32."
+    "text": "That sounds alarming. It seems like the situation in the region is becoming more volatile again."
   },
   {
     "speaker": "Eve",
-    "text": "That’s such a tragedy. It’s a stark reminder of how fleeting life can be, especially in high-pressure environments like professional sports."
+    "text": "Exactly, and in Ukraine, the conflict continues with nine reported deaths as Russia and Ukraine trade drone and missile attacks."
   },
   {
     "speaker": "Adam",
-    "text": "Definitely. Moving on, US and Lebanese delegations are meeting to discuss the withdrawal of Israeli 'pilot zones.' This could be a significant step towards easing tensions in the region."
+    "text": "The critical shortage of Patriot munitions for Ukraine makes them particularly vulnerable right now."
   },
   {
     "speaker": "Eve",
-    "text": "Fingers crossed that these discussions lead to positive outcomes. Meanwhile, in India, a landslide during heavy monsoon rains has forced evacuations in Shimla, as authorities blame a construction firm for the disaster."
+    "text": "That’s a tough spot for them."
   },
   {
     "speaker": "Adam",
-    "text": "It’s worrying how environmental issues and human decisions can collide so dramatically."
+    "text": "Shifting gears, Iraqi Prime Minister is set to meet with President Trump in Washington to discuss strengthening strategic ties."
   },
   {
     "speaker": "Eve",
-    "text": "On a lighter note, let’s talk about the latest from Wimbledon! Linda Noskova defeated Karolina Muchova to claim her first Grand Slam title."
+    "text": "That could lead to some significant oil and gas deals, right?"
   },
   {
     "speaker": "Adam",
-    "text": "That’s impressive! She’s now the third Czech woman to win a singles championship in the last four years."
+    "text": "Definitely. It seems like there's a lot at stake in that meeting."
   },
   {
     "speaker": "Eve",
-    "text": "And there's live coverage of the FIFA World Cup quarterfinal clash between England and Norway happening right now."
+    "text": "And on a lighter note, the football rivalry between England and Argentina is heating up ahead of their World Cup semifinal."
   },
   {
     "speaker": "Adam",
-    "text": "Exciting times for football fans!"
+    "text": "It's one of the most storied rivalries in football!"
   },
   {
     "speaker": "Eve",
-    "text": "Now, let’s take a look at the markets."
+    "text": "Fans are definitely buzzing about it!"
   },
   {
     "speaker": "Adam",
-    "text": "Starting with VOO, the Vanguard S&P 500 ETF, it closed at $693.86, up 0.46%. There’s no immediate news affecting it, so it looks stable for now."
+    "text": "Another serious issue is the anti-migrant display set alight in Northern Ireland, which raised a lot of eyebrows."
   },
   {
     "speaker": "Eve",
-    "text": "Moving on to NVIDIA, or NVDA, which saw a significant jump of 4.03% to close at $210.96. Analysts are rating it a strong buy with a mean price target of $301.62, which is quite a leap!"
+    "text": "Yeah, that’s troubling to hear."
   },
   {
     "speaker": "Adam",
-    "text": "For Micron Technology, or MU, it closed at $979.30, down 1.24%. Analysts still consider it a strong buy with a mean target of $1,486, indicating potential for recovery."
+    "text": "And in Senegal, tensions are rising as Ousmane Sonko reveals a split with the president, leading to a constitutional standoff."
   },
   {
     "speaker": "Eve",
-    "text": "Alphabet Inc., or GOOGL, dipped slightly by 0.48% to $357.18. Analysts are still bullish with a strong buy recommendation and a mean target of $432.10."
+    "text": "That’s quite a significant political development."
   },
   {
     "speaker": "Adam",
-    "text": "Meta Platforms, known as META, had a better day, rising 5.97% to close at $669.21, with a mean target of $827.91. Analysts are optimistic about its future."
+    "text": "Meanwhile, in Mali, the army reports about 30 soldiers killed during a retaking operation."
   },
   {
     "speaker": "Eve",
-    "text": "ASML Holding closed at $1,797.32, down 0.38%. Despite that, it holds a strong buy rating with a mean target of $1,877.31."
+    "text": "Such tragic news, and it highlights the ongoing conflict there."
   },
   {
     "speaker": "Adam",
-    "text": "Taiwan Semiconductor, TSM, fell 0.65% to $434.11 but remains a strong buy with a target mean of $490.34."
+    "text": "Now, let’s switch gears and take a look at the markets."
   },
   {
     "speaker": "Eve",
-    "text": "Lastly, Palantir Technologies, or PLTR, ended at $126.79, down 1.74%. Analysts give it a buy rating with a mean target of $183.12."
+    "text": "Sure, starting with the Vanguard S&P 500 ETF, which closed at $693.86 and saw a slight increase of 0.46%."
   },
   {
     "speaker": "Adam",
-    "text": "Quite the mix in the markets today!"
+    "text": "Not too much movement there, though."
   },
   {
     "speaker": "Eve",
-    "text": "Now let’s check out what's new in your podcasts."
+    "text": "Right. Now NVIDIA Corporation is really catching attention, closing at $210.96 with a solid jump of 4.03%."
   },
   {
     "speaker": "Adam",
-    "text": "We have an episode from \"People I (Mostly) Admire\" featuring Dambisa Moyo, who discusses how foreign aid isn’t the solution to problems, but maybe corporations can make a difference. It’s an intriguing perspective from a well-known economist."
+    "text": "Analysts are rating it as a strong buy with a mean price target of $301.62."
   },
   {
     "speaker": "Eve",
-    "text": "She’s definitely a thought-provoking guest. This could be an enlightening listen for anyone interested in global economics."
+    "text": "That’s quite a gap, which suggests they’re really bullish on it."
   },
   {
     "speaker": "Adam",
-    "text": "And that wraps up our morning news."
+    "text": "Moving on to Micron Technology, it closed at $979.30 but dipped by 1.24%."
   },
   {
     "speaker": "Eve",
-    "text": "Thanks for tuning in, Moiz! Drive safely!"
+    "text": "Analysts still have it as a strong buy, with a lofty mean target of $1486."
   },
   {
     "speaker": "Adam",
-    "text": "Have a great day!"
+    "text": "There’s definitely some optimism there."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Alphabet Inc. closed at $357.18 with a small decrease of 0.48%."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Analysts still rate it as a strong buy, with a mean target of $431.91."
+  },
+  {
+    "speaker": "Eve",
+    "text": "There seems to be a lot of confidence in big tech overall."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Absolutely. Moving on to Meta Platforms, it closed at $669.21, climbing up by nearly 6%."
+  },
+  {
+    "speaker": "Eve",
+    "text": "With a strong buy rating and a target mean of $828.34, it looks promising!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "Now ASML Holding closed at $1797.32, dipping slightly by 0.38%."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Analysts are still bullish on it, rating it as a strong buy."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Right, they have a mean target around $1875."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Taiwan Semiconductor Manufacturing also saw a drop, closing at $434.11, down by 0.65%."
+  },
+  {
+    "speaker": "Adam",
+    "text": "They maintain a strong buy rating as well, with a price target mean of $490.34."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Finally, Cameco Corporation closed at $95.99, with a slight increase of 0.26%."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Analysts suggest it’s a buy, with a mean target of $132.79."
+  },
+  {
+    "speaker": "Eve",
+    "text": "And Palantir Technologies closed at $126.79, dropping by 1.74%."
+  },
+  {
+    "speaker": "Adam",
+    "text": "They still have a buy rating with a target mean of $183.12."
+  },
+  {
+    "speaker": "Eve",
+    "text": "That wraps up our market updates!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "Now, Moiz, there weren’t any new podcast episodes to share today, but I hope you find the news helpful for your drive!"
+  },
+  {
+    "speaker": "Eve",
+    "text": "Yes, thanks for tuning in this morning, and drive safely!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "Until next time!"
   }
 ]
