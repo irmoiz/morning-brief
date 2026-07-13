@@ -1,214 +1,138 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Wow, did you hear about Qatar’s former Emir passing away?"
+    "text": "Good morning, Moiz! Did you hear about the tributes pouring in for Qatar's Father Emir? It's a remarkable show of respect from around the world."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, that’s incredibly sad. He was remembered as a man of vision and courage."
+    "text": "Yeah, it's fascinating how one person's legacy can spark such a global reaction. From Gaza to India, it's clear that Sheikh Hamad bin Khalifa Al Thani made a significant impact."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely, it’s a big moment for Qatar. He played such a significant role in the country’s development."
+    "text": "Absolutely. Speaking of global matters, let’s dive into the world news today."
   },
   {
     "speaker": "Eve",
-    "text": "Let’s dive into some of the key stories making headlines around the world."
+    "text": "The first headline that caught my eye is the UK’s arrest of 12 individuals linked to a right-wing terror threat against a Muslim event. This comes amid rising racial tensions and hate crimes in Britain."
   },
   {
     "speaker": "Adam",
-    "text": "Starting with Qatar, thousands gathered in Doha to bid farewell to Sheikh Hamad bin Khalifa Al Thani, the Father Emir."
+    "text": "Right, and it reflects a larger pattern of growing extremism that many countries are struggling to combat. Meanwhile, in Spain, Prime Minister Pedro Sanchez visited firefighters battling a deadly wildfire in Almeria."
   },
   {
     "speaker": "Eve",
-    "text": "Right, his passing has certainly left a mark, with many recalling his charismatic leadership style."
+    "text": "Wildfires have been devastating lately. It’s important for leaders to show solidarity with those on the front lines, especially in such dire times."
   },
   {
     "speaker": "Adam",
-    "text": "In other news, Mariano Rajoy, the former Prime Minister of Spain, is facing backlash for some xenophobic remarks about the French World Cup team."
+    "text": "Speaking of challenges, a US judge has voided a settlement involving Trump, alleging that the Department of Justice misused the courts. That’s quite a significant ruling."
   },
   {
     "speaker": "Eve",
-    "text": "Huh, that’s really surprising, especially with the World Cup semifinal on the horizon."
+    "text": "It really is! It seems like there's always something unfolding in the political arena. And shifting gears, twelve US states have sued Paramount to block the Warner Bros merger, claiming it would stifle competition in the TV and film industries."
   },
   {
     "speaker": "Adam",
-    "text": "It’s wild how such comments can overshadow the excitement of the tournament."
+    "text": "That’s a huge legal battle in the entertainment world. It’ll be interesting to see how this affects the industry moving forward."
   },
   {
     "speaker": "Eve",
-    "text": "Speaking of tensions, in Iran, explosions were reported on Qeshm Island due to what officials described as “enemy projectiles.”"
+    "text": "Huh, and in another shocking story, survivors of a pub fire in Bangkok recounted their terrifying experiences. It’s heartbreaking to hear about such tragedies."
   },
   {
     "speaker": "Adam",
-    "text": "That sounds alarming. It seems like the situation in the region is becoming more volatile again."
+    "text": "Yes, it’s a stark reminder of how quickly things can turn catastrophic. And in light of international relations, the UK has designated Iran’s Revolutionary Guard Corps as a terrorist organization."
   },
   {
     "speaker": "Eve",
-    "text": "Exactly, and in Ukraine, the conflict continues with nine reported deaths as Russia and Ukraine trade drone and missile attacks."
+    "text": "That’s a bold move. The implications of that designation could ripple through diplomatic relations significantly."
   },
   {
     "speaker": "Adam",
-    "text": "The critical shortage of Patriot munitions for Ukraine makes them particularly vulnerable right now."
+    "text": "Definitely. And before we move on, let's not forget about the global health situation—staff at an Ebola center in DR Congo have gone on strike while the virus spreads further. That’s concerning."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a tough spot for them."
+    "text": "It really highlights the challenges health care workers face, especially in crisis situations. Alright, Moiz, let’s switch gears and talk markets."
   },
   {
     "speaker": "Adam",
-    "text": "Shifting gears, Iraqi Prime Minister is set to meet with President Trump in Washington to discuss strengthening strategic ties."
+    "text": "For sure! Starting with the Vanguard S&P 500 ETF, it closed down about 0.77% at $688.50. Analysts have been cautious, but there’s a lot of buzz around it being unstoppable in the long run."
   },
   {
     "speaker": "Eve",
-    "text": "That could lead to some significant oil and gas deals, right?"
+    "text": "Right, and I saw a few articles suggesting safer investments compared to the Vanguard ETF, but it's still a staple for many."
   },
   {
     "speaker": "Adam",
-    "text": "Definitely. It seems like there's a lot at stake in that meeting."
+    "text": "Moving on, NVIDIA Corporation saw a significant drop of 3.52%, closing at $203.53. Analysts still rate it a strong buy, with a mean price target of around $301.62."
   },
   {
     "speaker": "Eve",
-    "text": "And on a lighter note, the football rivalry between England and Argentina is heating up ahead of their World Cup semifinal."
+    "text": "That’s quite optimistic, especially given the volatility in the tech sector."
   },
   {
     "speaker": "Adam",
-    "text": "It's one of the most storied rivalries in football!"
+    "text": "Micron Technology dipped 4.32% to $937.00, but it’s also rated as a strong buy with a target mean of $1,486."
   },
   {
     "speaker": "Eve",
-    "text": "Fans are definitely buzzing about it!"
+    "text": "Interesting how despite the drop, analysts are still bullish on its potential. Let’s talk Alphabet, which fell 1.31% to $352.51, receiving a strong buy rating with a target mean of $431.91."
   },
   {
     "speaker": "Adam",
-    "text": "Another serious issue is the anti-migrant display set alight in Northern Ireland, which raised a lot of eyebrows."
+    "text": "Right, and it seems like Meta Platforms isn’t far behind, down 1.86% at $656.73 but also holding a strong buy with a target of $828.34."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, that’s troubling to hear."
+    "text": "And ASML Holding saw a drop of nearly 4% to $1,726.04, yet it remains a strong buy with a target mean of approximately $1,871."
   },
   {
     "speaker": "Adam",
-    "text": "And in Senegal, tensions are rising as Ousmane Sonko reveals a split with the president, leading to a constitutional standoff."
+    "text": "Taiwan Semiconductor closed at $421.58 with a decline of 2.89%, but analysts still see a strong buy potential."
   },
   {
     "speaker": "Eve",
-    "text": "That’s quite a significant political development."
+    "text": "Finally, Cameco Corporation dropped 6.03% to $90.20 but is still rated as a buy, with a target mean of $132.81."
   },
   {
     "speaker": "Adam",
-    "text": "Meanwhile, in Mali, the army reports about 30 soldiers killed during a retaking operation."
+    "text": "And Palantir Technologies bounced up 2.56% to $130.04, with a mean target of $183.12."
   },
   {
     "speaker": "Eve",
-    "text": "Such tragic news, and it highlights the ongoing conflict there."
+    "text": "Wow, quite a lot happening in the markets today!"
   },
   {
     "speaker": "Adam",
-    "text": "Now, let’s switch gears and take a look at the markets."
+    "text": "Yes, indeed! Now, let's take a look at what's new in your podcasts."
   },
   {
     "speaker": "Eve",
-    "text": "Sure, starting with the Vanguard S&P 500 ETF, which closed at $693.86 and saw a slight increase of 0.46%."
+    "text": "We have a new episode from \"Twenty Thousand Hertz,\" titled \"Eurovision Song Contest: Inside the Gimmicks & Glamour.\" It explores the cultural institution that is Eurovision."
   },
   {
     "speaker": "Adam",
-    "text": "Not too much movement there, though."
+    "text": "Sounds delightful! It’ll give listeners an insider's perspective on the history and controversies of this huge event."
   },
   {
     "speaker": "Eve",
-    "text": "Right. Now NVIDIA Corporation is really catching attention, closing at $210.96 with a solid jump of 4.03%."
+    "text": "Exactly, and they’ll also discover how it shapes careers in music across Europe."
   },
   {
     "speaker": "Adam",
-    "text": "Analysts are rating it as a strong buy with a mean price target of $301.62."
+    "text": "That’s definitely worth a listen for anyone curious about the cultural impact of Eurovision."
   },
   {
     "speaker": "Eve",
-    "text": "That’s quite a gap, which suggests they’re really bullish on it."
+    "text": "For sure! Well, that brings us to the end of today’s news recap."
   },
   {
     "speaker": "Adam",
-    "text": "Moving on to Micron Technology, it closed at $979.30 but dipped by 1.24%."
+    "text": "Thanks for tuning in this morning, Moiz. Drive safe and have a great day ahead!"
   },
   {
     "speaker": "Eve",
-    "text": "Analysts still have it as a strong buy, with a lofty mean target of $1486."
-  },
-  {
-    "speaker": "Adam",
-    "text": "There’s definitely some optimism there."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Alphabet Inc. closed at $357.18 with a small decrease of 0.48%."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Analysts still rate it as a strong buy, with a mean target of $431.91."
-  },
-  {
-    "speaker": "Eve",
-    "text": "There seems to be a lot of confidence in big tech overall."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Absolutely. Moving on to Meta Platforms, it closed at $669.21, climbing up by nearly 6%."
-  },
-  {
-    "speaker": "Eve",
-    "text": "With a strong buy rating and a target mean of $828.34, it looks promising!"
-  },
-  {
-    "speaker": "Adam",
-    "text": "Now ASML Holding closed at $1797.32, dipping slightly by 0.38%."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Analysts are still bullish on it, rating it as a strong buy."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Right, they have a mean target around $1875."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Taiwan Semiconductor Manufacturing also saw a drop, closing at $434.11, down by 0.65%."
-  },
-  {
-    "speaker": "Adam",
-    "text": "They maintain a strong buy rating as well, with a price target mean of $490.34."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Finally, Cameco Corporation closed at $95.99, with a slight increase of 0.26%."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Analysts suggest it’s a buy, with a mean target of $132.79."
-  },
-  {
-    "speaker": "Eve",
-    "text": "And Palantir Technologies closed at $126.79, dropping by 1.74%."
-  },
-  {
-    "speaker": "Adam",
-    "text": "They still have a buy rating with a target mean of $183.12."
-  },
-  {
-    "speaker": "Eve",
-    "text": "That wraps up our market updates!"
-  },
-  {
-    "speaker": "Adam",
-    "text": "Now, Moiz, there weren’t any new podcast episodes to share today, but I hope you find the news helpful for your drive!"
-  },
-  {
-    "speaker": "Eve",
-    "text": "Yes, thanks for tuning in this morning, and drive safely!"
-  },
-  {
-    "speaker": "Adam",
-    "text": "Until next time!"
+    "text": "Take care, Moiz!"
   }
 ]
