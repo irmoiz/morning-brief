@@ -1,126 +1,166 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you hear about Donald Trump threatening to strike Pickaxe Mountain? That’s some intense rhetoric coming out of the U.S. lately!"
+    "text": "Good morning, Moiz! I hope you're ready for some interesting news today. Did you catch that intense England vs Argentina semifinal match?"
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, it’s wild! Pickaxe Mountain is reportedly an underground nuclear-related complex in Iran. The implications of that kind of threat are huge!"
+    "text": "Oh, definitely! I heard it was a fiery first half. So much going on!"
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of huge implications, let’s dive into some world news. In Yemen, the fragile peace seems to be crumbling, with increased mobilization of fighters and attacks. This could lead to a serious escalation in conflict there."
+    "text": "Absolutely! But first, let’s dive into some world news."
   },
   {
     "speaker": "Eve",
-    "text": "Right, and that would have regional implications. The situation is so volatile, it’s hard to see a peaceful resolution anytime soon."
+    "text": "Starting off in Turkiye, it’s been ten years since the failed coup attempt against President Erdogan. The country's still grappling with the legacy of that event, which has divided public opinion."
   },
   {
     "speaker": "Adam",
-    "text": "Meanwhile, in India, there was a tragic incident at a recycling plant in Tamil Nadu, where a furnace explosion led to a fire and the death of a worker. It’s a grim reminder of safety issues in industrial settings."
+    "text": "Right, you can see how a political event like that could leave lasting scars. The tensions surrounding Erdogan's leadership have shaped politics there profoundly."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely. And across the ocean, the Senate Democrats just blocked a defense bill that included provisions related to Iran and Israel. The vote was pretty close at 50-46, but it shows the division on how to approach foreign policy."
+    "text": "And meanwhile in Iran, President Masoud Pezeshkian has made a bold statement, vowing to defend \"every inch\" of Iranian territory against any perceived threats."
   },
   {
     "speaker": "Adam",
-    "text": "And it’s not just politics heating up. The U.S. struck new targets in Iran recently, following accusations from Tehran that the U.S. is sabotaging peace efforts."
+    "text": "That’s a strong message, especially considering the region's ongoing conflicts. It’s notable how many nations are on high alert right now."
   },
   {
     "speaker": "Eve",
-    "text": "It really feels like we’re on the brink of something bigger. And then there’s the news about an alleged conspiracy involving Trump officials targeting a pro-Palestine advocate, Mahmoud Khalil. It’s a lot to unpack!"
+    "text": "Speaking of conflicts, Russia has ramped up its offensive in Ukraine, launching missile and drone strikes. There’s been footage of firefighters battling massive fires in the aftermath."
   },
   {
     "speaker": "Adam",
-    "text": "For sure. Switching gears a bit, New York has imposed a landmark one-year ban on large data centers, which is part of a broader trend across the U.S. Many states are looking at similar restrictions."
+    "text": "It’s heartbreaking to see the destruction escalate like this. Just a reminder of the ongoing struggles many are facing there."
   },
   {
     "speaker": "Eve",
-    "text": "Right! It’s all about managing resources and addressing the environmental impacts of these massive facilities."
+    "text": "And on the Ukrainian side, they’ve struck back, targeting twenty Russian vessels in the Black Sea, including a number of oil tankers."
   },
   {
     "speaker": "Adam",
-    "text": "With all this in mind, let’s check in on the markets. The Vanguard S&P 500 ETF, VOO, closed at $691.10 and saw a slight increase of 0.38%."
+    "text": "It’s a significant move. That kind of retaliation can really impact supply chains and the economy in the region."
   },
   {
     "speaker": "Eve",
-    "text": "There’s not much new news surrounding VOO, but it remains a solid option for passive income investors."
+    "text": "Turning to France, a landmark assisted-dying bill has passed in Parliament, albeit with a narrow margin. It still needs approval from the Constitutional Council."
   },
   {
     "speaker": "Adam",
-    "text": "NVIDIA, or NVDA, is making headlines again, closing at $211.80 after a robust increase of 4.06%. Analysts are rating it as a strong buy with a mean price target of around $301.62."
+    "text": "That’s a big step forward for many advocates of the right to die with dignity. But I wonder how it will be received by the public and the legal system."
   },
   {
     "speaker": "Eve",
-    "text": "That’s impressive! It seems like NVIDIA is riding a wave in the chip market, which is seeing significant profits lately."
+    "text": "Protests have also erupted in Paris and Gaza, calling for the release of Palestinian doctor Hussam Abu Safia. It’s interesting to see how interconnected these issues are across borders."
   },
   {
     "speaker": "Adam",
-    "text": "Exactly. Micron Technology, MU, also had a great day, closing at $983.12 with a 4.92% increase. Analysts are bullish, giving it a strong buy recommendation with a target mean of $1,486."
+    "text": "That’s true. These protests reflect not only local grievances but also a growing global awareness of human rights issues."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, those numbers are looking good for Micron! It seems like the demand for chips is not slowing down anytime soon."
+    "text": "And in the UK, a fourteen-year-old boy was charged in connection with a plot targeting London mosques, linked to extreme right-wing terrorism."
   },
   {
     "speaker": "Adam",
-    "text": "Alphabet, GOOGL, saw a rise of 1.99%, closing at $359.51. It's rated as a strong buy, with a target mean of $431.72."
+    "text": "That’s alarming. It raises questions about youth radicalization and security in schools."
   },
   {
     "speaker": "Eve",
-    "text": "The tech giant seems to be on a solid path, especially with its ongoing investments in AI and other emerging technologies."
+    "text": "And on a lighter note in sports, Argentina fans have taken over the streets of Atlanta ahead of the World Cup semi-final. It’s incredible to see that kind of passion!"
   },
   {
     "speaker": "Adam",
-    "text": "And Meta, or META, had a small increase of 0.66%, closing at $661.04. Analysts are also optimistic, rating it as a strong buy with a mean price target of $826.63."
+    "text": "The atmosphere must be electric! It’s always fascinating how sports can bring people together."
   },
   {
     "speaker": "Eve",
-    "text": "It’s fascinating to see how Meta is trying to rebuild investor confidence after some ups and downs in the market."
+    "text": "Now, onto the markets. Let’s take a look at how some key stocks performed lately."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. Moving on to ASML, the stock closed at $1,775.64 with a 2.87% increase. It remains a strong buy, with a target mean of $1,901.87."
+    "text": "Starting with the Vanguard S&P 500 ETF, or VOO, it closed at $693.80, up about 0.39%. No changes to analyst ratings to report today."
   },
   {
     "speaker": "Eve",
-    "text": "ASML is key in the semiconductor space, and their growth prospects are looking bright."
+    "text": "Moving on to NVIDIA, or NVDA, the stock closed at $212.50, up 0.33%. It’s currently rated as a strong buy with a target mean of $301.62, which suggests some solid growth potential."
   },
   {
     "speaker": "Adam",
-    "text": "Taiwan Semiconductor Manufacturing, TSM, saw a slight decline of 0.28%, closing at $420.39. Still rated as a strong buy with a target mean of around $498.24."
+    "text": "Definitely! Investors seem optimistic, especially with the AI sector booming."
   },
   {
     "speaker": "Eve",
-    "text": "It’s interesting that even with a dip, TSM remains in strong favor with analysts."
+    "text": "Micron Technology, or MU, took a hit, closing at $904.28, down 8.02%. It’s still rated as a strong buy, with a target mean of $1486."
   },
   {
     "speaker": "Adam",
-    "text": "And finally, Cameco, CCJ, closed at $91.57, up by 1.52%. Analysts have a buy recommendation for them with a target mean of $132.59."
+    "text": "That’s quite a drop! I wonder if it’s tied to broader concerns about the semiconductor market."
   },
   {
     "speaker": "Eve",
-    "text": "It seems like uranium stocks are getting attention lately, especially with energy demands rising."
+    "text": "Alphabet, GOOGL, closed at $370.92, up 3.17% and is also rated as a strong buy with a target mean of $431.72."
   },
   {
     "speaker": "Adam",
-    "text": "There’s always something brewing in the markets! Now, in podcast news, we have a new episode from “99% Invisible” titled “If Mosquito Hawks Can Fly.”"
+    "text": "Sounds like analysts believe in Alphabet's long-term strategy, especially with their innovations in AI."
   },
   {
     "speaker": "Eve",
-    "text": "This one tells the story of a Louisiana man born into slavery who designs an airship to take flight. It sounds like a fascinating listen that mixes history and innovation!"
+    "text": "Meta Platforms, META, followed suit, closing at $681.31, up 3.07%. It’s rated a strong buy too, with a target of $826.63."
   },
   {
     "speaker": "Adam",
-    "text": "For sure! That’s a unique perspective worth checking out."
+    "text": "Solid performance across the board for those tech giants!"
   },
   {
     "speaker": "Eve",
-    "text": "And that's it for today's news roundup, Moiz!"
+    "text": "ASML closed at $1815.27, up 2.23%. It’s also a strong buy, with a target mean of $1909."
   },
   {
     "speaker": "Adam",
-    "text": "Have a great day at work, and drive safely!"
+    "text": "Good to see ASML holding strong. Their technology is crucial for the semiconductor industry."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Taiwan Semiconductor Manufacturing, or TSM, ended at $419.48, just slightly down by 0.22%. It’s rated as a strong buy with a target mean of $498."
+  },
+  {
+    "speaker": "Adam",
+    "text": "It sounds like there’s still plenty of optimism despite the minor dip."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Cameco Corporation, CCJ, closed at $90.98, down 0.64%. Analysts still recommend it as a buy, with a target mean of $132.77."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Interesting to note that even with a dip, there’s still confidence in the stock."
+  },
+  {
+    "speaker": "Eve",
+    "text": "And finally, Palantir Technologies, PLTR, is at $133.76, just barely up by 0.03%. It’s rated as a buy with a target mean of $183.12."
+  },
+  {
+    "speaker": "Adam",
+    "text": "All in all, mixed results, but the tech sector seems to be thriving!"
+  },
+  {
+    "speaker": "Eve",
+    "text": "Now, moving on to new episodes in your podcasts, but it looks like we have no new releases today."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Alright, I guess we’ll skip that section then."
+  },
+  {
+    "speaker": "Eve",
+    "text": "So, that's our news roundup for today, Moiz."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Thanks for tuning in! Drive safe out there!"
   }
 ]
