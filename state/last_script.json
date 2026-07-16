@@ -1,166 +1,122 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! I hope you're ready for some interesting news today. Did you catch that intense England vs Argentina semifinal match?"
+    "text": "Good morning, Moiz! Have you heard about Syria seizing advanced weapons supposedly bound for Hezbollah? That’s pretty intense!"
   },
   {
     "speaker": "Eve",
-    "text": "Oh, definitely! I heard it was a fiery first half. So much going on!"
+    "text": "Yeah, that’s wild! It seems like the situation in the region is just getting more complicated every day. Let’s dive into the world news, shall we?"
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely! But first, let’s dive into some world news."
+    "text": "Absolutely. Starting off, Syria claims to have intercepted an arms shipment that included missiles, rockets, and drones allegedly intended for Hezbollah via Iraq. Hezbollah has denied any involvement. This could escalate tensions in an already volatile region."
   },
   {
     "speaker": "Eve",
-    "text": "Starting off in Turkiye, it’s been ten years since the failed coup attempt against President Erdogan. The country's still grappling with the legacy of that event, which has divided public opinion."
+    "text": "It sure could. And speaking of tensions, Nicaragua has decided to sever diplomatic ties with Italy over a 1978 murder case. Italy’s demand for extradition of a man convicted of killing a former prime minister seems to have reignited old wounds."
   },
   {
     "speaker": "Adam",
-    "text": "Right, you can see how a political event like that could leave lasting scars. The tensions surrounding Erdogan's leadership have shaped politics there profoundly."
+    "text": "That is a significant diplomatic fallout. Meanwhile, in the Middle East, Iran’s IRGC has issued warnings that it might disrupt shipping in the Red Sea, suggesting that Bab al-Mandeb could be the next target after the Strait of Hormuz."
   },
   {
     "speaker": "Eve",
-    "text": "And meanwhile in Iran, President Masoud Pezeshkian has made a bold statement, vowing to defend \"every inch\" of Iranian territory against any perceived threats."
+    "text": "That’s concerning! The geopolitical chess game just keeps getting more dangerous. In Iraq, authorities have discovered $19 million in cash and several kilograms of gold jewelry linked to a former oil minister. This points to some serious corruption issues."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a strong message, especially considering the region's ongoing conflicts. It’s notable how many nations are on high alert right now."
+    "text": "It’s always troubling to see that level of corruption, especially in a country with so many challenges. On a different note, the Ebola outbreak in the Democratic Republic of Congo is reportedly spreading faster than any previous outbreak, according to the WHO. Meanwhile, Uganda has discharged its last remaining patient."
   },
   {
     "speaker": "Eve",
-    "text": "Speaking of conflicts, Russia has ramped up its offensive in Ukraine, launching missile and drone strikes. There’s been footage of firefighters battling massive fires in the aftermath."
+    "text": "It’s incredible that Uganda has managed to get close to being virus-free while DRC is struggling. The contrast is stark."
   },
   {
     "speaker": "Adam",
-    "text": "It’s heartbreaking to see the destruction escalate like this. Just a reminder of the ongoing struggles many are facing there."
+    "text": "Definitely. And in other news, Donald Trump hasn’t ruled out a U.S. ground invasion of Iran as tensions continue to rise with ongoing fighting and U.S. strikes."
   },
   {
     "speaker": "Eve",
-    "text": "And on the Ukrainian side, they’ve struck back, targeting twenty Russian vessels in the Black Sea, including a number of oil tankers."
+    "text": "That’s a major concern. And Iran has condemned a U.S. attack near a children’s cancer hospital, calling it a \"cowardly war crime.\" You can feel the anger in their response."
   },
   {
     "speaker": "Adam",
-    "text": "It’s a significant move. That kind of retaliation can really impact supply chains and the economy in the region."
+    "text": "It’s heartbreaking to see civilian areas affected in conflicts like this. In Syria's Jobar, locals are still struggling to rebuild their homes after years of destruction from the war."
   },
   {
     "speaker": "Eve",
-    "text": "Turning to France, a landmark assisted-dying bill has passed in Parliament, albeit with a narrow margin. It still needs approval from the Constitutional Council."
+    "text": "It's a tough situation for those communities. On a different note, the U.S. has approved nearly $2 billion in weapons sales to Saudi Arabia, aimed at bolstering their air defense systems against the Iran-backed Houthis."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a big step forward for many advocates of the right to die with dignity. But I wonder how it will be received by the public and the legal system."
+    "text": "This just adds another layer to the complexity in the region. Speaking of complexity, there were rare protests in Kyiv over the dismissal of Ukraine's defense minister, which signals some unrest among the population."
   },
   {
     "speaker": "Eve",
-    "text": "Protests have also erupted in Paris and Gaza, calling for the release of Palestinian doctor Hussam Abu Safia. It’s interesting to see how interconnected these issues are across borders."
+    "text": "It’s fascinating to see how public sentiment is playing out there, especially in such critical times. Lastly, a tragic fire in an orphanage in Algiers has left eleven people dead and nineteen injured. Such a heartbreaking incident."
   },
   {
     "speaker": "Adam",
-    "text": "That’s true. These protests reflect not only local grievances but also a growing global awareness of human rights issues."
+    "text": "Absolutely. It’s a lot to take in. Now, let’s switch gears and talk markets."
   },
   {
     "speaker": "Eve",
-    "text": "And in the UK, a fourteen-year-old boy was charged in connection with a plot targeting London mosques, linked to extreme right-wing terrorism."
+    "text": "Sure thing! The Vanguard S&P 500 ETF, or VOO, closed at $690.14, down about 0.53%. There’s not much news to report for this one today."
   },
   {
     "speaker": "Adam",
-    "text": "That’s alarming. It raises questions about youth radicalization and security in schools."
+    "text": "NVIDIA Corporation, or NVDA, closed at $207.40, down 2.4%. Analysts have a strong buy rating on it with a mean price target of around $301.97. The demand for AI chips is still driving interest."
   },
   {
     "speaker": "Eve",
-    "text": "And on a lighter note in sports, Argentina fans have taken over the streets of Atlanta ahead of the World Cup semi-final. It’s incredible to see that kind of passion!"
+    "text": "Right. And Micron Technology, trading at $853.20, saw a drop of 5.65%. They have a strong buy recommendation with a target mean of $1489.57. There’s a lot going on with their long-term auto chip deals."
   },
   {
     "speaker": "Adam",
-    "text": "The atmosphere must be electric! It’s always fascinating how sports can bring people together."
+    "text": "Good to know. Alphabet Inc. closed at $354.46, down 4.44%. It’s also rated a strong buy, with a target mean of $431.72."
   },
   {
     "speaker": "Eve",
-    "text": "Now, onto the markets. Let’s take a look at how some key stocks performed lately."
+    "text": "Meta Platforms, or META, is at $664.54, down 2.46%, with a strong buy recommendation and a target mean of $826.63."
   },
   {
     "speaker": "Adam",
-    "text": "Starting with the Vanguard S&P 500 ETF, or VOO, it closed at $693.80, up about 0.39%. No changes to analyst ratings to report today."
+    "text": "ASML Holding closed at $1784.87, down 1.67%, also a strong buy, with a target mean of $2033.69."
   },
   {
     "speaker": "Eve",
-    "text": "Moving on to NVIDIA, or NVDA, the stock closed at $212.50, up 0.33%. It’s currently rated as a strong buy with a target mean of $301.62, which suggests some solid growth potential."
+    "text": "Taiwan Semiconductor Manufacturing Company, or TSM, closed at $409.74, down 2.32%. It’s rated strong buy with a target mean of $498.24."
   },
   {
     "speaker": "Adam",
-    "text": "Definitely! Investors seem optimistic, especially with the AI sector booming."
+    "text": "Cameco Corporation, CCJ, is at $87.36, down nearly 4%. Analysts are still leaning towards a buy, with a target mean of $131.97."
   },
   {
     "speaker": "Eve",
-    "text": "Micron Technology, or MU, took a hit, closing at $904.28, down 8.02%. It’s still rated as a strong buy, with a target mean of $1486."
+    "text": "And finally, Palantir Technologies Inc., which closed at $134.44, is up slightly by 0.51%. They have a buy rating with a target mean of $183.12."
   },
   {
     "speaker": "Adam",
-    "text": "That’s quite a drop! I wonder if it’s tied to broader concerns about the semiconductor market."
+    "text": "Quite the market day! Now let’s take a moment for new episodes in your podcasts."
   },
   {
     "speaker": "Eve",
-    "text": "Alphabet, GOOGL, closed at $370.92, up 3.17% and is also rated as a strong buy with a target mean of $431.72."
+    "text": "Actually, it looks like there aren’t any new episodes to discuss today."
   },
   {
     "speaker": "Adam",
-    "text": "Sounds like analysts believe in Alphabet's long-term strategy, especially with their innovations in AI."
+    "text": "That’s alright. There’s always something brewing in the podcast world!"
   },
   {
     "speaker": "Eve",
-    "text": "Meta Platforms, META, followed suit, closing at $681.31, up 3.07%. It’s rated a strong buy too, with a target of $826.63."
+    "text": "For sure! Well, that wraps up today’s news."
   },
   {
     "speaker": "Adam",
-    "text": "Solid performance across the board for those tech giants!"
+    "text": "Drive safe, Moiz!"
   },
   {
     "speaker": "Eve",
-    "text": "ASML closed at $1815.27, up 2.23%. It’s also a strong buy, with a target mean of $1909."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Good to see ASML holding strong. Their technology is crucial for the semiconductor industry."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Taiwan Semiconductor Manufacturing, or TSM, ended at $419.48, just slightly down by 0.22%. It’s rated as a strong buy with a target mean of $498."
-  },
-  {
-    "speaker": "Adam",
-    "text": "It sounds like there’s still plenty of optimism despite the minor dip."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Cameco Corporation, CCJ, closed at $90.98, down 0.64%. Analysts still recommend it as a buy, with a target mean of $132.77."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Interesting to note that even with a dip, there’s still confidence in the stock."
-  },
-  {
-    "speaker": "Eve",
-    "text": "And finally, Palantir Technologies, PLTR, is at $133.76, just barely up by 0.03%. It’s rated as a buy with a target mean of $183.12."
-  },
-  {
-    "speaker": "Adam",
-    "text": "All in all, mixed results, but the tech sector seems to be thriving!"
-  },
-  {
-    "speaker": "Eve",
-    "text": "Now, moving on to new episodes in your podcasts, but it looks like we have no new releases today."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Alright, I guess we’ll skip that section then."
-  },
-  {
-    "speaker": "Eve",
-    "text": "So, that's our news roundup for today, Moiz."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Thanks for tuning in! Drive safe out there!"
+    "text": "Until next time!"
   }
 ]
