@@ -1,178 +1,106 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you hear about the iconic World Cup trophy? It was designed by an Italian sculptor back in 1970."
+    "text": "Good morning, Moiz! Did you see that drone video showing the scale of the wildfire in northern Spain? It's pretty wild!"
   },
   {
     "speaker": "Eve",
-    "text": "Oh, that’s wild! It’s amazing how something created so long ago still resonates with fans today."
+    "text": "I know, right? Over 150 square kilometers have burned! That’s just heartbreaking. Let’s dive into some news, shall we?"
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of events that leave a mark, let’s dive into some world news."
+    "text": "Absolutely. Starting with international headlines, there’s a lot happening around the globe. In Gaza, ceasefire efforts seem to have fallen apart, with reports of Israeli attacks continuing despite the supposed truce."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely! First off, it’s been a tough situation in central Texas, where heavy rains and floods have tragically left at least two people dead."
+    "text": "Yeah, it’s tragic. Palestinians are still facing violence, and just last night, Israeli attacks on residential areas killed eight people in Gaza City. It’s really alarming to see how this conflict persists."
   },
   {
     "speaker": "Adam",
-    "text": "Right, and it’s particularly concerning because officials are testing new warning systems after last year's deadly rainfall. Those systems really need to perform well to keep people safe."
+    "text": "It’s a dire situation. And speaking of conflicts, Iran's supreme leader has issued a warning about “unforgettable lessons” if U.S. attacks continue. It seems like tensions are escalating again."
   },
   {
     "speaker": "Eve",
-    "text": "Meanwhile, in Chile, heavy rain has also caused devastation, killing at least three and displacing hundreds. President Jose Antonio Kast is heading to the Biobio region to assess the damage."
+    "text": "Right, and the U.S. military has confirmed that two service members were killed in an Iranian strike in Jordan. It’s a stark reminder of how quickly things can spiral out of control."
   },
   {
     "speaker": "Adam",
-    "text": "It’s just heartbreaking to see how weather events are impacting communities across the globe."
+    "text": "Meanwhile, in London, thousands rallied in support of Gaza, urging the new Prime Minister, Andy Burnham, to impose an arms embargo on Israel. It’s clear that public sentiment is pushing for action."
   },
   {
     "speaker": "Eve",
-    "text": "Shifting gears, the World Cup final between Spain and Argentina might be affected by Canadian wildfire smoke. Organizers are monitoring the situation closely."
+    "text": "Definitely. And switching gears, did you catch the news about the wildfire smoke from Canada? It’s causing air quality concerns in New York City, especially with the World Cup final just around the corner."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a significant concern, especially with the U.S. and FIFA presidents meeting to address it."
+    "text": "Yeah, that’s a different type of disruption altogether. And speaking of sports, the FIFA World Cup third-place playoff between France and England is happening live today. It’s going to be quite the match!"
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely. And in a different vein, the sports world is mourning the loss of Garfield Sobers, the legendary West Indies cricketer, who passed away at the age of 89."
+    "text": "Absolutely! And in sports news, UK’s Josh Kerr just smashed the longstanding world mile record in London. He ran a mile in 3:42.66, beating the previous record by nearly half a second!"
   },
   {
     "speaker": "Adam",
-    "text": "Sobers was truly one of the greatest all-rounders in cricket history, and he broke numerous records during his time."
+    "text": "That's incredible. On the financial front, let’s take a look at some market updates. The Vanguard S&P 500 ETF, symbol VOO, closed down by about 1.01%."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely a huge loss for the sports community. Now, let’s talk about international relations."
+    "text": "That’s a noticeable dip. Any news impacting it?"
   },
   {
     "speaker": "Adam",
-    "text": "Yes, German Chancellor Merz recently praised nuclear deterrence cooperation with France, emphasizing that it’s not meant to replace NATO’s nuclear umbrella."
+    "text": "There are several articles out discussing different ETFs and their performance, but nothing too drastic for VOO itself."
   },
   {
     "speaker": "Eve",
-    "text": "That’s an interesting angle, especially given the current geopolitical climate."
+    "text": "Moving on to NVIDIA, symbol NVDA, it dropped 2.21% to close at 202.81. Analysts are still giving it a strong buy recommendation, with a mean price target significantly higher at around 302."
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of energy, Germany's making a big bet on Algeria for LNG, especially after losing Russian pipeline gas."
+    "text": "That’s an interesting outlook despite the dip. Let’s not forget about Micron Technology, symbol MU. It also saw a slight decline of 0.5% but maintains a strong buy rating with a mean price target of nearly 1492."
   },
   {
     "speaker": "Eve",
-    "text": "It’s fascinating how countries are reshaping their energy strategies in response to global shifts."
+    "text": "Wow, that’s quite the potential upside! Alphabet, or GOOGL, also dropped by 2.17%, but analysts still view it as a strong buy with a target mean price of 433."
   },
   {
     "speaker": "Adam",
-    "text": "Now, let’s talk about the U.S. and Iran. The situation is intensifying with airstrikes, raising fears of a possible all-out war."
+    "text": "And Meta Platforms, or META, is down 2.79% as well. Analysts are bullish on it too, with a target mean of around 823."
   },
   {
     "speaker": "Eve",
-    "text": "It’s definitely a tense situation that needs careful handling."
+    "text": "Quite a trend in the tech sector. ASML Holding, symbol ASML, closed down 2.09% but has a strong buy recommendation with a target mean of 2123."
   },
   {
     "speaker": "Adam",
-    "text": "On a different note, a compelling story coming out of Gaza features women who have lost limbs using football as a means of recovery."
+    "text": "That’s significant. Taiwan Semiconductor Manufacturing, or TSM, also saw a dip of 2.77%, with a strong buy rating as well."
   },
   {
     "speaker": "Eve",
-    "text": "That’s an inspiring way to reclaim some normalcy and strength after such traumatic experiences."
+    "text": "It seems like the tech stocks are all feeling the heat lately. Lastly, Cameco Corporation, CCJ, is down 1.99% but has a buy recommendation with a target mean of 132."
   },
   {
     "speaker": "Adam",
-    "text": "Now, let’s pivot to the markets."
+    "text": "And Palantir Technologies, PLTR, closed down 1.53% but still holds a buy recommendation with a mean target of 183."
   },
   {
     "speaker": "Eve",
-    "text": "Sure thing! First, we have the Vanguard S&P 500 ETF, symbol VOO, which closed at $683.17, down 1.01%. There’s no analyst target set for this one."
+    "text": "A mixed bag for investors there. Now, let’s switch gears to new podcast episodes. There’s a new episode of \"People I (Mostly) Admire\" featuring economist Peter Leeson."
   },
   {
     "speaker": "Adam",
-    "text": "Moving on to NVIDIA, or NVDA, that stock closed at $202.81, down 2.21%. Analysts are giving it a strong buy rating, with a mean target of about $301.97."
+    "text": "This episode dives into some fascinating topics, like whether trial-by-fire was really barbaric and the democratic nature of pirates. Sounds quirky but insightful!"
   },
   {
     "speaker": "Eve",
-    "text": "It’s interesting to note that NVIDIA’s CEO recently made headlines when his iconic leather jacket sold for a staggering $960,000 at auction."
+    "text": "Definitely worth a listen, especially if you’re interested in unique economic perspectives."
   },
   {
     "speaker": "Adam",
-    "text": "That’s some serious cash for a jacket!"
+    "text": "That wraps up our news for today, Moiz. Drive safe and have a great day at work!"
   },
   {
     "speaker": "Eve",
-    "text": "Next up is Micron Technology, ticker MU, closing at $848.95, down 0.5%. Analysts rate it as a strong buy with a mean target of $1,489.57."
-  },
-  {
-    "speaker": "Adam",
-    "text": "They are really riding the AI wave, but there’s talk of an AI-driven memory crunch affecting the smartphone market in India."
-  },
-  {
-    "speaker": "Eve",
-    "text": "That could really shake things up. Now let’s look at Alphabet, GOOGL, which closed at $346.77, down 2.17%. Analysts are also giving it a strong buy with a target mean of $431.72."
-  },
-  {
-    "speaker": "Adam",
-    "text": "They have some buzz around Starlink being a key player for SpaceX, which is intriguing."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Definitely! Now on to Meta Platforms, symbol META, which closed at $646.01, down 2.79%. It also has a strong buy rating with a mean target of $826.63."
-  },
-  {
-    "speaker": "Adam",
-    "text": "It seems like they’re navigating some uncertain waters in AI investment returns, too."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Now, ASML Holding closed at $1,747.58, down 2.09%, with a strong buy rating and a mean target of about $2,032.52."
-  },
-  {
-    "speaker": "Adam",
-    "text": "It’s worth noting that tech stocks are facing some headwinds lately."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Right, and Taiwan Semiconductor, TSM, closed at $398.37, down 2.77%. They also hold a strong buy rating with a mean target of $520.37."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Investors are apparently buying the dip in semiconductor stocks, which is interesting to see."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Cameco Corporation, CCJ, closed at $85.62, down 1.99%, with a buy rating and a mean target of $132.18."
-  },
-  {
-    "speaker": "Adam",
-    "text": "They’re amidst some discussions about uranium and the U.S. rare earth push."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Lastly, Palantir Technologies, PLTR, closed at $132.38, down 1.53%, also rated a buy with a mean target of $183.12."
-  },
-  {
-    "speaker": "Adam",
-    "text": "They’re making headlines for their co-founder receiving an award, which is nice to see."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Now, Moiz, if you’re looking for something new in your podcasts, “99% Invisible” just released an episode titled “100 Objects #9: Missing Children Milk Carton.”"
-  },
-  {
-    "speaker": "Adam",
-    "text": "This episode dives into the story of Johnny Gosch, a twelve-year-old boy who vanished in 1982, and how it sparked a massive campaign using milk cartons to find missing children."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Definitely a thought-provoking listen worth your time."
-  },
-  {
-    "speaker": "Adam",
-    "text": "And that’s a wrap on today’s news."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Thanks for tuning in, Moiz! Drive safe!"
+    "text": "Take care, Moiz!"
   }
 ]
