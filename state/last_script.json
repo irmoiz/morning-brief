@@ -1,106 +1,158 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you see that drone video showing the scale of the wildfire in northern Spain? It's pretty wild!"
+    "text": "Good morning, Moiz! Did you catch the first half of the Spain vs Argentina World Cup final? A goalless draw, but it sounds like there were plenty of talking points!"
   },
   {
     "speaker": "Eve",
-    "text": "I know, right? Over 150 square kilometers have burned! That’s just heartbreaking. Let’s dive into some news, shall we?"
+    "text": "Right? It’s wild how suspenseful a scoreless game can be. I can only imagine the atmosphere in the stadium!"
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. Starting with international headlines, there’s a lot happening around the globe. In Gaza, ceasefire efforts seem to have fallen apart, with reports of Israeli attacks continuing despite the supposed truce."
+    "text": "Speaking of atmospheres, let’s dive into some world news. First up, we have twin earthquakes striking Peru, causing significant damage and claiming at least five lives. The quakes, measuring 5.1 and 3.7, hit the mountainous region east of Lima."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, it’s tragic. Palestinians are still facing violence, and just last night, Israeli attacks on residential areas killed eight people in Gaza City. It’s really alarming to see how this conflict persists."
+    "text": "That’s devastating news. Peru has experienced its fair share of seismic activity, but it’s always tragic when lives are lost."
   },
   {
     "speaker": "Adam",
-    "text": "It’s a dire situation. And speaking of conflicts, Iran's supreme leader has issued a warning about “unforgettable lessons” if U.S. attacks continue. It seems like tensions are escalating again."
+    "text": "Absolutely. On a different note, Andy Burnham is set to become the new UK Prime Minister on Monday, and he’s already facing a mountain of challenges. With the UK getting its seventh PM in just ten years, political stability seems like a distant dream."
   },
   {
     "speaker": "Eve",
-    "text": "Right, and the U.S. military has confirmed that two service members were killed in an Iranian strike in Jordan. It’s a stark reminder of how quickly things can spiral out of control."
+    "text": "Yeah, it’ll be interesting to see how he handles foreign policy, especially with ongoing conflicts in Ukraine and Iran."
   },
   {
     "speaker": "Adam",
-    "text": "Meanwhile, in London, thousands rallied in support of Gaza, urging the new Prime Minister, Andy Burnham, to impose an arms embargo on Israel. It’s clear that public sentiment is pushing for action."
+    "text": "And just when you think things can’t get more chaotic, news comes out of New York. Fans have lit up NYC’s Little Argentina in celebration ahead of the World Cup final, but security is tight, especially after former President Trump’s visit caused logistical delays at the stadium."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely. And switching gears, did you catch the news about the wildfire smoke from Canada? It’s causing air quality concerns in New York City, especially with the World Cup final just around the corner."
+    "text": "Oh, that sounds like a mix of excitement and frustration! The buzz of the World Cup can really bring people together, but those queues must have tested everyone’s patience."
   },
   {
     "speaker": "Adam",
-    "text": "Yeah, that’s a different type of disruption altogether. And speaking of sports, the FIFA World Cup third-place playoff between France and England is happening live today. It’s going to be quite the match!"
+    "text": "And in other news, Lebanese food influencer Georges Hanna Dib, better known as Dr. Food, has been sentenced to life for drug smuggling. He was caught attempting to smuggle hashish out of Lebanon hidden in cake packaging."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely! And in sports news, UK’s Josh Kerr just smashed the longstanding world mile record in London. He ran a mile in 3:42.66, beating the previous record by nearly half a second!"
+    "text": "That’s such a bizarre story! Who would have thought a food influencer would get involved in something like that?"
   },
   {
     "speaker": "Adam",
-    "text": "That's incredible. On the financial front, let’s take a look at some market updates. The Vanguard S&P 500 ETF, symbol VOO, closed down by about 1.01%."
+    "text": "Right? It’s a shocking fall from grace. Meanwhile, in Iran, the supreme leader has called for calm amid rising political divides after hardliners accused officials of treason for signing an agreement with the US."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a noticeable dip. Any news impacting it?"
+    "text": "Tensions are high there, and it’s a critical time for leadership and unity."
   },
   {
     "speaker": "Adam",
-    "text": "There are several articles out discussing different ETFs and their performance, but nothing too drastic for VOO itself."
+    "text": "Switching gears to some alarming news from Mali, at least 50 soldiers were killed in an attack on a military convoy. This ongoing conflict shows no signs of letting up."
   },
   {
     "speaker": "Eve",
-    "text": "Moving on to NVIDIA, symbol NVDA, it dropped 2.21% to close at 202.81. Analysts are still giving it a strong buy recommendation, with a mean price target significantly higher at around 302."
+    "text": "That’s heart-wrenching. It’s hard to comprehend the loss of life in these situations."
   },
   {
     "speaker": "Adam",
-    "text": "That’s an interesting outlook despite the dip. Let’s not forget about Micron Technology, symbol MU. It also saw a slight decline of 0.5% but maintains a strong buy rating with a mean price target of nearly 1492."
+    "text": "Lastly, in a miraculous turn, five passengers, including a seven-year-old girl, were rescued after drifting for days following a boat sinking in Indonesia."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, that’s quite the potential upside! Alphabet, or GOOGL, also dropped by 2.17%, but analysts still view it as a strong buy with a target mean price of 433."
+    "text": "Wow, that’s a relief amidst all the chaos! It’s amazing how survival stories can emerge from such tragic events."
   },
   {
     "speaker": "Adam",
-    "text": "And Meta Platforms, or META, is down 2.79% as well. Analysts are bullish on it too, with a target mean of around 823."
+    "text": "Let's pivot to the markets now. The Vanguard S&P 500 ETF, symbol VOO, closed down by 1.01%. Analysts have no specific recommendation on this one right now."
   },
   {
     "speaker": "Eve",
-    "text": "Quite a trend in the tech sector. ASML Holding, symbol ASML, closed down 2.09% but has a strong buy recommendation with a target mean of 2123."
+    "text": "There’s a lot of conversation around ETFs lately, though. What else do we have?"
   },
   {
     "speaker": "Adam",
-    "text": "That’s significant. Taiwan Semiconductor Manufacturing, or TSM, also saw a dip of 2.77%, with a strong buy rating as well."
+    "text": "NVIDIA, symbol NVDA, saw a decline of 2.21%. Analysts continue to rate it as a strong buy with a mean price target of $302.31, which is quite a bit higher than its current price."
   },
   {
     "speaker": "Eve",
-    "text": "It seems like the tech stocks are all feeling the heat lately. Lastly, Cameco Corporation, CCJ, is down 1.99% but has a buy recommendation with a target mean of 132."
+    "text": "That’s interesting. NVIDIA is still riding the AI wave, and it seems like a solid investment for those looking long-term."
   },
   {
     "speaker": "Adam",
-    "text": "And Palantir Technologies, PLTR, closed down 1.53% but still holds a buy recommendation with a mean target of 183."
+    "text": "Exactly, and speaking of strong buys, Micron Technology, with the ticker MU, also experienced a slight drop of 0.5%. It holds a strong buy recommendation with a mean price target of $1491.95."
   },
   {
     "speaker": "Eve",
-    "text": "A mixed bag for investors there. Now, let’s switch gears to new podcast episodes. There’s a new episode of \"People I (Mostly) Admire\" featuring economist Peter Leeson."
+    "text": "Those targets are significantly higher than their actual trading price, which is promising for potential investors."
   },
   {
     "speaker": "Adam",
-    "text": "This episode dives into some fascinating topics, like whether trial-by-fire was really barbaric and the democratic nature of pirates. Sounds quirky but insightful!"
+    "text": "Alphabet, or GOOGL, is down by 2.17% and has also received a strong buy rating, with a target mean of $433.51."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely worth a listen, especially if you’re interested in unique economic perspectives."
+    "text": "It seems like Alphabet is still seen as a strong contender in tech despite the current dip."
   },
   {
     "speaker": "Adam",
-    "text": "That wraps up our news for today, Moiz. Drive safe and have a great day at work!"
+    "text": "Meta Platforms, Inc., symbol META, closed at $646.01, down 2.79%. Analysts rate it as a strong buy, targeting around $822.69."
   },
   {
     "speaker": "Eve",
-    "text": "Take care, Moiz!"
+    "text": "It’s intriguing how these tech giants are fluctuating but still maintain strong buy status."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Then we have ASML Holding, down 2.09% and marked as a strong buy with a target mean of $2120.86."
+  },
+  {
+    "speaker": "Eve",
+    "text": "With the demand for semiconductor technology, that’s not surprising."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Taiwan Semiconductor Manufacturing, or TSM, fell by 2.77%. Analysts rate it as a strong buy with a target mean price of $520.37."
+  },
+  {
+    "speaker": "Eve",
+    "text": "It sounds like there’s a consistent theme around strong buy ratings in the tech sector, despite the fluctuations."
+  },
+  {
+    "speaker": "Adam",
+    "text": "That's true! Cameco Corporation, ticker CCJ, is down 1.99% but holds a buy recommendation, with a mean target of $132.20."
+  },
+  {
+    "speaker": "Eve",
+    "text": "And Palantir Technologies, symbol PLTR, is down 1.53% but is also rated as a buy with a target mean of $183.12."
+  },
+  {
+    "speaker": "Adam",
+    "text": "It’s fascinating how the market is reacting, yet many of these companies are still seen as solid investments."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Totally! Now, let’s talk about something lighter—new episodes in podcasts! We have an episode from \"Founders\" called \"The Merchant Bankers.\" It dives into the principles of merchant banking and profiles some historical figures."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Sounds like a fascinating listen! Understanding the blend of entrepreneurship and finance is always intriguing."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Definitely! The episode discusses how reputation and trust were the greatest assets for these bankers, rather than just monetary wealth."
+  },
+  {
+    "speaker": "Adam",
+    "text": "That’s a refreshing perspective on business."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Well, that wraps up today’s news, Moiz. Safe travels to work!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "Thanks for joining us, Moiz!"
   }
 ]
