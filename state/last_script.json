@@ -1,158 +1,166 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you catch the first half of the Spain vs Argentina World Cup final? A goalless draw, but it sounds like there were plenty of talking points!"
+    "text": "Good morning, Moiz! I gotta say, the news about the flash flooding in Afghanistan is pretty shocking."
   },
   {
     "speaker": "Eve",
-    "text": "Right? It’s wild how suspenseful a scoreless game can be. I can only imagine the atmosphere in the stadium!"
+    "text": "Yeah, it’s devastating. Twenty lives lost already, and rescue teams are really racing against time in Nuristan province."
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of atmospheres, let’s dive into some world news. First up, we have twin earthquakes striking Peru, causing significant damage and claiming at least five lives. The quakes, measuring 5.1 and 3.7, hit the mountainous region east of Lima."
+    "text": "It’s just heartbreaking, especially with the monsoon season wreaking havoc in that region."
   },
   {
     "speaker": "Eve",
-    "text": "That’s devastating news. Peru has experienced its fair share of seismic activity, but it’s always tragic when lives are lost."
+    "text": "Absolutely. Shifting to India, there’s been a major police crackdown on the Cockroach Janta Party’s march in New Delhi. Protesters were met with batons as they demanded accountability after some recent scandals."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. On a different note, Andy Burnham is set to become the new UK Prime Minister on Monday, and he’s already facing a mountain of challenges. With the UK getting its seventh PM in just ten years, political stability seems like a distant dream."
+    "text": "That’s wild! It’s always alarming to see such force used against peaceful protests."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, it’ll be interesting to see how he handles foreign policy, especially with ongoing conflicts in Ukraine and Iran."
+    "text": "Right? The youth-led protests are really pushing for change. And speaking of tensions, Iran is condemning US attacks on civilian infrastructure. They’re insisting that diplomatic efforts are still on the table."
   },
   {
     "speaker": "Adam",
-    "text": "And just when you think things can’t get more chaotic, news comes out of New York. Fans have lit up NYC’s Little Argentina in celebration ahead of the World Cup final, but security is tight, especially after former President Trump’s visit caused logistical delays at the stadium."
+    "text": "It’s a complex situation over there. Iran's response seems to be an attempt to maintain some diplomatic ground amid all the chaos."
   },
   {
     "speaker": "Eve",
-    "text": "Oh, that sounds like a mix of excitement and frustration! The buzz of the World Cup can really bring people together, but those queues must have tested everyone’s patience."
+    "text": "Definitely. And then there's the situation in Gaza. Khalil al-Hayya's win in the Hamas leadership election is raising eyebrows. A single-vote margin? That's incredibly close."
   },
   {
     "speaker": "Adam",
-    "text": "And in other news, Lebanese food influencer Georges Hanna Dib, better known as Dr. Food, has been sentenced to life for drug smuggling. He was caught attempting to smuggle hashish out of Lebanon hidden in cake packaging."
+    "text": "It signals a shift in focus toward Gaza amidst ongoing tensions with Israel. It’s going to be interesting to see how that plays out."
   },
   {
     "speaker": "Eve",
-    "text": "That’s such a bizarre story! Who would have thought a food influencer would get involved in something like that?"
+    "text": "Meanwhile, in Yemen, we’re seeing women stepping up to support their families during the economic crisis. It's a tough environment, but they’re finding ways to make it work."
   },
   {
     "speaker": "Adam",
-    "text": "Right? It’s a shocking fall from grace. Meanwhile, in Iran, the supreme leader has called for calm amid rising political divides after hardliners accused officials of treason for signing an agreement with the US."
+    "text": "That’s commendable. It’s always inspiring to see resilience in the face of adversity."
   },
   {
     "speaker": "Eve",
-    "text": "Tensions are high there, and it’s a critical time for leadership and unity."
+    "text": "And over in Europe, the EU has decided to pause methane penalties, citing the energy crisis and pressure from the US."
   },
   {
     "speaker": "Adam",
-    "text": "Switching gears to some alarming news from Mali, at least 50 soldiers were killed in an attack on a military convoy. This ongoing conflict shows no signs of letting up."
+    "text": "Smart move, considering the current energy dynamics. Better to focus on energy security right now than impose penalties that could worsen the situation."
   },
   {
     "speaker": "Eve",
-    "text": "That’s heart-wrenching. It’s hard to comprehend the loss of life in these situations."
+    "text": "Absolutely. And in entertainment news, a US judge has ordered a pause on the Paramount-Warner Bros merger. Paramount could be facing hefty fees if things drag on too long."
   },
   {
     "speaker": "Adam",
-    "text": "Lastly, in a miraculous turn, five passengers, including a seven-year-old girl, were rescued after drifting for days following a boat sinking in Indonesia."
+    "text": "Yeah, $650 million in quarterly fees if the merger doesn’t go through by September. That’s a lot of money on the line."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, that’s a relief amidst all the chaos! It’s amazing how survival stories can emerge from such tragic events."
+    "text": "It certainly is. Now, shifting gears a bit, let’s talk about the World Cup. There’s a retrospective piece out titled \"A tournament of contradictions.\" It dives into both the glory and controversy of the 2026 event."
   },
   {
     "speaker": "Adam",
-    "text": "Let's pivot to the markets now. The Vanguard S&P 500 ETF, symbol VOO, closed down by 1.01%. Analysts have no specific recommendation on this one right now."
+    "text": "Oh, I can only imagine the moments they’ll highlight. Sports always have that mix of highs and lows, don't they?"
   },
   {
     "speaker": "Eve",
-    "text": "There’s a lot of conversation around ETFs lately, though. What else do we have?"
+    "text": "They really do. And there are protests in Italy following the death of a Moroccan man during an arrest. The outrage is reminiscent of the George Floyd protests."
   },
   {
     "speaker": "Adam",
-    "text": "NVIDIA, symbol NVDA, saw a decline of 2.21%. Analysts continue to rate it as a strong buy with a mean price target of $302.31, which is quite a bit higher than its current price."
+    "text": "It’s tragic to see history repeating itself in such a painful way."
   },
   {
     "speaker": "Eve",
-    "text": "That’s interesting. NVIDIA is still riding the AI wave, and it seems like a solid investment for those looking long-term."
+    "text": "It is. In another development, Yemen’s Houthi rebels have announced a maritime blockade on Saudi Arabia after trading fire."
   },
   {
     "speaker": "Adam",
-    "text": "Exactly, and speaking of strong buys, Micron Technology, with the ticker MU, also experienced a slight drop of 0.5%. It holds a strong buy recommendation with a mean price target of $1491.95."
+    "text": "That sounds like it could escalate quickly. The situation in that region is so volatile."
   },
   {
     "speaker": "Eve",
-    "text": "Those targets are significantly higher than their actual trading price, which is promising for potential investors."
+    "text": "It really is. And in the US, Trump is vowing that Iran will “pay” for the killing of American soldiers. The airstrikes have ramped up significantly."
   },
   {
     "speaker": "Adam",
-    "text": "Alphabet, or GOOGL, is down by 2.17% and has also received a strong buy rating, with a target mean of $433.51."
+    "text": "That’s a dangerous rhetoric, especially considering how quickly conflicts can spiral out of control."
   },
   {
     "speaker": "Eve",
-    "text": "It seems like Alphabet is still seen as a strong contender in tech despite the current dip."
+    "text": "For sure. Now, let’s take a look at the markets, shall we?"
   },
   {
     "speaker": "Adam",
-    "text": "Meta Platforms, Inc., symbol META, closed at $646.01, down 2.79%. Analysts rate it as a strong buy, targeting around $822.69."
+    "text": "Sounds good! Starting with the Vanguard S&P 500 ETF, VOO, it closed at $682.21, down about 0.14%. No major news driving this movement."
   },
   {
     "speaker": "Eve",
-    "text": "It’s intriguing how these tech giants are fluctuating but still maintain strong buy status."
+    "text": "And NVIDIA, NVDA, saw a slight increase of 0.23%, closing at $203.28. Analysts are still giving it a strong buy rating with a mean target of $302.31."
   },
   {
     "speaker": "Adam",
-    "text": "Then we have ASML Holding, down 2.09% and marked as a strong buy with a target mean of $2120.86."
+    "text": "That’s a significant upside potential. There’s also some buzz around cultural memorabilia, like Jensen Huang's jacket selling for $960,000. That's pretty wild!"
   },
   {
     "speaker": "Eve",
-    "text": "With the demand for semiconductor technology, that’s not surprising."
+    "text": "It sure is! Moving on to Micron Technology, MU, which closed at $865.46, up 1.94%. Analysts are also rating it a strong buy, with a target mean of $1491.95."
   },
   {
     "speaker": "Adam",
-    "text": "Taiwan Semiconductor Manufacturing, or TSM, fell by 2.77%. Analysts rate it as a strong buy with a target mean price of $520.37."
+    "text": "That’s a healthy bump! They’re also seeing some attention due to AI spending projected to surpass $1 trillion by 2027."
   },
   {
     "speaker": "Eve",
-    "text": "It sounds like there’s a consistent theme around strong buy ratings in the tech sector, despite the fluctuations."
+    "text": "Exciting stuff! Now looking at Alphabet, GOOGL, it closed at $351.99, up 1.51%. Analysts are again bullish with a target mean of $433.51."
   },
   {
     "speaker": "Adam",
-    "text": "That's true! Cameco Corporation, ticker CCJ, is down 1.99% but holds a buy recommendation, with a mean target of $132.20."
+    "text": "It’s interesting how the tech sector is still showing resilience despite broader market fluctuations."
   },
   {
     "speaker": "Eve",
-    "text": "And Palantir Technologies, symbol PLTR, is down 1.53% but is also rated as a buy with a target mean of $183.12."
+    "text": "Absolutely. Meta Platforms, META, had a marginal drop of 0.02%, closing at $645.85, but remains a strong buy with a target mean of $822.69."
   },
   {
     "speaker": "Adam",
-    "text": "It’s fascinating how the market is reacting, yet many of these companies are still seen as solid investments."
+    "text": "And ASML closed at $1739.02, down 0.49%, yet still holds a strong buy recommendation with a target mean of $2118.40."
   },
   {
     "speaker": "Eve",
-    "text": "Totally! Now, let’s talk about something lighter—new episodes in podcasts! We have an episode from \"Founders\" called \"The Merchant Bankers.\" It dives into the principles of merchant banking and profiles some historical figures."
+    "text": "Right! And Taiwan Semiconductor, TSM, closed at $402.30, up 0.99%. Analysts are also bullish with a recommended target mean of $522.82."
   },
   {
     "speaker": "Adam",
-    "text": "Sounds like a fascinating listen! Understanding the blend of entrepreneurship and finance is always intriguing."
+    "text": "Cameco Corporation, CCJ, closed at $84.85, down 0.90%, but still rated as a buy with a target mean of $131.69."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely! The episode discusses how reputation and trust were the greatest assets for these bankers, rather than just monetary wealth."
+    "text": "Finally, Palantir Technologies, PLTR, closed at $134.85, up 1.87%, rated as a buy with a target mean of $183.12."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a refreshing perspective on business."
+    "text": "It seems like a mixed bag on Wall Street today, but overall, there's still a lot of optimism in tech."
   },
   {
     "speaker": "Eve",
-    "text": "Well, that wraps up today’s news, Moiz. Safe travels to work!"
+    "text": "Definitely. Now, it looks like we don’t have any new podcast episodes to share today."
   },
   {
     "speaker": "Adam",
-    "text": "Thanks for joining us, Moiz!"
+    "text": "A quiet day on that front, but there’s always something brewing in the podcast world."
+  },
+  {
+    "speaker": "Eve",
+    "text": "True! Well, that wraps up our news for today, Moiz."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Drive safely, and we’ll catch you next time!"
   }
 ]
