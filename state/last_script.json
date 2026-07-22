@@ -1,202 +1,166 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you catch the news about the Russian strike in Zaporizhzhia? That’s just devastating."
+    "text": "Good morning, Moiz! Did you see that story about the Gaza man who returned home after his family thought he was dead? That’s wild!"
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, it really is. At least three people were killed, and over a dozen injured. It’s hard to believe the conflict is still escalating like this."
+    "text": "I know, right? It must have been such an emotional reunion after everything he went through. It’s a bright spot amidst so much chaos in the world."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. Let’s dive into the world news, shall we?"
+    "text": "Speaking of chaos, let’s dive into some world news. The U.S. and Iran are in the spotlight again. The UN's Griffiths mentioned that both nations need to accept they've “lost” in their diplomatic efforts."
   },
   {
     "speaker": "Eve",
-    "text": "Sure! In Zaporizhzhia, a Russian guided aerial bomb attack resulted in those casualties, and it’s part of the ongoing tensions in Ukraine. It's a stark reminder that the conflict is far from over."
+    "text": "That’s a heavy statement. With rising tensions and ongoing conflicts, it seems like no one really wins in these situations."
   },
   {
     "speaker": "Adam",
-    "text": "Right, and shifting gears to France, President Emmanuel Macron has just pushed through a social media ban for kids under 15. He wants it in place before the school year kicks off."
+    "text": "Exactly. Moving on, the UN rights chief has condemned Nicaragua’s decision to abolish elections, which sounds like a step back for democracy. He’s urging for the restoration of freedoms and rule of law."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a significant move. It could change how kids interact online, but I wonder how it’ll be enforced."
+    "text": "It’s troubling to see such actions in a country that should be upholding democratic values. It’s a reminder of how fragile these systems can be."
   },
   {
     "speaker": "Adam",
-    "text": "There’s definitely a lot to unpack there. Meanwhile, over in the U.S., funding cuts are hitting global HIV treatment hard. The UNAIDS chief is calling for a ‘radical change’ in response to these cuts."
+    "text": "In other news, Trump recently warned that Iran will “pay a big price” for U.S. troop deaths. This came right before he attended a dignified transfer ceremony for the casualties."
   },
   {
     "speaker": "Eve",
-    "text": "That’s alarming. The reduction in aid could severely impact treatment availability worldwide."
+    "text": "That’s a pretty intense statement. It certainly escalates the rhetoric between the two countries."
   },
   {
     "speaker": "Adam",
-    "text": "Exactly. In Turkey, the deposed opposition leader, Ozgur Ozel, is planning to establish a new party after being removed from his leadership post."
+    "text": "On a different note, Hamada Al Banna, a Gaza man, has reunited with his family after being believed dead for over a year. He was in a coma following an explosion."
   },
   {
     "speaker": "Eve",
-    "text": "It’s interesting to see how the political landscape is shifting there."
+    "text": "That’s incredible! A real-life miracle. It must be heartwarming for his family to have him back."
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of shifts, Canada’s Mark Carney announced that he and Trump have agreed to intensify trade negotiations. This comes after a series of tensions and tariffs between the two countries."
+    "text": "Meanwhile, in India, police used water cannons to disperse student protests in Raipur, where they’re demanding the resignation of the education minister."
   },
   {
     "speaker": "Eve",
-    "text": "It’s surprising considering all the back-and-forth we’ve seen."
+    "text": "That’s quite aggressive. Student protests can be powerful, but using water cannons seems excessive."
   },
   {
     "speaker": "Adam",
-    "text": "And in Spain, wildfires are wreaking havoc near Madrid, fueled by a scorching heatwave. Temperatures are set to soar above 40 degrees Celsius."
+    "text": "Also in India, the death toll from a blast at a hydroelectric project has risen to 20 people. Rescuers are facing challenging conditions with flooding and toxic gas in the collapsed tunnel."
   },
   {
     "speaker": "Eve",
-    "text": "That’s wild! This summer has been brutal for so many regions with heatwaves."
+    "text": "That’s tragic. It’s heartbreaking to think about the families affected by such incidents."
   },
   {
     "speaker": "Adam",
-    "text": "It’s a tough situation. Meanwhile, Kuwaitis are having to ration electricity following Iranian strikes that damaged their power grid."
+    "text": "Shifting gears, there’s been a lot of talk in the U.S. about potentially stopping the collection of workplace race and gender data. This could have a significant impact on monitoring discrimination trends."
   },
   {
     "speaker": "Eve",
-    "text": "That’s an unfortunate situation. It’s a stark reminder of how interconnected these issues are."
+    "text": "That sounds like a controversial decision. Data collection is crucial for ensuring equality in the workplace."
   },
   {
     "speaker": "Adam",
-    "text": "In the U.S., a judge has blocked Trump’s attempt to strip work permits from immigrants from several countries, including El Salvador and Ukraine."
+    "text": "And in a legal twist, a U.S. judge has set a 2027 trial date for Venezuela’s Maduro and his wife. He’s pleading not guilty to drug charges."
   },
   {
     "speaker": "Eve",
-    "text": "That must be a relief for many families. These legal battles can be quite stressful."
+    "text": "That’s quite a wait for a trial! It’ll be interesting to see how that unfolds in the coming years."
   },
   {
     "speaker": "Adam",
-    "text": "In India, a tunnel collapse has killed at least ten people, with toxic gases hampering rescue efforts for those still trapped."
+    "text": "Last but not least, some anonymous donors have been sending food to student protesters in New Delhi using delivery apps."
   },
   {
     "speaker": "Eve",
-    "text": "That’s heartbreaking. It’s so tragic when accidents like this happen."
+    "text": "That’s a unique way to support the cause! It’s great to see people stepping up in creative ways."
   },
   {
     "speaker": "Adam",
-    "text": "And over in the U.S., there’s a proposal to end racial and gender workforce data collection, which is sparking quite a bit of criticism."
+    "text": "Now, let’s take a look at today’s market movements. Starting with the Vanguard S&P 500 ETF, or VOO, it’s down just slightly by 0.12%. No major news affecting it today."
   },
   {
     "speaker": "Eve",
-    "text": "It’s concerning to see these kinds of proposals come up. Diversity reporting is important for accountability."
+    "text": "Not much movement there. Moving on to NVIDIA, ticker NVDA, it’s up 2.3%. Analysts are feeling pretty bullish with a strong buy rating and a mean price target of around $302.83."
   },
   {
     "speaker": "Adam",
-    "text": "The potential for a truce between the U.S. and Iran is also being discussed. Analysts warn that the cost of compromise is rising with each new attack."
+    "text": "That’s a significant jump! The excitement around AI continues to drive investor interest in NVIDIA."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a precarious situation. Peace seems harder to achieve than ever."
+    "text": "Next, we have Micron Technology, ticker MU, which is down 1.17%. Despite the drop, it still holds a strong buy recommendation with a mean price target of $1,507.38."
   },
   {
     "speaker": "Adam",
-    "text": "In Afghanistan, rescuers are searching for survivors after flash floods and a landslide. The devastation there is quite severe."
+    "text": "Micron is still a player in the memory chip market, despite the slight decline. But analysts are optimistic about its future."
   },
   {
     "speaker": "Eve",
-    "text": "It’s a tough situation for many, with those kinds of natural disasters causing so much damage."
+    "text": "Alphabet, or GOOGL, is down by 1.46%. They’re also rated as a strong buy, with a mean target of $433.55."
   },
   {
     "speaker": "Adam",
-    "text": "Switching gears to the markets, let’s take a look at some stocks this morning. The Vanguard S&P 500 ETF, or VOO, closed at $687.87, up 0.83%."
+    "text": "Investors are likely anticipating their upcoming earnings report, which could influence future movements."
   },
   {
     "speaker": "Eve",
-    "text": "Not bad! There’s some buzz around Vanguard ETFs lately, especially with articles suggesting they are good long-term investments."
+    "text": "Over at Meta, the ticker META is down 2.58%. Their mean price target is around $826.01, still considered a strong buy."
   },
   {
     "speaker": "Adam",
-    "text": "Definitely. Moving on to NVIDIA, or NVDA, it closed at $207.29, rising nearly 2%. Analysts are pretty bullish with a strong buy recommendation and a target price of about $302."
+    "text": "It seems like investors are cautious ahead of earnings, but the long-term outlook remains positive."
   },
   {
     "speaker": "Eve",
-    "text": "That’s exciting for investors. It seems like AI spending is still driving interest in NVIDIA."
+    "text": "ASML, ticker ASML, is nearly flat, down just 0.02%. The target mean stands at $2,117.91, indicating strong buy sentiment."
   },
   {
     "speaker": "Adam",
-    "text": "For sure. Now, Micron Technology, ticker MU, had quite a jump, closing at $970.82, up over 12%. Analysts also recommend a strong buy with a target mean of $1,491."
+    "text": "That’s a solid position for ASML, especially with ongoing demand for advanced chips."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, that’s significant! The tech sector seems to be rebounding well."
+    "text": "Taiwan Semiconductor, or TSM, is down 0.8% but still rated a strong buy, with a mean target of $527.26."
   },
   {
     "speaker": "Adam",
-    "text": "Moving on to Alphabet Inc., GOOGL. It closed at $347.15, down 1.38%, but still holds a strong buy rating with a target price of $433."
+    "text": "They have a strong grip on the market, but the competition is fierce."
   },
   {
     "speaker": "Eve",
-    "text": "It seems like there’s a lot of volatility in tech stocks these days."
+    "text": "Cameco Corporation, ticker CCJ, is up 1.91%, with a buy recommendation and a target mean of $131.53."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. Now, Meta Platforms, or META, closed at $643.81, slightly down, but still has a strong buy recommendation with a target mean price of $822."
+    "text": "That’s a nice upward trend for Cameco, reflecting the rising interest in nuclear energy."
   },
   {
     "speaker": "Eve",
-    "text": "They’re certainly maintaining a positive outlook despite the fluctuations."
+    "text": "Lastly, Palantir Technologies, ticker PLTR, is down 6.1%. It still holds a buy rating with a mean target of $183.12."
   },
   {
     "speaker": "Adam",
-    "text": "ASML Holding closed at $1,801.51, up 3.59%. Analysts are bullish there as well with a target mean of $2,115."
+    "text": "Quite a drop there! That'll be something for investors to keep an eye on."
   },
   {
     "speaker": "Eve",
-    "text": "A good sign for the semiconductor industry, I’d say."
+    "text": "And that wraps up our market update!"
   },
   {
     "speaker": "Adam",
-    "text": "Taiwan Semiconductor Manufacturing, TSM, saw a nice jump of 5.55%, closing at $424.61, with a strong buy recommendation and a target mean of $522."
+    "text": "Before we sign off, there are no new podcast episodes to share today."
   },
   {
     "speaker": "Eve",
-    "text": "That’s impressive growth reflecting the demand for semiconductors."
+    "text": "Alright, Moiz, stay informed and have a great day ahead!"
   },
   {
     "speaker": "Adam",
-    "text": "Then we have Cameco Corporation, CCJ, closing at $88.68, up 4.51%, with a buy rating and a target mean of $131."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Nuclear energy is definitely getting more attention lately."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Lastly, Palantir Technologies, PLTR, closed at $132.66, down slightly, but still with a buy recommendation and a target mean of $183."
-  },
-  {
-    "speaker": "Eve",
-    "text": "It’ll be interesting to see how that stock performs going forward."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Now, let’s quickly touch on new episodes in your podcasts. The show \"99% Invisible\" has released an episode titled \"The Original 100 Objects.\""
-  },
-  {
-    "speaker": "Eve",
-    "text": "Neil MacGregor dives into the landmark series that changed how we view history. It sounds fascinating, especially with a focus on the Rosetta Stone."
-  },
-  {
-    "speaker": "Adam",
-    "text": "That does sound intriguing!"
-  },
-  {
-    "speaker": "Eve",
-    "text": "Well, that wraps up our news for today, Moiz."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Stay safe out there, Moiz!"
-  },
-  {
-    "speaker": "Eve",
-    "text": "Until next time!"
+    "text": "Take care, Moiz!"
   }
 ]
