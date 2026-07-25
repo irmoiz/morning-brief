@@ -1,170 +1,206 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you see the news about the escalating violence near Nablus?"
+    "text": "Good morning, Moiz! Did you hear about the head of Hamas-led police getting killed in an Israeli strike? That’s pretty intense."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, that’s incredibly alarming. Israeli settlers setting fire to Palestinian homes and vehicles? The situation just keeps getting more intense."
+    "text": "Yeah, it’s shocking how quickly things can escalate there. It’s not just him; there were multiple casualties in those airstrikes."
   },
   {
     "speaker": "Adam",
-    "text": "It really does. Shifting to global headlines, the conflict in the Middle East is a pressing issue today. Israel's actions in Nablus are part of a troubling pattern."
+    "text": "Right, and it seems the situation in Gaza is just getting more complicated."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely. The area has seen a rise in tensions, and these attacks only deepen the divide. It’s heartbreaking to see such violence."
+    "text": "Speaking of complicated, the news from Syria is just as grim. At least 35 people died in a bus collision in eastern Syria."
   },
   {
     "speaker": "Adam",
-    "text": "In other news, Venezuela has announced plans to exit the International Criminal Court, citing bias. This move seems to align with the Trump administration’s stance."
+    "text": "That’s awful. Traffic accidents can be devastating, but the numbers are really staggering. It’s hard to process."
   },
   {
     "speaker": "Eve",
-    "text": "Huh, I didn’t expect that. It’s interesting how international dynamics shift with changing leadership."
+    "text": "It really is. And in the Democratic Republic of Congo, the Ebola outbreak is surging past 1,300 deaths. They’re saying it’s spreading like wildfire."
   },
   {
     "speaker": "Adam",
-    "text": "Right? Meanwhile, Saudi Arabia has reportedly struck Houthi-held territory in Yemen again. This ongoing conflict doesn’t seem to be winding down either."
+    "text": "Wow, that’s alarming. With the virus spreading so quickly, it could indeed become one of the worst outbreaks in history."
   },
   {
     "speaker": "Eve",
-    "text": "It’s like one crisis after another. Speaking of which, Canada marked the opening of the Gordie Howe bridge without the U.S. present. That’s a significant diplomatic snub amid the trade war."
+    "text": "It’s a reminder of how vulnerable public health can be, especially in areas with limited resources."
   },
   {
     "speaker": "Adam",
-    "text": "It really is. The decision to cancel the cross-border ceremony speaks volumes about the current state of U.S.-Canada relations."
+    "text": "Definitely. And while we're on the topic of governance and public policy, there’s a story about Netanyahu's government and media reforms that could deepen press bias in Israel."
   },
   {
     "speaker": "Eve",
-    "text": "Shifting gears, we have a historic appointment in Yemen. Afrah al-Zouba has become the country’s first female foreign minister."
+    "text": "Critics are really concerned about how these reforms might threaten press freedom and the integrity of upcoming elections."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a remarkable milestone! It’s about time we see representation at that level."
+    "text": "With the stakes so high, it’s crucial to keep an eye on how this develops."
   },
   {
     "speaker": "Eve",
-    "text": "For sure! And on a different note, wildfires in Spain have forced over 10,000 people to evacuate."
+    "text": "In other news, Iran's government is having a spat with state TV over censorship issues, which complicates their talks with the US."
   },
   {
     "speaker": "Adam",
-    "text": "Wow, that’s wild. The devastation from natural disasters seems to be escalating as well."
+    "text": "That dynamic is fascinating, especially given the geopolitical tensions."
   },
   {
     "speaker": "Eve",
-    "text": "It’s concerning. Meanwhile, in northwest Pakistan, a car bomb attack has tragically killed 27 people. The Pakistani Taliban has claimed responsibility."
+    "text": "It is! Meanwhile, in Spain, a construction worker tragically died while working on the Camp Nou Stadium renovation."
   },
   {
     "speaker": "Adam",
-    "text": "That’s just devastating. The violence in that region never seems to let up."
+    "text": "That’s heartbreaking. Workplace safety must be a top priority, and it’s so sad when accidents like this happen."
   },
   {
     "speaker": "Eve",
-    "text": "And there’s news about the ICC prosecutor being removed over alleged politicized claims. It feels like the judicial system is under constant scrutiny."
+    "text": "Absolutely. But shifting gears to something a bit lighter, did you catch India’s cricket team? They won their second T20 against Zimbabwe!"
   },
   {
     "speaker": "Adam",
-    "text": "It does. And close to home, a school shooter in Georgia has pleaded guilty following his father’s conviction."
+    "text": "Yeah, Kishan and Varma really shone in that match! It seems like they’re on a roll."
   },
   {
     "speaker": "Eve",
-    "text": "It’s a tough topic, especially regarding the scrutiny of parental roles in such tragic incidents."
+    "text": "They’re definitely putting on a show. And speaking of shows, there’s some interesting news coming out of India regarding the resignation of Education Minister Dharmendra Pradhan after protests over exam leaks."
   },
   {
     "speaker": "Adam",
-    "text": "Switching to the Middle East once more, Oman is in talks with Tehran about managing traffic in the Strait of Hormuz while tensions with the U.S. and Iran continue to rise."
+    "text": "Those youth-led protests seem to be making waves, huh? It’s impressive to see activism in action."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a critical area, so any discussions there are important for global trade and security."
+    "text": "It really is! And on a global scale, the Syrian Foreign Minister called for Israel to withdraw immediately from Syria."
   },
   {
     "speaker": "Adam",
-    "text": "And lastly, Trump’s conditions regarding a nuclear deal with Saudi Arabia are making headlines."
+    "text": "That’s a bold statement. With so many players involved, it’s tough to see a resolution anytime soon."
   },
   {
     "speaker": "Eve",
-    "text": "Politics and nuclear deals—never a dull moment, right?"
+    "text": "True, and tensions at the Al-Aqsa Mosque compound continue to escalate as well."
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of numbers, let’s take a look at the markets. Starting with the Vanguard S&P 500 ETF, or VOO, it’s up slightly by 0.08%."
+    "text": "The situation there is certainly delicate."
   },
   {
     "speaker": "Eve",
-    "text": "That’s pretty stable, considering the market’s volatility lately."
+    "text": "Lastly, there's a piece on how the Global South is being pressured to prioritize creditors over the education of children. It’s quite a concerning trend."
   },
   {
     "speaker": "Adam",
-    "text": "Then we have NVIDIA, which closed down nearly a percent at $206.84. Analysts rate it a strong buy with a target mean of about $302.83."
+    "text": "That highlights a real ethical dilemma in global finance, doesn’t it?"
   },
   {
     "speaker": "Eve",
-    "text": "That’s quite the potential upside!"
+    "text": "Yes, it does. Now, let’s take a look at the markets, shall we?"
   },
   {
     "speaker": "Adam",
-    "text": "Micron Technology is down almost 7% at $920.95, but it also enjoys a strong buy rating and a target mean of $1507.38."
+    "text": "Sure thing! Starting with the Vanguard S&P 500 ETF, there’s no recent price movement to report."
   },
   {
     "speaker": "Eve",
-    "text": "A significant drop, but the long-term outlook seems positive."
+    "text": "Right, but there’s buzz around it with articles comparing different growth ETFs."
   },
   {
     "speaker": "Adam",
-    "text": "Alphabet, or GOOGL, is up 0.65% to $319.74, with a strong buy recommendation and a mean target of $428.12."
+    "text": "Moving on to NVIDIA Corporation, analysts are giving it a \"strong buy\" rating, with a mean price target of just over $302."
   },
   {
     "speaker": "Eve",
-    "text": "Sounds promising! What about Meta?"
+    "text": "That’s quite optimistic! There’s a lot of excitement around AI investments that are boosting the stock."
   },
   {
     "speaker": "Adam",
-    "text": "Meta is down 1.8%, closing at $595.19, but it’s still rated a strong buy with a target mean of $825.84."
+    "text": "Definitely! Next up, Micron Technology also has a \"strong buy\" recommendation, with a mean target of about $1,507."
   },
   {
     "speaker": "Eve",
-    "text": "That’s not too shabby for a dip."
+    "text": "That’s impressive. Analysts are bullish, and there’s discussion about AI stocks drawing in new investors."
   },
   {
     "speaker": "Adam",
-    "text": "ASML is down 2.55% at $1757.09, but it still holds a strong buy rating with a target mean of $2110.21."
+    "text": "Alphabet Inc. is also in the \"strong buy\" category, with a mean target of around $428."
   },
   {
     "speaker": "Eve",
-    "text": "And Taiwan Semiconductor is down almost 3% with a strong buy recommendation, sitting at $403.41."
+    "text": "It seems like they have some challenges, but analysts still see long-term value."
   },
   {
     "speaker": "Adam",
-    "text": "And Cameco Corporation is down 1.65% at $87.86, but analysts still recommend it as a buy."
+    "text": "Moving on, Meta Platforms has a \"strong buy\" as well, with a mean target of about $826."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a mixed bag overall."
+    "text": "They’re also launching a new initiative to track in-store sales from ads, which could be exciting for their business."
   },
   {
     "speaker": "Adam",
-    "text": "Now, let’s dive into what’s new in your podcasts. There’s a new episode from \"99% Invisible\" titled \"100 Objects #10: Nunchaku.\""
+    "text": "ASML Holding is rated \"strong buy\" too, with a target of approximately $2,110."
   },
   {
     "speaker": "Eve",
-    "text": "This episode explores the cultural significance of nunchaku, especially how Bruce Lee made them iconic in the 1970s."
+    "text": "Analysts are optimistic, especially after their significant stock run-up."
   },
   {
     "speaker": "Adam",
-    "text": "Sounds intriguing! It’s fascinating how such objects can symbolize broader cultural movements."
+    "text": "Taiwan Semiconductor Manufacturing is similarly rated with a mean target of around $537, and they’ve got some interesting news about potential price hikes."
   },
   {
     "speaker": "Eve",
-    "text": "Totally agree!"
+    "text": "Those hikes could have a ripple effect on consumer electronics, that’s for sure."
   },
   {
     "speaker": "Adam",
-    "text": "Well, Moiz, that wraps up today’s news."
+    "text": "And Cameco Corporation is rated \"buy,\" with a mean target nearing $131."
   },
   {
     "speaker": "Eve",
-    "text": "Drive safe, and we’ll catch you next time!"
+    "text": "They’re facing some market challenges, but there’s still confidence in their prospects."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Lastly, Palantir Technologies holds a \"buy\" rating, with a mean target around $182."
+  },
+  {
+    "speaker": "Eve",
+    "text": "It seems investors are divided about their long-term potential, as discussions around AI stocks continue."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Now, do we have any new episodes to share today?"
+  },
+  {
+    "speaker": "Eve",
+    "text": "We do! “People I (Mostly) Admire” has a new episode featuring Angela Duckworth. She talks about managing goal hierarchy and the concept of goal conflict."
+  },
+  {
+    "speaker": "Adam",
+    "text": "That sounds like a great listen, especially for anyone interested in psychology or personal development."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Absolutely!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "Well, that wraps up our news for today, Moiz."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Have a safe drive to work!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "Take care!"
   }
 ]
