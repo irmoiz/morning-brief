@@ -1,206 +1,170 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you hear about the head of Hamas-led police getting killed in an Israeli strike? That’s pretty intense."
+    "text": "Good morning, Moiz! Did you hear about the Houthis claiming they shot down a Saudi drone in Yemen? That’s some serious escalation over there."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, it’s shocking how quickly things can escalate there. It’s not just him; there were multiple casualties in those airstrikes."
+    "text": "I know, right? It’s always tense in that region, but this just adds another layer to the conflict. Let’s dive into today’s world news."
   },
   {
     "speaker": "Adam",
-    "text": "Right, and it seems the situation in Gaza is just getting more complicated."
+    "text": "Starting off with the Houthis, they stated they downed a Saudi reconnaissance drone in northwestern Yemen. This incident highlights the ongoing hostilities in the region."
   },
   {
     "speaker": "Eve",
-    "text": "Speaking of complicated, the news from Syria is just as grim. At least 35 people died in a bus collision in eastern Syria."
+    "text": "Exactly. And it comes amid increased tensions in the Middle East, with various factions vying for control and influence. It really makes you wonder how this will impact international relations."
   },
   {
     "speaker": "Adam",
-    "text": "That’s awful. Traffic accidents can be devastating, but the numbers are really staggering. It’s hard to process."
+    "text": "Speaking of tensions, there’s a report on Iran’s economy as the scope of US military action expands beyond the Strait of Hormuz. Mediation efforts are ongoing, but uncertainty remains high."
   },
   {
     "speaker": "Eve",
-    "text": "It really is. And in the Democratic Republic of Congo, the Ebola outbreak is surging past 1,300 deaths. They’re saying it’s spreading like wildfire."
+    "text": "The potential for disruptions in international waterways could seriously impact trade and global oil supplies. It’s a precarious situation that many are keeping a close eye on."
   },
   {
     "speaker": "Adam",
-    "text": "Wow, that’s alarming. With the virus spreading so quickly, it could indeed become one of the worst outbreaks in history."
+    "text": "Moving on to Syria, President Ahmed al-Sharaa recently outlined Damascus’s approach to security agreements with Israel and Lebanon. This could change the dynamics in the region quite a bit."
   },
   {
     "speaker": "Eve",
-    "text": "It’s a reminder of how vulnerable public health can be, especially in areas with limited resources."
+    "text": "Yeah, it’s interesting. Syria has been in a tough spot for years, and any shift towards security agreements might open doors for more stable relations."
   },
   {
     "speaker": "Adam",
-    "text": "Definitely. And while we're on the topic of governance and public policy, there’s a story about Netanyahu's government and media reforms that could deepen press bias in Israel."
+    "text": "In a different part of the world, 46 people were rescued from a sunken Vietnamese vessel in the South China Sea. That’s a fortunate outcome amid what could have been a tragic event."
   },
   {
     "speaker": "Eve",
-    "text": "Critics are really concerned about how these reforms might threaten press freedom and the integrity of upcoming elections."
+    "text": "Absolutely, it’s great to hear that the rescue was successful. The South China Sea has been a hotspot for maritime incidents lately, so this is a bit of good news."
   },
   {
     "speaker": "Adam",
-    "text": "With the stakes so high, it’s crucial to keep an eye on how this develops."
+    "text": "Over in Cuba, the president accused the US of genocide and seeking a takeover amid the island's worst economic crisis due to the ongoing oil embargo. That's a serious accusation."
   },
   {
     "speaker": "Eve",
-    "text": "In other news, Iran's government is having a spat with state TV over censorship issues, which complicates their talks with the US."
+    "text": "It certainly is. The economic pressures have been mounting on Cuba, and the political rhetoric is heating up as well. It’s a complex situation that’s been simmering for decades."
   },
   {
     "speaker": "Adam",
-    "text": "That dynamic is fascinating, especially given the geopolitical tensions."
+    "text": "In another controversial move, Israeli Prime Minister Netanyahu vowed to visit New York City despite facing an ICC arrest warrant. He’s really pushing back against criticism."
   },
   {
     "speaker": "Eve",
-    "text": "It is! Meanwhile, in Spain, a construction worker tragically died while working on the Camp Nou Stadium renovation."
+    "text": "That’s quite the bold move, and it certainly shows his defiance. The backlash from various communities, especially in New York, will be interesting to watch."
   },
   {
     "speaker": "Adam",
-    "text": "That’s heartbreaking. Workplace safety must be a top priority, and it’s so sad when accidents like this happen."
+    "text": "In the West Bank, Israeli settlers burned two mosques in separate incidents. This has sparked outrage and raised concerns about the escalating violence in the region."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely. But shifting gears to something a bit lighter, did you catch India’s cricket team? They won their second T20 against Zimbabwe!"
+    "text": "It’s heartbreaking to see such acts of vandalism and hatred. These kinds of actions only serve to deepen the divide and fuel further conflict."
   },
   {
     "speaker": "Adam",
-    "text": "Yeah, Kishan and Varma really shone in that match! It seems like they’re on a roll."
+    "text": "Romania has summoned the Russian envoy after shooting down a third intruding drone. This raises significant concerns for NATO states amidst the backdrop of the Russia-Ukraine war."
   },
   {
     "speaker": "Eve",
-    "text": "They’re definitely putting on a show. And speaking of shows, there’s some interesting news coming out of India regarding the resignation of Education Minister Dharmendra Pradhan after protests over exam leaks."
+    "text": "The ongoing drone incursions are alarming. It’s a reminder of the continuing tensions in Eastern Europe and how they could affect regional security."
   },
   {
     "speaker": "Adam",
-    "text": "Those youth-led protests seem to be making waves, huh? It’s impressive to see activism in action."
+    "text": "Back to Syria, al-Sharaa praised Trump's decision to remove Syria from the terrorism list. That’s an unexpected twist in US-Syria relations."
   },
   {
     "speaker": "Eve",
-    "text": "It really is! And on a global scale, the Syrian Foreign Minister called for Israel to withdraw immediately from Syria."
+    "text": "Yeah, it’s intriguing how diplomatic relations can shift so dramatically. It might be an attempt to normalize ties as the geopolitical landscape evolves."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a bold statement. With so many players involved, it’s tough to see a resolution anytime soon."
+    "text": "In breaking news from Berlin, police shot dead a suspect linked to a car-ramming attack during a Pride event. This incident is being treated as an Islamist terror attack."
   },
   {
     "speaker": "Eve",
-    "text": "True, and tensions at the Al-Aqsa Mosque compound continue to escalate as well."
+    "text": "That’s terrifying. Such a tragic event during what should be a celebration of love and acceptance. Communities are rallying, but it’s a stark reminder of the dangers they still face."
   },
   {
     "speaker": "Adam",
-    "text": "The situation there is certainly delicate."
+    "text": "Shifting gears, Israel has launched a military incursion into Syria amid UN condemnation. Guterres called for sanctions to be lifted while condemning the violations of Syrian sovereignty."
   },
   {
     "speaker": "Eve",
-    "text": "Lastly, there's a piece on how the Global South is being pressured to prioritize creditors over the education of children. It’s quite a concerning trend."
+    "text": "It’s a complex situation, with the UN trying to maintain peace while countries take military actions. It raises questions about sovereignty and international law."
   },
   {
     "speaker": "Adam",
-    "text": "That highlights a real ethical dilemma in global finance, doesn’t it?"
+    "text": "Lastly, we have news from Kazakhstan, where drone attacks have halted oil exports. This has serious implications for both the economy and energy markets."
   },
   {
     "speaker": "Eve",
-    "text": "Yes, it does. Now, let’s take a look at the markets, shall we?"
+    "text": "Yeah, disruptions like this can have a ripple effect on global oil prices. It highlights the dangers that arise from ongoing conflicts."
   },
   {
     "speaker": "Adam",
-    "text": "Sure thing! Starting with the Vanguard S&P 500 ETF, there’s no recent price movement to report."
+    "text": "Now, let’s take a look at the markets. First up is the Vanguard S&P 500 ETF, ticker VOO. There’s a lot of discussion around it, but no significant movements to report."
   },
   {
     "speaker": "Eve",
-    "text": "Right, but there’s buzz around it with articles comparing different growth ETFs."
+    "text": "Right, analysts are weighing in on its safety as an investment. Several articles are out, comparing it to other ETFs, but nothing groundbreaking to note."
   },
   {
     "speaker": "Adam",
-    "text": "Moving on to NVIDIA Corporation, analysts are giving it a \"strong buy\" rating, with a mean price target of just over $302."
+    "text": "Moving on to NVIDIA, ticker NVDA. Analysts are bullish with a strong buy rating and a mean price target of about $302.82."
   },
   {
     "speaker": "Eve",
-    "text": "That’s quite optimistic! There’s a lot of excitement around AI investments that are boosting the stock."
+    "text": "That’s quite the target, especially considering the buzz around AI and tech stocks right now. It seems like NVIDIA is set to benefit from that trend."
   },
   {
     "speaker": "Adam",
-    "text": "Definitely! Next up, Micron Technology also has a \"strong buy\" recommendation, with a mean target of about $1,507."
+    "text": "Micron Technology, ticker MU, also has a strong buy rating and a mean target of about $1507.38. Analysts see continued growth due to the memory boom."
   },
   {
     "speaker": "Eve",
-    "text": "That’s impressive. Analysts are bullish, and there’s discussion about AI stocks drawing in new investors."
+    "text": "It’s fascinating how semiconductor stocks are riding the AI wave. Micron is definitely in a good position to capitalize on increased demand."
   },
   {
     "speaker": "Adam",
-    "text": "Alphabet Inc. is also in the \"strong buy\" category, with a mean target of around $428."
+    "text": "Alphabet, ticker GOOGL, is similarly rated as a strong buy with a target mean of around $428.12. It seems the tech giants are all holding strong."
   },
   {
     "speaker": "Eve",
-    "text": "It seems like they have some challenges, but analysts still see long-term value."
+    "text": "Absolutely! Meta Platforms, ticker META, is also a strong buy with a target mean of $825.84. They’re all gearing up for a busy week with earnings reports coming in."
   },
   {
     "speaker": "Adam",
-    "text": "Moving on, Meta Platforms has a \"strong buy\" as well, with a mean target of about $826."
+    "text": "Moving to ASML, another strong buy with a mean target of $2115.50. They’ve had quite a run lately, but it’ll be interesting to see how they maintain that."
   },
   {
     "speaker": "Eve",
-    "text": "They’re also launching a new initiative to track in-store sales from ads, which could be exciting for their business."
+    "text": "Right, and Taiwan Semiconductor, ticker TSM, is also rated as strong buy with a target mean of $537.43. They’re a crucial player in the chip market."
   },
   {
     "speaker": "Adam",
-    "text": "ASML Holding is rated \"strong buy\" too, with a target of approximately $2,110."
+    "text": "Cameco Corporation, ticker CCJ, has a buy rating and a mean target of about $131.61. There are some concerns as earnings are expected to decline."
   },
   {
     "speaker": "Eve",
-    "text": "Analysts are optimistic, especially after their significant stock run-up."
+    "text": "And finally, Palantir Technologies, ticker PLTR, is also a buy with a target mean of $182.20. Analysts are debating its position in the AI software market."
   },
   {
     "speaker": "Adam",
-    "text": "Taiwan Semiconductor Manufacturing is similarly rated with a mean target of around $537, and they’ve got some interesting news about potential price hikes."
+    "text": "Now let’s wrap up with some podcast recommendations. There’s a new episode of \"Founders\" titled “How Obsession Built Christopher Nolan.”"
   },
   {
     "speaker": "Eve",
-    "text": "Those hikes could have a ripple effect on consumer electronics, that’s for sure."
+    "text": "This episode digs into Nolan's life and philosophy, highlighting how his obsession has fueled his career. If you're a fan of his work, it’s definitely worth a listen."
   },
   {
     "speaker": "Adam",
-    "text": "And Cameco Corporation is rated \"buy,\" with a mean target nearing $131."
+    "text": "That’s a wrap for today’s news, Moiz. Drive safe out there!"
   },
   {
     "speaker": "Eve",
-    "text": "They’re facing some market challenges, but there’s still confidence in their prospects."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Lastly, Palantir Technologies holds a \"buy\" rating, with a mean target around $182."
-  },
-  {
-    "speaker": "Eve",
-    "text": "It seems investors are divided about their long-term potential, as discussions around AI stocks continue."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Now, do we have any new episodes to share today?"
-  },
-  {
-    "speaker": "Eve",
-    "text": "We do! “People I (Mostly) Admire” has a new episode featuring Angela Duckworth. She talks about managing goal hierarchy and the concept of goal conflict."
-  },
-  {
-    "speaker": "Adam",
-    "text": "That sounds like a great listen, especially for anyone interested in psychology or personal development."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Absolutely!"
-  },
-  {
-    "speaker": "Adam",
-    "text": "Well, that wraps up our news for today, Moiz."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Have a safe drive to work!"
-  },
-  {
-    "speaker": "Adam",
-    "text": "Take care!"
+    "text": "Take care, Moiz!"
   }
 ]
