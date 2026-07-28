@@ -1,162 +1,130 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you see that Peru has a new president, Keiko Fujimori? The big question is whether she’ll actually break from her father's controversial legacy."
+    "text": "Good morning, Moiz! Did you see that viral graffiti cleaner in Rome? It’s tackling an ancient problem in a pretty modern way."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, it's a mixed bag of expectations, right? Many are skeptical about her ability to unite the country. It’ll be interesting to see how she navigates those challenges."
+    "text": "Oh, that's wild! I love how creativity can address such longstanding issues. But let's dive into today’s news!"
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of challenges, let’s dive into some world news. A British court has just dismissed Bahrain's attempt to block a lawsuit from activists regarding spyware."
+    "text": "Absolutely! First up, a powerful earthquake with a magnitude of 7.1 struck Kumamoto, Japan. Sadly, there are fears of many casualties and widespread damage."
   },
   {
     "speaker": "Eve",
-    "text": "Oh wow, that's significant! This ruling means countries can be held accountable for using spyware on people in the UK. It really sets a precedent for how technology and privacy intersect with international law."
+    "text": "That’s devastating. Earthquakes can be so unpredictable. I hope the rescue efforts are swift and effective."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely! Meanwhile, over in the U.S., House Democratic leader Hakeem Jeffries is putting affordability front and center in the Democrats' midterm campaign. He’s blaming rising costs on Donald Trump."
+    "text": "Meanwhile, in Ukraine, Kyiv is warning Iran against any escalation following its recent Caspian Sea strike, which they claim was aimed at Russian warships."
   },
   {
     "speaker": "Eve",
-    "text": "That's a bold move! It seems like they’re really trying to connect with voters’ everyday struggles. On the flip side, Trump is in Michigan, pushing his economic message despite dwindling popularity there."
+    "text": "Right, and it’s interesting to see Kyiv making a direct warning like that. It shows the tense dynamics in that region really aren't easing up."
   },
   {
     "speaker": "Adam",
-    "text": "Yeah, Michigan is pivotal for him, especially with his trade policies facing backlash. And in the UK, there's a lot of scrutiny on Prime Minister Burnham and how he’s handling the ongoing war in Gaza."
+    "text": "In the U.S., protests erupted in Washington, D.C., against Israeli Prime Minister Benjamin Netanyahu's meeting with Trump. The demonstrations highlight ongoing tensions surrounding U.S.-Israel relations."
   },
   {
     "speaker": "Eve",
-    "text": "Right, and there's been a lot of discussion about whether he’s truly keeping his promises on this issue. It's a hot topic that affects not just the UK but the entire region."
+    "text": "Definitely a hot-button issue! People feel strongly on both sides, and it's always a point of contention."
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of complex situations, there’s unreleased footage surfacing of late Senator Lindsey Graham pushing for war on Iran."
+    "text": "In Peru, Keiko Fujimori has been sworn in as president after a narrow election victory. She’s promising a tough crackdown on crime, but critics are worried about a return to her father's controversial tactics."
   },
   {
     "speaker": "Eve",
-    "text": "That’s wild! It shows how deeply entwined politics and military actions are, and it could reignite conversations about U.S. foreign policy."
+    "text": "That could be a real flashpoint for social unrest if people feel her methods are too harsh."
   },
   {
     "speaker": "Adam",
-    "text": "Shifting gears, Spain is seeing protests against the mass \"touristification\" of Mallorca. Thousands are hitting the streets in Palma."
+    "text": "Switching gears, a new poll revealed that nearly half of Americans are confused about the ideals of the Democratic Socialists of America. This shows there’s still a lot of work to be done in educating the public."
   },
   {
     "speaker": "Eve",
-    "text": "That’s interesting! It's a growing concern in many tourist-heavy areas. Locals are pushing back against the impact of tourism on their communities."
+    "text": "Huh, I didn’t expect that level of confusion. It’s critical for political movements to communicate clearly to gain support."
   },
   {
     "speaker": "Adam",
-    "text": "And let’s not forget Lebanon, where the UN is eyeing potential Israeli war crimes. The High Commissioner has highlighted serious issues of displacement and trauma."
+    "text": "Lastly, there’s been a concerning rise in miscarriages in Gaza, attributed to the ongoing trauma and conditions of war. That’s a heartbreaking reality for many families."
   },
   {
     "speaker": "Eve",
-    "text": "It's heartbreaking to hear about that ongoing situation. The fact that international law may be violated adds another layer of complexity."
+    "text": "It’s really tragic. War impacts so many aspects of people’s lives, and this is just one more example of its devastating effects."
   },
   {
     "speaker": "Adam",
-    "text": "On another note, have you heard about the 40-year ban on direct flights between the U.S. and Lebanon? It’s been an ongoing topic of discussion."
+    "text": "Now, shifting to the markets, let’s check in on some stocks. The Vanguard S&P 500 ETF, or VOO, was up 0.24%. There’s been some buzz around new AI tools for ETF data that could be interesting for investors."
   },
   {
     "speaker": "Eve",
-    "text": "That's a fascinating historical point! It really illustrates the long-standing tensions and the geopolitical complexities involved."
+    "text": "That’s a subtle gain, but every little bit helps. Meanwhile, NVIDIA, symbol NVDA, rose 0.25% and is still rated as a strong buy with a mean price target of around $302.82."
   },
   {
     "speaker": "Adam",
-    "text": "Meanwhile, in Kashmir, the first round of voting has begun amid violence and protests. It’s a troubling backdrop for such a crucial democratic process."
+    "text": "Analysts seem quite bullish on them, despite some volatility in the AI chip market."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, with reports of dozens killed during the protests, it makes you question the safety and integrity of the elections there."
+    "text": "Speaking of volatility, Micron Technology, symbol MU, took a hit, dropping nearly 8.85%. That's quite significant for investors."
   },
   {
     "speaker": "Adam",
-    "text": "And last but not least, there’s a discussion on whether the U.S. and Iran are heading towards a \"forever war.\" It's a heavy topic!"
+    "text": "Right, and despite the drop, analysts still rate it as a strong buy, with a mean target of about $1,507.38. That’s a wide gap from its current price."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely! Understanding the historical context is crucial to grasping the potential risks involved in that relationship."
+    "text": "It seems like a speculative situation. Alphabet, or GOOGL, is up 2.19%, with a strong buy recommendation and a target mean of $427.59."
   },
   {
     "speaker": "Adam",
-    "text": "Now, let’s take a look at the markets. The Vanguard S&P 500 ETF, or VOO, saw a slight uptick of 0.1% after closing at $679.31."
+    "text": "That’s good news for them! Meta Platforms, or META, saw a slight dip of 0.08%, but analysts still recommend it as a strong buy."
   },
   {
     "speaker": "Eve",
-    "text": "There’s not much exciting news around it, but the ETF flows have been a topic of interest lately."
+    "text": "It’s interesting how even with dips, these companies maintain bullish ratings. ASML Holding, on the other hand, dropped 4.37% but is still rated strong buy with a mean target of $2,114.60."
   },
   {
     "speaker": "Adam",
-    "text": "Moving on to NVIDIA, the stock dropped about 5.87%, closing at $196.51. Analysts are still bullish though, recommending it as a strong buy with a mean target of around $302.83."
+    "text": "And Taiwan Semiconductor, TSM, fell 1.7% but holds a strong buy rating as well."
   },
   {
     "speaker": "Eve",
-    "text": "That’s quite a drop! There are talks of them financing a massive new data center for OpenAI, but it seems like there's some bearish sentiment in the semiconductor market too."
+    "text": "It seems like the semiconductor stocks are really feeling the pressure lately."
   },
   {
     "speaker": "Adam",
-    "text": "Exactly! Micron also took a hit, down 9.09% at $900.20, but analysts are still rating it as a strong buy with targets significantly higher."
+    "text": "Finally, Cameco Corporation, CCJ, declined by 2.67% but still has a buy recommendation with a mean target of around $131.32."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a tough position for them, especially with competition heating up from a Chinese memory chipmaker."
+    "text": "And Palantir Technologies, PLTR, is down 6.08% but is still rated a buy with a target mean of $182.20. Investors will want to keep an eye on their earnings report coming up."
   },
   {
     "speaker": "Adam",
-    "text": "Alphabet, on the other hand, rose by 2.79% to $326.56, with a strong buy recommendation as well. The analysts have a mean target of about $428.12."
+    "text": "For sure! Now, let’s check what’s new in your podcasts."
   },
   {
     "speaker": "Eve",
-    "text": "It's good to see them gaining traction, especially with the upcoming earnings reports that could impact the AI landscape significantly."
+    "text": "There's a new episode of \"99% Invisible\" titled \"The Finnish Baby Box.\" It dives into how a simple cardboard box has transformed Finland into a great place for raising children."
   },
   {
     "speaker": "Adam",
-    "text": "And Meta Platforms had a slight decline of 2.02%, closing at $593.87, but still maintains a strong buy recommendation with a target mean of $825.84."
+    "text": "That sounds intriguing! It’s fascinating how such small ideas can have a huge impact."
   },
   {
     "speaker": "Eve",
-    "text": "With the tech sector being so volatile, it’s intriguing to see how these companies adjust their strategies."
+    "text": "Definitely worth a listen for anyone interested in social innovation!"
   },
   {
     "speaker": "Adam",
-    "text": "ASML fell by 8.19% to $1,655.26, and it seems fresh competition has investors worried. Analysts still rate it as a strong buy, though."
+    "text": "And that wraps up our news for today, Moiz. Drive safe out there!"
   },
   {
     "speaker": "Eve",
-    "text": "That’s a big drop! And we can’t overlook Taiwan Semiconductor, which is down 3.97% at $399.09, but similarly rated as a strong buy by analysts."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Cameco Corporation barely moved, just up 0.02%, closing at $89.35, but analysts are still optimistic with a buy recommendation."
-  },
-  {
-    "speaker": "Eve",
-    "text": "And Palantir did quite well, up 6.61% to $131.53, with a strong buy rating and a target mean of $182.20. That’s promising for them!"
-  },
-  {
-    "speaker": "Adam",
-    "text": "It really is. Now, shifting gears to something lighter, have you heard about the new episode of \"Twenty Thousand Hertz\"?"
-  },
-  {
-    "speaker": "Eve",
-    "text": "Yes! It’s a fascinating episode titled \"Listener Stories 2026 (Bronze): AI Music & Coral Crackles.\" It features some unique stories that really tap into curiosity."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Sounds intriguing! It’s always great to see how creativity and technology intersect."
-  },
-  {
-    "speaker": "Eve",
-    "text": "For sure! It’s produced by Defacto Sound, and you can find it on various platforms for your listening pleasure."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Well, that wraps up today’s news, Moiz. Drive safe and make it a great day!"
-  },
-  {
-    "speaker": "Eve",
-    "text": "Take care, Moiz!"
+    "text": "Until next time!"
   }
 ]
