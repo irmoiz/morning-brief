@@ -1,130 +1,170 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you see that viral graffiti cleaner in Rome? It’s tackling an ancient problem in a pretty modern way."
+    "text": "Good morning, Moiz! Did you see that Algeria has elected its first-ever woman speaker of parliament? That’s a huge step forward!"
   },
   {
     "speaker": "Eve",
-    "text": "Oh, that's wild! I love how creativity can address such longstanding issues. But let's dive into today’s news!"
+    "text": "It really is! Khalida Boufedeche is breaking barriers over there. It’s exciting to see more women stepping into leadership roles globally."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely! First up, a powerful earthquake with a magnitude of 7.1 struck Kumamoto, Japan. Sadly, there are fears of many casualties and widespread damage."
+    "text": "Absolutely! Speaking of global news, let’s dive into what’s happening around the world today."
   },
   {
     "speaker": "Eve",
-    "text": "That’s devastating. Earthquakes can be so unpredictable. I hope the rescue efforts are swift and effective."
+    "text": "Starting off with the U.S., Trump’s attorney general pick, Todd Blanche, is facing some potential roadblocks from within the Republican party."
   },
   {
     "speaker": "Adam",
-    "text": "Meanwhile, in Ukraine, Kyiv is warning Iran against any escalation following its recent Caspian Sea strike, which they claim was aimed at Russian warships."
+    "text": "Yeah, his loyalty to Trump has come under scrutiny, and that might impact his confirmation. It’s interesting how party dynamics can shift so quickly."
   },
   {
     "speaker": "Eve",
-    "text": "Right, and it’s interesting to see Kyiv making a direct warning like that. It shows the tense dynamics in that region really aren't easing up."
+    "text": "Over in Pakistan, there are serious tensions as local elections have been marred by fatal confrontations between security forces and protesters in Kashmir."
   },
   {
     "speaker": "Adam",
-    "text": "In the U.S., protests erupted in Washington, D.C., against Israeli Prime Minister Benjamin Netanyahu's meeting with Trump. The demonstrations highlight ongoing tensions surrounding U.S.-Israel relations."
+    "text": "That sounds intense. The ongoing crisis there has been a struggle for many years now, and it’s concerning to see it escalate."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely a hot-button issue! People feel strongly on both sides, and it's always a point of contention."
+    "text": "Definitely. Switching gears to something lighter, Gaza is seeing some community-driven initiatives. A group of Palestinian students opened an ice cream shop to fund their university fees."
   },
   {
     "speaker": "Adam",
-    "text": "In Peru, Keiko Fujimori has been sworn in as president after a narrow election victory. She’s promising a tough crackdown on crime, but critics are worried about a return to her father's controversial tactics."
+    "text": "That’s such a creative way to tackle education funding! It’s heartwarming to see resilience in tough situations."
   },
   {
     "speaker": "Eve",
-    "text": "That could be a real flashpoint for social unrest if people feel her methods are too harsh."
+    "text": "In other news, James Comey's lawyers have claimed that the U.S. government distorted details in a case involving seashells, which prosecutors allege is a coded reference to killing Trump."
   },
   {
     "speaker": "Adam",
-    "text": "Switching gears, a new poll revealed that nearly half of Americans are confused about the ideals of the Democratic Socialists of America. This shows there’s still a lot of work to be done in educating the public."
+    "text": "Huh, that’s wild! It’s amazing how complicated legal battles can get, especially when it involves high-profile figures."
   },
   {
     "speaker": "Eve",
-    "text": "Huh, I didn’t expect that level of confusion. It’s critical for political movements to communicate clearly to gain support."
+    "text": "Moving to Algeria again, the election of Khalida Boufedeche as speaker is a significant moment. It marks a change in representation in a region where women have faced many barriers."
   },
   {
     "speaker": "Adam",
-    "text": "Lastly, there’s been a concerning rise in miscarriages in Gaza, attributed to the ongoing trauma and conditions of war. That’s a heartbreaking reality for many families."
+    "text": "Absolutely! It’s a landmark decision that could inspire more women to take on leadership roles in politics."
   },
   {
     "speaker": "Eve",
-    "text": "It’s really tragic. War impacts so many aspects of people’s lives, and this is just one more example of its devastating effects."
+    "text": "And in Kenya, Al-Shabab has killed five security personnel in an ambush. This is part of a worrying trend of increased attacks along the northern frontier."
   },
   {
     "speaker": "Adam",
-    "text": "Now, shifting to the markets, let’s check in on some stocks. The Vanguard S&P 500 ETF, or VOO, was up 0.24%. There’s been some buzz around new AI tools for ETF data that could be interesting for investors."
+    "text": "That’s troubling news. Security issues in that region have been ongoing, and it’s heartbreaking to see it escalate further."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a subtle gain, but every little bit helps. Meanwhile, NVIDIA, symbol NVDA, rose 0.25% and is still rated as a strong buy with a mean price target of around $302.82."
+    "text": "Meanwhile, in France, firefighters are battling wildfires west of Bordeaux amid extreme heat."
   },
   {
     "speaker": "Adam",
-    "text": "Analysts seem quite bullish on them, despite some volatility in the AI chip market."
+    "text": "The climate crisis is making things increasingly difficult for many regions, and wildfires are becoming a regular occurrence."
   },
   {
     "speaker": "Eve",
-    "text": "Speaking of volatility, Micron Technology, symbol MU, took a hit, dropping nearly 8.85%. That's quite significant for investors."
+    "text": "And speaking of crises, Dr. Anthony Fauci recently pleaded the Fifth at a Senate hearing regarding the origins of Covid-19."
   },
   {
     "speaker": "Adam",
-    "text": "Right, and despite the drop, analysts still rate it as a strong buy, with a mean target of about $1,507.38. That’s a wide gap from its current price."
+    "text": "That’s surprising! It raises so many questions about transparency and accountability."
   },
   {
     "speaker": "Eve",
-    "text": "It seems like a speculative situation. Alphabet, or GOOGL, is up 2.19%, with a strong buy recommendation and a target mean of $427.59."
+    "text": "It really does. Shifting gears to the financial markets, how have the stocks been moving lately?"
   },
   {
     "speaker": "Adam",
-    "text": "That’s good news for them! Meta Platforms, or META, saw a slight dip of 0.08%, but analysts still recommend it as a strong buy."
+    "text": "Let’s break it down! Starting with VOO, the Vanguard S&P 500 ETF, which closed at $670.63 and is down about 1.52%."
   },
   {
     "speaker": "Eve",
-    "text": "It’s interesting how even with dips, these companies maintain bullish ratings. ASML Holding, on the other hand, dropped 4.37% but is still rated strong buy with a mean target of $2,114.60."
+    "text": "It seems like there’s been some turbulence there. What’s the latest news affecting it?"
   },
   {
     "speaker": "Adam",
-    "text": "And Taiwan Semiconductor, TSM, fell 1.7% but holds a strong buy rating as well."
+    "text": "It’s mostly influenced by broader market trends and ETF flows, but analysts haven’t made any significant changes in recommendations."
   },
   {
     "speaker": "Eve",
-    "text": "It seems like the semiconductor stocks are really feeling the pressure lately."
+    "text": "Now, moving to NVIDIA, it’s down 3.55% at $190.01, but analysts still rate it a strong buy with a mean price target of nearly $303."
   },
   {
     "speaker": "Adam",
-    "text": "Finally, Cameco Corporation, CCJ, declined by 2.67% but still has a buy recommendation with a mean target of around $131.32."
+    "text": "Right, there’s a lot of potential there despite the recent dip. What’s the buzz around it?"
   },
   {
     "speaker": "Eve",
-    "text": "And Palantir Technologies, PLTR, is down 6.08% but is still rated a buy with a target mean of $182.20. Investors will want to keep an eye on their earnings report coming up."
+    "text": "Recent results from SK Hynix didn’t impress investors, which has affected the overall sentiment towards semiconductor stocks."
   },
   {
     "speaker": "Adam",
-    "text": "For sure! Now, let’s check what’s new in your podcasts."
+    "text": "That makes sense. Now, Micron Technology is also taking a hit, down nearly 10% at $739."
   },
   {
     "speaker": "Eve",
-    "text": "There's a new episode of \"99% Invisible\" titled \"The Finnish Baby Box.\" It dives into how a simple cardboard box has transformed Finland into a great place for raising children."
+    "text": "They’re rated a strong buy too, with a mean target of about $1507. It’s interesting how the market can react so dramatically."
   },
   {
     "speaker": "Adam",
-    "text": "That sounds intriguing! It’s fascinating how such small ideas can have a huge impact."
+    "text": "Definitely. Shifting gears to Alphabet, they’re up slightly by 0.9% at $336.71, rated a strong buy with a target of about $428."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely worth a listen for anyone interested in social innovation!"
+    "text": "With all the earnings reports coming up, it’ll be interesting to see how they perform."
   },
   {
     "speaker": "Adam",
-    "text": "And that wraps up our news for today, Moiz. Drive safe out there!"
+    "text": "Meta Platforms is down 1.31% at $585.61, and it’s also rated a strong buy, though they missed on recent earnings, which spooked investors."
   },
   {
     "speaker": "Eve",
-    "text": "Until next time!"
+    "text": "Tough break for them! And ASML Holding is down 2.04%, still rated strong buy with a target above $2100."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Right, they’ve been under pressure, especially with market dynamics shifting due to geopolitical tensions."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Taiwan Semiconductor Manufacturing is down 4.5% at $374.67, still rated strong buy, but it’s facing some challenges from recent market trends."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Cameco Corporation is down 2.75% at $84.57, rated a buy with a mean target of $131.8492, and there’s some interesting news about US-Saudi nuclear deals."
+  },
+  {
+    "speaker": "Eve",
+    "text": "That’s a significant development that could impact energy markets!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "Finally, Palantir Technologies is down slightly at $123, rated a buy with a target price of $182."
+  },
+  {
+    "speaker": "Eve",
+    "text": "They’re always in the spotlight, especially with their unique business model."
+  },
+  {
+    "speaker": "Adam",
+    "text": "No new podcast episodes to share today, but there’s always something fresh coming out."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Exactly! That wraps up our news for today, Moiz."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Stay safe out there, and drive carefully!"
+  },
+  {
+    "speaker": "Eve",
+    "text": "Take care!"
   }
 ]
