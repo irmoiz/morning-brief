@@ -1,218 +1,150 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you see the UN's warning about the powerful El Niño?"
+    "text": "Good morning, Moiz! Did you hear about Nirmal Purja? A record-breaking climber killed in an avalanche — that’s just tragic."
   },
   {
     "speaker": "Eve",
-    "text": "I did! They're saying it's going to crank up the heat on a planet that's already facing extreme weather."
+    "text": "I know, right? He was leading a team on Broad Peak in Pakistan. Such a loss for the climbing community."
   },
   {
     "speaker": "Adam",
-    "text": "Right? It's wild to think about how this could lead to more heatwaves, floods, and droughts around the world."
+    "text": "Let’s dive into some world news. It’s a bit of a heavy morning, starting with that avalanche tragedy. Nirmal Purja was not just a climber; he was known for scaling the 14 highest peaks in under seven months, a record many thought impossible."
   },
   {
     "speaker": "Eve",
-    "text": "Exactly! UN chief Guterres is even calling for a halt to new fossil fuel projects."
+    "text": "Absolutely. His death highlights the dangers of high-altitude climbing, especially in regions where conditions can change rapidly."
   },
   {
     "speaker": "Adam",
-    "text": "It feels like we're at a tipping point, doesn’t it?"
+    "text": "Moving on, in the U.S., Trump is pushing back against the Justice Department’s decision to drop charges related to damage at the Reflecting Pool. He claims it wasn’t vandalism but a botched installation."
   },
   {
     "speaker": "Eve",
-    "text": "For sure. Moving on to Venezuela, there are talks happening between the government and the opposition aimed at paving a path for elections."
+    "text": "Huh, that’s interesting. It really adds another layer to his ongoing conflict with federal authorities. He seems determined to keep that narrative alive."
   },
   {
     "speaker": "Adam",
-    "text": "That’s interesting, especially since former lawmaker Dinorah Figuera is leading these discussions and not Maria Corina Machado, a prominent opposition figure."
+    "text": "In the Israeli-Palestinian conflict, reports say that Palestinian children were among those detained during Israeli raids in the West Bank. The situation there continues to intensify."
   },
   {
     "speaker": "Eve",
-    "text": "Huh, I wonder what that means for the political landscape there."
+    "text": "It’s heartbreaking, especially with the rising settler violence reported across areas like Ramallah and Hebron."
   },
   {
     "speaker": "Adam",
-    "text": "It could signal some shifts in how the opposition is organized. Speaking of shifts, there's been a tragic bus crash in Algeria, where at least 25 people have lost their lives."
+    "text": "And in Moscow, at least three people were killed in an explosion near a café. The blast injured fifteen others, and authorities are investigating."
   },
   {
     "speaker": "Eve",
-    "text": "That’s heartbreaking. And it seems like the bus went off the road outside Algiers, which is just devastating."
+    "text": "That’s wild. Security in urban areas has become such a pressing issue."
   },
   {
     "speaker": "Adam",
-    "text": "This kind of news always puts things into perspective."
+    "text": "In Gaza, a marathon event is shedding light on the humanitarian crisis, with over 58,000 children having lost one or both parents due to the ongoing conflict."
   },
   {
     "speaker": "Eve",
-    "text": "It really does. On a different note, there’s a growing backlash against FIFA for their proposal to sell a stake in its major events."
+    "text": "That’s a staggering number. It emphasizes the urgent need for humanitarian support in the region."
   },
   {
     "speaker": "Adam",
-    "text": "Oh, that’s a hot topic. They’re really facing scrutiny over that decision."
+    "text": "On a different note, Turkiye and Iraq have signed a one-year oil pipeline deal, ensuring a flow of 750,000 barrels per day."
   },
   {
     "speaker": "Eve",
-    "text": "Right? It raises questions about the integrity of sports when big money gets involved."
+    "text": "It seems like this agreement is crucial for both nations amid a shifting global energy landscape."
   },
   {
     "speaker": "Adam",
-    "text": "Switching gears a bit, Peru's new president, Fujimori, is looking to strengthen ties with the U.S."
+    "text": "And finally, in a slightly lighter story, have you heard about the trend of “dirty sodas” in the U.S.?"
   },
   {
     "speaker": "Eve",
-    "text": "That’s going to be interesting to watch, especially with the backdrop of Trump's Shield of the Americas coalition."
+    "text": "Yeah! It originated in Utah but has taken off nationally. People are customizing them, and it’s becoming quite the social phenomenon."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. And Poland is also making headlines, protesting to the Russian ambassador over missile incursions."
+    "text": "It’s fascinating how something so simple can become a nationwide obsession, fueled by social media."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a big deal. It shows how tensions are still high in that region, especially regarding Ukraine."
+    "text": "Definitely! Now let’s switch gears to the markets. Starting with the Vanguard S&P 500 ETF, or VOO. It closed yesterday at $686.65, up about 0.71%."
   },
   {
     "speaker": "Adam",
-    "text": "And speaking of tensions, Trump has mentioned that the U.S. has an \"understanding\" with Israel on a deal for Hamas disarmament."
+    "text": "There’s been some buzz around it lately, especially after articles discussing Warren Buffett’s favorite funds."
   },
   {
     "speaker": "Eve",
-    "text": "But it seems like that plan is still hanging in the balance, right?"
+    "text": "Moving on to NVIDIA, or NVDA, which saw a significant increase of 2.93%, closing at $200.75. Analysts are recommending it as a strong buy."
   },
   {
     "speaker": "Adam",
-    "text": "Yeah, Israel hasn’t fully agreed yet. It’s complicated."
+    "text": "Right, and the mean price target is around $302.83. That’s quite a spread from its current price!"
   },
   {
     "speaker": "Eve",
-    "text": "The world seems to be reacting with cautious optimism to the potential for the Hamas disarmament agreement."
+    "text": "Next up is Micron Technology, with a closing price of $823.03. It dropped 5.9% yesterday, but analysts still rate it as a strong buy with a target mean of $1507.38."
   },
   {
     "speaker": "Adam",
-    "text": "It’ll be all about how they implement it, though."
+    "text": "That’s quite the divergence from current performance. There’s a lot of interest in memory chips right now, especially with AI growth."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely. In Syria, there’s a landmark trial taking place with a lawyer challenging a former Assad official."
+    "text": "Alphabet, or GOOGL, rose 6.73% to close at $356.13. Analysts have a strong buy rating, with a price target of about $426.95."
   },
   {
     "speaker": "Adam",
-    "text": "That could set a precedent for accountability in the region."
+    "text": "That’s impressive growth. There’s significant interest in their AI infrastructure as well."
   },
   {
     "speaker": "Eve",
-    "text": "For sure. And in Israel, the government is arming illegal settlers as attacks reach record levels."
+    "text": "Meta Platforms, or META, also had a good day, up 3.28% to $556.71, with a target mean of $778.68."
   },
   {
     "speaker": "Adam",
-    "text": "That’s concerning. It raises so many questions about security and human rights."
+    "text": "It’s interesting how all these tech stocks are performing under the current market conditions."
   },
   {
     "speaker": "Eve",
-    "text": "It really does. Now, let’s shift gears and talk about the markets."
+    "text": "ASML had a slight decline of 1.36%, closing at $1629.00, but is still rated a strong buy with a target mean of $2140.27."
   },
   {
     "speaker": "Adam",
-    "text": "Starting with the Vanguard S&P 500 ETF, or VOO, it closed at 686.65, up 0.71%."
+    "text": "And Taiwan Semiconductor, or TSM, is up slightly at 0.23%, closing at $404.25. They have a target of about $540.20."
   },
   {
     "speaker": "Eve",
-    "text": "There’s not much news impacting it directly, but it's been part of a broader upward trend in the market."
+    "text": "Cameco Corporation, or CCJ, dropped 2.1% to $86.38, yet analysts still recommend it as a buy with a target mean of $132.15."
   },
   {
     "speaker": "Adam",
-    "text": "Exactly. Now, NVIDIA, ticker NVDA, saw a significant increase of 2.93%, closing at 200.75."
+    "text": "Finally, Palantir Technologies, or PLTR, closed at $123.06, up 0.65%. Analysts are also bullish here with a target of $182.20."
   },
   {
     "speaker": "Eve",
-    "text": "Analysts are giving it a \"strong buy\" rating with a mean price target of around 302.83."
+    "text": "Now, let’s check out what’s new in your podcasts, Moiz! There’s a new episode of \"People I (Mostly) Admire.\""
   },
   {
     "speaker": "Adam",
-    "text": "That’s a solid outlook, especially with the rising interest in AI."
+    "text": "The episode features Travis Tygart, the C.E.O. of the U.S. Anti-Doping Agency. He discusses the incentives to cheat in sports and advances in testing technology."
   },
   {
     "speaker": "Eve",
-    "text": "Speaking of which, Micron, ticker MU, faced a drop of 5.9%, closing at 823.03."
+    "text": "If you’re interested in sports integrity, it sounds like a must-listen."
   },
   {
     "speaker": "Adam",
-    "text": "Despite that decline, it still has a \"strong buy\" recommendation with a target mean of 1507.38."
+    "text": "Well, that wraps up today’s news."
   },
   {
     "speaker": "Eve",
-    "text": "That’s interesting considering the fluctuations in the tech sector."
+    "text": "Safe travels to work, Moiz!"
   },
   {
     "speaker": "Adam",
-    "text": "Alphabet, or GOOGL, also had a good day, rising 6.73% to close at 356.13."
-  },
-  {
-    "speaker": "Eve",
-    "text": "With a \"strong buy\" recommendation, it has a mean price target of around 426.95."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Meta Platforms, ticker META, closed at 556.71, up 3.28%."
-  },
-  {
-    "speaker": "Eve",
-    "text": "It’s also rated as a \"strong buy\" with a target mean of 778.68."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Meanwhile, ASML closed at 1629.00, down 1.36%, but still holds a \"strong buy\" rating with a target mean of 2144.47."
-  },
-  {
-    "speaker": "Eve",
-    "text": "It’s fascinating to see how these tech stocks are performing despite the overall market volatility."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Taiwan Semiconductor, or TSM, saw a slight increase of 0.23%, closing at 404.25, with a \"strong buy\" recommendation."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Analysts have a target mean of 540.20 for TSM."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Cameco Corporation, ticker CCJ, dropped 2.1% to close at 86.38 but is still rated as a \"buy\" with a mean target of 132.22."
-  },
-  {
-    "speaker": "Eve",
-    "text": "There’s a lot happening in the energy sector, too."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Lastly, Palantir Technologies closed at 123.06, up 0.65%, and has a \"buy\" recommendation with a target mean of 182.20."
-  },
-  {
-    "speaker": "Eve",
-    "text": "That’ll be worth keeping an eye on, especially as they approach earnings."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Now, Moiz, if you’re looking for something new to listen to, \"99% Invisible\" just released an episode titled \"100 Objects #11: Brannock Device.\""
-  },
-  {
-    "speaker": "Eve",
-    "text": "It covers the fascinating history of the Brannock Device, which is used for measuring shoe sizes."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Sounds intriguing!"
-  },
-  {
-    "speaker": "Eve",
-    "text": "Definitely worth a listen."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Alright, Moiz, that’s all for today."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Drive safe, and have a great day!"
+    "text": "Take care, everyone."
   }
 ]
