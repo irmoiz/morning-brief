@@ -1,150 +1,106 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you hear about Nirmal Purja? A record-breaking climber killed in an avalanche — that’s just tragic."
+    "text": "Good morning, Moiz! Did you see the news about Venezuela? It looks like they’re gearing up for some serious talks, and the U.S. is backing it."
   },
   {
     "speaker": "Eve",
-    "text": "I know, right? He was leading a team on Broad Peak in Pakistan. Such a loss for the climbing community."
+    "text": "Yeah, that’s really intriguing! It definitely raises questions about how much influence Washington has in those discussions. Let’s dive into what’s happening around the globe."
   },
   {
     "speaker": "Adam",
-    "text": "Let’s dive into some world news. It’s a bit of a heavy morning, starting with that avalanche tragedy. Nirmal Purja was not just a climber; he was known for scaling the 14 highest peaks in under seven months, a record many thought impossible."
+    "text": "Starting off with Venezuela, the government and a faction of the opposition are set to hold talks, and you guessed it, they have the backing of the U.S. This situation could be pivotal for the country, especially with the ongoing economic crisis."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely. His death highlights the dangers of high-altitude climbing, especially in regions where conditions can change rapidly."
+    "text": "Right, and it’s not just about the talks. The U.S.’s involvement often complicates things further. It's like they’re pulling the strings a bit, huh?"
   },
   {
     "speaker": "Adam",
-    "text": "Moving on, in the U.S., Trump is pushing back against the Justice Department’s decision to drop charges related to damage at the Reflecting Pool. He claims it wasn’t vandalism but a botched installation."
+    "text": "Exactly! Moving on to the Middle East, a disturbing report from Jerusalem where six Jewish Israelis were filmed spitting at the entrance of the Saint James Monastery in the Old City. This kind of behavior really highlights ongoing tensions in the region."
   },
   {
     "speaker": "Eve",
-    "text": "Huh, that’s interesting. It really adds another layer to his ongoing conflict with federal authorities. He seems determined to keep that narrative alive."
+    "text": "Oh, that’s wild... it’s disheartening to see such acts against a historic site. Now, shifting gears to Iran, they’ve announced that negotiations with Oman regarding the Strait of Hormuz are in the final stages."
   },
   {
     "speaker": "Adam",
-    "text": "In the Israeli-Palestinian conflict, reports say that Palestinian children were among those detained during Israeli raids in the West Bank. The situation there continues to intensify."
+    "text": "That’s key, especially with the ongoing discussions about oil and military presence in the Gulf. Speaking of conflicts, Ukrainian drone strikes have resulted in casualties, killing eight people in retaliation for Russian missile attacks."
   },
   {
     "speaker": "Eve",
-    "text": "It’s heartbreaking, especially with the rising settler violence reported across areas like Ramallah and Hebron."
+    "text": "Yeah, and Zelenskyy’s warning about critical shortages of Patriot interceptors adds a layer of urgency to the situation. Meanwhile, in the U.S., a poll shows that most Americans believe Trump has gone too far on immigration, yet many Republicans still support his approach."
   },
   {
     "speaker": "Adam",
-    "text": "And in Moscow, at least three people were killed in an explosion near a café. The blast injured fifteen others, and authorities are investigating."
+    "text": "It’s such a divided issue. And speaking of divisions, the pro-Israel group AIPAC is spending heavily against Michigan’s Abdul El-Sayed, aiming to help elect Haley Stevens to the Senate."
   },
   {
     "speaker": "Eve",
-    "text": "That’s wild. Security in urban areas has become such a pressing issue."
+    "text": "It’s fascinating to see how much money is being funneled into these races. Meanwhile, on a tragic note, the search continues for the last three climbers after an avalanche in Pakistan claimed ten lives, including renowned climber Nirmal Purja."
   },
   {
     "speaker": "Adam",
-    "text": "In Gaza, a marathon event is shedding light on the humanitarian crisis, with over 58,000 children having lost one or both parents due to the ongoing conflict."
+    "text": "That’s heartbreaking. And in Ceuta, migrant deaths have risen to 72 following a surge at the Moroccan border. Just a reminder of the desperation faced by many."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a staggering number. It emphasizes the urgent need for humanitarian support in the region."
+    "text": "It’s quite a lot to process today. Let’s switch gears to the markets now. How did they fare?"
   },
   {
     "speaker": "Adam",
-    "text": "On a different note, Turkiye and Iraq have signed a one-year oil pipeline deal, ensuring a flow of 750,000 barrels per day."
+    "text": "The Vanguard S&P 500 ETF, or VOO, closed at $686.65, up 0.71%. Analysts have mixed views on its trajectory, but there’s optimism about it reaching over $1 trillion in assets before the year ends."
   },
   {
     "speaker": "Eve",
-    "text": "It seems like this agreement is crucial for both nations amid a shifting global energy landscape."
+    "text": "That sounds promising. Moving on to NVIDIA, which had a strong performance, closing at $200.75, a rise of 2.93%. It’s rated as a strong buy with a mean target of about $302.83."
   },
   {
     "speaker": "Adam",
-    "text": "And finally, in a slightly lighter story, have you heard about the trend of “dirty sodas” in the U.S.?"
+    "text": "Definitely a favorite among analysts. Now, Micron Technology, on the other hand, closed at $823.03, but it dipped by 5.9%. Despite the decline, it’s still rated as a strong buy with a significant target mean of $1522.26."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah! It originated in Utah but has taken off nationally. People are customizing them, and it’s becoming quite the social phenomenon."
+    "text": "Interesting! And Alphabet, GOOGL, closed at $356.13, up 6.73%. That’s another strong buy rating, with a mean target of around $426.95."
   },
   {
     "speaker": "Adam",
-    "text": "It’s fascinating how something so simple can become a nationwide obsession, fueled by social media."
+    "text": "They’re certainly making waves in AI. Now, Meta Platforms also saw a rise, closing at $556.71, up 3.28%, rated as a strong buy with a target mean of $768.58."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely! Now let’s switch gears to the markets. Starting with the Vanguard S&P 500 ETF, or VOO. It closed yesterday at $686.65, up about 0.71%."
+    "text": "Big Tech really seems to be thriving! What about ASML and Taiwan Semiconductor?"
   },
   {
     "speaker": "Adam",
-    "text": "There’s been some buzz around it lately, especially after articles discussing Warren Buffett’s favorite funds."
+    "text": "ASML closed at $1629.00, down 1.36%, but it remains a strong buy with a target mean of $2144.25. And TSMC closed at $404.25, slightly up by 0.23%, also rated as a strong buy with a target mean of $540.20."
   },
   {
     "speaker": "Eve",
-    "text": "Moving on to NVIDIA, or NVDA, which saw a significant increase of 2.93%, closing at $200.75. Analysts are recommending it as a strong buy."
+    "text": "It’s incredible how much potential these stocks have. Now, moving on to Cameco Corporation, which closed at $86.38, down 2.1%, but still rated as a buy with a target mean of $133.58."
   },
   {
     "speaker": "Adam",
-    "text": "Right, and the mean price target is around $302.83. That’s quite a spread from its current price!"
+    "text": "And lastly, Palantir Technologies, which closed at $123.06, up 0.65%. It’s rated a buy with a mean target of $182.20."
   },
   {
     "speaker": "Eve",
-    "text": "Next up is Micron Technology, with a closing price of $823.03. It dropped 5.9% yesterday, but analysts still rate it as a strong buy with a target mean of $1507.38."
+    "text": "Great insights on the market today! Now, let’s see what’s new in your podcasts, Moiz."
   },
   {
     "speaker": "Adam",
-    "text": "That’s quite the divergence from current performance. There’s a lot of interest in memory chips right now, especially with AI growth."
+    "text": "We’ve got a new episode of “Founders.” It’s titled “How Raymond Plank Built a $50 Billion Oil Company.” The episode focuses on his entrepreneurial philosophy and the lessons he learned over decades in business."
   },
   {
     "speaker": "Eve",
-    "text": "Alphabet, or GOOGL, rose 6.73% to close at $356.13. Analysts have a strong buy rating, with a price target of about $426.95."
+    "text": "Sounds like a fascinating listen, especially with the wild stories they mention!"
   },
   {
     "speaker": "Adam",
-    "text": "That’s impressive growth. There’s significant interest in their AI infrastructure as well."
+    "text": "And that’s a wrap for today’s podcast, Moiz. Safe travels on your way to work!"
   },
   {
     "speaker": "Eve",
-    "text": "Meta Platforms, or META, also had a good day, up 3.28% to $556.71, with a target mean of $778.68."
-  },
-  {
-    "speaker": "Adam",
-    "text": "It’s interesting how all these tech stocks are performing under the current market conditions."
-  },
-  {
-    "speaker": "Eve",
-    "text": "ASML had a slight decline of 1.36%, closing at $1629.00, but is still rated a strong buy with a target mean of $2140.27."
-  },
-  {
-    "speaker": "Adam",
-    "text": "And Taiwan Semiconductor, or TSM, is up slightly at 0.23%, closing at $404.25. They have a target of about $540.20."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Cameco Corporation, or CCJ, dropped 2.1% to $86.38, yet analysts still recommend it as a buy with a target mean of $132.15."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Finally, Palantir Technologies, or PLTR, closed at $123.06, up 0.65%. Analysts are also bullish here with a target of $182.20."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Now, let’s check out what’s new in your podcasts, Moiz! There’s a new episode of \"People I (Mostly) Admire.\""
-  },
-  {
-    "speaker": "Adam",
-    "text": "The episode features Travis Tygart, the C.E.O. of the U.S. Anti-Doping Agency. He discusses the incentives to cheat in sports and advances in testing technology."
-  },
-  {
-    "speaker": "Eve",
-    "text": "If you’re interested in sports integrity, it sounds like a must-listen."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Well, that wraps up today’s news."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Safe travels to work, Moiz!"
-  },
-  {
-    "speaker": "Adam",
-    "text": "Take care, everyone."
+    "text": "Take care, Moiz!"
   }
 ]
