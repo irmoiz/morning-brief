@@ -1,106 +1,190 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you see the news about Venezuela? It looks like they’re gearing up for some serious talks, and the U.S. is backing it."
+    "text": "Good morning, Moiz! Did you see that hundreds of migrant minors are stranded in Ceuta right now?"
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, that’s really intriguing! It definitely raises questions about how much influence Washington has in those discussions. Let’s dive into what’s happening around the globe."
+    "text": "Yeah, that’s really troubling. Spanish law mandates protection for these unaccompanied minors, but many are lacking basic necessities like food and shelter."
   },
   {
     "speaker": "Adam",
-    "text": "Starting off with Venezuela, the government and a faction of the opposition are set to hold talks, and you guessed it, they have the backing of the U.S. This situation could be pivotal for the country, especially with the ongoing economic crisis."
+    "text": "It’s a dire situation. Speaking of global issues, let’s dive into some world news."
   },
   {
     "speaker": "Eve",
-    "text": "Right, and it’s not just about the talks. The U.S.’s involvement often complicates things further. It's like they’re pulling the strings a bit, huh?"
+    "text": "Definitely. Al Jazeera has reported several significant stories today."
   },
   {
     "speaker": "Adam",
-    "text": "Exactly! Moving on to the Middle East, a disturbing report from Jerusalem where six Jewish Israelis were filmed spitting at the entrance of the Saint James Monastery in the Old City. This kind of behavior really highlights ongoing tensions in the region."
+    "text": "First up, survivors of a deadly ferry fire in Indonesia have finally reached port."
   },
   {
     "speaker": "Eve",
-    "text": "Oh, that’s wild... it’s disheartening to see such acts against a historic site. Now, shifting gears to Iran, they’ve announced that negotiations with Oman regarding the Strait of Hormuz are in the final stages."
+    "text": "That’s such a scary situation. The details are still emerging, but the survivors are likely dealing with trauma from the experience."
   },
   {
     "speaker": "Adam",
-    "text": "That’s key, especially with the ongoing discussions about oil and military presence in the Gulf. Speaking of conflicts, Ukrainian drone strikes have resulted in casualties, killing eight people in retaliation for Russian missile attacks."
+    "text": "Right? And on another front, we have clergy members arrested while protesting at a Senate office."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, and Zelenskyy’s warning about critical shortages of Patriot interceptors adds a layer of urgency to the situation. Meanwhile, in the U.S., a poll shows that most Americans believe Trump has gone too far on immigration, yet many Republicans still support his approach."
+    "text": "They were demonstrating against the Iran war and raising concerns about voting rights. It’s interesting how protests are still a vital part of our democracy."
   },
   {
     "speaker": "Adam",
-    "text": "It’s such a divided issue. And speaking of divisions, the pro-Israel group AIPAC is spending heavily against Michigan’s Abdul El-Sayed, aiming to help elect Haley Stevens to the Senate."
+    "text": "Absolutely. Shifting gears to international relations, Trump has stated that talks with Iran represent a “last chance” for a nuclear deal."
   },
   {
     "speaker": "Eve",
-    "text": "It’s fascinating to see how much money is being funneled into these races. Meanwhile, on a tragic note, the search continues for the last three climbers after an avalanche in Pakistan claimed ten lives, including renowned climber Nirmal Purja."
+    "text": "Huh, it seems like the stakes are getting higher. His comments come amid an escalating naval blockade in the Strait of Hormuz."
   },
   {
     "speaker": "Adam",
-    "text": "That’s heartbreaking. And in Ceuta, migrant deaths have risen to 72 following a surge at the Moroccan border. Just a reminder of the desperation faced by many."
+    "text": "Quite the geopolitical tension. Meanwhile, bomb disposal operations are ongoing in Le Porge, France, after wildfires unearthed WWII shells."
   },
   {
     "speaker": "Eve",
-    "text": "It’s quite a lot to process today. Let’s switch gears to the markets now. How did they fare?"
+    "text": "That’s wild! Imagine discovering something like that during a crisis like a wildfire."
   },
   {
     "speaker": "Adam",
-    "text": "The Vanguard S&P 500 ETF, or VOO, closed at $686.65, up 0.71%. Analysts have mixed views on its trajectory, but there’s optimism about it reaching over $1 trillion in assets before the year ends."
+    "text": "I know, right? And back in the U.S., there have been the first two reported deaths from a cyclospora outbreak in Michigan."
   },
   {
     "speaker": "Eve",
-    "text": "That sounds promising. Moving on to NVIDIA, which had a strong performance, closing at $200.75, a rise of 2.93%. It’s rated as a strong buy with a mean target of about $302.83."
+    "text": "That’s alarming. Health officials are noting that the deceased had underlying conditions, but it still raises concerns about public health safety."
   },
   {
     "speaker": "Adam",
-    "text": "Definitely a favorite among analysts. Now, Micron Technology, on the other hand, closed at $823.03, but it dipped by 5.9%. Despite the decline, it’s still rated as a strong buy with a significant target mean of $1522.26."
+    "text": "Switching to Israel, Israelis are preparing for what could be the most consequential election since the Gaza conflict began."
   },
   {
     "speaker": "Eve",
-    "text": "Interesting! And Alphabet, GOOGL, closed at $356.13, up 6.73%. That’s another strong buy rating, with a mean target of around $426.95."
+    "text": "It’ll be interesting to see how this election plays out and what factors will influence voters."
   },
   {
     "speaker": "Adam",
-    "text": "They’re certainly making waves in AI. Now, Meta Platforms also saw a rise, closing at $556.71, up 3.28%, rated as a strong buy with a target mean of $768.58."
+    "text": "And while we’re on the topic, Israel’s highest court is examining a challenge to a ban on UNRWA’s operations."
   },
   {
     "speaker": "Eve",
-    "text": "Big Tech really seems to be thriving! What about ASML and Taiwan Semiconductor?"
+    "text": "That’s a significant legal battle, given the context of humanitarian aid in the region."
   },
   {
     "speaker": "Adam",
-    "text": "ASML closed at $1629.00, down 1.36%, but it remains a strong buy with a target mean of $2144.25. And TSMC closed at $404.25, slightly up by 0.23%, also rated as a strong buy with a target mean of $540.20."
+    "text": "In yet another shocking incident, a drone crashed into a crowded beach in Russia, killing at least seven people."
   },
   {
     "speaker": "Eve",
-    "text": "It’s incredible how much potential these stocks have. Now, moving on to Cameco Corporation, which closed at $86.38, down 2.1%, but still rated as a buy with a target mean of $133.58."
+    "text": "That’s horrifying. The video of the incident must be unsettling to watch, given how unexpected such events can be."
   },
   {
     "speaker": "Adam",
-    "text": "And lastly, Palantir Technologies, which closed at $123.06, up 0.65%. It’s rated a buy with a mean target of $182.20."
+    "text": "I can only imagine. Lastly, Republicans have announced their intention to back Blanche following a U.S. Justice Department order that cancels a controversial fund."
   },
   {
     "speaker": "Eve",
-    "text": "Great insights on the market today! Now, let’s see what’s new in your podcasts, Moiz."
+    "text": "That’s a big shift in political dynamics, especially in such a polarized environment."
   },
   {
     "speaker": "Adam",
-    "text": "We’ve got a new episode of “Founders.” It’s titled “How Raymond Plank Built a $50 Billion Oil Company.” The episode focuses on his entrepreneurial philosophy and the lessons he learned over decades in business."
+    "text": "Now, let’s take a look at the markets."
   },
   {
     "speaker": "Eve",
-    "text": "Sounds like a fascinating listen, especially with the wild stories they mention!"
+    "text": "Sure thing! Starting with the Vanguard S&P 500 ETF, or VOO, it closed at $696.40, up 1.42%."
   },
   {
     "speaker": "Adam",
-    "text": "And that’s a wrap for today’s podcast, Moiz. Safe travels on your way to work!"
+    "text": "There’s been a lot of buzz around it lately, but no significant analyst ratings to report."
   },
   {
     "speaker": "Eve",
-    "text": "Take care, Moiz!"
+    "text": "Moving on to NVIDIA Corporation, which saw a notable increase of 2.93%, closing at $206.64."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Analysts are really bullish on NVIDIA with a “strong buy” recommendation and a mean price target of around $302.83."
+  },
+  {
+    "speaker": "Eve",
+    "text": "That’s quite a jump! Next up is Micron Technology, which closed at $829.50, gaining 0.79%."
+  },
+  {
+    "speaker": "Adam",
+    "text": "They’re also rated as a “strong buy” with a mean target of $1,522.26."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Now let’s talk about Alphabet Inc. GOOGL, which closed at $373.51—a rise of 4.88%."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Analysts are matching that sentiment with a “strong buy” rating and a mean target of about $426.95."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Meta Platforms, Inc. also performed well, closing at $590.24, up 6.02%."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Similarly rated as a “strong buy,” with a mean target sitting at $768.58."
+  },
+  {
+    "speaker": "Eve",
+    "text": "It seems like tech stocks are really on the rise. ASML Holding closed at $1,642.52, up by 0.83%."
+  },
+  {
+    "speaker": "Adam",
+    "text": "They maintain a “strong buy” rating with a target mean of $2,136.10, which is pretty encouraging."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Taiwan Semiconductor Manufacturing closed at $406.11, a slight increase of 0.46% with a “strong buy” recommendation as well."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Their mean price target is around $540.20, which shows confidence in their performance."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Cameco Corporation saw a 3.87% increase, finishing at $89.72."
+  },
+  {
+    "speaker": "Adam",
+    "text": "They’re rated as a “buy” with a target mean of $133.21."
+  },
+  {
+    "speaker": "Eve",
+    "text": "And finally, Palantir Technologies closed at $125.65, with a 2.1% rise."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Also rated as a “buy,” their mean target is $182.20."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Wow, a lot of movement in the markets today!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "Definitely. Now, let’s move on. It looks like there are no new episodes to highlight in your podcasts today."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Sometimes it’s nice to have a break, right?"
+  },
+  {
+    "speaker": "Adam",
+    "text": "Agreed. Well, that wraps up the news for today."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Drive safe, Moiz!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "Take care!"
   }
 ]
