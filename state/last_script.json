@@ -1,190 +1,170 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you hear about that U.S. court ruling against Trump’s climate grant program?"
+    "text": "Good morning, Moiz! Did you see that SpaceX stock is down over 13% after their first quarterly report?"
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, it seems the EPA might have acted unlawfully in trying to cancel those Biden-era clean energy grants. That’s a significant development!"
+    "text": "Oh wow, that's wild! Investors are clearly getting nervous about their heavy investments."
   },
   {
     "speaker": "Adam",
-    "text": "It really is! And speaking of significant, wildfires are spreading rapidly across Europe right now, creating a serious challenge for many countries."
+    "text": "Yeah, it’s a tough pill to swallow when even a space giant like SpaceX faces pressure. Speaking of pressure, let's dive into some world news."
   },
   {
     "speaker": "Eve",
-    "text": "Right? It’s alarming to see how these blazes are scorching the continent. The impacts on both the environment and communities could be devastating."
+    "text": "Al Jazeera has a lot to cover today. Let’s start with Sheikh Hasina, the former Prime Minister of Bangladesh, who announced her plans to return in December."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. And on a different note, a mass funeral was held in Gaza for families who waited three years after an Israeli attack. It’s heartbreaking to think about the loss and the wait they endured."
+    "text": "That’s intriguing, especially considering her turbulent political history. Her return could stir things up in Bangladesh."
   },
   {
     "speaker": "Eve",
-    "text": "It really is. Thousands gathered to honor the 112 members of the Abu Shreia and al-Hassaina families. Such profound grief in these communities."
+    "text": "Definitely. Meanwhile, New Mexico is suing the U.S. Justice Department for allegedly withholding key documents in the Epstein probe."
   },
   {
     "speaker": "Adam",
-    "text": "In Kosovo, the search for wartime mass graves continues, with the discovery of a third site. This reflects the ongoing impact of the Kosovo war even years later."
+    "text": "That’s a significant move, especially given the ongoing scrutiny around the Epstein case. It’ll be interesting to see how this plays out."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, the excavation work is revealing the hidden past, and it’s crucial for the families seeking closure."
+    "text": "Indeed. In another dramatic story, a young pilot made a daring emergency landing on a freeway in Florida."
   },
   {
     "speaker": "Adam",
-    "text": "On the economic front, in Argentina, grain exports have come to a halt due to a strike by maritime pilots. Over 45 vessels are currently affected."
+    "text": "Wow, I can only imagine the adrenaline rush! What a testament to her training and quick thinking."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a major issue for a country that relies so heavily on agricultural exports. The strike is over a decree from President Milei, which complicates things further."
+    "text": "Absolutely. And speaking of quick thinking, Brazil’s Flavio Bolsonaro announced Alfredo Gaspar as his running mate, as the presidential race tightens."
   },
   {
     "speaker": "Adam",
-    "text": "In Guatemala, evacuations have been ordered as the Fuego volcano erupted. It’s the same area that suffered from a deadly eruption in 2018."
+    "text": "With Lula warning about foreign interference, it looks like it’s going to get really competitive."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, that’s terrifying. It really highlights the ongoing natural threats many regions face."
+    "text": "Over in Malaysia, authorities are vowing not to return Rohingya refugees to Myanmar if their lives are at risk."
   },
   {
     "speaker": "Adam",
-    "text": "The Red Cross is sounding alarms as the crisis in Sudan deepens, warning that humanitarian support is shrinking. It’s a critical situation for communities trying to rebuild."
+    "text": "That’s a humanitarian stance, but it highlights the ongoing challenges facing the Rohingya people."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely, and it’s a reminder of how vital international aid is in times of crisis."
+    "text": "On the domestic front, U.S. authorities reported three killed in a shooting in North Carolina, which is just tragic."
   },
   {
     "speaker": "Adam",
-    "text": "In tech news, Apple suspended Telegram, claiming a violation of content norms related to child sexual abuse material."
+    "text": "It's heartbreaking to hear about such violence, especially involving family members."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a serious issue. It’s interesting how platforms are navigating these content regulations."
+    "text": "And the conflict between Russia and Ukraine seems to be deepening as both sides ramp up attacks with little diplomatic progress."
   },
   {
     "speaker": "Adam",
-    "text": "For a brighter note, Kazakhstan has released the first Amur tiger in more than 70 years, aiming to restore the extinct Caspian tiger species."
+    "text": "It's a dire situation that’s been dragging on for far too long."
   },
   {
     "speaker": "Eve",
-    "text": "That’s wild! It’s great to see conservation efforts making strides like this."
+    "text": "And in the West Bank, Israeli forces raided the Qalandiya refugee camp, injuring eight Palestinians."
   },
   {
     "speaker": "Adam",
-    "text": "The White House is meeting with AI firms to discuss safety following recent hacking incidents. It’s crucial to address these vulnerabilities."
+    "text": "That’s concerning, especially with the ongoing tensions in that region."
   },
   {
     "speaker": "Eve",
-    "text": "For sure, especially as AI continues to develop."
+    "text": "Lastly, Abdul El-Sayed won the Michigan Democratic Senate primary, narrowly defeating Rep. Haley Stevens."
   },
   {
     "speaker": "Adam",
-    "text": "And in the political world, the DOJ is sending monitors to Michigan poll sites amid concerns from lawmakers about potential partisan aims."
+    "text": "A significant win for him, especially with the current political climate in the U.S."
   },
   {
     "speaker": "Eve",
-    "text": "That's intriguing! With Trump’s ongoing claims of election fraud, it’s a sensitive topic."
+    "text": "Now, shifting gears to the markets, let’s take a look at how the stocks are performing today."
   },
   {
     "speaker": "Adam",
-    "text": "Now, let’s shift gears to the markets. The Vanguard S&P 500 ETF, or VOO, closed at $708.98, up 1.81%, but there’s no specific recommendation or target price."
+    "text": "Starting with the Vanguard S&P 500 ETF, VOO, it closed down slightly by 0.19%. No major news there, but it seems to be tracking the general market trend."
   },
   {
     "speaker": "Eve",
-    "text": "That’s still a positive move for long-term investors, especially with some articles highlighting Warren Buffett’s strategy involving ETFs."
+    "text": "NVIDIA, on the other hand, had a robust day, with shares up 3.43%. Analysts have a strong buy rating on it, with a mean price target of around $302."
   },
   {
     "speaker": "Adam",
-    "text": "NVIDIA, or NVDA, closed at $211.94, up 2.56%. Analysts have a strong buy recommendation with a target mean of about $302.83."
+    "text": "That's promising! They’re definitely making waves in the tech sector."
   },
   {
     "speaker": "Eve",
-    "text": "And with ongoing discussions around chipmakers keeping up with demand, those numbers make a lot of sense."
+    "text": "Micron Technology is also up a tad, just 0.06%, but keeps a strong buy recommendation with a price target of about $1,508."
   },
   {
     "speaker": "Adam",
-    "text": "Micron Technology, with the ticker MU, saw impressive growth at $892.67, a 7.62% increase. It also has a strong buy recommendation and a target mean of $1507.79."
+    "text": "Sounds like they’re still in a solid position despite market fluctuations."
   },
   {
     "speaker": "Eve",
-    "text": "That’s significant, especially given the solid demand for semiconductors right now."
+    "text": "Moving on to Alphabet, GOOGL, which experienced a drop of 4.03%. Analysts still rate it as a strong buy, with a target of $428."
   },
   {
     "speaker": "Adam",
-    "text": "Alphabet, or GOOGL, closed at $377.65, up 1.11%. Analysts are also recommending a strong buy with a target mean of $428.04."
+    "text": "That’s an interesting pullback, especially with all the surrounding tech news."
   },
   {
     "speaker": "Eve",
-    "text": "Their recent deals with SpaceX really seem to be paying off."
+    "text": "Meta Platforms barely moved, just up 0.14%, but it’s still rated as a strong buy with a target of $759."
   },
   {
     "speaker": "Adam",
-    "text": "Meta Platforms, ticked as META, closed at $587.94, slightly down by 0.39%, but still a strong buy recommendation with a target mean of $759.41."
+    "text": "Consistent performance from Meta, especially given the scrutiny they’ve been under lately."
   },
   {
     "speaker": "Eve",
-    "text": "A minor dip but still looking good for long-term investors, especially with all the activity surrounding ad competition."
+    "text": "ASML Holding saw a decline of 1.97%, but analysts remain optimistic with a target of $2,144."
   },
   {
     "speaker": "Adam",
-    "text": "ASML closed at $1711.89, up 4.22%. It also carries a strong buy recommendation with a target mean of $2140.54."
+    "text": "That’s a significant target, showing confidence in their long-term growth."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a solid move, especially with their recent dividend increase and guidance backing."
+    "text": "Taiwan Semiconductor Manufacturing is down 0.76% but still holds a strong buy rating with a target of $540."
   },
   {
     "speaker": "Adam",
-    "text": "Taiwan Semiconductor, TSM, closed at $417.17, up 2.72%, and also has a strong buy recommendation with a target mean of $540.20."
+    "text": "These are some interesting moves. Cameco Corporation, on the other hand, is up 1.27% and rated a buy with a target of $130."
   },
   {
     "speaker": "Eve",
-    "text": "Their push into AI seems to be hitting milestones, which is encouraging for their future."
+    "text": "Nice to see some positive movement in the energy sector!"
   },
   {
     "speaker": "Adam",
-    "text": "Cameco Corporation, CCJ, closed at $93.09, up 3.76%, with a buy recommendation and a target mean of $129.17."
+    "text": "Palantir Technologies dropped 2.6%, but analysts still have a buy rating with a mean target of $185."
   },
   {
     "speaker": "Eve",
-    "text": "With ongoing discussions about nuclear energy, it’s a sector to keep an eye on."
+    "text": "It's fascinating to see how some stocks are bucking the trend while others are struggling."
   },
   {
     "speaker": "Adam",
-    "text": "Finally, Palantir Technologies, PLTR, surged to $162.66, up an impressive 29.45%. It carries a buy recommendation with a mean price target of $185.68."
+    "text": "Absolutely. Now, let’s skip the new podcast episode section today since there’s nothing new to share."
   },
   {
     "speaker": "Eve",
-    "text": "That’s quite the jump! Analysts are optimistic about their recent performance."
+    "text": "Just keeps things streamlined for our morning chat!"
   },
   {
     "speaker": "Adam",
-    "text": "Now, let’s look at what's new in your podcasts."
-  },
-  {
-    "speaker": "Eve",
-    "text": "The show \"99% Invisible\" released an episode titled \"The Borrowed Nature of Biomimicry.\" It dives into how nature-inspired designs have complex backstories."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Sounds intriguing! It promises a fascinating look at the relationship between nature and innovation."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Definitely worth checking out if you're interested in design and the environment."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Alright, that wraps up today’s news, Moiz."
+    "text": "Exactly. Thanks for joining us today, Moiz."
   },
   {
     "speaker": "Eve",
     "text": "Have a great day at work!"
-  },
-  {
-    "speaker": "Adam",
-    "text": "Take care!"
   }
 ]
