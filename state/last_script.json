@@ -1,170 +1,182 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you see that SpaceX stock is down over 13% after their first quarterly report?"
+    "text": "Good morning, Moiz! Let's dive right into the news today. Have you heard about the floods in Mozambique? Apparently, the aftermath is pushing many families into severe food insecurity."
   },
   {
     "speaker": "Eve",
-    "text": "Oh wow, that's wild! Investors are clearly getting nervous about their heavy investments."
+    "text": "Yeah, that's really tough. Losing harvests and having disrupted supply routes can devastate communities. It’s like they’re facing a second disaster on top of the first."
   },
   {
     "speaker": "Adam",
-    "text": "Yeah, it’s a tough pill to swallow when even a space giant like SpaceX faces pressure. Speaking of pressure, let's dive into some world news."
+    "text": "Exactly. It’s just tragic how natural disasters can lead to cascading effects like hunger."
   },
   {
     "speaker": "Eve",
-    "text": "Al Jazeera has a lot to cover today. Let’s start with Sheikh Hasina, the former Prime Minister of Bangladesh, who announced her plans to return in December."
+    "text": "Speaking of crises, Trump made headlines again, saying that the war can’t “go much longer.” There’s potential for a temporary deal to reopen the Strait of Hormuz involving the US, Iran, and Oman."
   },
   {
     "speaker": "Adam",
-    "text": "That’s intriguing, especially considering her turbulent political history. Her return could stir things up in Bangladesh."
+    "text": "That’s interesting. The Strait of Hormuz is such a critical route for oil shipments. If they can reach a deal, it might ease tensions in that region."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely. Meanwhile, New Mexico is suing the U.S. Justice Department for allegedly withholding key documents in the Epstein probe."
+    "text": "And on a related note, there are some troubling reports about travel restrictions trapping students in Gaza. It’s turning their education into an uphill battle."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a significant move, especially given the ongoing scrutiny around the Epstein case. It’ll be interesting to see how this plays out."
+    "text": "It’s disheartening to see talented students unable to pursue their dreams due to bureaucracy and blockades."
   },
   {
     "speaker": "Eve",
-    "text": "Indeed. In another dramatic story, a young pilot made a daring emergency landing on a freeway in Florida."
+    "text": "Right? And in South Lebanon, residents are outraged as Israeli strikes resume, with many questioning their government’s response."
   },
   {
     "speaker": "Adam",
-    "text": "Wow, I can only imagine the adrenaline rush! What a testament to her training and quick thinking."
+    "text": "It seems like instability is a recurring theme in that area. Meanwhile, Trump signed executive orders aimed at limiting birthright citizenship."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely. And speaking of quick thinking, Brazil’s Flavio Bolsonaro announced Alfredo Gaspar as his running mate, as the presidential race tightens."
+    "text": "It’s part of his ongoing efforts to change immigration laws. It’s been contentious, to say the least."
   },
   {
     "speaker": "Adam",
-    "text": "With Lula warning about foreign interference, it looks like it’s going to get really competitive."
+    "text": "And Iran's Ghalibaf accused Trump of engaging in what he called \"show diplomacy.\" That’s a pretty sharp jab at the US."
   },
   {
     "speaker": "Eve",
-    "text": "Over in Malaysia, authorities are vowing not to return Rohingya refugees to Myanmar if their lives are at risk."
+    "text": "It really highlights the strained relationship between the two nations."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a humanitarian stance, but it highlights the ongoing challenges facing the Rohingya people."
+    "text": "Shifting gears, did you catch the news about Michigan’s Abdul El-Sayed? His win surprised many, especially the pro-Israel establishment."
   },
   {
     "speaker": "Eve",
-    "text": "On the domestic front, U.S. authorities reported three killed in a shooting in North Carolina, which is just tragic."
+    "text": "Yes! It’s actually quite a significant political statement."
   },
   {
     "speaker": "Adam",
-    "text": "It's heartbreaking to hear about such violence, especially involving family members."
+    "text": "Meanwhile, Al Jazeera reported on a concerning trend where far-right fitness clubs are being used as recruitment grounds for extremists."
   },
   {
     "speaker": "Eve",
-    "text": "And the conflict between Russia and Ukraine seems to be deepening as both sides ramp up attacks with little diplomatic progress."
+    "text": "That’s wild! It’s unsettling to think how these seemingly innocent spaces can mask such dangerous activities."
   },
   {
     "speaker": "Adam",
-    "text": "It's a dire situation that’s been dragging on for far too long."
+    "text": "And speaking of unsettling, there was a shooting investigation involving the US consulate in Toronto. Two suspects have been arrested."
   },
   {
     "speaker": "Eve",
-    "text": "And in the West Bank, Israeli forces raided the Qalandiya refugee camp, injuring eight Palestinians."
+    "text": "It’s alarming how these incidents are becoming more frequent."
   },
   {
     "speaker": "Adam",
-    "text": "That’s concerning, especially with the ongoing tensions in that region."
+    "text": "On a different note, the US has sanctioned several Cuban military officials and companies. They’re accused of helping Cuba acquire military equipment from Russia and China."
   },
   {
     "speaker": "Eve",
-    "text": "Lastly, Abdul El-Sayed won the Michigan Democratic Senate primary, narrowly defeating Rep. Haley Stevens."
+    "text": "That definitely adds another layer to US-Cuba relations."
   },
   {
     "speaker": "Adam",
-    "text": "A significant win for him, especially with the current political climate in the U.S."
+    "text": "And in Turkiye, a fire broke out at a workers’ accommodation camp for earthquake housing. That’s unfortunate, especially after such a devastating event."
   },
   {
     "speaker": "Eve",
-    "text": "Now, shifting gears to the markets, let’s take a look at how the stocks are performing today."
+    "text": "It’s just one challenge after another for those affected by the earthquake."
   },
   {
     "speaker": "Adam",
-    "text": "Starting with the Vanguard S&P 500 ETF, VOO, it closed down slightly by 0.19%. No major news there, but it seems to be tracking the general market trend."
+    "text": "Now, let’s take a quick look at the markets. The Vanguard S&P 500 ETF, VOO, closed down slightly by 0.17%."
   },
   {
     "speaker": "Eve",
-    "text": "NVIDIA, on the other hand, had a robust day, with shares up 3.43%. Analysts have a strong buy rating on it, with a mean price target of around $302."
+    "text": "Nothing too drastic there."
   },
   {
     "speaker": "Adam",
-    "text": "That's promising! They’re definitely making waves in the tech sector."
+    "text": "NVIDIA, or NVDA, also dropped by 0.1%, but it’s still rated as a strong buy with a mean price target significantly higher than its last close."
   },
   {
     "speaker": "Eve",
-    "text": "Micron Technology is also up a tad, just 0.06%, but keeps a strong buy recommendation with a price target of about $1,508."
+    "text": "Right! They’re still riding the AI wave, so it’s interesting to see how that plays out."
   },
   {
     "speaker": "Adam",
-    "text": "Sounds like they’re still in a solid position despite market fluctuations."
+    "text": "Micron Technology, MU, is another strong buy, closing down by 1.31%. Analysts have a high target of $2200 for them."
   },
   {
     "speaker": "Eve",
-    "text": "Moving on to Alphabet, GOOGL, which experienced a drop of 4.03%. Analysts still rate it as a strong buy, with a target of $428."
+    "text": "That’s a big potential jump!"
   },
   {
     "speaker": "Adam",
-    "text": "That’s an interesting pullback, especially with all the surrounding tech news."
+    "text": "Alphabet, GOOGL, saw a decline of 1.29% but remains a strong buy with a mean target of about $428."
   },
   {
     "speaker": "Eve",
-    "text": "Meta Platforms barely moved, just up 0.14%, but it’s still rated as a strong buy with a target of $759."
+    "text": "Those tech stocks are definitely volatile right now."
   },
   {
     "speaker": "Adam",
-    "text": "Consistent performance from Meta, especially given the scrutiny they’ve been under lately."
+    "text": "Meta Platforms, or META, nudged up slightly by 0.19% and continues to hold a strong buy rating."
   },
   {
     "speaker": "Eve",
-    "text": "ASML Holding saw a decline of 1.97%, but analysts remain optimistic with a target of $2,144."
+    "text": "Interesting considering the ongoing scrutiny they face."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a significant target, showing confidence in their long-term growth."
+    "text": "ASML Holding, ASML, saw an increase of 1.56% and is also rated a strong buy."
   },
   {
     "speaker": "Eve",
-    "text": "Taiwan Semiconductor Manufacturing is down 0.76% but still holds a strong buy rating with a target of $540."
+    "text": "Their role in the semiconductor industry is crucial, especially with ongoing tech advancements."
   },
   {
     "speaker": "Adam",
-    "text": "These are some interesting moves. Cameco Corporation, on the other hand, is up 1.27% and rated a buy with a target of $130."
+    "text": "Taiwan Semiconductor Manufacturing, TSM, is up by 1.01% and is rated strong buy as well, with its outlook raised due to AI demand."
   },
   {
     "speaker": "Eve",
-    "text": "Nice to see some positive movement in the energy sector!"
+    "text": "It’s impressive how AI is driving growth in so many sectors."
   },
   {
     "speaker": "Adam",
-    "text": "Palantir Technologies dropped 2.6%, but analysts still have a buy rating with a mean target of $185."
+    "text": "Cameco Corporation, CCJ, dipped by 0.69% but is still rated a buy. Analysts expect it to do well in the long term."
   },
   {
     "speaker": "Eve",
-    "text": "It's fascinating to see how some stocks are bucking the trend while others are struggling."
+    "text": "And finally, Palantir Technologies, PLTR, fell by 1.58% but still holds a buy rating with strong expectations from analysts."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. Now, let’s skip the new podcast episode section today since there’s nothing new to share."
+    "text": "Sounds like there’s some mixed activity among the stocks."
   },
   {
     "speaker": "Eve",
-    "text": "Just keeps things streamlined for our morning chat!"
+    "text": "Definitely! Now, let’s jump into the new episodes in your podcasts."
   },
   {
     "speaker": "Adam",
-    "text": "Exactly. Thanks for joining us today, Moiz."
+    "text": "Actually, it looks like there aren't any new episodes today."
   },
   {
     "speaker": "Eve",
-    "text": "Have a great day at work!"
+    "text": "Oh, that’s a bummer!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "Yeah, but there’s always something new popping up."
+  },
+  {
+    "speaker": "Eve",
+    "text": "For now, Moiz, that’s a wrap on today’s news."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Safe travels to work, and we’ll catch you next time!"
   }
 ]
