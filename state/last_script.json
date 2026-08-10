@@ -1,151 +1,183 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you see the news about Israel from The Elders? They're saying Israel is trying to, quote, \"make Palestine disappear.\""
+    "text": "Good morning, Moiz! Did you see that Russia just barred the only party opposing the war in Ukraine from the parliamentary vote?"
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, that's a pretty bold claim. Former Irish President Mary Robinson mentioned that it's happening on multiple fronts—physically, economically, culturally, and politically. That's a lot to unpack."
+    "text": "Oh wow, that’s really intense! It’s like they’re trying to eliminate any dissenting voices altogether."
   },
   {
     "speaker": "Adam",
-    "text": "It really is. Shifting gears to some global issues, protests in Spain have also caught attention recently. Hundreds of people marched in Mallorca's Soller against mass tourism."
+    "text": "Exactly. Let’s dive into some world news."
   },
   {
     "speaker": "Eve",
-    "text": "Right, and given how tourism can impact local culture and economies, it’s not surprising to see such a reaction. People are clearly expressing their frustrations."
+    "text": "To kick things off, in Colombia, a devastating 7.4 magnitude earthquake has left at least 111 people dead."
   },
   {
     "speaker": "Adam",
-    "text": "Exactly. Meanwhile, in the Democratic Republic of Congo, there’s a new development. Kinshasa has handed over 15 prisoners to a powerful rebel alliance."
+    "text": "That’s heartbreaking. The destruction is reported to be extensive, and rescue efforts are underway."
   },
   {
     "speaker": "Eve",
-    "text": "That’s interesting! The ongoing conflict there seems so complex, and this might not help improve the situation. Do you think it will lead to peace, or is it just going to escalate tensions?"
+    "text": "Meanwhile, in Spain's Ceuta, there's a concerning situation with migrant children who are reportedly going days without food."
   },
   {
     "speaker": "Adam",
-    "text": "It’s hard to say. The situation is fragile, and every little move can have significant consequences."
+    "text": "That's just horrific. It highlights the ongoing asylum crisis and the struggles facing those families."
   },
   {
     "speaker": "Eve",
-    "text": "Speaking of fragile, wildfires are once again wreaking havoc, this time in Albania and Spain. Hundreds have had to evacuate."
+    "text": "Over in the U.S., Congresswoman Nancy Mace has made headlines for calling Muslim officials a \"threat\" to the country."
   },
   {
     "speaker": "Adam",
-    "text": "That’s terrifying. It feels like every summer brings more of these disasters. Climate change is really making its mark."
+    "text": "Huh, that’s quite a divisive statement. It came after a Muslim candidate's win in Michigan, sparking a heated conversation on CNN."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely. And in other parts of the world, Iran's reaction to the Saudi-Pakistan-Türkiye pact is also noteworthy. Analysts say Iran isn’t feeling immediately threatened but are focusing on the diminishing role of the U.S."
+    "text": "In Russia, the pro-Kremlin nationalist party Rodina has accused the Yabloko party of receiving undeclared campaign support."
   },
   {
     "speaker": "Adam",
-    "text": "That’s intriguing. The shifting alliances in the region could lead to a lot of unexpected outcomes."
+    "text": "That’s a classic move when trying to silence opposition. It seems like the political climate there is really hostile right now."
   },
   {
     "speaker": "Eve",
-    "text": "For sure. And on a different note, in sports news, Jannik Sinner has withdrawn from the Cincinnati Open due to a knee injury."
+    "text": "Yeah, and it’s not just in Russia. There’s a new lawsuit filed against Lebanon’s ex-central bank chief Riad Salameh over alleged financial crimes."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a tough break for him. He’s currently the number one ranked player, and injuries can really derail a season."
+    "text": "Sounds like there’s a lot of political drama in the air. Speaking of drama, in the Middle East, there’s been a lot of talk about Netanyahu’s veto power over U.S. influence in Gaza."
   },
   {
     "speaker": "Eve",
-    "text": "They can! Switching gears back to politics, former Iraqi provincial governor Ahmed al-Jubouri was arrested for graft as the crackdown on corruption continues."
+    "text": "It’s fascinating and a bit concerning how that dynamic is playing out between the U.S. and Israel."
   },
   {
     "speaker": "Adam",
-    "text": "It’s good to see that some action is being taken, but I wonder how deep this corruption runs and what it means for governance in Iraq."
+    "text": "On another note, Iran's hierarchy seems to be consolidating power with a new security chief named from the IRGC."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely a valid concern. Now let’s look at the markets, shall we?"
+    "text": "That could really impact their political landscape."
   },
   {
     "speaker": "Adam",
-    "text": "Yes! Starting with the Vanguard S&P 500 ETF, it closed at $710.71, up 0.61%."
+    "text": "Also, Oman is working to contain an extensive oil spill from a tanker believed to be part of Russia's shadow fleet."
   },
   {
     "speaker": "Eve",
-    "text": "There’s been buzz around this fund lately, especially with articles highlighting how it offers a cost-effective way to invest in the S&P 500."
+    "text": "That’s a major environmental concern. It's tough to balance geopolitical issues with environmental protection."
   },
   {
     "speaker": "Adam",
-    "text": "Right! Then we have NVIDIA Corporation, which closed at $223.96, a pretty significant jump of 2.27%."
+    "text": "And in lighter news, a spokesperson for Zuckerberg’s yacht has stated that the crew did not hear a call for help during a recent incident."
   },
   {
     "speaker": "Eve",
-    "text": "Analysts are recommending it as a strong buy, with a mean price target of about $302."
+    "text": "That’s wild! It’s always something with high-profile figures, isn’t it?"
   },
   {
     "speaker": "Adam",
-    "text": "That's a solid recommendation. Moving on to Micron Technology, it closed down slightly at $877.57, a decrease of 0.44%."
+    "text": "Now, let’s take a look at the markets."
   },
   {
     "speaker": "Eve",
-    "text": "Despite the dip, it's still rated a strong buy, with a target mean of almost $1,502."
+    "text": "The Vanguard S&P 500 ETF, symbol VOO, is down slightly, closing at $710.59, dipping just 0.02%."
   },
   {
     "speaker": "Adam",
-    "text": "It’s interesting how even with a drop, analysts still see a lot of potential there. Alphabet Inc. closed at $354.30, down 0.96%."
+    "text": "There weren’t any major updates impacting it today, so it seems to be a stable hold."
   },
   {
     "speaker": "Eve",
-    "text": "They’re also a strong buy, with a mean target of $428. It seems like the analysts are confident about their future growth."
+    "text": "NVIDIA Corporation, or NVDA, took a bigger hit, down 2.86% to $217.55."
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of strong buys, Meta Platforms is at $592.10, up just a bit at 0.37%, with a target mean of $757."
+    "text": "Analysts are still bullish though, recommending a strong buy with a mean target of $302.83."
   },
   {
     "speaker": "Eve",
-    "text": "That's remarkable considering the scrutiny they’ve faced lately."
+    "text": "That’s quite a gap! It shows that they see potential for recovery despite the recent drop."
   },
   {
     "speaker": "Adam",
-    "text": "For sure. ASML Holding closed at $1,740.99, up 2.15%, and maintains a strong buy rating with a target mean of $2,178."
+    "text": "Micron Technology, symbol MU, is also down 1.89%, closing at $861."
   },
   {
     "speaker": "Eve",
-    "text": "Impressive growth for ASML! Moving on to Taiwan Semiconductor, it closed at $420.04, up 0.44%."
+    "text": "They’ve got a strong buy rating as well, with a mean target of nearly $1,502."
   },
   {
     "speaker": "Adam",
-    "text": "They also have a strong buy recommendation, with a mean price target of $540."
+    "text": "And it seems like the memory chip shortage is still a hot topic, which might be influencing these stocks."
   },
   {
     "speaker": "Eve",
-    "text": "Now, Cameco Corporation is up 4.03%, closing at $97.39, and has a mean target of $129."
+    "text": "Alphabet, or GOOGL, had a small uptick of 0.91%, closing at $357.52, with a strong buy recommendation."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a notable jump! And finally, Palantir Technologies saw a significant increase of 10.32%, closing at $172.01."
+    "text": "Their mean target is $428.04, which is promising."
   },
   {
     "speaker": "Eve",
-    "text": "That's quite a rise! Analysts see a target mean of $190, suggesting positive sentiment around their future."
+    "text": "Meta Platforms, or META, is also on the rise, up 0.48%, closing at $594.92, and they’re rated strong buy too."
   },
   {
     "speaker": "Adam",
-    "text": "Now, let’s check out something new in podcasts. There’s a fresh episode from the show \"Founders\" titled “How Claude Shannon Worked.”"
+    "text": "Their target mean is $756.95, which could be quite achievable given their recent initiatives."
   },
   {
     "speaker": "Eve",
-    "text": "That sounds fascinating! Shannon is such a pivotal figure in information theory, and his work laid the groundwork for so much in our tech-driven world."
+    "text": "ASML Holding saw a minor drop of 0.43%, closing at $1,733.48, but they have a strong buy rating with a target of $2,174."
   },
   {
     "speaker": "Adam",
-    "text": "Exactly! The episode dives into his unique approach to problem-solving and creativity, which sounds like a must-listen for anyone interested in innovation."
+    "text": "And Taiwan Semiconductor, TSM, is down 0.37% to $418.47, also with a strong buy recommendation."
   },
   {
     "speaker": "Eve",
-    "text": "It definitely does. Looks like it’s packed with insights from his life and work."
+    "text": "Analysts expect it to reach a mean target of $540.20, which is decent given the chip demand."
   },
   {
     "speaker": "Adam",
-    "text": "Alright, Moiz, that’s all for today’s news."
+    "text": "On to Cameco Corporation, CCJ, which is down slightly at $97.31 but has a buy recommendation with a mean target of $129.57."
+  },
+  {
+    "speaker": "Eve",
+    "text": "And lastly, Palantir Technologies is up 1.87%, closing at $175.23, with a buy recommendation as well."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Their target mean is around $189.90, indicating some optimism in their growth."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Now, let’s check out what's new in your podcasts."
+  },
+  {
+    "speaker": "Adam",
+    "text": "There’s a fresh episode of \"Twenty Thousand Hertz\" titled “Colbert & Fallon: Mixing Music for Late Night TV.”"
+  },
+  {
+    "speaker": "Eve",
+    "text": "This episode dives into the behind-the-scenes of mixing music for late-night shows, featuring stories from experienced music mixers."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Sounds like a unique insight into the pressures and creativity involved in live television."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Definitely worth a listen if you’re into music or the behind-the-scenes of television."
+  },
+  {
+    "speaker": "Adam",
+    "text": "That’s all for today, Moiz."
   },
   {
     "speaker": "Eve",
