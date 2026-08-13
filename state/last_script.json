@@ -1,186 +1,106 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you catch that total solar eclipse over Europe yesterday?"
+    "text": "Good morning, Moiz! Some pretty intense news coming out of Sudan today. The RSF is advancing on a key town near Ethiopia."
   },
   {
     "speaker": "Eve",
-    "text": "I did! It’s wild how something so grand can draw crowds of people just to witness the darkness, right?"
+    "text": "Yeah, that’s wild! It seems like the situation there is escalating, and it could have serious implications for the region."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely! It’s a breathtaking reminder of the universe's wonders. Now, let’s dive into today’s world news."
+    "text": "Absolutely. Let’s dive into some world news. Starting with Sudan, military sources report that the paramilitary RSF, along with allies, is advancing into Kurmuk in the Blue Nile state. This could potentially destabilize the area further."
   },
   {
     "speaker": "Eve",
-    "text": "Starting with that solar eclipse, it crossed Iceland, Britain, and parts of mainland Europe. Crowds gathered to watch this spectacular event, and it must have been a sight to behold!"
+    "text": "And it’s not just Sudan feeling the heat. Over in England, there was a passenger train derailment near Lewes. At least 11 people were injured, with two of them seriously."
   },
   {
     "speaker": "Adam",
-    "text": "Right? It’s incredible how such celestial events unite us, even if just for a brief moment."
+    "text": "That’s really unfortunate. Train accidents can have such devastating effects. Meanwhile, in the occupied West Bank, Israeli forces have ordered families in Qusra to evacuate their homes. It’s a tough situation for those residents."
   },
   {
     "speaker": "Eve",
-    "text": "In other news, there’s a troubling report from an NGO regarding digital rights violations against Palestinians."
+    "text": "Right, and it seems like it’s a day of disasters, because in Colombia, hospitals are adapting to save lives following an earthquake that caused widespread damage, particularly in Cali. First responders are working nonstop."
   },
   {
     "speaker": "Adam",
-    "text": "Yes, the report by 7amleh in collaboration with Utrecht University analyzed over 3,500 cases. It highlights significant struggles activists face on platforms like Meta."
+    "text": "It’s heart-wrenching to hear about so many people affected. On the other side of the globe, Europe is sweltering in another wave of extreme heat. The UK recorded its hottest day of the year at 38.1 degrees Celsius."
   },
   {
     "speaker": "Eve",
-    "text": "That’s really concerning. Digital platforms must uphold rights and safety for all users."
+    "text": "Wow, that’s scorching! But speaking of heat, Manchester United is feeling the pressure too. Carrick is urging the team to sign more transfers to boost their title bid, as their preseason spending is lagging behind other contenders."
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of the U.S., Trump announced that Karoline Leavitt will step down as White House press secretary to spend more time with her family."
+    "text": "It’s a real balancing act for them. In political news, a judge has dismissed a lawsuit from the Trump administration alleging that Harvard failed to protect Jewish students during the Gaza war protests. That’s a significant ruling."
   },
   {
     "speaker": "Eve",
-    "text": "It’s interesting to see how family priorities are influencing political roles, isn’t it?"
+    "text": "And in Poland, authorities arrested a man accused of trying to kill a Ukrainian American. The suspect is reportedly a Russian citizen targeting a critic of Moscow."
   },
   {
     "speaker": "Adam",
-    "text": "Definitely! Now, switching gears, Josh Kushner and Bob Iger are reportedly buying the Los Angeles Lakers for a record $12.5 billion."
+    "text": "It’s troubling to see such international tensions manifesting like that. In Gaza, artists have painted a mural honoring a former Burger King employee who shouted “Free Palestine” and was subsequently fired."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, that’s a staggering amount! It sets a new benchmark for sports franchises in North America."
+    "text": "That’s a creative way to show support! And speaking of the political landscape, a new report claims the Trump administration “gutted” federal civil rights enforcement, causing key agencies to stop overseeing civil rights laws."
   },
   {
     "speaker": "Adam",
-    "text": "It sure does! Now let’s look at some global issues. Thousands are fleeing Somalia due to a severe drought that’s devastated livestock and farms."
+    "text": "Interesting to see how these policies impact society at large. Shifting gears, there’s concerning news from the DR Congo as an Ebola outbreak spreads to a sixth province, with over 2,100 deaths reported."
   },
   {
     "speaker": "Eve",
-    "text": "That’s heartbreaking. The humanitarian situation must be dire as aid continues to decline."
+    "text": "That’s alarming! Lastly, tensions are rising as China and Indonesia conducted joint naval drills, angering Taiwan. It’s a complex geopolitical scenario."
   },
   {
     "speaker": "Adam",
-    "text": "Meanwhile, Brazil has ordered Discord to suspend livestreams after a tragic incident involving a teenager's death."
+    "text": "It certainly is. Now, let’s check in on the markets. The Vanguard S&P 500 ETF, or VOO, closed at $714.95, up about 0.67%. There haven’t been any major changes in recommendations, but some articles are highlighting its role in passive investing."
   },
   {
     "speaker": "Eve",
-    "text": "It raises serious questions about platform responsibilities towards protecting minors from harmful content."
+    "text": "NVIDIA, or NVDA, closed at $225.30, gaining 0.54%. Analysts are strongly bullish on them, with a mean price target around $302.83, which is quite a jump from the current price."
   },
   {
     "speaker": "Adam",
-    "text": "And in Iraq, a U.S. official confirmed the expected completion of the pullout from the U.S.-led coalition by September 30."
+    "text": "Micron Technology, or MU, saw a noticeable rise of 4.23%, closing at $949.83, and they also have a strong buy recommendation. The mean price target is significantly higher, at about $1,501."
   },
   {
     "speaker": "Eve",
-    "text": "That’s significant news in the realm of international relations."
+    "text": "Alphabet, known as GOOGL, closed at $346.36, up 0.82%. Their strong buy rating comes with a mean target of around $428.04."
   },
   {
     "speaker": "Adam",
-    "text": "There’s also a worrying update from the World Health Organization regarding the Ebola outbreak in the Democratic Republic of Congo."
+    "text": "Meta Platforms, or META, also gained 2.78%, closing at $594.97, and analysts have a strong buy recommendation with a target of $754.14."
   },
   {
     "speaker": "Eve",
-    "text": "They’re warning it could become the deadliest outbreak on record if it continues at this pace."
+    "text": "ASML closed at $1,847.90, up 2.09%, and also holds a strong buy rating with a target mean of $2,170."
   },
   {
     "speaker": "Adam",
-    "text": "It’s staggering how quickly these outbreaks can escalate."
+    "text": "Taiwan Semiconductor, or TSM, ended at $430.49, just a slight gain of 0.31%. Their strong buy rating has a mean target of $547."
   },
   {
     "speaker": "Eve",
-    "text": "And let’s not forget about the families in Lebanon demanding answers about detainees held by Israel."
+    "text": "Cameco Corporation, CCJ, saw a decline of 1.29%, closing at $97.75, but still carries a buy recommendation with a target mean of around $129.64."
   },
   {
     "speaker": "Adam",
-    "text": "Yes, protests have surged in Beirut as families seek clarity on the situation."
+    "text": "Palantir Technologies, or PLTR, closed at $179.01, up 4.66%. Analysts are rating it as a buy with a target just above $191."
   },
   {
     "speaker": "Eve",
-    "text": "On a lighter note, Mount Etna erupted, disrupting travel at Catania Airport in Italy."
+    "text": "That wraps up our market updates. Now, let’s see if there are any interesting new episodes in your podcasts, but it looks like we don’t have any fresh content to share today."
   },
   {
     "speaker": "Adam",
-    "text": "That must have caused quite a stir for passengers! Now, let’s switch gears to the markets, shall we?"
+    "text": "That's right. So, Moiz, that’s your news update for today. Drive safe and have a great day at work!"
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely! Let's take a look at how the stocks are moving today."
-  },
-  {
-    "speaker": "Adam",
-    "text": "First up, the Vanguard S&P 500 ETF, VOO, closed up 0.25 percent. There hasn’t been any significant news impacting it today."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Moving on to NVIDIA, or NVDA, it jumped 3.03 percent after some exciting partnerships were announced for AI build-out."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Analysts have a strong buy recommendation with a mean price target of around $302."
-  },
-  {
-    "speaker": "Eve",
-    "text": "That’s quite a bit above its current price! Micron Technology saw a 4.92 percent increase as well."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Right! They’re also rated as a strong buy, with a mean target of about $1,502."
-  },
-  {
-    "speaker": "Eve",
-    "text": "That's impressive! How about Alphabet, GOOGL?"
-  },
-  {
-    "speaker": "Adam",
-    "text": "It dipped slightly by 0.08 percent, but analysts still rate it as a strong buy with a price target of around $428."
-  },
-  {
-    "speaker": "Eve",
-    "text": "And Meta, or META, experienced a 3.38 percent drop today."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Yep, but it still holds a strong buy recommendation, with a target mean of about $754."
-  },
-  {
-    "speaker": "Eve",
-    "text": "ASML Holding is also looking strong, up 0.59 percent with a mean target of $2,169."
-  },
-  {
-    "speaker": "Adam",
-    "text": "And Taiwan Semiconductor, TSM, rose 1.68 percent today."
-  },
-  {
-    "speaker": "Eve",
-    "text": "They’re also rated as a strong buy, with a target mean of around $547."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Cameco Corporation, CCJ, had a modest increase of 0.3 percent and is rated a buy."
-  },
-  {
-    "speaker": "Eve",
-    "text": "And finally, Palantir Technologies, PLTR, dropped 2.23 percent today, but still holds a buy recommendation."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Wow, it’s interesting to see how the market is reacting today."
-  },
-  {
-    "speaker": "Eve",
-    "text": "For sure! Now, onto new episodes in your podcasts."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Actually, it looks like there aren’t any new episodes to highlight today."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Sometimes that happens, but we’ll keep an eye out for more updates in the future!"
-  },
-  {
-    "speaker": "Adam",
-    "text": "That wraps up our news and markets for today, Moiz."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Drive safe, and we’ll catch you next time!"
+    "text": "Take care!"
   }
 ]
