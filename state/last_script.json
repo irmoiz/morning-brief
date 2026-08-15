@@ -1,226 +1,162 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Have you heard about the son of Mexico's former president, AMLO? He's alleging that his visa was revoked by the US."
+    "text": "Good morning, Moiz! Did you see that the death toll from the Zimbabwe ferry disaster has risen again?"
   },
   {
     "speaker": "Eve",
-    "text": "Oh wow, that's wild! Given the context of the ongoing crackdown on politicians linked to cartels, it definitely raises some eyebrows."
+    "text": "Yeah, it's heartbreaking. Seventy-two victims now, and it’s just such a tragic situation."
   },
   {
     "speaker": "Adam",
-    "text": "Right? It seems like this situation is part of a larger narrative surrounding political tension and corruption in Mexico."
+    "text": "Absolutely. There are a lot of significant events happening around the world right now, so let’s dive into today’s news."
   },
   {
     "speaker": "Eve",
-    "text": "Speaking of political tensions, let's shift gears a bit. Over in Oman, there’s a massive oil spill happening right now, which has the potential to be an environmental disaster."
+    "text": "First up, Moroccan police have arrested over 100 migrants attempting to reach the Spanish enclave of Ceuta. This follows a social media campaign that encouraged many to make that dangerous crossing."
   },
   {
     "speaker": "Adam",
-    "text": "Yes, a tanker is leaking Russian oil, and the scale of it is just staggering."
+    "text": "Right, and it's worth noting that this comes only weeks after a tragic incident where many people lost their lives trying to reach Spain. It's such a perilous journey."
   },
   {
     "speaker": "Eve",
-    "text": "It’s hard to believe how interconnected all these issues are—politics, the environment, everything."
+    "text": "It's really disheartening. Moving over to Zimbabwe, the ferry disaster is devastating. Authorities recovered 26 more bodies from Lake Kariba just yesterday as they continue the search."
   },
   {
     "speaker": "Adam",
-    "text": "And in the US, former President Trump is back in the headlines, asking the Supreme Court to proceed with a $400 million ballroom project."
+    "text": "It’s shocking to think about the scale of this tragedy. Overloaded vessels are a serious issue, and it really underlines the need for better safety regulations."
   },
   {
     "speaker": "Eve",
-    "text": "That’s right, and it’s interesting because an appeals court previously ruled that he needs authorization from Congress first."
+    "text": "Definitely. Now, in sports, Real Madrid is gearing up for the new La Liga season, welcoming back Jose Mourinho as their manager. They are hoping to stop Barcelona from achieving a three-peat."
   },
   {
     "speaker": "Adam",
-    "text": "It feels like there’s never a dull moment in politics these days."
+    "text": "That’s going to be an exciting season! Mourinho has such a strong personality; it'll be interesting to see how he reinvigorates the team."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely. And on a different note, a woman was charged with vandalizing a World War II Memorial in Washington, D.C."
+    "text": "Speaking of excitement, there’s a cleanup underway in Oman after an oil spill reached its coastline from a grounded tanker. Cleanup crews are working along a 12-kilometer stretch."
   },
   {
     "speaker": "Adam",
-    "text": "That incident comes right after Trump criticized a judge for dropping charges related to similar damage to the Reflecting Pool."
+    "text": "That sounds like a huge environmental challenge. Oil spills can have long-lasting effects on marine life and the ecosystem."
   },
   {
     "speaker": "Eve",
-    "text": "It’s intriguing how these events seem to intertwine."
+    "text": "For sure. Meanwhile, in the Middle East, the USS Washington is expected to relieve the USS Lincoln amid reports of dire conditions on the Lincoln during the ongoing conflict with Iran."
   },
   {
     "speaker": "Adam",
-    "text": "Meanwhile, over in Gaza, art is being used as a form of solace for young survivors of the war."
+    "text": "That could have significant implications for military operations in the region. It’s a situation to keep an eye on."
   },
   {
     "speaker": "Eve",
-    "text": "It’s heartening to see creativity providing an escape and a way for them to process their trauma."
+    "text": "On a different note, I saw that Tropical Storm Lala is expected to strengthen as it approaches Hawaii. Residents are being warned to take precautions."
   },
   {
     "speaker": "Adam",
-    "text": "Shifting gears again, Italian police have recovered stolen paintings worth over $10 million."
+    "text": "Tropical storms can quickly escalate, so it’s wise for people there to prepare. Nature can be quite unpredictable."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, that’s impressive! It seems like a big win, especially with the investigation of nine Moldovan suspects related to the theft."
+    "text": "In the UK, Prime Minister Burnham responded to the death of former Cambridge professor Jason Arday, who was recently found dead after resigning under scrutiny. It raises a lot of questions about academic pressures."
   },
   {
     "speaker": "Adam",
-    "text": "And in a shocking statistic, CEO pay skyrocketed in 2025."
+    "text": "That’s a tough situation. Academic scrutiny can be intense, and it’s tragic to think about the toll it takes on individuals."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, Elon Musk earned 2.5 million times more than the median pay of a Tesla worker, even as the company's revenue declined."
+    "text": "Switching gears, Turkish President Erdogan mentioned that Egypt could join the recently signed defense pact with Turkey, Saudi Arabia, and Pakistan. That could shift regional dynamics."
   },
   {
     "speaker": "Adam",
-    "text": "That really highlights the growing income inequality in the US, doesn’t it?"
+    "text": "It’s fascinating how alliances are constantly evolving in response to geopolitical pressures."
   },
   {
     "speaker": "Eve",
-    "text": "It does. And speaking of shocking news, Luigi Mangione has pleaded guilty to the killing of the UnitedHealthcare CEO."
+    "text": "And in Croatia, a wildfire has resulted in at least one death and dozens of injuries. Wildfires are becoming increasingly common, especially during hot weather."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a significant case; it certainly raises questions about corporate leadership safety."
+    "text": "It's alarming how climate change seems to exacerbate these natural disasters. Communities really need to prioritize fire preparedness."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely. And on a more tragic note, British cyclist Finlay Tarling died at just 19 during the Tour of Portugal."
+    "text": "On the topic of conflict, Sudan's al-Burhan has pledged immunity for participants in a national dialogue, but he’s ruled out the return of Hemedti."
   },
   {
     "speaker": "Adam",
-    "text": "That’s heartbreaking. Cycling can be so dangerous, especially during competitive events."
+    "text": "That’s a significant move in Sudan’s ongoing political turmoil. Dialogue is essential, but it’s also a delicate balance."
   },
   {
     "speaker": "Eve",
-    "text": "It really puts things in perspective. Now, let’s talk sports for a moment—Liverpool is selling a minority stake to a consortium including Jeff Bezos."
+    "text": "Meanwhile, Ukraine reported hitting a Russian Starlink-style network using domestically produced missiles. That’s quite a tactical development."
   },
   {
     "speaker": "Adam",
-    "text": "That's an interesting move! The consortium is led by former QPR chairman Amit Bhatia, which adds an intriguing layer."
+    "text": "It shows the ongoing technological arms race in this conflict. The stakes are incredibly high for both sides."
   },
   {
     "speaker": "Eve",
-    "text": "It certainly does! And over in Israel, rights groups are warning about settler violence in the West Bank, which aims to displace Palestinians."
+    "text": "Now, let’s turn our attention to the markets. The Vanguard S&P 500 ETF, ticker VOO, closed down slightly at $713.61, dropping by 0.19%. There’s no major news affecting it today."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a troubling situation that seems to be escalating."
+    "text": "And NVIDIA, ticker NVDA, also saw a minor decline at $225.16, down 0.06%. Analysts still have a strong buy recommendation with a mean price target of about $302.83."
   },
   {
     "speaker": "Eve",
-    "text": "And on the political front in the UK, there's a lot of speculation about what’s next for the far-right Reform UK party after Farage’s recent by-election win."
+    "text": "Micron Technology, ticker MU, is actually up 2.3% to $971.66, with a strong buy recommendation and an impressive target mean of $1,501.98."
   },
   {
     "speaker": "Adam",
-    "text": "It’ll be fascinating to see how that unfolds."
+    "text": "That’s a notable rise. They seem to be in a good position despite the fluctuations in the market."
   },
   {
     "speaker": "Eve",
-    "text": "Now, let’s take a look at the markets."
+    "text": "Alphabet, under GOOGL, is down slightly as well, closing at $345.90, down 0.13% with a strong buy recommendation and a target mean of $428.04."
   },
   {
     "speaker": "Adam",
-    "text": "Sure! Starting with the Vanguard S&P 500 ETF, it closed at $713.61, down 0.19%."
+    "text": "Meta, ticker META, dropped 0.86% to $589.85, but analysts still recommend it as a strong buy with a target mean of $754.14."
   },
   {
     "speaker": "Eve",
-    "text": "There’s no new recommendation for it, though, right?"
+    "text": "ASML Holding is also seeing a minor decline at $1,844.08, down 0.21%, but it still holds a strong buy recommendation."
   },
   {
     "speaker": "Adam",
-    "text": "Correct, no changes there. Moving on to NVIDIA, it closed at $225.16, down 0.06%."
+    "text": "Taiwan Semiconductor, ticker TSM, is down almost 1% at $426.35, but analysts remain bullish with a target mean of $547.09."
   },
   {
     "speaker": "Eve",
-    "text": "Analysts are still rating it a \"strong buy,\" with a mean price target of about $302.83."
+    "text": "Cameco Corporation, ticker CCJ, closed at $97.74, down just a fraction, but it still has a buy recommendation with a target mean of $130.19."
   },
   {
     "speaker": "Adam",
-    "text": "That's quite a gap! And what about Micron Technology?"
+    "text": "Palantir Technologies, ticker PLTR, dropped 2.78% to $174.04, yet it’s still rated as a buy with a target mean of $191.68."
   },
   {
     "speaker": "Eve",
-    "text": "Micron closed at $971.66, up 2.3%, and also has a \"strong buy\" recommendation with a target mean of around $1501.98."
+    "text": "Now, for something lighter, there's a new episode of \"People I (Mostly) Admire.\" It's titled “David Epstein Knows Something About Almost Everything.”"
   },
   {
     "speaker": "Adam",
-    "text": "Impressive growth potential there. Now, Alphabet, how did it fare?"
+    "text": "Epstein’s perspective on generalism versus specialization could be really enlightening."
   },
   {
     "speaker": "Eve",
-    "text": "Alphabet closed at $345.90, down 0.13%, but still has a \"strong buy\" rating and a target mean of $428.04."
+    "text": "Exactly! He discusses how early specialization might not be the best route. It’s definitely worth a listen if you’re interested in that topic."
   },
   {
     "speaker": "Adam",
-    "text": "And Meta?"
+    "text": "For sure. Alright, Moiz, that wraps up your morning news. Drive safely and have a great day ahead!"
   },
   {
     "speaker": "Eve",
-    "text": "Meta closed at $589.85, down 0.86%, with a \"strong buy\" rating as well and a target mean of $754.14."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Seems like the tech stocks are still holding strong despite some fluctuations."
-  },
-  {
-    "speaker": "Eve",
-    "text": "For sure. ASML closed at $1844.08, down 0.21%, with a \"strong buy\" recommendation and a target mean of about $2177.85."
-  },
-  {
-    "speaker": "Adam",
-    "text": "And Taiwan Semiconductor?"
-  },
-  {
-    "speaker": "Eve",
-    "text": "TSM closed at $426.35, down 0.96%, but also has a \"strong buy\" rating with a target mean of $547.09."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Great insights! What about Cameco Corporation?"
-  },
-  {
-    "speaker": "Eve",
-    "text": "Cameco closed at $97.74, barely down 0.01%, with a \"buy\" recommendation and a target mean of $130.16."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Finally, let’s wrap up with Palantir Technologies."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Palantir closed at $174.04, down 2.78%, but still has a \"buy\" recommendation and a target mean of $191.68."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Sounds like there are still some interesting moves in the market."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Now, let’s check if there are any new episodes in the podcast world."
-  },
-  {
-    "speaker": "Adam",
-    "text": "We’ve got a new episode of \"99% Invisible\" out today titled \"100 Objects #13: The Sand Letters.\""
-  },
-  {
-    "speaker": "Eve",
-    "text": "Comedian Elliott Kalan joins Roman Mars to tell an intriguing story about a politician who dismantled a corrupt system, thanks to a woman named Julia Isabella Sand."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Sounds like a fascinating listen!"
-  },
-  {
-    "speaker": "Eve",
-    "text": "And that’s all the news we have for today, Moiz."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Drive safe, and have a great day!"
-  },
-  {
-    "speaker": "Eve",
-    "text": "Take care!"
+    "text": "Take care, Moiz!"
   }
 ]
