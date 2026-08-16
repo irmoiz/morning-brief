@@ -1,162 +1,102 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you see that the death toll from the Zimbabwe ferry disaster has risen again?"
+    "text": "Good morning, Moiz! Have you heard about Erdogan's concerns over Israeli attacks on Lebanon? That's quite a statement coming from him."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, it's heartbreaking. Seventy-two victims now, and it’s just such a tragic situation."
+    "text": "I know, right? It's a significant escalation in the region. Let's dive into the world news today, starting with Erdogan's remarks."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. There are a lot of significant events happening around the world right now, so let’s dive into today’s news."
+    "text": "Turkish President Recep Tayyip Erdogan expressed serious concern about ongoing Israeli attacks on Lebanon. He emphasized that these actions could destabilize the region further."
   },
   {
     "speaker": "Eve",
-    "text": "First up, Moroccan police have arrested over 100 migrants attempting to reach the Spanish enclave of Ceuta. This follows a social media campaign that encouraged many to make that dangerous crossing."
+    "text": "And not just that. Erdogan also called for the reopening of the Strait of Hormuz amid oil disruptions. With tensions rising, this could have widespread implications for energy security."
   },
   {
     "speaker": "Adam",
-    "text": "Right, and it's worth noting that this comes only weeks after a tragic incident where many people lost their lives trying to reach Spain. It's such a perilous journey."
+    "text": "Exactly. Speaking of conflicts, former Israeli captive Rom Braslavski has made headlines by requesting Israeli Minister Ben-Gvir to allow the execution of Palestinian prisoners. That's a pretty inflammatory request."
   },
   {
     "speaker": "Eve",
-    "text": "It's really disheartening. Moving over to Zimbabwe, the ferry disaster is devastating. Authorities recovered 26 more bodies from Lake Kariba just yesterday as they continue the search."
+    "text": "It really is. The atmosphere in the region seems to be getting more tense by the day. And on the ground, Israeli troops have been raiding Palestinian homes in the occupied West Bank, particularly in the village of Qusra, which adds to the humanitarian crisis."
   },
   {
     "speaker": "Adam",
-    "text": "It’s shocking to think about the scale of this tragedy. Overloaded vessels are a serious issue, and it really underlines the need for better safety regulations."
+    "text": "And it’s not just military actions; Qusra residents have been trapped under siege for days now, facing shortages of basic necessities like water. It's heartbreaking."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely. Now, in sports, Real Madrid is gearing up for the new La Liga season, welcoming back Jose Mourinho as their manager. They are hoping to stop Barcelona from achieving a three-peat."
+    "text": "Shifting gears a bit, over in the tech world, there's a thought-provoking piece by futurist Max Tegmark questioning why sandwiches are more regulated than AI in the U.S. That's a wild comparison!"
   },
   {
     "speaker": "Adam",
-    "text": "That’s going to be an exciting season! Mourinho has such a strong personality; it'll be interesting to see how he reinvigorates the team."
+    "text": "It is! It really makes you think about our priorities. Meanwhile, in sports, Cristiano Ronaldo has hinted at retiring at the end of the current season. That would be a huge shift in the football landscape."
   },
   {
     "speaker": "Eve",
-    "text": "Speaking of excitement, there’s a cleanup underway in Oman after an oil spill reached its coastline from a grounded tanker. Cleanup crews are working along a 12-kilometer stretch."
+    "text": "Absolutely! He’s been a dominant force for so long. Now, let’s talk about the markets. How did things shape up yesterday?"
   },
   {
     "speaker": "Adam",
-    "text": "That sounds like a huge environmental challenge. Oil spills can have long-lasting effects on marine life and the ecosystem."
+    "text": "Well, the Vanguard S&P 500 ETF, or VOO, closed at $713.61, down slightly by 0.19%. Analysts have mixed views, but there’s no significant news affecting it right now."
   },
   {
     "speaker": "Eve",
-    "text": "For sure. Meanwhile, in the Middle East, the USS Washington is expected to relieve the USS Lincoln amid reports of dire conditions on the Lincoln during the ongoing conflict with Iran."
+    "text": "NVIDIA, on the other hand, saw a small dip of 0.06%, closing at $225.16. Analysts are still bullish, with a strong buy recommendation and a mean price target of about $302.83. They see potential for growth there."
   },
   {
     "speaker": "Adam",
-    "text": "That could have significant implications for military operations in the region. It’s a situation to keep an eye on."
+    "text": "Micron Technology had a better day, jumping 2.3% to close at $971.66. Analysts are also very positive on this one, giving it a strong buy rating with a mean target of around $1,501.98."
   },
   {
     "speaker": "Eve",
-    "text": "On a different note, I saw that Tropical Storm Lala is expected to strengthen as it approaches Hawaii. Residents are being warned to take precautions."
+    "text": "Alphabet, or GOOGL, dipped slightly as well by 0.13%, closing at $345.90, but analysts are still recommending a strong buy with a target mean of $427.52. Looks like they're banking on their ongoing AI investments."
   },
   {
     "speaker": "Adam",
-    "text": "Tropical storms can quickly escalate, so it’s wise for people there to prepare. Nature can be quite unpredictable."
+    "text": "Meta Platforms also saw a decline of 0.86%, finishing at $589.85. Similar to GOOGL, it’s a strong buy with a mean target of $754.14. They’re facing some legal challenges, though."
   },
   {
     "speaker": "Eve",
-    "text": "In the UK, Prime Minister Burnham responded to the death of former Cambridge professor Jason Arday, who was recently found dead after resigning under scrutiny. It raises a lot of questions about academic pressures."
+    "text": "Speaking of legal challenges, what’s happening with ASML?"
   },
   {
     "speaker": "Adam",
-    "text": "That’s a tough situation. Academic scrutiny can be intense, and it’s tragic to think about the toll it takes on individuals."
+    "text": "ASML closed down 0.21% at $1,844.08. It still has a strong buy recommendation with a target mean of around $2,176.09, indicating confidence in their future performance."
   },
   {
     "speaker": "Eve",
-    "text": "Switching gears, Turkish President Erdogan mentioned that Egypt could join the recently signed defense pact with Turkey, Saudi Arabia, and Pakistan. That could shift regional dynamics."
+    "text": "Taiwan Semiconductor Manufacturing, or TSM, also faced a dip, down 0.96% to $426.35. Analysts maintain a strong buy rating, with a target mean of $547.09."
   },
   {
     "speaker": "Adam",
-    "text": "It’s fascinating how alliances are constantly evolving in response to geopolitical pressures."
+    "text": "Cameco Corporation saw almost no movement, just a tiny decline of 0.01%, ending at $97.74. Analysts are bullish, recommending a buy with a target mean of about $130.17."
   },
   {
     "speaker": "Eve",
-    "text": "And in Croatia, a wildfire has resulted in at least one death and dozens of injuries. Wildfires are becoming increasingly common, especially during hot weather."
+    "text": "Lastly, Palantir Technologies had a rough day, slipping by 2.78% to close at $174.04. However, the analysts keep it on a buy recommendation with a target mean of around $191.68."
   },
   {
     "speaker": "Adam",
-    "text": "It's alarming how climate change seems to exacerbate these natural disasters. Communities really need to prioritize fire preparedness."
+    "text": "Those are some interesting movements across the board. Now, Moiz, if you’re looking for some fresh content, there’s a new episode from the podcast \"Founders.\""
   },
   {
     "speaker": "Eve",
-    "text": "On the topic of conflict, Sudan's al-Burhan has pledged immunity for participants in a national dialogue, but he’s ruled out the return of Hemedti."
+    "text": "Yes! Episode #429 dives into Bob Dylan's autobiography. It’s a reflection on what the host learned from rereading it, definitely worth a listen if you're a fan of Dylan or just enjoy insightful storytelling."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a significant move in Sudan’s ongoing political turmoil. Dialogue is essential, but it’s also a delicate balance."
+    "text": "That sounds intriguing! And with that, we wrap up today's news and market updates."
   },
   {
     "speaker": "Eve",
-    "text": "Meanwhile, Ukraine reported hitting a Russian Starlink-style network using domestically produced missiles. That’s quite a tactical development."
+    "text": "Safe travels to work, Moiz!"
   },
   {
     "speaker": "Adam",
-    "text": "It shows the ongoing technological arms race in this conflict. The stakes are incredibly high for both sides."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Now, let’s turn our attention to the markets. The Vanguard S&P 500 ETF, ticker VOO, closed down slightly at $713.61, dropping by 0.19%. There’s no major news affecting it today."
-  },
-  {
-    "speaker": "Adam",
-    "text": "And NVIDIA, ticker NVDA, also saw a minor decline at $225.16, down 0.06%. Analysts still have a strong buy recommendation with a mean price target of about $302.83."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Micron Technology, ticker MU, is actually up 2.3% to $971.66, with a strong buy recommendation and an impressive target mean of $1,501.98."
-  },
-  {
-    "speaker": "Adam",
-    "text": "That’s a notable rise. They seem to be in a good position despite the fluctuations in the market."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Alphabet, under GOOGL, is down slightly as well, closing at $345.90, down 0.13% with a strong buy recommendation and a target mean of $428.04."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Meta, ticker META, dropped 0.86% to $589.85, but analysts still recommend it as a strong buy with a target mean of $754.14."
-  },
-  {
-    "speaker": "Eve",
-    "text": "ASML Holding is also seeing a minor decline at $1,844.08, down 0.21%, but it still holds a strong buy recommendation."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Taiwan Semiconductor, ticker TSM, is down almost 1% at $426.35, but analysts remain bullish with a target mean of $547.09."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Cameco Corporation, ticker CCJ, closed at $97.74, down just a fraction, but it still has a buy recommendation with a target mean of $130.19."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Palantir Technologies, ticker PLTR, dropped 2.78% to $174.04, yet it’s still rated as a buy with a target mean of $191.68."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Now, for something lighter, there's a new episode of \"People I (Mostly) Admire.\" It's titled “David Epstein Knows Something About Almost Everything.”"
-  },
-  {
-    "speaker": "Adam",
-    "text": "Epstein’s perspective on generalism versus specialization could be really enlightening."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Exactly! He discusses how early specialization might not be the best route. It’s definitely worth a listen if you’re interested in that topic."
-  },
-  {
-    "speaker": "Adam",
-    "text": "For sure. Alright, Moiz, that wraps up your morning news. Drive safely and have a great day ahead!"
-  },
-  {
-    "speaker": "Eve",
-    "text": "Take care, Moiz!"
+    "text": "Catch you later!"
   }
 ]
