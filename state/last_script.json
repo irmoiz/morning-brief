@@ -1,102 +1,110 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Have you heard about Erdogan's concerns over Israeli attacks on Lebanon? That's quite a statement coming from him."
+    "text": "Good morning, Moiz! Did you catch the news about Trump scaling back war games with South Korea? That’s definitely a surprising shift."
   },
   {
     "speaker": "Eve",
-    "text": "I know, right? It's a significant escalation in the region. Let's dive into the world news today, starting with Erdogan's remarks."
+    "text": "Yeah, it’s interesting! He’s citing his relationship with Kim Jong Un as a reason. I wonder how that’s going to play out in the long run."
   },
   {
     "speaker": "Adam",
-    "text": "Turkish President Recep Tayyip Erdogan expressed serious concern about ongoing Israeli attacks on Lebanon. He emphasized that these actions could destabilize the region further."
+    "text": "Let’s dive into some world news. In a developing story, a Gaza flotilla has set sail from the UK, aiming to break the Israeli blockade and deliver aid to Gaza. This initiative comes amid ongoing tensions in the region."
   },
   {
     "speaker": "Eve",
-    "text": "And not just that. Erdogan also called for the reopening of the Strait of Hormuz amid oil disruptions. With tensions rising, this could have widespread implications for energy security."
+    "text": "Right, and speaking of tensions, there was a tragic earthquake in eastern Indonesia, with at least 68 people confirmed dead. The aftershocks and landslides are complicating the search for victims. It’s heartbreaking to see such devastation."
   },
   {
     "speaker": "Adam",
-    "text": "Exactly. Speaking of conflicts, former Israeli captive Rom Braslavski has made headlines by requesting Israeli Minister Ben-Gvir to allow the execution of Palestinian prisoners. That's a pretty inflammatory request."
+    "text": "It really is. And on a different front, the death toll from a capsized ferry in Zimbabwe has now risen to 92. Search efforts are still ongoing, but it's just tragic to think about how many lives have been affected."
   },
   {
     "speaker": "Eve",
-    "text": "It really is. The atmosphere in the region seems to be getting more tense by the day. And on the ground, Israeli troops have been raiding Palestinian homes in the occupied West Bank, particularly in the village of Qusra, which adds to the humanitarian crisis."
+    "text": "In Russia, a senior politician from the Yabloko party, Lev Shlosberg, was sentenced to over 11 years in prison for opposing the war in Ukraine. This highlights the ongoing crackdown on dissent in the country."
   },
   {
     "speaker": "Adam",
-    "text": "And it’s not just military actions; Qusra residents have been trapped under siege for days now, facing shortages of basic necessities like water. It's heartbreaking."
+    "text": "Absolutely. And the Kremlin is also maintaining an election ban on the Yabloko party, which raises serious concerns about the political landscape as the parliamentary vote approaches next month."
   },
   {
     "speaker": "Eve",
-    "text": "Shifting gears a bit, over in the tech world, there's a thought-provoking piece by futurist Max Tegmark questioning why sandwiches are more regulated than AI in the U.S. That's a wild comparison!"
+    "text": "Shifting gears a bit, Texas Governor Abbott is under fire from the Council on American-Islamic Relations for accusing airports of religious discrimination regarding wudu washing stations. That’s quite the controversy."
   },
   {
     "speaker": "Adam",
-    "text": "It is! It really makes you think about our priorities. Meanwhile, in sports, Cristiano Ronaldo has hinted at retiring at the end of the current season. That would be a huge shift in the football landscape."
+    "text": "It sure is. Meanwhile, in Somalia, clashes between government troops and opposition fighters erupted in Baidoa. It's another reminder of the ongoing struggles in that region."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely! He’s been a dominant force for so long. Now, let’s talk about the markets. How did things shape up yesterday?"
+    "text": "And in Syria, there’s a probe underway into the death of a “White Helmet” rescuer in police custody, amid allegations of severe abuse. It’s a significant issue given the humanitarian efforts in the country."
   },
   {
     "speaker": "Adam",
-    "text": "Well, the Vanguard S&P 500 ETF, or VOO, closed at $713.61, down slightly by 0.19%. Analysts have mixed views, but there’s no significant news affecting it right now."
+    "text": "We also had an explosion reported at a school in Kabul, Afghanistan. The details on casualties are still unclear, and the Taliban hasn't commented yet. It’s worrisome."
   },
   {
     "speaker": "Eve",
-    "text": "NVIDIA, on the other hand, saw a small dip of 0.06%, closing at $225.16. Analysts are still bullish, with a strong buy recommendation and a mean price target of about $302.83. They see potential for growth there."
+    "text": "Oh, and in Europe, wildfires are spreading, prompting Britain to deploy military resources to assist. It’s a stark reminder of the impact of climate change."
   },
   {
     "speaker": "Adam",
-    "text": "Micron Technology had a better day, jumping 2.3% to close at $971.66. Analysts are also very positive on this one, giving it a strong buy rating with a mean target of around $1,501.98."
+    "text": "Definitely. And as the political scene heats up, Netanyahu’s Likud Party is holding primaries ahead of Israel’s general elections. It’ll be interesting to see how that unfolds."
   },
   {
     "speaker": "Eve",
-    "text": "Alphabet, or GOOGL, dipped slightly as well by 0.13%, closing at $345.90, but analysts are still recommending a strong buy with a target mean of $427.52. Looks like they're banking on their ongoing AI investments."
+    "text": "Now, let’s take a look at the markets. The Vanguard S&P 500 ETF, symbol VOO, closed at $710.24, down about 0.47%. Analysts haven’t provided a target mean, but there’s some chatter about the current market conditions being favorable for investment."
   },
   {
     "speaker": "Adam",
-    "text": "Meta Platforms also saw a decline of 0.86%, finishing at $589.85. Similar to GOOGL, it’s a strong buy with a mean target of $754.14. They’re facing some legal challenges, though."
+    "text": "That’s intriguing. Moving on to NVIDIA, symbol NVDA, it closed at $225.01, with a slight dip of 0.07%. Analysts are quite bullish, rating it a strong buy, with a mean price target of around $302.83."
   },
   {
     "speaker": "Eve",
-    "text": "Speaking of legal challenges, what’s happening with ASML?"
+    "text": "And Micron Technology, symbol MU, had a more exciting day, closing up 4.13% at $1,011.75. It’s also rated as a strong buy, with a mean target of about $1,501.98. Quite a performance!"
   },
   {
     "speaker": "Adam",
-    "text": "ASML closed down 0.21% at $1,844.08. It still has a strong buy recommendation with a target mean of around $2,176.09, indicating confidence in their future performance."
+    "text": "Right? And then there's Alphabet, symbol GOOGL, which closed at $344.00, down 0.55%, but still rated as a strong buy with a mean target of $427.52."
   },
   {
     "speaker": "Eve",
-    "text": "Taiwan Semiconductor Manufacturing, or TSM, also faced a dip, down 0.96% to $426.35. Analysts maintain a strong buy rating, with a target mean of $547.09."
+    "text": "Meta Platforms, symbol META, closed at $568.97, down 3.54%. It’s facing a lot of scrutiny right now, but it still has a strong buy rating with a target mean of $754.14."
   },
   {
     "speaker": "Adam",
-    "text": "Cameco Corporation saw almost no movement, just a tiny decline of 0.01%, ending at $97.74. Analysts are bullish, recommending a buy with a target mean of about $130.17."
+    "text": "ASML Holding, symbol ASML, is another strong performer, closing at $1,883.12, up 2.12%. It has a mean target of about $2,177.60."
   },
   {
     "speaker": "Eve",
-    "text": "Lastly, Palantir Technologies had a rough day, slipping by 2.78% to close at $174.04. However, the analysts keep it on a buy recommendation with a target mean of around $191.68."
+    "text": "And let’s not forget Taiwan Semiconductor, symbol TSM, which closed at $430.95, with a 1.08% increase, rated as a strong buy with a mean target of $547.09."
   },
   {
     "speaker": "Adam",
-    "text": "Those are some interesting movements across the board. Now, Moiz, if you’re looking for some fresh content, there’s a new episode from the podcast \"Founders.\""
+    "text": "Cameco Corporation, symbol CCJ, closed at $98.55, up 0.83%, with a buy recommendation and a mean target of $130.20."
   },
   {
     "speaker": "Eve",
-    "text": "Yes! Episode #429 dives into Bob Dylan's autobiography. It’s a reflection on what the host learned from rereading it, definitely worth a listen if you're a fan of Dylan or just enjoy insightful storytelling."
+    "text": "Lastly, Palantir Technologies, symbol PLTR, closed down 0.86% at $172.55, but still rated as a buy with a mean target of $191.68."
   },
   {
     "speaker": "Adam",
-    "text": "That sounds intriguing! And with that, we wrap up today's news and market updates."
+    "text": "That’s a lot of movement in the markets today!"
   },
   {
     "speaker": "Eve",
-    "text": "Safe travels to work, Moiz!"
+    "text": "It really is! And before we wrap up, I noticed there are no new podcast episodes to highlight today."
   },
   {
     "speaker": "Adam",
-    "text": "Catch you later!"
+    "text": "Just a quiet day on the podcast front."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Well, that’s all for today’s news, Moiz. Safe travels to work!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "Take care, Moiz!"
   }
 ]
