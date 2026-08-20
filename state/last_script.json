@@ -1,110 +1,170 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you hear about that tragic helicopter crash in Kenya? Seven people lost their lives, including journalists and tourists."
+    "text": "Good morning, Moiz! Did you see that the DR Congo is getting 70,000 doses of the Ervebo vaccine as Ebola infections surge? That's quite alarming."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, that's so heartbreaking. It's always shocking when such unexpected tragedies occur, especially involving innocent travelers."
+    "text": "Yeah, it's pretty wild. The World Health Organization is stepping in as this outbreak has already claimed nearly 2,500 lives."
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of shocking, let's dive into some world news. To start, the helicopter crash claimed the lives of seven individuals, primarily tourists. Among the victims were Ecuador's intelligence chief Michele Sensi-Contugi and NBCUniversal journalist Jose Suarez. This incident has raised serious concerns regarding air travel safety in the region."
+    "text": "It's definitely a critical situation over there. Shifting gears a bit, let's dive into some world news."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely. And in Sri Lanka, a mass grave has been uncovered, revealing 582 skeletons, including those of children. This excavation sheds light on a dark chapter in the country’s history, likely tied to the civil war that ended in 2009."
+    "text": "For sure! Starting off, in Gaza, there’s a touching initiative where amputee children are learning to swim. This program is helping them regain confidence and mobility after losing limbs in the ongoing conflict."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a significant find. It really highlights the ongoing impact of past conflicts. Meanwhile, in Ukraine, protests erupted in Kyiv in support of former defense minister Mykailo Fedorov. He’s calling for elections, and it seems the public is rallying behind him."
+    "text": "That’s really inspiring. It’s amazing how such activities can help children recover psychologically and physically."
   },
   {
     "speaker": "Eve",
-    "text": "It's fascinating to see how the political landscape continues to evolve there. In other news, violence is stirring in Syria following the death of a rescue worker, Mohammad Ghamira, allegedly due to police brutality, which has sparked protests."
+    "text": "Absolutely! And in Syria, civil society is grappling with its role in a post-Assad era, trying to find a balance between partnership and control as the state reasserts itself."
   },
   {
     "speaker": "Adam",
-    "text": "It’s troubling to hear about that. Turning to the U.S., former President Trump has nominated Heidi Overton to lead the FDA, stirring controversy over the potential reshaping of health regulations."
+    "text": "It’s a complex situation. Many are questioning how civil society can operate effectively when the government is tightening its grip."
   },
   {
     "speaker": "Eve",
-    "text": "This nomination is definitely raising eyebrows. Meanwhile, in Zambia, opposition leader is challenging President Hakainde Hichilema’s election victory in court, citing “serious irregularities.”"
+    "text": "Meanwhile, in sports, England is dominating Pakistan in the first Test, with Brook capitalizing on a dropped catch, putting England 195 runs ahead."
   },
   {
     "speaker": "Adam",
-    "text": "The political drama continues. In Iran, the hardline parliament has proposed a plan raising alarm over “foreign infiltration,” which would require citizens to seek authorization to contact foreign entities."
+    "text": "Sounds like a rough day for the Pakistani team. In other news, the US has imposed sanctions that some fear could jeopardize the International Criminal Court."
   },
   {
     "speaker": "Eve",
-    "text": "That’s concerning, especially regarding freedom of expression. On a different note, Canada has pledged an additional $50 million in aid to Lebanon while condemning Israel's actions in the region."
+    "text": "That’s a big deal. Washington's measures have been condemned but are welcomed by Israel. It raises questions about accountability on the global stage."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a substantial commitment. In domestic news, the Kennedy Center has agreed not to restore Trump’s name before September 8, amid ongoing debate about the venue's decisions."
+    "text": "Right, and speaking of the economy, Walmart reported a drop in sales as US consumer spending retreats, largely influenced by fuel prices climbing above $4 a gallon."
   },
   {
     "speaker": "Eve",
-    "text": "And in Brazil, a devastating bus crash in Paraná state has resulted in at least 23 fatalities and left five injured, highlighting ongoing safety issues in public transport."
+    "text": "That’s a significant factor. People are really feeling the pinch, and it’s affecting their purchasing decisions."
   },
   {
     "speaker": "Adam",
-    "text": "It’s a stark reminder of the risks involved in travel. Lastly, NATO has expressed readiness to defend allies following reports that Iran may be considering strikes against U.S. targets in Europe."
+    "text": "And over in academia, a university has suspended an academic involved in plagiarism accusations against another researcher, Jason Arday."
   },
   {
     "speaker": "Eve",
-    "text": "Oh, that’s wild! Tensions are certainly high. Now, let’s switch gears and take a look at the markets."
+    "text": "There seems to be quite a bit of controversy surrounding that. It’s interesting how academic ethics are always under scrutiny."
   },
   {
     "speaker": "Adam",
-    "text": "Sure thing! Starting with the Vanguard S&P 500 ETF, it closed at $706.91 with a slight increase of 0.21%. Analysts seem to be looking at its performance cautiously, but no significant news to report."
+    "text": "Shifting to sports again, Arsenal is facing Coventry in their Premier League opener, and there are doubts about key players' fitness."
   },
   {
     "speaker": "Eve",
-    "text": "Moving on to NVIDIA, the stock closed at $217.56, down nearly 1%. It’s still rated as a \"strong buy,\" with a mean price target of about $302.83, suggesting a lot of analysts are bullish on its future."
+    "text": "You can feel the tension building as teams gear up for the season. Fans are always looking for updates on player conditions."
   },
   {
     "speaker": "Adam",
-    "text": "Right! Micron Technology also experienced a slight dip of 0.39%, finishing at $937.10. Analysts rate it as a \"strong buy\" as well, with a target mean price of $1,501.98, which indicates confidence in its recovery."
+    "text": "Exactly. And in a surprising turn of events, US Treasury Secretary Scott Bessent stated that new economic measures will 'collapse' Iran."
   },
   {
     "speaker": "Eve",
-    "text": "Alphabet Inc. had a minor increase, closing at $344.72. It's also rated a \"strong buy,\" with a mean price target of $427.52. Definitely room for growth there."
+    "text": "That's a bold statement. It’ll be interesting to see how that impacts international relations moving forward."
   },
   {
     "speaker": "Adam",
-    "text": "Meta Platforms, on the other hand, closed at $546.03, up by 0.43%. Its target mean is around $754.14, which aligns with the positive outlook many see in tech stocks."
+    "text": "Right. In other news, a group of fishermen was rescued after clinging to a cooler at sea for five days."
   },
   {
     "speaker": "Eve",
-    "text": "ASML Holding saw a decline of 2.84%, finishing at $1,751.73. It's still rated as a \"strong buy,\" with a target of nearly $2,195.91, suggesting analysts believe it can bounce back."
+    "text": "That's intense! I can't imagine what they went through."
   },
   {
     "speaker": "Adam",
-    "text": "Taiwan Semiconductor Manufacturing Company closed at $412.09, down 0.32%. It also maintains a strong buy rating with a target of $547.09, pointing to potential upside."
+    "text": "And on a different note, a Jewish-American activist has been barred entry into Israel, labeling settler violence as 'state terror.'"
   },
   {
     "speaker": "Eve",
-    "text": "Cameco Corporation is showing some positive momentum, up by 2.03% to $97.98, rated as a \"buy.\" It has a target mean price of about $130.75, indicating a favorable outlook."
+    "text": "That’s a powerful statement. It highlights the ongoing tensions in the region."
   },
   {
     "speaker": "Adam",
-    "text": "Lastly, Palantir Technologies rose by 2.13%, closing at $175.19, with analysts rating it as a \"buy\" and a mean target of $191.68, which reflects growing interest in its services."
+    "text": "Lastly, James Harden has agreed to a three-year, $97 million deal with the Cleveland Cavaliers."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely an interesting market day. And, Moiz, if you're looking for some new podcast content, I'm afraid there aren't any new episodes to share today."
+    "text": "Wow, that’s quite the contract! It’ll be interesting to see how he fits into the team dynamics."
   },
   {
     "speaker": "Adam",
-    "text": "That’s alright, sometimes a break is needed."
+    "text": "Now, let's take a look at how the markets moved today."
   },
   {
     "speaker": "Eve",
-    "text": "Agreed! Well, that's all for today's news update."
+    "text": "Starting with the Vanguard S&P 500 ETF, it closed down 0.83%. Analysts have been discussing how active ETF managers have struggled recently."
   },
   {
     "speaker": "Adam",
-    "text": "Drive safely, Moiz! We’ll catch you next time."
+    "text": "That’s right. A report mentioned that 87% of them have been losing for a decade."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Then we have NVIDIA Corporation, which saw a minor dip of 0.33%. Analysts still rate it as a strong buy, with a mean target of about $304."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Interesting! That’s a huge upside potential if they can meet those targets."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Micron Technology, on the other hand, had a positive day, rising nearly 4%. They’re also rated as a strong buy with a mean target above $1,500."
+  },
+  {
+    "speaker": "Adam",
+    "text": "That’s quite a leap! It seems like they’re working on some big moves in the tech space."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Alphabet Inc. saw a decline of 1.17%, but it's still a strong buy with a mean target around $428."
+  },
+  {
+    "speaker": "Adam",
+    "text": "And Meta Platforms had a slight dip of just 0.04%, still rated as a strong buy with a target mean of $754."
+  },
+  {
+    "speaker": "Eve",
+    "text": "It looks like tech stocks are experiencing some ups and downs, but the long-term outlook remains optimistic."
+  },
+  {
+    "speaker": "Adam",
+    "text": "ASML Holding also dipped slightly, down 0.08%, but analysts are still bullish, with a target mean of approximately $2,196."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Taiwan Semiconductor had a good day, rising nearly 1%, and also carries a strong buy rating with a mean target close to $554."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Cameco Corporation took a hit, down about 2.44%, but analysts still rate it as a buy with a mean target of around $131."
+  },
+  {
+    "speaker": "Eve",
+    "text": "And finally, Palantir Technologies dipped slightly by 0.7% but is also rated as a buy, with a mean target of $191."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Well, that wraps up our market overview."
+  },
+  {
+    "speaker": "Eve",
+    "text": "It was a lot to cover today, but definitely some interesting insights!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "Thanks for tuning in, Moiz."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Drive safely!"
   }
 ]
