@@ -1,158 +1,110 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you see the Supreme Court just allowed Trump's $400 million ballroom project to move forward?"
+    "text": "Good morning, Moiz! Did you see that Israel is opening construction bids for new illegal settlements in the West Bank? That’s pretty controversial."
   },
   {
     "speaker": "Eve",
-    "text": "Oh wow, that's definitely going to stir some controversy. The administration claims it's for national security, but I can't help but wonder what the real motives are."
+    "text": "Oh, that’s wild! It seems like tensions are escalating again. Let’s dive into that and other world news today."
   },
   {
     "speaker": "Adam",
-    "text": "Right? And speaking of Trump, he’s also waiving those 'out-of-quota' beef tariffs for 90 days to lower prices. It's interesting how quickly he’s shifting gears on that."
+    "text": "Absolutely! In Sudan, the situation is grim as intensified fighting has displaced over 200,000 people in the Kordofan region since late last year. That's a staggering number, and it highlights the dire humanitarian crisis unfolding there."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, it does raise questions about where that imported beef is coming from. It feels like there’s always something going on with tariffs and trade these days."
+    "text": "Yeah, it’s heartbreaking. Meanwhile, in Gaza, Israeli drone strikes continue, with reports of one attack targeting a family in Deir el-Balah, resulting in casualties. It’s a troubling cycle of violence that seems to be ongoing."
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of trade, let’s dive into some world news. Over in Libya, rival factions are finally trying to find a path toward unity, 15 years after Gaddafi's downfall."
+    "text": "And speaking of conflict, Russian President Vladimir Putin has warned that Ukraine has opened \"Pandora's box\" and rejected peace proposals. His comments were made during an interview where he threatened Ukraine’s vulnerable economic sectors."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a significant development! Unity in Libya has been elusive for so long. Hopefully, this leads to some stability in the region."
+    "text": "Those words carry a lot of weight. On a different note, U.S. relations with Israel have also been strained. A U.S. envoy criticized Israel for not giving prior notice before strikes on a Syrian base, a claim that Israel denies. That kind of diplomatic tension can lead to larger issues."
   },
   {
     "speaker": "Adam",
-    "text": "Meanwhile, in the U.S., a court has dramatically reduced Alex Jones’s fines in the Sandy Hook case from $50 million to just $1.5 million."
+    "text": "Right, and shifting gears to Canada, Prime Minister Mark Carney announced that Canada will match U.S. tariffs “dollar for dollar” starting September 8th. This follows the U.S. imposing hefty tariffs on nearly $20 billion worth of Canadian goods."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, that’s a huge reduction! It’s hard to believe he’s still in the headlines after everything that’s happened."
+    "text": "It’s fascinating how interconnected these global economies are. And in Sweden, police have identified a 17-year-old girl as the victim of a tragic sword attack at Brinell School, where the suspected attacker was also a student."
   },
   {
     "speaker": "Adam",
-    "text": "It really is. On a more serious note, Palestinian victims of Israeli settler attacks are facing a tough battle for justice, especially as they mark the International Day of Remembrance for victims of terrorism."
+    "text": "That’s just horrific. Over in Nigeria, armed men have kidnapped dozens of people in attacks on multiple villages and a mosque in Niger State. This is yet another example of the security challenges facing the country."
   },
   {
     "speaker": "Eve",
-    "text": "It’s heartbreaking to see so many families impacted. It’s crucial that their stories are told, especially in times of conflict."
+    "text": "It’s really alarming to hear about such violence. And in Israel, the Chief Rabbi has made some inflammatory statements, denying the Palestinian identity and calling for the destruction of Gaza. This rhetoric is quite incendiary."
   },
   {
     "speaker": "Adam",
-    "text": "On another front, Türkiye is accusing Israel’s Netanyahu of genocide and seeking an Interpol warrant. The tension between these nations just keeps escalating."
+    "text": "Yeah, it’s definitely raising eyebrows internationally. In other news, former President Trump is trying to block the BBC’s attempt to subpoena his children, Ivanka Trump and Donald Trump Jr. His team argues the subpoenas are \"cynical\" while the BBC claims they could shed light on an ongoing case."
   },
   {
     "speaker": "Eve",
-    "text": "It’s wild how international relations can shift so dramatically. You never quite know what’s coming next."
+    "text": "It’s interesting how these legal battles unfold, especially with public figures."
   },
   {
     "speaker": "Adam",
-    "text": "And in Ukraine, a Russian drone strike on a shopping center killed at least 14 people and injured more than 100."
+    "text": "Now, let’s switch gears and check in on the markets. The Vanguard S&P 500 ETF, ticker VOO, saw a slight increase of 0.39%."
   },
   {
     "speaker": "Eve",
-    "text": "That’s devastating! The impact on civilians in these conflicts is often overlooked."
+    "text": "Right, and NVIDIA, symbol NVDA, dipped slightly by 0.98%. Analysts are still bullish on it, rating it as a strong buy, with a target mean of about $304.73."
   },
   {
     "speaker": "Adam",
-    "text": "Right. In a related note, former Pakistan PM Imran Khan was taken back to prison after a hospital check-up. His family claims he’s being tortured."
+    "text": "Micron Technology, ticker MU, also fell by 0.77%, but it carries a strong buy rating too. Analysts see a mean target of approximately $1515.11, which is quite optimistic."
   },
   {
     "speaker": "Eve",
-    "text": "That’s alarming. His situation continues to draw international attention, and it raises serious human rights concerns."
+    "text": "Alphabet Inc., GOOGL, is up 1.22%, with analysts recommending it as a strong buy, suggesting a mean target of around $428.07."
   },
   {
     "speaker": "Adam",
-    "text": "Now, let’s switch gears and check in on the markets. The Vanguard S&P 500 ETF, or VOO, closed at $703.77, up about 0.39%."
+    "text": "And Meta Platforms, symbol META, rose by 0.75%. It's also rated as a strong buy, with a target mean around $754.14."
   },
   {
     "speaker": "Eve",
-    "text": "There are a few interesting articles out there, including one from Bank of America warning about stock market signals, definitely worth keeping an eye on."
+    "text": "ASML Holding, ticker ASML, climbed 0.77% with a strong buy recommendation as well, targeting about $2195.91."
   },
   {
     "speaker": "Adam",
-    "text": "Moving over to NVIDIA, or NVDA, it closed at $214.72, down 0.98%. Analysts still give it a \"strong buy\" rating with a mean target of about $304."
+    "text": "Taiwan Semiconductor, TSM, is up 0.71% and holds a strong buy rating, with a mean target of approximately $554.45."
   },
   {
     "speaker": "Eve",
-    "text": "That’s interesting, especially with their earnings coming up soon. There’s a lot of buzz around their upcoming developments."
+    "text": "Cameco Corporation, CCJ, had a substantial increase of 7.24% today, rated as a buy with a target mean of $130.91."
   },
   {
     "speaker": "Adam",
-    "text": "Micron Technology, or MU, closed at $966.78, down 0.77%, but still holds a \"strong buy\" recommendation with a target mean of $1,521."
+    "text": "Palantir Technologies, PLTR, gained 3.44% and is also rated as a buy, with a target mean around $191.68, which sounds promising."
   },
   {
     "speaker": "Eve",
-    "text": "They’re really banking on that AI boom, aren’t they? But I did hear there are concerns about their valuation."
+    "text": "Now, let’s touch on some new episodes in your podcasts. There’s an episode from \"People I (Mostly) Admire\" featuring Rahm Emanuel, discussing his governmental experience and views on solving urban issues."
   },
   {
     "speaker": "Adam",
-    "text": "Exactly. Alphabet Inc., or GOOGL, closed at $344.82, up 1.22%. Analysts recommend it as a \"strong buy\" with a target mean of $428."
+    "text": "It sounds like a thought-provoking conversation, especially given his background. It originally aired earlier but has now resurfaced for listeners."
   },
   {
     "speaker": "Eve",
-    "text": "They're making strides with their robotaxi market, which could really boost their stock."
+    "text": "That's right. And with that, we’ve covered quite a bit today!"
   },
   {
     "speaker": "Adam",
-    "text": "Meta Platforms, or META, closed at $549.90, up 0.75% and also holds a \"strong buy\" recommendation with a mean target of $754."
+    "text": "We sure have. Thanks for tuning in, Moiz."
   },
   {
     "speaker": "Eve",
-    "text": "That’s impressive! They’re definitely looking to capitalize on AI advancements as well."
+    "text": "Have a great day at work!"
   },
   {
     "speaker": "Adam",
-    "text": "ASML Holding closed at $1,763.76, up 0.77%, with a strong buy rating and a target mean of $2,196."
-  },
-  {
-    "speaker": "Eve",
-    "text": "They’re making headlines with TSMC’s spending forecast hitting $85 billion, which is quite a significant number."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Taiwan Semiconductor Manufacturing, or TSM, closed at $418.90, up 0.7%, also rated \"strong buy\" with a target mean of $554."
-  },
-  {
-    "speaker": "Eve",
-    "text": "They’re clearly gearing up for some serious demand in AI components."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Now, Cameco Corporation, or CCJ, saw a huge jump closing at $102.50, up 7.23%. Analysts rate it as a \"buy\" with a target mean of $131."
-  },
-  {
-    "speaker": "Eve",
-    "text": "That’s a big move! There’s definitely a lot of volatility in energy stocks lately."
-  },
-  {
-    "speaker": "Adam",
-    "text": "And Palantir Technologies, or PLTR, closed at $179.94, up 3.44%, also rated \"buy\" with a target mean of $191."
-  },
-  {
-    "speaker": "Eve",
-    "text": "It’s good to see them gaining traction, especially during these market fluctuations."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Now, let’s move on to some new episodes in your podcasts. The show \"99% Invisible\" dropped an episode titled \"100 Objects #14: Basketball Sleeve.\""
-  },
-  {
-    "speaker": "Eve",
-    "text": "This episode dives into the trend of NBA players wearing compression sleeves. It’s a unique angle to explore why that’s become so popular."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Totally worth a listen if you’re curious about the behind-the-scenes of sports fashion!"
-  },
-  {
-    "speaker": "Eve",
-    "text": "Alright, Moiz, that’s a wrap on today’s news."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Have a great day at work, and drive safely!"
+    "text": "Catch you later!"
   }
 ]
