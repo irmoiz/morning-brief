@@ -1,122 +1,110 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you catch that wild story about the severe winds in Italy tossing aircraft around?"
+    "text": "Good morning, Moiz! Did you hear about Fabinho reuniting with Salah at Trabzonspor?"
   },
   {
     "speaker": "Eve",
-    "text": "I did! Winds up to 120 kilometers per hour in Forlì? That’s just insane. Four light aircraft were overturned on the tarmac. It’s a miracle no one was hurt!"
+    "text": "Oh, that’s wild! After his stint at Liverpool and moving to Al-Ittihad, it’s interesting to see him back in the mix with Salah again."
   },
   {
     "speaker": "Adam",
-    "text": "Right? It’s a stark reminder of how powerful nature can be. Speaking of powerful, let’s dive into today’s world news."
+    "text": "Yeah, it’s a pretty big move in the football world. But let’s dive into some of the major headlines around the globe today."
   },
   {
     "speaker": "Eve",
-    "text": "Let’s do it! Starting in Gaza, hospitals are facing dire oxygen shortages, which is putting the lives of premature babies and critically ill patients at serious risk."
+    "text": "Absolutely! Let’s start with the situation in Yemen. The Houthis have reported an attack on a Saudi ship, which has raised concerns, especially since the shipping company confirmed that all crew members are safe."
   },
   {
     "speaker": "Adam",
-    "text": "That’s heartbreaking. The healthcare system over there is nearing collapse. It’s a desperate situation that we really need to keep an eye on."
+    "text": "Right, and that’s just part of the ongoing tension in the region. Meanwhile, in Gaza, Israel has intensified its military actions, targeting a desalination plant and a mosque. That’s a pretty serious escalation."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely. In other news, two people were killed in Mumbai after a giant Ganesha statue collapsed onto a crowd during a procession."
+    "text": "It really is, and it’s not just about the attacks. There are also reports of Israeli restrictions causing fuel shortages in the occupied West Bank, complicating an already dire situation."
   },
   {
     "speaker": "Adam",
-    "text": "That’s tragic! Processions like that are meant to be celebrations, not scenes of devastation."
+    "text": "On top of that, an article argues that the recent Israeli settler attacks fit the definition of pogroms. It’s a powerful claim that adds a lot of weight to the ongoing debates about the conflict."
   },
   {
     "speaker": "Eve",
-    "text": "Exactly. Moving over to Sudan, thousands of families are fleeing conflict in North Kordofan State. Mothers and children are in urgent need of food and safety."
+    "text": "Shifting gears, over in Mexico, President Sheinbaum condemned the brief return of Governor Rocha to office amid US drug charges. She called it reckless, which is a strong stance given the political climate."
   },
   {
     "speaker": "Adam",
-    "text": "It’s a humanitarian crisis unfolding right before our eyes. And in Tunisia, protests erupted after a migrant boat capsized, tragically killing eight people."
+    "text": "It seems like there’s a lot of political drama unfolding globally. Speaking of which, the Washington Post has been ordered to rehire columnist Karen Attiah after her controversial posts about Charlie Kirk's assassination."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a heartbreaking reminder of the dangers faced by those seeking a better life. We also saw severe weather in Nevada, displacing thousands due to wildfires."
+    "text": "Wow, that’s a significant decision. It raises questions about social media policies and editorial freedom in journalism."
   },
   {
     "speaker": "Adam",
-    "text": "These wildfires are rampant, and it’s alarming how often we hear about them now. Over in Guinea, heavy rains caused a landfill collapse, taking at least 30 lives."
+    "text": "Definitely. And in other news, a major development is happening in the US— the Trump administration is seeking to formalize a hefty fee for H-1B visas, proposing over $100,000."
   },
   {
     "speaker": "Eve",
-    "text": "This relentless weather is wreaking havoc. And in political news, Stephen Walt discussed how Trump has reportedly run out of options regarding the Iran war, which could impact the upcoming elections."
+    "text": "That’s a hefty price tag for those seeking work in the US. It’ll be interesting to see how that impacts the tech industry and global talent mobility."
   },
   {
     "speaker": "Adam",
-    "text": "It’s fascinating how domestic policies can ripple out to international conflict. Meanwhile, in Washington D.C., the Freedom 250 Grand Prix saw IndyCars racing past iconic landmarks."
+    "text": "Speaking of tech, let’s move to the markets. The Vanguard S&P 500 ETF, or VOO, is down slightly, about 0.27%. Analysts haven’t given it a recommendation yet, but it’s worth keeping an eye on."
   },
   {
     "speaker": "Eve",
-    "text": "That’s quite the spectacle! It’s interesting to see how events like these can bring excitement to the city while also promoting a sense of community."
+    "text": "Right, and NVIDIA, despite a dip of nearly 2.91%, still holds a “strong buy” rating. The average target price is significantly higher than its current trading price, around $304."
   },
   {
     "speaker": "Adam",
-    "text": "Definitely! So, Moiz, let’s shift gears to the markets and see how things are moving today."
+    "text": "Micron Technology is in a similar boat, down 5.83% but also rated a “strong buy” with a mean target of over $1500. That’s quite a gap!"
   },
   {
     "speaker": "Eve",
-    "text": "Sure thing! Starting with the Vanguard S&P 500 ETF, it closed at $703.71, which is up about 0.39%. No major news, just following the trend."
+    "text": "Alphabet, or GOOGL, saw a slight increase of 0.94%, and it has a strong buy recommendation too. Analysts expect it to reach around $428 on average."
   },
   {
     "speaker": "Adam",
-    "text": "Then there’s NVIDIA Corporation, which slipped down by 0.98% to $214.72. Analysts still have a strong buy rating with a mean target of around $304."
+    "text": "Meta Platforms is also on the rise, up 1.66% with a target mean of $754. It seems like tech stocks are still holding their ground despite some fluctuations."
   },
   {
     "speaker": "Eve",
-    "text": "That’s quite a gap! It’ll be interesting to see how their upcoming earnings report plays into that. Micron Technology is also down 0.77%, closing at $966.78, but it’s rated strong buy with a mean target near $1,515."
+    "text": "ASML and Taiwan Semiconductor are both down slightly, but both still have strong buy recommendations. The semiconductor market is certainly facing some challenges."
   },
   {
     "speaker": "Adam",
-    "text": "Solid potential there! Now, Alphabet Inc. saw a 1.22% rise to $344.82, with a strong buy recommendation and a target of around $428."
+    "text": "Cameco Corporation is down a tiny bit, but analysts still see potential there with a buy recommendation."
   },
   {
     "speaker": "Eve",
-    "text": "Google is definitely holding strong. Meta Platforms also climbed 0.75% to $549.90, and it’s got a strong buy rating with a target of $754."
+    "text": "And Palantir Technologies is also experiencing a dip of 2.25%, but it still holds a buy rating with an average target price of around $192."
   },
   {
     "speaker": "Adam",
-    "text": "The social media giants seem to be weathering the storms well. ASML Holding closed at $1,763.76, up 0.77%, rated strong buy with a target near $2,195."
+    "text": "It’s a mixed bag in the market today, but there’s still a lot of optimism in that tech sector."
   },
   {
     "speaker": "Eve",
-    "text": "And Taiwan Semiconductor slightly increased by 0.71% to $418.95, also holding a strong buy recommendation with a target of about $554."
+    "text": "For sure! Now, moving on to something a bit lighter, we have a new episode out from the podcast \"Twenty Thousand Hertz.\""
   },
   {
     "speaker": "Adam",
-    "text": "Cameco Corporation saw a significant jump of 7.24%, closing at $102.51. Analysts recommend buying it, with a target of $130."
+    "text": "Yes, the episode titled \"Listener Stories 2026 (Silver): Keyboard Clicks & Singing Forests\" features some really cool listener-made pieces."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a nice surge! Lastly, Palantir Technologies rose by 3.44%, closing at $179.94, rated buy with a mean target of $191.68."
+    "text": "The stories explore everything from the craft behind mechanical keyboards to how learning a new language can create a sense of belonging. It's definitely worth a listen!"
   },
   {
     "speaker": "Adam",
-    "text": "Those tech stocks are really getting attention! Now, Moiz, let’s see what’s new in your podcasts today."
+    "text": "Sounds fascinating!"
   },
   {
     "speaker": "Eve",
-    "text": "We’ve got an episode from the “Founders” podcast titled “#430 How to Write Ads That Sell.” It delves into the genius of Claude Hopkins, a legendary copywriter."
+    "text": "Absolutely, and that wraps up our news for today, Moiz."
   },
   {
     "speaker": "Adam",
-    "text": "Sounds like it could be quite insightful! Hopkins’ work shaped advertising so much that it’s still relevant today."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Definitely worth a listen, especially if you’re into marketing or writing."
-  },
-  {
-    "speaker": "Adam",
-    "text": "For sure! And that’s a wrap for today’s news."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Drive safe, Moiz!"
+    "text": "See you next time, Moiz!"
   }
 ]
