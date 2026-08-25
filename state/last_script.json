@@ -1,110 +1,190 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you hear about Fabinho reuniting with Salah at Trabzonspor?"
+    "text": "Good morning, Moiz! You won’t believe this—over 1,300 people were arrested by ICE in Virginia and Maryland. That’s a huge number!"
   },
   {
     "speaker": "Eve",
-    "text": "Oh, that’s wild! After his stint at Liverpool and moving to Al-Ittihad, it’s interesting to see him back in the mix with Salah again."
+    "text": "Wow, that’s wild! It really highlights the ongoing tensions around immigration policies in the U.S."
   },
   {
     "speaker": "Adam",
-    "text": "Yeah, it’s a pretty big move in the football world. But let’s dive into some of the major headlines around the globe today."
+    "text": "Speaking of ongoing issues, experts are warning about the resurgence of measles in Pennsylvania after two unvaccinated people tragically died from the disease."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely! Let’s start with the situation in Yemen. The Houthis have reported an attack on a Saudi ship, which has raised concerns, especially since the shipping company confirmed that all crew members are safe."
+    "text": "Huh, it’s alarming to think that we could see diseases we thought were eradicated make a comeback, all due to declining vaccination rates."
   },
   {
     "speaker": "Adam",
-    "text": "Right, and that’s just part of the ongoing tension in the region. Meanwhile, in Gaza, Israel has intensified its military actions, targeting a desalination plant and a mosque. That’s a pretty serious escalation."
+    "text": "Absolutely. And in the Middle East, Israeli forces are blocking Palestinian American Lou Ridi from accessing his own land in Qusra, while settlers are allowed to roam freely."
   },
   {
     "speaker": "Eve",
-    "text": "It really is, and it’s not just about the attacks. There are also reports of Israeli restrictions causing fuel shortages in the occupied West Bank, complicating an already dire situation."
+    "text": "That’s incredibly frustrating. It seems like the situation in that region just keeps escalating."
   },
   {
     "speaker": "Adam",
-    "text": "On top of that, an article argues that the recent Israeli settler attacks fit the definition of pogroms. It’s a powerful claim that adds a lot of weight to the ongoing debates about the conflict."
+    "text": "Meanwhile, in India, police clashed with protesters in Bihar’s capital, using water cannons and batons. This comes just a month after widespread demonstrations by Gen Z."
   },
   {
     "speaker": "Eve",
-    "text": "Shifting gears, over in Mexico, President Sheinbaum condemned the brief return of Governor Rocha to office amid US drug charges. She called it reckless, which is a strong stance given the political climate."
+    "text": "It’s interesting to see how younger generations are mobilizing for change, yet the pushback from authorities is just as strong."
   },
   {
     "speaker": "Adam",
-    "text": "It seems like there’s a lot of political drama unfolding globally. Speaking of which, the Washington Post has been ordered to rehire columnist Karen Attiah after her controversial posts about Charlie Kirk's assassination."
+    "text": "On the ground in Syria, Kurdish-led forces have dissolved after merging with the Syrian army, while a commander is calling for the preservation of the Kurdish language."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, that’s a significant decision. It raises questions about social media policies and editorial freedom in journalism."
+    "text": "That’s a significant shift, considering their role in fighting against ISIL over the last decade."
   },
   {
     "speaker": "Adam",
-    "text": "Definitely. And in other news, a major development is happening in the US— the Trump administration is seeking to formalize a hefty fee for H-1B visas, proposing over $100,000."
+    "text": "And back in Israel, protesters blocked aid trucks from reaching Gaza, which is a troubling development given the ongoing humanitarian crisis there."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a hefty price tag for those seeking work in the US. It’ll be interesting to see how that impacts the tech industry and global talent mobility."
+    "text": "It’s heartbreaking when aid is so desperately needed, yet it’s being obstructed by local tensions."
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of tech, let’s move to the markets. The Vanguard S&P 500 ETF, or VOO, is down slightly, about 0.27%. Analysts haven’t given it a recommendation yet, but it’s worth keeping an eye on."
+    "text": "This week also saw Israeli forces raid a UN training center in East Jerusalem, which further complicates the peace efforts."
   },
   {
     "speaker": "Eve",
-    "text": "Right, and NVIDIA, despite a dip of nearly 2.91%, still holds a “strong buy” rating. The average target price is significantly higher than its current trading price, around $304."
+    "text": "It seems like every day brings more challenges in that area."
   },
   {
     "speaker": "Adam",
-    "text": "Micron Technology is in a similar boat, down 5.83% but also rated a “strong buy” with a mean target of over $1500. That’s quite a gap!"
+    "text": "In a different context, Syria’s economy is poised for improvement following the removal of U.S. sanctions, which could help them rejoin the global financial system."
   },
   {
     "speaker": "Eve",
-    "text": "Alphabet, or GOOGL, saw a slight increase of 0.94%, and it has a strong buy recommendation too. Analysts expect it to reach around $428 on average."
+    "text": "That’s a significant change that could have a lasting impact on their economy."
   },
   {
     "speaker": "Adam",
-    "text": "Meta Platforms is also on the rise, up 1.66% with a target mean of $754. It seems like tech stocks are still holding their ground despite some fluctuations."
+    "text": "But it’s not all positive news from Syria; they’ve also been officially removed from the U.S. 'terror' list, which brings both relief and skepticism."
   },
   {
     "speaker": "Eve",
-    "text": "ASML and Taiwan Semiconductor are both down slightly, but both still have strong buy recommendations. The semiconductor market is certainly facing some challenges."
+    "text": "Yes, that could potentially open doors for investment and reconstruction, but the road ahead is still complicated."
   },
   {
     "speaker": "Adam",
-    "text": "Cameco Corporation is down a tiny bit, but analysts still see potential there with a buy recommendation."
+    "text": "Meanwhile, in international news, the Kremlin is denying talks with U.S. officials, despite reports that CIA Director Ratcliffe was in Russia."
   },
   {
     "speaker": "Eve",
-    "text": "And Palantir Technologies is also experiencing a dip of 2.25%, but it still holds a buy rating with an average target price of around $192."
+    "text": "It’s always interesting to see how diplomatic relations can shift in such a short time."
   },
   {
     "speaker": "Adam",
-    "text": "It’s a mixed bag in the market today, but there’s still a lot of optimism in that tech sector."
+    "text": "And in Palestine, Fatah and Dahlan's bloc are reportedly holding reconciliation talks ahead of upcoming elections."
   },
   {
     "speaker": "Eve",
-    "text": "For sure! Now, moving on to something a bit lighter, we have a new episode out from the podcast \"Twenty Thousand Hertz.\""
+    "text": "It’ll be crucial to see how those discussions unfold, especially with potential opposition coalitions forming."
   },
   {
     "speaker": "Adam",
-    "text": "Yes, the episode titled \"Listener Stories 2026 (Silver): Keyboard Clicks & Singing Forests\" features some really cool listener-made pieces."
+    "text": "Lastly, Spain is requesting emergency funding from the EU over a surge of around 70,000 migrants into the North African enclave of Ceuta."
   },
   {
     "speaker": "Eve",
-    "text": "The stories explore everything from the craft behind mechanical keyboards to how learning a new language can create a sense of belonging. It's definitely worth a listen!"
+    "text": "That’s a substantial number. The migration crisis continues to be a pressing issue for many European countries."
   },
   {
     "speaker": "Adam",
-    "text": "Sounds fascinating!"
+    "text": "Now, let’s shift gears and talk about the markets. The Vanguard S&P 500 ETF, ticker VOO, closed at $704.02, seeing a slight increase of 0.31%."
   },
   {
     "speaker": "Eve",
-    "text": "Absolutely, and that wraps up our news for today, Moiz."
+    "text": "That’s interesting, especially considering the recent $4.3 billion draw during what was described as a “red week.”"
   },
   {
     "speaker": "Adam",
-    "text": "See you next time, Moiz!"
+    "text": "Right! Moving on to NVIDIA, or NVDA, which had a strong performance, closing at $213.05, up 2.19%. Analysts have a strong buy recommendation with a mean target price of about $304."
+  },
+  {
+    "speaker": "Eve",
+    "text": "That’s impressive growth! Investors are really banking on their upcoming earnings report."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Micron Technology, symbol MU, also saw a rise of 2.48% to close at $932.97, with a strong buy recommendation and a mean target of $1,515."
+  },
+  {
+    "speaker": "Eve",
+    "text": "It looks like there’s a lot of optimism around their performance despite the broader economic concerns."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Alphabet Inc., GOOGL, dipped slightly by 0.32%, closing at $346.96. Analysts still give it a strong buy with a target mean of $428."
+  },
+  {
+    "speaker": "Eve",
+    "text": "That’s quite a drop, but it seems like investors are still confident in their long-term potential."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Meta Platforms, or META, rose 1.97% to close at $570.05, and also enjoys a strong buy recommendation with a mean target of $754."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Their continued investment in AI seems to be paying off!"
+  },
+  {
+    "speaker": "Adam",
+    "text": "ASML Holding, ticker ASML, closed up 0.23% at $1,744.16, with a strong buy recommendation and a mean price target of $2,197."
+  },
+  {
+    "speaker": "Eve",
+    "text": "With the demand for AI technology growing, it makes sense that they’re seeing positive movement."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Taiwan Semiconductor Manufacturing, TSM, jumped 1.78% to close at $417.41, also rated as a strong buy with a target mean of $554."
+  },
+  {
+    "speaker": "Eve",
+    "text": "They’re definitely in a good position as tech demand remains high."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Cameco Corporation, or CCJ, saw a significant increase of 4.59%, closing at $106.96, and they’re also rated as a buy, with a mean target of $130."
+  },
+  {
+    "speaker": "Eve",
+    "text": "Wow, that’s a solid jump! Their focus on uranium is clearly gaining traction."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Lastly, Palantir Technologies, ticker PLTR, dropped 1.8% to $172.73, but still maintains a buy recommendation and a mean target of $191."
+  },
+  {
+    "speaker": "Eve",
+    "text": "There’s a lot of excitement around their new Pentagon program; it’ll be interesting to see how that impacts their stock."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Now, turning to new episodes in your podcasts, there's a fresh episode from \"99% Invisible\" titled \"Spolia.\""
+  },
+  {
+    "speaker": "Eve",
+    "text": "This episode explores the concept of spolia, taking listeners from a Liverpool neighborhood all the way to ancient Rome. It's definitely worth checking out if you're interested in architecture and history."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Such a fascinating topic!"
+  },
+  {
+    "speaker": "Eve",
+    "text": "Well, that’s a wrap for today, Moiz."
+  },
+  {
+    "speaker": "Adam",
+    "text": "Thanks for tuning in!"
   }
 ]
