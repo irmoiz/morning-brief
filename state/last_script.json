@@ -1,206 +1,162 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you catch the news of Kylian Mbappe's hat-trick in Real Madrid's recent match?"
+    "text": "Good morning, Moiz! There’s a lot happening in the world today, but I have to say, the Ebola vaccination drive in Congo really stands out."
   },
   {
     "speaker": "Eve",
-    "text": "Oh wow, that sounds exciting! What was the final score?"
+    "text": "Yeah, it’s quite alarming to see the resurgence of such a deadly outbreak. It’s always a race against time when it comes to vaccinations."
   },
   {
     "speaker": "Adam",
-    "text": "They won 4-1 against Real Sociedad. It seems like he's really on fire this season."
+    "text": "Absolutely. Let’s dive into some world news."
   },
   {
     "speaker": "Eve",
-    "text": "That's incredible! Speaking of incredible, let’s dive into some world news."
+    "text": "The Democratic Republic of Congo is launching a vaccination campaign to combat what is being described as the deadliest Ebola outbreak. It’s a critical moment for public health there."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. Starting with some major developments, Meta has agreed to a whopping $17 billion settlement in a landmark child-safety case. This is a huge move for the social media giant."
+    "text": "Definitely. Moving over to Venezuela, it looks like the U.S. is nearing a deal to secure a stake in Venezuelan oil fields. This could bolster U.S. oil supplies for years, but it might not be smooth sailing due to potential legal challenges."
   },
   {
     "speaker": "Eve",
-    "text": "Right? It’s been a turbulent time for them. This settlement comes as they face increasing scrutiny over their policies around user safety, especially for children."
+    "text": "That’s a fascinating development. The geopolitical implications of this could be significant, especially considering the history between the U.S. and Venezuela."
   },
   {
     "speaker": "Adam",
-    "text": "And in Nepal, survivors of devastating flash floods have been recounting the harrowing moments when their homes were swept away. It’s heartbreaking to hear their stories."
+    "text": "Speaking of history, a group of fired journalists from the military newspaper Stars and Stripes is suing the Trump administration, alleging violations of their First Amendment rights. That’s raising some serious questions about press freedom."
   },
   {
     "speaker": "Eve",
-    "text": "It really is. Natural disasters can have such a devastating impact on communities."
+    "text": "Oh, wow, that’s a bold move. The implications of this lawsuit could be quite far-reaching for journalistic integrity."
   },
   {
     "speaker": "Adam",
-    "text": "Meanwhile, the situation in Israel continues to escalate. The head of UNRWA stated that Israel is trying to eliminate the agency and the Palestinian refugee issue altogether."
+    "text": "In Spain, anti-migrant protests have escalated in Ceuta, where demonstrators have been dismantling and burning migrant shelters. It’s really tragic to see such hostility."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a concerning statement, especially with ongoing tensions in the region."
+    "text": "It’s disheartening, especially considering the ongoing humanitarian crises. There’s just so much tension around migration right now."
   },
   {
     "speaker": "Adam",
-    "text": "On a related note, Palestinians held vigils across the occupied West Bank, demanding the return of 1,700 bodies held by Israel."
+    "text": "Switching gears, a federal U.S. judge is facing complaints over pro-Israel advocacy. This has sparked allegations of anti-Palestinian bias. That’s definitely a contentious issue."
   },
   {
     "speaker": "Eve",
-    "text": "It’s a poignant reminder of the ongoing struggle and the deep emotions tied to these events."
+    "text": "Yeah, it seems like these kinds of controversies are becoming more frequent. It really highlights the complexities of judicial impartiality."
   },
   {
     "speaker": "Adam",
-    "text": "Switching gears, US officials reported that Chinese-linked hackers have been targeting NASA, the Senate, and various government agencies since 2018."
+    "text": "Over in Chad, officials are accusing Sudan of conducting an air strike near their shared border that resulted in the deaths of twelve people. That’s an alarming escalation in tensions."
   },
   {
     "speaker": "Eve",
-    "text": "Huh, that’s wild! It definitely raises questions about cybersecurity and national security."
+    "text": "That’s so tragic. It’s a reminder of how fragile peace can be in those regions."
   },
   {
     "speaker": "Adam",
-    "text": "In Nigeria, with elections approaching in January, President Tinubu has launched a hunt for hundreds of kidnapped mosque worshippers."
+    "text": "A former U.S. diplomat also commented on Israeli Prime Minister Netanyahu, suggesting he sees political value in framing Turkiye as an enemy. That’s an interesting strategy, considering the history between those countries."
   },
   {
     "speaker": "Eve",
-    "text": "Kidnapping has become a serious issue in Nigeria, hasn’t it? It’s good to see some action being taken."
+    "text": "Huh, that’s unexpected. It seems like a way to rally domestic support, but it could complicate international relations."
   },
   {
     "speaker": "Adam",
-    "text": "Yes, definitely. Meanwhile, the Syrian Democratic Forces have announced their dissolution after merging with Syria's army. It’s a significant shift in the region’s dynamics."
+    "text": "Meanwhile, Iran announced it will be naming its terms for reopening the Strait of Hormuz. This comes as mediating countries send delegations to Tehran to revive talks."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a big move. Changes like this can have far-reaching effects on both local and international levels."
+    "text": "It’s crucial for global oil supply. The Strait of Hormuz is such a vital shipping lane."
   },
   {
     "speaker": "Adam",
-    "text": "Following that, Brazil's Flavio Bolsonaro has announced plans to institute a debt ceiling if he’s elected president."
+    "text": "Malaysia is also in the news, planning to return 1,500 Rohingya refugees next month despite safety concerns. That’s a tough situation for everyone involved."
   },
   {
     "speaker": "Eve",
-    "text": "That could lead to some interesting economic policies, especially with automatic spending cuts on the table."
+    "text": "Definitely, and it raises a lot of ethical questions about repatriation and safety for these vulnerable individuals."
   },
   {
     "speaker": "Adam",
-    "text": "In Tunisia, residents held funerals for eight young migrants who tragically lost their lives."
+    "text": "In the West Bank, new Israeli roadblocks are entrenching the siege of homes in Qusra, raising fears among Palestinian residents. That’s another layer of distress in an already volatile area."
   },
   {
     "speaker": "Eve",
-    "text": "It’s heartbreaking to hear about such losses, especially given the circumstances surrounding migration."
+    "text": "It’s heartbreaking to see communities facing such challenges. The situation there is incredibly complex."
   },
   {
     "speaker": "Adam",
-    "text": "And Ukrainian drones have targeted the Russian e-commerce giant Wildberries again, raising tensions further."
+    "text": "Lastly, Ghana is facing a significant health funding shortfall of $78.2 million due to U.S. aid cuts, putting their child immunization gains at risk. That’s a significant blow to public health."
   },
   {
     "speaker": "Eve",
-    "text": "The ongoing conflict certainly continues to escalate."
+    "text": "Wow, that’s troubling. Immunization is so critical for child health, and to lose that progress is devastating."
   },
   {
     "speaker": "Adam",
-    "text": "Lastly, a warning from an envoy about the failure of the Israel-Hamas truce being a “point of no return.” It seems like a pivotal moment in that conflict."
+    "text": "Switching gears to the markets, Moiz. The Vanguard S&P 500 ETF, or VOO, closed at $708.75, seeing a modest increase of 0.65%. There’s been some interesting chatter about ETF shifts, but nothing too drastic."
   },
   {
     "speaker": "Eve",
-    "text": "It really does sound critical. So much happening on the international stage right now."
+    "text": "Right, and NVIDIA, symbol NVDA, had a big day, closing at $227.98 with a notable jump of 8.74%. Analysts are rating it as a strong buy, with a target price of around $305."
   },
   {
     "speaker": "Adam",
-    "text": "Now, let’s shift gears and take a look at the markets."
+    "text": "That’s a significant upside. They’ve posted some strong earnings recently, so it makes sense."
   },
   {
     "speaker": "Eve",
-    "text": "Sure! First up is the Vanguard S&P 500 ETF, or VOO. It closed at $704.20, up just 0.03%."
+    "text": "Micron Technology, on the other hand, closed at $935.39, a slight dip of 0.32%, but still rated as a strong buy with a mean price target of $1,513."
   },
   {
     "speaker": "Adam",
-    "text": "Not much movement there, though some analysts are raising concerns about its yield versus the actual costs for retirees."
+    "text": "It’s interesting how these companies are so intertwined with the semiconductor market."
   },
   {
     "speaker": "Eve",
-    "text": "Interesting. Moving on to NVIDIA, it closed at $209.66, down 1.59%."
+    "text": "Absolutely. Moving on to Alphabet, GOOGL closed down by 0.39% at $340.65, but analysts still consider it a strong buy with a mean target of around $428."
   },
   {
     "speaker": "Adam",
-    "text": "Even with the drop, it’s still rated a “strong buy” with a mean target of about $305.79. Analysts are bullish."
+    "text": "And Meta Platforms, or META, is also rated strong buy despite a 0.87% drop, closing at $571.1, with a target of $754."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely worth keeping an eye on, especially with continued buzz around AI."
+    "text": "It’s remarkable how these tech giants maintain such strong support from analysts despite market fluctuations."
   },
   {
     "speaker": "Adam",
-    "text": "Micron Technology closed at $938.40, up 0.58%, also rated a “strong buy” with a mean target of $1,513.41."
+    "text": "ASML Holding closed at $1,735.01, down 0.61%, but still a strong buy with a target of $2,154."
   },
   {
     "speaker": "Eve",
-    "text": "It looks like analysts are pretty optimistic about Micron’s future."
+    "text": "Taiwan Semiconductor, TSM, had a good day, closing up 2.3% at $427.30, rated as a strong buy with an impressive target of $554."
   },
   {
     "speaker": "Adam",
-    "text": "Alphabet Inc. closed at $342.00, down 1.43%, but it's still rated a “strong buy” with a mean target of around $428.07."
+    "text": "Cameco Corporation, CCJ, dipped 0.96% to $106.33 but is still rated as a buy with a target of $130."
   },
   {
     "speaker": "Eve",
-    "text": "Sounds like a solid investment for the long term."
+    "text": "Palantir Technologies, PLTR, actually saw a rise of 4.75%, closing at $185.93, rated as a buy with a target of $191.68."
   },
   {
     "speaker": "Adam",
-    "text": "Meta, following its settlement news, closed at $576.14, slightly up by 1.07%, also with a “strong buy” rating and a target mean of $754.14."
+    "text": "It’s clear that there’s some movement in the tech and energy sectors, which is always interesting to watch."
   },
   {
     "speaker": "Eve",
-    "text": "It’ll be interesting to see how the settlement impacts their stock moving forward."
+    "text": "Definitely. And that wraps up our market recap."
   },
   {
     "speaker": "Adam",
-    "text": "ASML closed at $1,745.64, up a tiny 0.08%, and holds a “strong buy” recommendation with a target mean of $2,192.07."
+    "text": "Thanks for tuning in, Moiz. Drive safely out there!"
   },
   {
     "speaker": "Eve",
-    "text": "They seem to be doing well despite the challenges in the tech sector."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Taiwan Semiconductor closed at $417.69, up 0.07% as well, rated a “strong buy” with a target mean of $554.45."
-  },
-  {
-    "speaker": "Eve",
-    "text": "They’re also critical players in the semiconductor space."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Next, Cameco Corporation closed at $107.36, up 0.37% and has a “buy” rating with a mean target of $129.86."
-  },
-  {
-    "speaker": "Eve",
-    "text": "A steady performance there."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Lastly, Palantir Technologies closed at $177.50, up 2.76%, and is rated a “buy” with a mean target of $191.68."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Quite a rollercoaster lately for Palantir, especially with recent news about stock sales by their CEO."
-  },
-  {
-    "speaker": "Adam",
-    "text": "That’s true. So, Moiz, keep an eye on these developments."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Yeah, it’s a lot to digest, but definitely worth tracking!"
-  },
-  {
-    "speaker": "Adam",
-    "text": "And that wraps up today’s news."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Have a great day at work, Moiz!"
-  },
-  {
-    "speaker": "Adam",
-    "text": "Drive safe!"
+    "text": "Have a great day!"
   }
 ]
