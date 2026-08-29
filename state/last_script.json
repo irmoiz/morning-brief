@@ -1,159 +1,111 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! There’s a lot happening in the world today, but I have to say, the Ebola vaccination drive in Congo really stands out."
+    "text": "Good morning, Moiz! Did you hear about the flash floods in Nepal? The survivors are really furious with the government's response."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, it’s quite alarming to see the resurgence of such a deadly outbreak. It’s always a race against time when it comes to vaccinations."
+    "text": "Yeah, it’s heartbreaking. They’re accusing officials of delayed aid and not doing enough to help find missing relatives. It sounds like a really desperate situation."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. Let’s dive into some world news."
+    "text": "It really is. And speaking of desperate situations, in Gaza, hospitals have completely run out of cancer medications while the Israeli strikes continue. It's just devastating."
   },
   {
     "speaker": "Eve",
-    "text": "The Democratic Republic of Congo is launching a vaccination campaign to combat what is being described as the deadliest Ebola outbreak. It’s a critical moment for public health there."
+    "text": "It’s hard to imagine the stress and fear those people are living through. Meanwhile, in Norway, King Haakon VIII is paying tribute to his late father, King Harald, as the nation mourns."
   },
   {
     "speaker": "Adam",
-    "text": "Definitely. Moving over to Venezuela, it looks like the U.S. is nearing a deal to secure a stake in Venezuelan oil fields. This could bolster U.S. oil supplies for years, but it might not be smooth sailing due to potential legal challenges."
+    "text": "That’s a poignant moment for Norway, especially as the new king promises to listen to the people. But on a different note, Iceland is having a tight referendum about resuming talks to join the EU."
   },
   {
     "speaker": "Eve",
-    "text": "That’s a fascinating development. The geopolitical implications of this could be significant, especially considering the history between the U.S. and Venezuela."
+    "text": "That’s interesting! The Prime Minister herself was seen voting. It’s a significant decision that could change the course of Iceland’s future."
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of history, a group of fired journalists from the military newspaper Stars and Stripes is suing the Trump administration, alleging violations of their First Amendment rights. That’s raising some serious questions about press freedom."
+    "text": "Definitely a pivotal moment for them. And over in Algeria, wildfires are still raging, with at least twelve confirmed dead and the toll expected to rise."
   },
   {
     "speaker": "Eve",
-    "text": "Oh, wow, that’s a bold move. The implications of this lawsuit could be quite far-reaching for journalistic integrity."
+    "text": "Wow, that’s so tragic. It seems like many countries are dealing with natural disasters and governmental challenges lately."
   },
   {
     "speaker": "Adam",
-    "text": "In Spain, anti-migrant protests have escalated in Ceuta, where demonstrators have been dismantling and burning migrant shelters. It’s really tragic to see such hostility."
+    "text": "And the situation in Tunisia is no better, with people experiencing severe water shortages due to extreme heat and power cuts."
   },
   {
     "speaker": "Eve",
-    "text": "It’s disheartening, especially considering the ongoing humanitarian crises. There’s just so much tension around migration right now."
+    "text": "That’s really alarming! It’s like a ripple effect of crises happening all around the world."
   },
   {
     "speaker": "Adam",
-    "text": "Switching gears, a federal U.S. judge is facing complaints over pro-Israel advocacy. This has sparked allegations of anti-Palestinian bias. That’s definitely a contentious issue."
+    "text": "And let’s not forget the situation in Libya, where international diplomacy is ramping up to resolve the ongoing political impasse. It’s a tough environment there as well."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, it seems like these kinds of controversies are becoming more frequent. It really highlights the complexities of judicial impartiality."
+    "text": "It’s a tangled web of issues. Now, shifting gears a bit, how did the markets fare yesterday?"
   },
   {
     "speaker": "Adam",
-    "text": "Over in Chad, officials are accusing Sudan of conducting an air strike near their shared border that resulted in the deaths of twelve people. That’s an alarming escalation in tensions."
+    "text": "The Vanguard S&P 500 ETF, or VOO, closed at $707.24, down just a bit at 0.21%. There wasn’t any specific news driving it, but it seems to be in line with the broader market trends."
   },
   {
     "speaker": "Eve",
-    "text": "That’s so tragic. It’s a reminder of how fragile peace can be in those regions."
+    "text": "That’s interesting. NVIDIA, on the other hand, had quite a dip at 4.57%, closing at $217.55. Analysts still rate it as a strong buy though, with a mean price target of about $305."
   },
   {
     "speaker": "Adam",
-    "text": "A former U.S. diplomat also commented on Israeli Prime Minister Netanyahu, suggesting he sees political value in framing Turkiye as an enemy. That’s an interesting strategy, considering the history between those countries."
+    "text": "Right, and for Micron Technology, it fell slightly by 0.27% to $932.86, but analysts still believe it's a strong buy with a target mean of $1513. That’s some significant upside."
   },
   {
     "speaker": "Eve",
-    "text": "Huh, that’s unexpected. It seems like a way to rally domestic support, but it could complicate international relations."
+    "text": "It really is! Alphabet, or GOOGL, gained a bit, closing up 1.74% at $346.59 with a mean target of $428. They’re still high on investors’ lists."
   },
   {
     "speaker": "Adam",
-    "text": "Meanwhile, Iran announced it will be naming its terms for reopening the Strait of Hormuz. This comes as mediating countries send delegations to Tehran to revive talks."
+    "text": "Meta Platforms also climbed, closing at $578.02, up 1.21%. They’re rated as a strong buy too, with a mean target of $754."
   },
   {
     "speaker": "Eve",
-    "text": "It’s crucial for global oil supply. The Strait of Hormuz is such a vital shipping lane."
+    "text": "Sounds like the tech sector is holding strong despite some fluctuations. ASML, however, fell by 2.24% to $1696.16, but it still has a strong buy recommendation."
   },
   {
     "speaker": "Adam",
-    "text": "Malaysia is also in the news, planning to return 1,500 Rohingya refugees next month despite safety concerns. That’s a tough situation for everyone involved."
+    "text": "It’s interesting that TSMC also dropped 2.29% to $417.52, but analysts see potential in them with a target mean of $554."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely, and it raises a lot of ethical questions about repatriation and safety for these vulnerable individuals."
+    "text": "And Cameco Corporation faced a bigger dip, down nearly 6% to $100.01. Analysts still recommend buying it, though, suggesting it’s a good long-term investment."
   },
   {
     "speaker": "Adam",
-    "text": "In the West Bank, new Israeli roadblocks are entrenching the siege of homes in Qusra, raising fears among Palestinian residents. That’s another layer of distress in an already volatile area."
+    "text": "Last, we have Palantir, which saw a slight uptick of 0.19% to $186.29, with a buy rating as well."
   },
   {
     "speaker": "Eve",
-    "text": "It’s heartbreaking to see communities facing such challenges. The situation there is incredibly complex."
+    "text": "It’s fascinating how these companies are navigating the market right now."
   },
   {
     "speaker": "Adam",
-    "text": "Lastly, Ghana is facing a significant health funding shortfall of $78.2 million due to U.S. aid cuts, putting their child immunization gains at risk. That’s a significant blow to public health."
+    "text": "Switching gears again, Moiz, if you’re looking for something new to listen to, there are a couple of interesting new podcast episodes out."
   },
   {
     "speaker": "Eve",
-    "text": "Wow, that’s troubling. Immunization is so critical for child health, and to lose that progress is devastating."
+    "text": "The first one is from \"99% Invisible,\" titled \"100 Objects #15: Bundy Clock.\" It explores how this time clock transformed workplace efficiency and our relationship with time itself."
   },
   {
     "speaker": "Adam",
-    "text": "Switching gears to the markets, Moiz. The Vanguard S&P 500 ETF, or VOO, closed at $708.75, seeing a modest increase of 0.65%. There’s been some interesting chatter about ETF shifts, but nothing too drastic."
+    "text": "Sounds intriguing! The second episode comes from \"People I (Mostly) Admire\" featuring Sendhil Mullainathan. He discusses the importance of play and change in our lives—definitely a thought-provoking conversation."
   },
   {
     "speaker": "Eve",
-    "text": "Right, and NVIDIA, symbol NVDA, had a big day, closing at $227.98 with a notable jump of 8.74%. Analysts are rating it as a strong buy, with a target price of around $305."
+    "text": "Those both sound like great listens for the drive!"
   },
   {
     "speaker": "Adam",
-    "text": "That’s a significant upside. They’ve posted some strong earnings recently, so it makes sense."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Micron Technology, on the other hand, closed at $935.39, a slight dip of 0.32%, but still rated as a strong buy with a mean price target of $1,513."
-  },
-  {
-    "speaker": "Adam",
-    "text": "It’s interesting how these companies are so intertwined with the semiconductor market."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Absolutely. Moving on to Alphabet, GOOGL closed down by 0.39% at $340.65, but analysts still consider it a strong buy with a mean target of around $428."
-  },
-  {
-    "speaker": "Adam",
-    "text": "And Meta Platforms, or META, is also rated strong buy despite a 0.87% drop, closing at $571.1, with a target of $754."
-  },
-  {
-    "speaker": "Eve",
-    "text": "It’s remarkable how these tech giants maintain such strong support from analysts despite market fluctuations."
-  },
-  {
-    "speaker": "Adam",
-    "text": "ASML Holding closed at $1,735.01, down 0.61%, but still a strong buy with a target of $2,154."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Taiwan Semiconductor, TSM, had a good day, closing up 2.3% at $427.30, rated as a strong buy with an impressive target of $554."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Cameco Corporation, CCJ, dipped 0.96% to $106.33 but is still rated as a buy with a target of $130."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Palantir Technologies, PLTR, actually saw a rise of 4.75%, closing at $185.93, rated as a buy with a target of $191.68."
-  },
-  {
-    "speaker": "Adam",
-    "text": "It’s clear that there’s some movement in the tech and energy sectors, which is always interesting to watch."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Definitely. And that wraps up our market recap."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Thanks for tuning in, Moiz. Drive safely out there!"
+    "text": "Well, that wraps up today's news. Drive safely, Moiz!"
   },
   {
     "speaker": "Eve",
