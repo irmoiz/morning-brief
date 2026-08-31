@@ -1,166 +1,130 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you hear about that tragic incident in Gaza? A three-year-old child lost their life in an Israeli strike."
+    "text": "Good morning, Moiz! Did you hear about Lionel Messi announcing his retirement? That’s a huge shift in the football world."
   },
   {
     "speaker": "Eve",
-    "text": "Yeah, that’s just heartbreaking. It's really hard to comprehend the toll of these ongoing conflicts."
+    "text": "I know, right? It’s almost hard to imagine football without him. He’s been such a staple in the sport!"
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. And on a different note, Barcelona's coach Hansi Flick is saying that Lamine Yamal is getting back to his ‘top level’ after struggling in the La Liga start."
+    "text": "Speaking of big news, let’s dive into some world headlines. In Colombia, three minors were tragically killed during a crackdown on armed groups. Rights organizations are increasingly raising alarms about these groups recruiting children via social media."
   },
   {
     "speaker": "Eve",
-    "text": "Right, he did manage to improve during the game against Athletic Bilbao. It’s interesting to see young players bounce back like that."
+    "text": "That’s really heartbreaking. It’s alarming to think about how young lives are affected by violence and exploitation like that."
   },
   {
     "speaker": "Adam",
-    "text": "Let's dive into some world news. Starting in the Middle East, the situation remains tense. The Israeli strike that killed the child is just one of many violent incidents reported recently."
+    "text": "Absolutely. And over in Jerusalem, there’s been an escalation as Israeli forces attack Palestinians and an NBC news crew in the West Bank. It’s just another day in a conflict that seems to be spiraling."
   },
   {
     "speaker": "Eve",
-    "text": "Yes, it’s been a difficult time for many in Gaza. Adding to that, José Andrés, the founder of World Central Kitchen, is calling for an independent investigation into the killings of his staff during Israeli airstrikes."
+    "text": "It really makes you wonder when this cycle of violence will stop. On a different note, the US Supreme Court allowed construction on a $400 million ballroom at the White House to proceed, reversing a previous temporary halt."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a significant demand. Andrés is well-known for his humanitarian efforts, and this highlights the need for accountability."
+    "text": "That’s quite a shift in focus from the dire global issues. You’d think they’d prioritize different things, huh?"
   },
   {
     "speaker": "Eve",
-    "text": "Meanwhile, in Syria, there’s some diplomatic movement as they’ve reopened their embassy in Libya after talks between their foreign minister and Libya's Prime Minister."
+    "text": "Right? Meanwhile, Poland is opening a terror probe into a fire at a factory that supplies drones to Ukraine, raising suspicions of Russian sabotage."
   },
   {
     "speaker": "Adam",
-    "text": "That could signal a shift in relations and cooperation in the region, which is good to see."
+    "text": "That’s definitely a significant concern, especially given the ongoing tensions in the region. And speaking of tensions, Putin and Xi reaffirmed their ties during the recent SCO summit."
   },
   {
     "speaker": "Eve",
-    "text": "In other news, devastating floods in the Philippines have caught the world's attention, with videos showing lorries being swept away by the raging waters."
+    "text": "That’s interesting. With the world feeling so unpredictable, those two are clearly looking to strengthen their alliance."
   },
   {
     "speaker": "Adam",
-    "text": "It's quite alarming. Climate change seems to be exacerbating such extreme weather events globally."
+    "text": "Over in the sports world, Arsenal managed to edge past Aston Villa with a 1-0 win, thanks to Saka’s goal. Arsenal now joins a few teams with six points."
   },
   {
     "speaker": "Eve",
-    "text": "For sure. Speaking of global tensions, the US has conducted a strike on Iran's Larak Island, marking their first attack in weeks."
+    "text": "Villa must be feeling the pressure. It’s tough to see a team struggling like that without a point so far."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a significant escalation. The IRGC reported injuries and fatalities among their soldiers, which will likely increase tensions in the region."
+    "text": "Yeah, it’s a long season ahead for them. Moving on, in Nepal, residents are returning to their homes after devastating floods, only to find they’ve been completely ravaged."
   },
   {
     "speaker": "Eve",
-    "text": "Shifting to Europe, there’s been a controversial tribute held in Bosnia for Ratko Mladić, the former commander convicted of war crimes."
+    "text": "That’s just gut-wrenching. It’s hard to imagine the cleanup and rebuilding process that lies ahead for those communities."
   },
   {
     "speaker": "Adam",
-    "text": "It’s wild to think that he’s still hailed as a hero by some. It really illustrates the divisions that remain in that region."
+    "text": "Definitely. And Lebanon is asking Greece to help enforce their agreement with Israel after Greece recently agreed to an Israeli weapons deal."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely a sensitive topic. And in sports, Real Madrid cruised to a 4-0 victory over Malaga, maintaining a perfect start under Mourinho."
+    "text": "That kind of international diplomacy is so complex. It’ll be interesting to see how that unfolds."
   },
   {
     "speaker": "Adam",
-    "text": "Jude Bellingham and Kylian Mbappe were on the scoresheet. They’re really shaping up to be a formidable team this season."
+    "text": "Finally, Ukrainians are mourning community leader Taras Didych, who was killed during a Russian strike. It’s another sad chapter in an ongoing tragedy."
   },
   {
     "speaker": "Eve",
-    "text": "Switching gears to finance, let’s check out how the markets are faring today."
+    "text": "Every loss like that adds to the sense of grief and urgency for peace in the region."
   },
   {
     "speaker": "Adam",
-    "text": "Alright, starting with the Vanguard S&P 500 ETF, which closed at $707.24, down about 0.21%."
+    "text": "Switching gears, let’s talk markets. The Vanguard S&P 500 ETF, or VOO, closed down by about 0.33%. There’s been chatter about ETF investors chasing higher yields amidst a bond sell-off."
   },
   {
     "speaker": "Eve",
-    "text": "No major news on that front, but analysts are keeping a close eye on its long-term performance."
+    "text": "That’s an interesting trend. Shifting focus to NVIDIA, the stock rose by 1.48%. Analysts still rate it as a strong buy with a mean price target of around $323."
   },
   {
     "speaker": "Adam",
-    "text": "Now, NVIDIA Corporation closed at $217.55, down 4.57%. It still has a \"strong buy\" recommendation, with a mean target price of about $323."
+    "text": "Right, and Micron Technology saw a 2.77% increase. They’re also rated as a strong buy, with a mean target around $1,513. That’s quite a gap!"
   },
   {
     "speaker": "Eve",
-    "text": "Sounds like analysts are quite optimistic despite the recent dip."
+    "text": "It is! Alphabet Inc. dropped by 2.09%. Analysts are still bullish, though, rating it as a strong buy with a target mean of $428."
   },
   {
     "speaker": "Adam",
-    "text": "Micron Technology also had a slight drop, closing at $932.86, down 0.27%, but they’re still rated as a \"strong buy.\""
+    "text": "Meanwhile, Meta Platforms also slipped by 0.98%, but is still rated as a strong buy with a target mean of about $755."
   },
   {
     "speaker": "Eve",
-    "text": "Their target mean is $1,513, which indicates a lot of potential for growth."
+    "text": "It seems like a lot of these tech stocks are facing some volatility. ASML is holding steady with a minor decline of just 0.01%, but remains a strong buy with a mean target of $2,148."
   },
   {
     "speaker": "Adam",
-    "text": "Alphabet Inc. saw a rise of 1.74%, closing at $346.59, and it’s also rated as a \"strong buy\" with a target mean of $428."
+    "text": "That’s a solid position for them. Taiwan Semiconductor fell slightly by 0.53%, indicating some market pressures."
   },
   {
     "speaker": "Eve",
-    "text": "That’s encouraging for investors."
+    "text": "And Cameco Corporation dropped 1.25% but still holds a \"buy\" rating with a target mean of about $130."
   },
   {
     "speaker": "Adam",
-    "text": "Meta Platforms increased by 1.21%, closing at $578.02, and it has a target mean of $754."
+    "text": "Palantir is also hanging in there, barely moving with a 0.05% increase, rated as a buy with a target of around $192."
   },
   {
     "speaker": "Eve",
-    "text": "They’ve had a lot of coverage lately about their strategies in the face of rising interest rates."
+    "text": "Now, let’s touch on something new in your podcasts. There’s an episode titled “How Henry Singleton Worked” from “Founders.” It dives into Singleton's approach at Teledyne and how he aggressively repurchased shares."
   },
   {
     "speaker": "Adam",
-    "text": "ASML Holding, however, dropped by 2.24%, closing at $1,696.16, but still holds a \"strong buy\" recommendation."
+    "text": "Sounds intriguing! I’m curious about his perspective on cash flow and capital management. It could be a great listen for anyone interested in business strategies."
   },
   {
     "speaker": "Eve",
-    "text": "Their long-term target mean is quite high, indicating confidence in their technology."
+    "text": "Definitely worth checking out."
   },
   {
     "speaker": "Adam",
-    "text": "Taiwan Semiconductor Manufacturing also saw a decline of 2.29%, closing at $417.52. Analysts are divided on their outlook."
+    "text": "Well, that wraps up our morning news."
   },
   {
     "speaker": "Eve",
-    "text": "It’s interesting to see how the semiconductor market is fluctuating right now."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Cameco Corporation dropped significantly by nearly 6% to $100.01, but it’s still rated as a \"buy.\""
-  },
-  {
-    "speaker": "Eve",
-    "text": "Their future growth potential in the nuclear sector is definitely attracting some attention."
-  },
-  {
-    "speaker": "Adam",
-    "text": "Lastly, Palantir Technologies saw a slight increase of 0.19%, closing at $186.29 with a \"buy\" recommendation."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Given its unique position in the market, Palantir continues to draw interest, especially with upcoming elections."
-  },
-  {
-    "speaker": "Adam",
-    "text": "And that wraps up our market overview."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Before we go, let’s share a couple of interesting new podcast episodes… Oh wait, there are none today!"
-  },
-  {
-    "speaker": "Adam",
-    "text": "Looks like we’re all caught up!"
-  },
-  {
-    "speaker": "Eve",
-    "text": "Well, Moiz, that’s all for today. Drive safe and have a great day at work!"
-  },
-  {
-    "speaker": "Adam",
-    "text": "Take care, Moiz!"
+    "text": "Have a great day at work, Moiz!"
   }
 ]
