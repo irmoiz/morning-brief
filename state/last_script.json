@@ -1,130 +1,126 @@
 [
   {
     "speaker": "Adam",
-    "text": "Good morning, Moiz! Did you hear about Lionel Messi announcing his retirement? That’s a huge shift in the football world."
+    "text": "Good morning, Moiz! Did you catch that the U.S. energy secretary is heading to Venezuela to unveil some mysterious oil arrangement?"
   },
   {
     "speaker": "Eve",
-    "text": "I know, right? It’s almost hard to imagine football without him. He’s been such a staple in the sport!"
+    "text": "Yeah, that’s wild! Venezuela’s National Assembly just backed a 65-billion-barrel deal, but we don’t know the details yet."
   },
   {
     "speaker": "Adam",
-    "text": "Speaking of big news, let’s dive into some world headlines. In Colombia, three minors were tragically killed during a crackdown on armed groups. Rights organizations are increasingly raising alarms about these groups recruiting children via social media."
+    "text": "Right? This could have significant implications for global oil markets. Speaking of which, let’s dive into some world news today."
   },
   {
     "speaker": "Eve",
-    "text": "That’s really heartbreaking. It’s alarming to think about how young lives are affected by violence and exploitation like that."
+    "text": "The International Atomic Energy Agency is sounding alarms over Iran, stating there's an urgent need for access to Iranian sites to verify their nuclear materials."
   },
   {
     "speaker": "Adam",
-    "text": "Absolutely. And over in Jerusalem, there’s been an escalation as Israeli forces attack Palestinians and an NBC news crew in the West Bank. It’s just another day in a conflict that seems to be spiraling."
+    "text": "That’s a serious issue. A lack of information and access is raising proliferation concerns. Meanwhile, in Ukraine, President Zelenskyy has warned airlines about the dangers posed by Ukrainian drones targeting Russian airspace."
   },
   {
     "speaker": "Eve",
-    "text": "It really makes you wonder when this cycle of violence will stop. On a different note, the US Supreme Court allowed construction on a $400 million ballroom at the White House to proceed, reversing a previous temporary halt."
+    "text": "It seems the conflict is escalating with these drone operations. In Colombia, a deadly car bomb attack hit a police station, leaving multiple casualties."
   },
   {
     "speaker": "Adam",
-    "text": "That’s quite a shift in focus from the dire global issues. You’d think they’d prioritize different things, huh?"
+    "text": "And in Gaza, Palestinians are mourning the loss of children killed in Israeli airstrikes. It’s heartbreaking to see civilian casualties in such conflicts."
   },
   {
     "speaker": "Eve",
-    "text": "Right? Meanwhile, Poland is opening a terror probe into a fire at a factory that supplies drones to Ukraine, raising suspicions of Russian sabotage."
+    "text": "Absolutely. Switching gears, police in the Netherlands have arrested 34 individuals following a deadly gang shootout. Sounds like a major crackdown on gang violence."
   },
   {
     "speaker": "Adam",
-    "text": "That’s definitely a significant concern, especially given the ongoing tensions in the region. And speaking of tensions, Putin and Xi reaffirmed their ties during the recent SCO summit."
+    "text": "Indeed. And in a broader context, the UN has slashed food aid for the occupied West Bank and Gaza due to a funding shortfall, which is concerning given the humanitarian situation there."
   },
   {
     "speaker": "Eve",
-    "text": "That’s interesting. With the world feeling so unpredictable, those two are clearly looking to strengthen their alliance."
+    "text": "On international relations, Canada’s Carney has called for the U.S. to take trade disputes more seriously. The ongoing tension isn’t helping either country."
   },
   {
     "speaker": "Adam",
-    "text": "Over in the sports world, Arsenal managed to edge past Aston Villa with a 1-0 win, thanks to Saka’s goal. Arsenal now joins a few teams with six points."
+    "text": "And speaking of tension, the National Electoral Commission in Guinea-Bissau reported that 70 percent of voters supported a referendum to expand presidential powers."
   },
   {
     "speaker": "Eve",
-    "text": "Villa must be feeling the pressure. It’s tough to see a team struggling like that without a point so far."
+    "text": "It’s interesting to see how different regions are handling governance and power dynamics. Before we move on to the markets, did you hear about the explosion in Idlib?"
   },
   {
     "speaker": "Adam",
-    "text": "Yeah, it’s a long season ahead for them. Moving on, in Nepal, residents are returning to their homes after devastating floods, only to find they’ve been completely ravaged."
+    "text": "Yes, at least five people were killed when a munitions vehicle exploded. This kind of violence is just tragic."
   },
   {
     "speaker": "Eve",
-    "text": "That’s just gut-wrenching. It’s hard to imagine the cleanup and rebuilding process that lies ahead for those communities."
+    "text": "Now, let’s take a look at the markets."
   },
   {
     "speaker": "Adam",
-    "text": "Definitely. And Lebanon is asking Greece to help enforce their agreement with Israel after Greece recently agreed to an Israeli weapons deal."
+    "text": "Starting with the Vanguard S&P 500 ETF, or VOO, it closed down 0.65% at $700.28."
   },
   {
     "speaker": "Eve",
-    "text": "That kind of international diplomacy is so complex. It’ll be interesting to see how that unfolds."
+    "text": "There hasn't been any major news affecting it directly, though."
   },
   {
     "speaker": "Adam",
-    "text": "Finally, Ukrainians are mourning community leader Taras Didych, who was killed during a Russian strike. It’s another sad chapter in an ongoing tragedy."
+    "text": "NVIDIA, or NVDA, dropped by 1.51% to close at $217.44. Analysts still rate it a strong buy with a mean price target of about $323.42."
   },
   {
     "speaker": "Eve",
-    "text": "Every loss like that adds to the sense of grief and urgency for peace in the region."
+    "text": "That’s a substantial upside potential. Micron Technology, or MU, also fell, down 2.64% to $933.44. Analysts are bullish here too, with a strong buy rating and a target mean of $1,513.41."
   },
   {
     "speaker": "Adam",
-    "text": "Switching gears, let’s talk markets. The Vanguard S&P 500 ETF, or VOO, closed down by about 0.33%. There’s been chatter about ETF investors chasing higher yields amidst a bond sell-off."
+    "text": "And what about Alphabet, GOOGL? It decreased by 1.28% to $335.02, maintaining a strong buy recommendation with a target mean of $428.07."
   },
   {
     "speaker": "Eve",
-    "text": "That’s an interesting trend. Shifting focus to NVIDIA, the stock rose by 1.48%. Analysts still rate it as a strong buy with a mean price target of around $323."
+    "text": "Meta Platforms, or META, rose slightly by 1.08% to $578.54, also rated as a strong buy with a target mean of $754.77."
   },
   {
     "speaker": "Adam",
-    "text": "Right, and Micron Technology saw a 2.77% increase. They’re also rated as a strong buy, with a mean target around $1,513. That’s quite a gap!"
+    "text": "ASML Holdings dropped by 1.82% to $1,665.14, but it still has a strong buy recommendation with a mean target of $2,144.88."
   },
   {
     "speaker": "Eve",
-    "text": "It is! Alphabet Inc. dropped by 2.09%. Analysts are still bullish, though, rating it as a strong buy with a target mean of $428."
+    "text": "Taiwan Semiconductor, or TSM, also slipped by 0.32% to $414."
   },
   {
     "speaker": "Adam",
-    "text": "Meanwhile, Meta Platforms also slipped by 0.98%, but is still rated as a strong buy with a target mean of about $755."
+    "text": "TSM has a mean target of $554.45, so there’s room for growth if you’re looking at long-term investments."
   },
   {
     "speaker": "Eve",
-    "text": "It seems like a lot of these tech stocks are facing some volatility. ASML is holding steady with a minor decline of just 0.01%, but remains a strong buy with a mean target of $2,148."
+    "text": "Cameco Corporation, CCJ, fell 2.53% to $96.26, but it’s still rated a buy with a target mean of $129.67."
   },
   {
     "speaker": "Adam",
-    "text": "That’s a solid position for them. Taiwan Semiconductor fell slightly by 0.53%, indicating some market pressures."
+    "text": "And finally, Palantir Technologies, or PLTR, took a hit of 3.47%, closing at $179.92. It’s rated a buy with a mean target of $191.68."
   },
   {
     "speaker": "Eve",
-    "text": "And Cameco Corporation dropped 1.25% but still holds a \"buy\" rating with a target mean of about $130."
+    "text": "Quite a mix today in the markets!"
   },
   {
     "speaker": "Adam",
-    "text": "Palantir is also hanging in there, barely moving with a 0.05% increase, rated as a buy with a target of around $192."
+    "text": "Now, let’s see what’s new in your podcasts."
   },
   {
     "speaker": "Eve",
-    "text": "Now, let’s touch on something new in your podcasts. There’s an episode titled “How Henry Singleton Worked” from “Founders.” It dives into Singleton's approach at Teledyne and how he aggressively repurchased shares."
+    "text": "There’s a new episode of \"99% Invisible\" titled \"1-800-PODCAST.\" It explores the strange power of the 1-800 number through two different stories."
   },
   {
     "speaker": "Adam",
-    "text": "Sounds intriguing! I’m curious about his perspective on cash flow and capital management. It could be a great listen for anyone interested in business strategies."
+    "text": "Sounds intriguing! Definitely worth a listen if you’re curious about those little quirks of modern life."
   },
   {
     "speaker": "Eve",
-    "text": "Definitely worth checking out."
+    "text": "That wraps up our news today, Moiz."
   },
   {
     "speaker": "Adam",
-    "text": "Well, that wraps up our morning news."
-  },
-  {
-    "speaker": "Eve",
-    "text": "Have a great day at work, Moiz!"
+    "text": "Safe travels to work, and have a great day!"
   }
 ]
